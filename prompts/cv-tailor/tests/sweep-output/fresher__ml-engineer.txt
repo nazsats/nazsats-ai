@@ -2,71 +2,76 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 10/100
+MATCH: 18/100
 
-**Hard requirements met**  
-- Python (basic): "basic Python"  
-- MySQL: "MySQL" (though not directly relevant to ML, but present)  
+**Requirements I meet**  
+- Python (basic):  
+  - "SKILLS: C++, Java, basic Python, DSA, MySQL, Git"  
+- Relational databases:  
+  - "SKILLS: MySQL"  
+- Experience with software projects:  
+  - "College project - Library management system in Java and MySQL"  
+- Demonstrated teamwork/competition:  
+  - "Hackathon - Bus-tracking Android prototype, 2nd of 40 teams"  
 
-**Hard requirements missing**  
-- 4+ years deploying ML in production: No evidence. CV says "Final-year student seeking a first role."
-- PyTorch or TensorFlow: Not mentioned anywhere.
-- Feature engineering: No mention.
-- MLOps (versioning, monitoring, retraining): No mention.
-- Strong statistics: No mention.
-- NumPy, pandas, scikit-learn: Not mentioned.
-- Deploying ML in production: No mention.
-
-**Nice-to-haves met**  
-- None.
-
-**Nice-to-haves missing**  
-- LLM fine-tuning: Not mentioned.
-- Distributed training: Not mentioned.
+**Requirements I do not meet**  
+- 4+ years deploying ML in production (no evidence of any ML deployment or years of experience)  
+- PyTorch or TensorFlow (not mentioned)  
+- Feature engineering (not mentioned)  
+- MLOps: versioning, monitoring, retraining (not mentioned; only Git for version control, but not in ML context)  
+- Strong statistics (not mentioned)  
+- NumPy, pandas, scikit-learn (not mentioned)  
+- LLM fine-tuning (not mentioned)  
+- Distributed training (not mentioned)  
 
 **Worth applying?**  
-Probably not — you do not meet any of the core requirements, and this is not an entry-level or adjacent role.
+Probably not — you do not meet any of the core requirements for ML engineering or the experience level; this role is far above entry-level and outside your current skill set.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Karan Patel | karan@email.com | Ahmedabad
 
 SUMMARY  
-Final-year B.Tech Information Technology student with hands-on experience in Java, C++, and MySQL, seeking an entry-level opportunity to apply programming and data skills. Demonstrated ability to deliver software projects and collaborate in team settings.
+[changed] Final-year Information Technology student with experience in Java, C++, basic Python, data structures and algorithms, and relational databases (MySQL). Seeking an entry-level opportunity to apply software development skills and learn more about machine learning engineering.  
+(was: "Final-year student seeking a first role.")
 
 SKILLS  
-- Programming: Java, C++, basic Python  
-- Data Structures & Algorithms (DSA)  
-- Relational Databases: MySQL  
-- Version Control: Git
+[changed] Programming: C++, Java, basic Python  
+[changed] Data Structures and Algorithms  
+[changed] Relational Databases: MySQL  
+[changed] Version Control: Git  
+(was: "C++, Java, basic Python, DSA, MySQL, Git")
 
-EXPERIENCE
-
-College Project — Library Management System  
-- Developed a library management system using Java and MySQL, implementing core database operations and user interfaces.
-
-Hackathon — Bus-Tracking Android Prototype  
-- Collaborated in a team to design and prototype a real-time bus-tracking Android application; achieved 2nd place out of 40 teams.
+EXPERIENCE  
+[changed]  
+- College project: Developed a Library Management System using Java and MySQL, applying object-oriented programming and database design principles.  
+- Hackathon: Built a bus-tracking Android prototype; achieved 2nd place out of 40 teams, demonstrating teamwork and rapid prototyping skills.  
+(was:  
+College project - Library management system in Java and MySQL  
+Hackathon - Bus-tracking Android prototype, 2nd of 40 teams)
 
 EDUCATION  
-B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+[same] B.Tech Information Technology, GTU, expected 2026. CGPA 8.1
 
-**WHAT I CHANGED**  
-- Reordered and expanded the skills section to highlight programming and data experience, as relevant as possible to ML roles.
-- Reworded project and hackathon experience to use more formal, job-application language.
-- Placed the most technical/relevant experience first.
-- Clarified the summary to focus on programming and data skills, as the job is technical.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add**  
 - 4+ years deploying ML in production  
 - PyTorch or TensorFlow  
 - Feature engineering  
-- MLOps (versioning, monitoring, retraining)  
+- MLOps (versioning, monitoring, retraining in ML context)  
 - Strong statistics  
 - NumPy, pandas, scikit-learn  
 - LLM fine-tuning  
-- Distributed training
+- Distributed training  
 
-These requirements are not supported anywhere in your CV.
+**ATS suggestions — advice only, do not apply these**  
+- Your section headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.  
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can parse it.  
+- Dates are only in "expected 2026" format; if you add more experience, use consistent date formats (e.g., "June 2023 – Present").  
+- If your contact details are in a header or image, move them to plain text at the top for ATS readability.  
+- If your CV uses multiple columns, switch to a single column for better parsing.  
+
+Let me know if you want advice on how to pivot toward ML roles or build relevant experience!

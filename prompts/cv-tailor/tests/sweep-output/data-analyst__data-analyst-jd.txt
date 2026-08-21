@@ -2,62 +2,79 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 92/100
+MATCH: 90/100
 
-**Hard requirements met**  
-- **2+ years analytics** — "Data analyst, 3 years, retail analytics."  
-- **Strong SQL** — "Wrote SQL for weekly sales reporting across 120 stores"  
-- **Dashboarding in Power BI or Tableau** — "Built Power BI dashboards used by 30 store managers"  
-- **Excel** — "SKILLS: SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards"  
-- **Communicating findings to non-technical stakeholders** — "Built Power BI dashboards used by 30 store managers" (implies communication to store managers, who are likely non-technical; however, this could be more explicit)
+**Requirements I meet:**  
+- 2+ years analytics  
+  - "Data analyst, 3 years, retail analytics."  
+- Strong SQL  
+  - "Wrote SQL for weekly sales reporting across 120 stores"  
+- Dashboarding in Power BI or Tableau  
+  - "Built Power BI dashboards used by 30 store managers"  
+- Excel  
+  - "SKILLS: SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards"  
+- Communicating findings to non-technical stakeholders  
+  - "Built Power BI dashboards used by 30 store managers" (implies communication to non-technical users; also, A/B test results shared with business)  
 
-**Hard requirements missing**  
-- None. All must-haves are evidenced, though explicit mention of "communicating findings" could be stronger.
+**Nice to have:**  
+- Python  
+  - "Python (pandas)"  
+- A/B testing  
+  - "Ran A/B tests on pricing; one raised margin 4 percent"  
 
-**Nice-to-haves met**  
-- **Python** — "Python (pandas)"  
-- **A/B testing** — "Ran A/B tests on pricing; one raised margin 4 percent"
+**Requirements I do not meet:**  
+- No explicit mention of Tableau (only Power BI listed)  
+- No explicit bullet about "communicating findings" (though implied, not directly stated as a separate activity)  
+- No explicit mention of presenting or reporting to non-technical stakeholders (could be stronger if stated directly)  
 
 **Worth applying?**  
-Yes — you meet all hard requirements and both nice-to-haves, though you could strengthen how you describe communication with non-technical stakeholders.
+Yes — you meet all hard requirements and both nice-to-haves, but consider adding a bullet about communicating findings to non-technical stakeholders for a stronger match.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
+```
 Nisha Verma | nisha@email.com | Gurgaon
 
-SUMMARY  
-Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Power BI dashboarding, and communicating actionable insights to business stakeholders. Proven track record in sales reporting, A/B testing, and data-driven decision support.
+SUMMARY
+[changed] Data analyst with 3 years' experience in retail analytics, specializing in SQL, Power BI dashboarding, and Excel for business reporting.
+(was: "Data analyst, 3 years, retail analytics.")
 
-SKILLS  
-- SQL (sales reporting, data extraction, analysis)  
-- Power BI (dashboard creation, data visualization)  
-- Excel (data manipulation, reporting)  
-- Communicating findings to non-technical stakeholders  
-- Python (pandas)  
-- A/B testing  
-- Dashboards
+SKILLS
+[same] SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards
 
 EXPERIENCE
 
-Data Analyst, RetailIQ — 2023 to present  
-- Built and maintained Power BI dashboards used by 30 store managers to track sales and performance metrics, enabling informed business decisions.  
-- Wrote and optimized SQL queries for weekly sales reporting across 120 stores, ensuring accurate and timely data delivery.  
-- Communicated analytical findings and actionable insights to store managers and business teams, supporting non-technical stakeholders in understanding data trends.  
-- Conducted A/B tests on pricing strategies; one initiative increased profit margin by 4 percent.  
+Data Analyst, RetailIQ - 2023 to present
+  [changed] Built interactive Power BI dashboards for 30 store managers, enabling data-driven decisions by non-technical users
+    (was: "Built Power BI dashboards used by 30 store managers")
+  [changed] Wrote SQL queries for weekly sales reporting across 120 retail locations
+    (was: "Wrote SQL for weekly sales reporting across 120 stores")
+  [changed] Conducted A/B tests on pricing strategies; one test increased profit margin by 4%
+    (was: "Ran A/B tests on pricing; one raised margin 4 percent")
 
-EDUCATION  
-B.Sc Statistics, Delhi University, 2022
+EDUCATION
+[same] B.Sc Statistics, Delhi University, 2022
+```
 
-**WHAT I CHANGED**  
-- Rewrote the summary to highlight experience, tools, and communication with stakeholders, using the job’s vocabulary.  
-- Reordered and expanded skills to match the job’s priorities, putting SQL, Power BI, and communication first.  
-- Reworded experience bullets to emphasize dashboarding, SQL, and especially communicating findings to non-technical stakeholders.  
-- Expanded the A/B testing bullet to clarify business impact.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Tableau (not in your CV)
-- Any explicit years/duration calculation beyond what your CV states
+**What I deliberately did not add:**  
+- Tableau (not mentioned in your CV)
+- Explicit bullet about "communicating findings to non-technical stakeholders" (implied, but not directly stated as a separate activity)
+- Any mention of presenting or reporting results to business leadership or stakeholders (not directly claimed in your CV)
 
-All job requirements are covered by your CV; nothing was omitted except Tableau, which is not present.
+**ATS suggestions — advice only, do not apply these:**  
+- If your CV uses a single column, you are fine. If it is multi-column, switch to single column for better ATS parsing.
+- Ensure all section headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — which you already do.
+- Dates are in a consistent format — you are fine.
+- Make sure your file is saved as a PDF with selectable text, not a scan, for ATS readability.
+- Do not put any contact details inside a photo or header/footer — your sample puts them at the top, which is good.
+
+**Extra tip:**  
+Consider adding a bullet that explicitly states your experience communicating findings to non-technical stakeholders, as this is a core requirement and currently only implied. For example:  
+  - "Presented analytical insights and dashboard findings to store managers and business teams."  
+But only add this if you have actually done it.

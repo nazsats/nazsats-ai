@@ -4,77 +4,82 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 32/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - 4+ years deploying ML in production  
-  - **Not evidenced.** No mention of ML deployment or production ML in your CV.
+  - No evidence in CV.  
 - PyTorch or TensorFlow  
-  - **Not evidenced.** No mention of either framework.
+  - No evidence in CV.  
 - Feature engineering  
-  - **Not evidenced.** No mention of feature engineering.
-- MLOps (versioning, monitoring, retraining)  
-  - **Partial/Adjacent:** "Own a 60-node Kubernetes cluster serving 12M requests a day" and "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes" show strong production engineering and ops, but not specifically MLOps or ML model lifecycle.
+  - No evidence in CV.  
+- MLOps - versioning, monitoring, retraining  
+  - No evidence in CV.  
 - Strong statistics  
-  - **Not evidenced.** No mention of statistics or statistical methods.
+  - No evidence in CV.  
 - NumPy, pandas, scikit-learn  
-  - **Not evidenced.** No mention of these libraries.
+  - No evidence in CV.  
+- Distributed systems  
+  - "Backend engineer, 9 years, distributed systems."  
+- Experience with Kubernetes, AWS, Kafka  
+  - "Kubernetes, AWS, Kafka" in Skills; "Own a 60-node Kubernetes cluster..."  
+- Experience with Go, Python  
+  - "Go, Python" in Skills.  
 
-**Hard requirements missing**  
-- 4+ years deploying ML in production — nothing in your CV supports ML deployment experience.
-- PyTorch or TensorFlow — not mentioned.
-- Feature engineering — not mentioned.
-- Strong statistics — not mentioned.
-- NumPy, pandas, scikit-learn — not mentioned.
-
-**Nice-to-haves met**  
-- LLM fine-tuning — not mentioned.
-- Distributed training — not mentioned, though "distributed systems" is in your summary and experience, but not in an ML context.
+**Requirements I do not meet:**  
+- No evidence of any machine learning deployment, ML frameworks (PyTorch/TensorFlow), feature engineering, or MLOps practices (versioning, monitoring, retraining).  
+- No mention of statistics, NumPy, pandas, or scikit-learn.  
+- No mention of LLM fine-tuning or distributed training for ML.  
+- No evidence of ML-specific work in any experience or education section.  
 
 **Worth applying?**  
-Probably not — you have excellent distributed systems and backend experience, but your CV does not evidence any ML, MLOps, or data science skills required for this role.
+Probably not — your CV shows strong distributed systems/backend experience but no ML, MLOps, or statistics background, which are all core requirements for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Vikram Iyer | vikram@email.com | Bengaluru
 
 SUMMARY  
-Experienced backend engineer with 9 years building and operating distributed systems at scale. Proven track record leading teams, optimizing system performance, and managing large-scale infrastructure.
+[changed] Backend engineer, 9 years, distributed systems and large-scale infrastructure.  
+(was: Backend engineer, 9 years, distributed systems.)
 
 SKILLS  
-- Distributed systems (Go, Python)
-- Kubernetes (60-node production cluster)
-- AWS, Terraform
-- PostgreSQL (performance optimization)
-- Kafka (high-throughput pipelines)
-- gRPC
+[changed] Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC, distributed systems, cloud infrastructure  
+(was: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC)
 
-EXPERIENCE
+EXPERIENCE  
 
-Staff Engineer, ScaleWorks — 2021 to present  
-- Owned and operated a 60-node Kubernetes cluster serving 12M requests daily, ensuring high availability and reliability.  
-- Led a team of 5 engineers, overseeing hiring and technical design reviews.  
-- Improved system performance by reducing p99 latency from 340ms to 90ms through PostgreSQL index optimization.
+Staff Engineer, ScaleWorks - 2021 to present  
+  [moved]   Own a 60-node Kubernetes cluster serving 12M requests a day  
+  [same]    Led a team of 5; ran hiring and design reviews  
+  [same]    Cut p99 latency from 340ms to 90ms by reworking Postgres indexes  
 
-Senior Engineer, DataCore — 2017 to 2021  
-- Built and maintained Kafka pipelines processing 2TB of data daily, supporting large-scale data ingestion and processing.
+Senior Engineer, DataCore - 2017 to 2021  
+  [same]    Built Kafka pipelines processing 2TB daily  
 
 EDUCATION  
-M.Tech Computer Science & Engineering, IIT Madras, 2017
+[same] M.Tech CSE, IIT Madras, 2017
 
-**WHAT I CHANGED**  
-- Reordered and emphasized distributed systems, Kubernetes, and large-scale data pipeline experience to align with the infrastructure/ops aspects of MLOps.
-- Used the job’s vocabulary where possible (e.g., "operated a 60-node Kubernetes cluster", "high-throughput pipelines").
-- Compressed unrelated details and focused on technical leadership and system optimization.
-- Highlighted experience with production systems and team leadership, as these are relevant to robust ML engineering environments.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 4+ years deploying ML in production  
+**What I deliberately did not add:**  
+- Deploying ML in production  
 - PyTorch or TensorFlow  
 - Feature engineering  
+- MLOps (versioning, monitoring, retraining)  
 - Strong statistics  
 - NumPy, pandas, scikit-learn  
 - LLM fine-tuning  
-- Distributed training (in an ML context)
+- Distributed training (for ML)
 
-If you gain ML experience or relevant projects, update your CV to reflect those directly.
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear — no change needed.  
+- Dates are consistent — no change needed.  
+- Your CV is already in plain text — ATS-friendly.  
+- If your CV uses a single column, that's best; if not, consider switching to a single column for better parsing.  
+- Ensure all text (especially contact info) is selectable and not inside an image or header/footer.  
+- If you use a photo, keep contact details outside it.  
+- Save as PDF with selectable text, not a scan, for best ATS compatibility.  
+
+**Summary:**  
+Your CV is well-structured for backend/distributed systems roles, but does not show any ML experience. For ML jobs, you would need to add clear evidence of ML projects, tools, and outcomes.

@@ -4,64 +4,51 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None.  
-  - There is no evidence of Python, Django/Flask, SQL, REST APIs, Git, or automated tests in your CV.
+**Requirements I meet:**  
+- None. Your CV does not mention Python, web development, Django, Flask, SQL, REST APIs, Git, automated tests, cloud, or Docker.
 
-**Hard requirements missing**  
-- 2+ years Python web development — No mention of Python anywhere in your CV.
-- Django or Flask — Not mentioned.
-- Strong SQL and relational design — Not mentioned; only "basic HTML/CSS" is listed.
-- REST APIs — Not mentioned.
-- Git — Not mentioned.
-- Automated tests — Not mentioned.
+**Requirements I do not meet:**  
+- 2+ years Python web development — No mention of Python or web development.
+- Django or Flask — No mention of either framework.
+- Strong SQL and relational design — No mention of SQL or relational databases.
+- REST APIs — No mention of API development or usage.
+- Git — No mention of version control or Git.
+- Automated tests — No mention of testing or test automation.
+- Cloud platforms — Not mentioned.
+- Docker — Not mentioned.
 
-**Nice-to-haves met**  
-- None.  
-  - No mention of cloud platforms or Docker.
-
-**Worth applying?** — Probably not. You have no evidence of backend development, Python, or any of the required technologies; your experience is entirely in design.
-
-Scoring guide:  
-- You are in a different field and level than this job requires.
+**Worth applying?**  
+Probably not. Your CV is entirely design-focused with no evidence of backend development, Python, or related technologies.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Anjali Desai | anjali@email.com | Remote
 
 SUMMARY  
-Creative freelance designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in visual design, branding, and basic web page creation.
+Freelance designer, 4 years, small businesses.
 
 SKILLS  
-- Brand identity  
-- Figma  
-- Illustrator  
-- Photoshop  
-- Canva  
-- Basic HTML/CSS
+Figma, Illustrator, Photoshop, brand identity, basic HTML/CSS, Canva
 
-EXPERIENCE
+EXPERIENCE  
 
-Freelance Designer | 2022 – present  
-- Developed brand identities for 14 small businesses, delivering cohesive visual systems.  
-- Designed and executed a social media campaign that increased engagement by 40%.  
-- Built two landing pages using HTML and CSS to support client marketing efforts.
+Freelance Designer - 2022 to present  
+  [same]    Brand identities for 14 small businesses  
+  [same]    Social campaign raised engagement 40%  
+  [changed] Built two landing pages using basic HTML and CSS  
+            (was: "Built two landing pages in HTML and CSS")
 
-Junior Designer, PixelCraft Studio | 2021 – 2022  
-- Supported senior designers in creating digital and print assets for client projects.
+Junior Designer, PixelCraft Studio - 2021 to 2022  
+  [same]    (no changes, as no relevant experience to backend development)
 
 EDUCATION  
 BA Applied Arts, Gujarat University, 2021
 
-**WHAT I CHANGED**  
-- Reworded and reordered bullets to emphasize digital and web-related work, as much as possible within your actual experience.
-- Placed basic HTML/CSS more prominently in skills and experience.
-- Used language such as “delivering” and “executed” to align with technical job descriptions, while staying within your actual design work.
-- Compressed unrelated details to keep focus on digital/web aspects.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - Python web development  
 - Django or Flask  
 - SQL or relational database design  
@@ -69,6 +56,17 @@ BA Applied Arts, Gujarat University, 2021
 - Git  
 - Automated tests  
 - Cloud platforms  
-- Docker
+- Docker  
 
-These are not present in your CV and therefore not included.
+Your CV does not mention any of these, so none could be added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear.
+- Dates are consistent.
+- If your CV uses any non-standard fonts, consider a common one for ATS.
+- If your CV is multi-column, consider switching to a single column for better parsing.
+- Ensure all text (especially contact info) is selectable and not inside images or graphics.
+- Save as a PDF with selectable text, not a scan.
+
+**Summary:**  
+Your CV is not a match for this backend developer role. If you are interested in backend development, consider gaining experience with Python, web frameworks, and related technologies, and update your CV accordingly.

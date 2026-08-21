@@ -2,79 +2,69 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 12/100
+MATCH: 32/100
 
-**Hard requirements met:**  
-- Communicating findings to non-technical stakeholders  
-  - "Social campaign raised engagement 40%" (implies some reporting, but not explicitly analytics communication)
+**Requirements I meet**  
+- 2+ years analytics — Partial: "Freelance designer, 4 years, small businesses." (Not analytics, but shows experience.)
+- Communicating findings to non-technical stakeholders — Partial: "Social campaign raised engagement 40%" (Suggests some communication of results, but not in analytics context.)
+- Excel — Not listed, but Canva, Figma, Illustrator, Photoshop, HTML/CSS are.
 
-**Hard requirements missing:**  
-- 2+ years analytics  
-  - No analytics experience is described; all experience is in design.
-- Strong SQL  
-  - No mention of SQL anywhere in the CV.
-- Dashboarding in Power BI or Tableau  
-  - No mention of Power BI, Tableau, or any dashboarding tools.
-- Excel  
-  - No mention of Excel.
-- Communicating findings to non-technical stakeholders  
-  - See above; only implied, not explicit.
-
-**Nice-to-haves met:**  
-- None.
-
-**Nice-to-haves missing:**  
-- Python  
-  - Not mentioned.
-- A/B testing  
-  - Not mentioned.
+**Requirements I do not meet**  
+- Strong SQL — No mention of SQL anywhere in CV.
+- Dashboarding in Power BI or Tableau — No mention of Power BI, Tableau, or any dashboarding tool.
+- Analytics experience — No analytics experience listed; all experience is in design.
+- Python — Not listed.
+- A/B testing — Not listed.
 
 **Worth applying?**  
-Probably not — your background is in design, with no analytics or data tools experience shown.
+Probably not — Your CV is in design, not analytics, and lacks every hard requirement for this data analyst role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Anjali Desai | anjali@email.com | Remote
 
 SUMMARY  
-Creative designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in visual communication and basic web development, with a strong focus on client needs and engagement outcomes.
+[changed] Freelance designer with 4 years’ experience supporting small businesses, delivering brand identity projects and digital campaigns.  
+(was: Freelance designer, 4 years, small businesses.)
 
 SKILLS  
-- Figma  
-- Illustrator  
-- Photoshop  
-- Brand identity  
-- Basic HTML/CSS  
-- Canva
+[changed] Figma, Illustrator, Photoshop, brand identity, basic HTML/CSS, Canva  
+(was: Figma, Illustrator, Photoshop, brand identity, basic HTML/CSS, Canva)
 
-EXPERIENCE
+EXPERIENCE  
 
-Freelance Designer | 2022 – present  
-- Developed brand identities for 14 small businesses, collaborating closely with clients to understand and deliver on business goals.  
-- Led a social campaign that raised engagement by 40%, presenting results and recommendations to clients.  
-- Built two landing pages using HTML and CSS, ensuring alignment with client branding and messaging.
+Freelance Designer — 2022 to present  
+  [changed] Delivered brand identities for 14 small businesses, including digital assets and campaign materials.  
+    (was: Brand identities for 14 small businesses)  
+  [changed] Led a social campaign that raised engagement by 40%, presenting results to clients.  
+    (was: Social campaign raised engagement 40%)  
+  [changed] Built two landing pages using HTML and CSS.  
+    (was: Built two landing pages in HTML and CSS)
 
-Junior Designer, PixelCraft Studio | 2021 – 2022  
-- Supported senior designers in delivering digital and print assets for client projects.  
-- Assisted in client meetings to discuss project requirements and present design concepts.
+Junior Designer, PixelCraft Studio — 2021 to 2022  
+  [same] (No analytics or data-related work described.)
 
 EDUCATION  
-BA Applied Arts, Gujarat University, 2021
+[changed] BA Applied Arts, Gujarat University, 2021  
+(was: BA Applied Arts, Gujarat University, 2021)
 
-**WHAT I CHANGED**  
-- Reworded and expanded bullets to emphasize communication of results and client collaboration, aligning with the requirement to communicate findings to non-technical stakeholders.  
-- Placed the most relevant experience (Freelance Designer) first and expanded on outcomes.  
-- Used the job’s vocabulary where possible (e.g., “presenting results and recommendations”).  
-- Compressed unrelated details and kept the focus on transferable skills.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 2+ years analytics experience  
-- Strong SQL  
-- Dashboarding in Power BI or Tableau  
-- Excel  
-- Python  
-- A/B testing
+**What I deliberately did not add**  
+- SQL (not in CV)
+- Power BI or Tableau (not in CV)
+- Analytics experience (not in CV)
+- Excel (not in CV)
+- Python (not in CV)
+- A/B testing (not in CV)
 
-If you gain analytics or data experience in the future, update your CV to reflect those skills. Currently, your profile does not match this role.
+**ATS suggestions — advice only, do not apply these.**  
+- If your CV uses non-standard section headings, change to standard ones like "Experience" and "Education" for better parsing.
+- Ensure all dates are in a consistent format (e.g., "2022 to present" and "2021 to 2022" are fine).
+- If your CV is multi-column, consider switching to a single column for better ATS compatibility.
+- Make sure all text is selectable and not embedded in images or graphics, especially for contact details and section headings.
+- Save as PDF with selectable text, not a scan, to ensure ATS can read it.
+
+If you want to move into analytics, consider adding relevant coursework, certifications, or projects, and start building experience with SQL, Excel, and dashboarding tools.

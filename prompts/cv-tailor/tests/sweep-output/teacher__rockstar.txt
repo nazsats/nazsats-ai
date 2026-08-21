@@ -2,67 +2,80 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 5/100
+MATCH: 0/100
 
-**Hard requirements met**  
-- Client relationship management — PARTIAL: “Mentored 4 new teachers” (adjacent, but not actual client management)
-- Data-driven decisions — PARTIAL: “class average rose from 62 to 78 percent” (shows use of data, but not in a business/tech context)
+**Requirements I meet**  
+- None. Your CV is for a secondary school physics teacher; there is no evidence of any software development, programming, or related technical skills.
 
-**Hard requirements missing**  
-- Full stack development — No evidence of any software development experience.
-- Agile and Scrum — No mention of Agile, Scrum, or any software development methodology.
-- Cross-functional collaboration — No mention of working with cross-functional teams (only within teaching/education).
-- Stakeholder management — No mention of managing stakeholders in a business or tech context.
-- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD — No mention of any programming language, framework, cloud platform, or DevOps tool.
-- 10x engineer, self-starter, ninja, fast-paced environments, wears many hats — No evidence of software engineering or startup/tech environment experience.
-
-**Nice-to-haves met**  
-- Curriculum design — “Designed a lab curriculum adopted across three schools” (shows initiative and design, but not in a tech context)
-- Mentoring — “Mentored 4 new teachers” (shows leadership, but not in a tech context)
+**Requirements I do not meet**  
+- Full stack development experience (no mention of software development or programming)
+- Client relationship management (no evidence of client-facing roles)
+- Agile and Scrum (no mention of Agile methodologies or Scrum)
+- Cross-functional collaboration (no evidence of working with cross-functional teams)
+- Data-driven decisions (no mention of data analysis or data-driven work)
+- Stakeholder management (no evidence of stakeholder engagement)
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD (none of these technologies or adjacent skills appear)
+- Experience in fast-paced tech environments (no relevant experience)
+- Remote work experience (not mentioned)
 
 **Worth applying?**  
-Probably not — There is no evidence of any software development experience or technical skills required for this role.
+Probably not — your CV is in a completely different field and does not show any of the technical or professional requirements for this software engineering role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Meera Nair | meera@email.com | Kochi
+Below is your CV, rewritten for this job, following all instructions. Changes are marked as requested.
+
+---
 
 SUMMARY  
-Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and mentoring. Proven ability to drive student performance and collaborate with colleagues to implement educational initiatives.
+[changed] Secondary school teacher with 8 years of experience in curriculum design, classroom management, and assessment.  
+(was: "Secondary school teacher, 8 years, physics.")
 
 SKILLS  
-- Curriculum design  
-- Classroom management  
-- Assessment  
-- Google Classroom  
-- Mentoring
+[changed] Curriculum design, classroom management, assessment, Google Classroom  
+(was: same)
 
 EXPERIENCE
 
-Physics Teacher, St Thomas HSS — 2018 to present  
-- Designed and implemented a lab curriculum adopted across three schools, demonstrating initiative and cross-team collaboration within the education sector.  
-- Taught grades 11 and 12, improving class average from 62 to 78 percent through data-driven assessment and targeted instruction.  
-- Mentored 4 new teachers, supporting their onboarding and professional development.  
-- Managed classroom environments and assessment processes for large groups of students.
+Physics Teacher, St Thomas HSS - 2018 to present  
+  [changed] Taught physics to grades 11 and 12; improved class average from 62 to 78 percent  
+  (was: "Teach grades 11 and 12; class average rose from 62 to 78 percent")  
+  [changed] Designed a physics lab curriculum adopted across three schools  
+  (was: "Designed a lab curriculum adopted across three schools")  
+  [changed] Mentored 4 new teachers  
+  (was: same)
 
 EDUCATION  
-M.Sc Physics, Kerala University, 2017  
-B.Ed, 2018
+[changed] M.Sc Physics, Kerala University, 2017; B.Ed 2018  
+(was: same)
 
-**WHAT I CHANGED**  
-- Reworded and reordered bullets to emphasize collaboration, data-driven results, and mentoring, aligning with the job’s focus on teamwork and outcomes.
-- Highlighted curriculum design and initiative as examples of cross-team work, as close as possible to “cross-functional collaboration.”
-- Surfaced “mentoring” as a leadership skill, since the job values team players and self-starters.
-- Compressed unrelated details to focus on transferable skills.
+---
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Full stack development  
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
+
+**What I deliberately did not add**  
+- Full stack development experience  
+- Client relationship management  
 - Agile and Scrum  
+- Cross-functional collaboration  
+- Data-driven decisions  
 - Stakeholder management  
 - Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD  
-- Any direct software development, programming, or technical skills  
-- Experience in fast-paced tech environments or with cross-functional engineering teams
+- Experience in fast-paced tech environments  
+- Remote work experience  
 
-If you have any technical or software development experience not shown here, add it to your CV before applying to roles like this.
+**ATS suggestions — advice only, do not apply these**  
+- Your section headings are standard and clear.
+- Dates are in a consistent format.
+- Your CV is single column and uses plain text, which is ATS-friendly.
+- Ensure your file is saved as a PDF with selectable text (not a scan), so ATS can parse it.
+- If you use a photo, do not put contact details inside it (not shown here, but a common issue).
+
+---
+
+**Summary:**  
+Your CV is not a match for this job. If you wish to transition to software development, consider gaining relevant skills and experience, and then update your CV accordingly.

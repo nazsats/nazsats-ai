@@ -2,64 +2,72 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 10/100
+MATCH: 18/100
 
-**Hard requirements met**  
-- None. There is no evidence in your CV of experience with paid acquisition, Google Ads, Meta Ads, Google Analytics, CAC/ROAS targets, or managing large marketing budgets.
+**Requirements I meet**  
+- 3+ years experience (in any field): "Customer support lead, 4 years SaaS."
+- Basic SQL: "SQL (basic)" (adjacent, not required for this role but present)
+- Team management: "Lead a team of 6" (adjacent, not required but present)
+- Documentation: "Wrote 80 help-centre articles" (adjacent, not required but present)
 
-**Hard requirements missing**  
-- 3+ years paid acquisition: No mention of paid acquisition or any marketing campaign management.
-- Google Ads and Meta Ads at scale: No mention of Google Ads, Meta Ads, or any digital advertising platforms.
-- Google Analytics: Not listed in skills or experience.
-- Owning CAC and ROAS targets: No mention of customer acquisition cost (CAC), return on ad spend (ROAS), or any performance marketing metrics.
-- Managing budgets above Rs 3 lakh a month: No mention of budget management or any financial responsibility.
-
-**Nice-to-haves met**  
-- None. No mention of SEO or marketing automation.
+**Requirements I do not meet**  
+- 3+ years paid acquisition: No mention of paid acquisition, digital marketing, or performance marketing in any role or skill.
+- Google Ads and Meta Ads at scale: No evidence of experience with Google Ads, Meta Ads, or any paid advertising platforms.
+- Google Analytics: Not mentioned anywhere.
+- Owning CAC and ROAS targets: No mention of customer acquisition cost, return on ad spend, or any marketing KPIs.
+- Managing budgets above Rs 3 lakh/month: No mention of budget management or financial responsibility.
+- SEO: Not mentioned.
+- Marketing automation: Not mentioned.
 
 **Worth applying?**  
-Probably not — your experience is in SaaS customer support, not performance marketing, and you do not meet any of the hard requirements.
+Probably not — your CV shows no experience in performance marketing, paid ads, analytics, or budget ownership, all of which are core requirements for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Faisal Khan | faisal@email.com | Delhi
 
 SUMMARY  
-Customer support lead with 4 years’ experience in SaaS, specializing in escalation management, team leadership, and process documentation.
+[changed] Customer support lead with 4 years SaaS experience, skilled in team management, escalation management, and documentation.  
+(was: "Customer support lead, 4 years SaaS.")
 
 SKILLS  
-- Escalation management  
-- Team leadership  
-- Zendesk  
-- Intercom  
-- Documentation  
-- SQL (basic)
+[changed] Team leadership, escalation management, documentation, Zendesk, Intercom, SQL (basic)  
+(was: "Zendesk, Intercom, SQL (basic), escalation management, documentation")
 
-EXPERIENCE
+EXPERIENCE  
 
-Support Lead, CloudDesk — 2022 to present  
-- Lead a team of 6, owning first-response SLA for SaaS customer support  
-- Reduced average resolution time from 14 hours to 5  
-- Authored 80+ help-centre articles to improve customer self-service  
-- Queried product database using basic SQL to diagnose and resolve customer issues
+Support Lead, CloudDesk - 2022 to present  
+  [changed] Lead a team of 6 support specialists, ensuring high-quality customer interactions and adherence to first-response SLAs  
+    (was: "Lead a team of 6; own the first-response SLA")  
+  [changed] Reduced average resolution time from 14 hours to 5 hours through process improvements and team coaching  
+    (was: "Cut average resolution time from 14 hours to 5")  
+  [changed] Authored 80 help-centre articles to improve customer self-service and internal knowledge sharing  
+    (was: "Wrote 80 help-centre articles")  
+  [changed] Queried product database using basic SQL to diagnose and resolve customer issues  
+    (was: "Query the product database with basic SQL to diagnose issues")
 
 EDUCATION  
-BA English, Delhi University, 2021
+[same] BA English, Delhi University, 2021
 
-**WHAT I CHANGED**  
-- Reordered and clarified skills to highlight leadership and process ownership, as these are the most transferable to a marketing manager context.
-- Used more formal, results-oriented language in experience bullets.
-- Emphasized outcomes (resolution time reduction, article authorship) up front.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Paid acquisition experience  
-- Google Ads or Meta Ads experience  
-- Google Analytics  
-- CAC/ROAS targets  
-- Budget management  
-- SEO  
-- Marketing automation
+**What I deliberately did not add**  
+- Paid acquisition experience (none in your CV)
+- Google Ads or Meta Ads experience (none in your CV)
+- Google Analytics (none in your CV)
+- CAC and ROAS targets (none in your CV)
+- Budget management (none in your CV)
+- SEO (none in your CV)
+- Marketing automation (none in your CV)
 
-These requirements are not supported anywhere in your CV.
+**ATS suggestions — advice only, do not apply these**  
+- Your section headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- Dates are in a consistent format — fine.
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can parse it.
+- If you use columns or put contact details in a header/footer, move them to the main body, as some ATS may skip those areas.
+- All content is text-based — do not use images or graphics for any important information.
+
+**Summary:**  
+Your CV is well-structured for ATS, but you do not meet any of the core requirements for this marketing role. Consider upskilling or gaining relevant experience before applying to similar positions.

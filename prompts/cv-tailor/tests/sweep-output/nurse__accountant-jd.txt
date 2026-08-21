@@ -2,61 +2,53 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 5/100
+MATCH: 10/100
 
-**Hard requirements met**  
-- None. Your CV does not evidence any accounting experience or skills.
+**Requirements I meet:**  
+- None. Your CV is for a Registered Nurse, not an accountant.
 
-**Hard requirements missing**  
-- 4+ years accounting: No accounting experience shown; all experience is in nursing.
-- GST and TDS filing: Not mentioned anywhere.
-- Tally: Not mentioned.
-- Advanced Excel: Not mentioned.
-- Month-end close: Not mentioned.
-- Managing multiple clients: Not mentioned.
-
-**Nice-to-haves met**  
-- None.  
-  - ERP migration: Not mentioned.
-  - Supervising a team: Closest is "Trained 8 junior nurses," but this is not accounting supervision.
+**Requirements I do not meet:**  
+- 4+ years accounting — No accounting experience listed.
+- GST and TDS filing — No mention of GST, TDS, or any tax/finance work.
+- Tally — No mention of Tally or any accounting software.
+- Advanced Excel — No mention of Excel or spreadsheet skills.
+- Month-end close — No finance or accounting process experience.
+- Managing multiple clients — No client management or accounting context.
+- ERP migration (nice to have) — No ERP or migration experience.
+- Supervising a team (nice to have) — You have trained junior nurses, but not in an accounting context.
 
 **Worth applying?**  
-Probably not — your background is in nursing, with no accounting experience or relevant skills shown.
+Probably not — your background is in nursing, not accounting, and you do not meet any of the core requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Rahul Mehta | rahul@email.com | Mumbai
+SUMMARY:  
+Registered nurse, 6 years critical care.  
+[same]
 
-SUMMARY  
-Registered nurse with 6 years of critical care experience, skilled in patient assessment, team coordination, and documentation. Proven ability to manage complex situations and train junior staff in high-pressure environments.
+SKILLS:  
+Patient assessment, IV therapy, Epic EHR, triage, team coordination  
+[same]
 
-SKILLS  
-- Patient assessment  
-- IV therapy  
-- Epic EHR  
-- Triage  
-- Team coordination
+EXPERIENCE
 
-EXPERIENCE  
+Staff Nurse, Lilavati Hospital - 2019 to present  
+  [same]    Managed up to 12 ICU patients per shift  
+  [same]    Trained 8 junior nurses on documentation standards  
+  [same]    Coordinated between doctors, pharmacy and families  
 
-Staff Nurse, Lilavati Hospital — 2019 to present  
-- Managed up to 12 ICU patients per shift, ensuring accurate documentation and effective care coordination  
-- Trained 8 junior nurses on documentation standards and compliance  
-- Coordinated between doctors, pharmacy, and families to deliver patient-centered care
+EDUCATION:  
+B.Sc. Nursing, MUHS, 2019  
+[same]
 
-EDUCATION  
-B.Sc. Nursing, MUHS, 2019
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I CHANGED**  
-- Reworded and expanded bullets to emphasize team coordination and training, as these are the closest adjacent skills to supervising a team.
-- Used the employer’s vocabulary where possible (e.g., "documentation standards" and "coordination").
-- Kept all nursing and healthcare-related content, as there is no accounting experience to surface.
-- Compressed education and skills to focus on what is present in your CV.
-
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 4+ years accounting experience  
+**What I deliberately did not add:**  
+- 4+ years accounting  
 - GST and TDS filing  
 - Tally  
 - Advanced Excel  
@@ -65,4 +57,12 @@ B.Sc. Nursing, MUHS, 2019
 - ERP migration  
 - Supervising a team (in an accounting context)
 
-If you wish to move into accounting, consider gaining relevant experience or certifications before applying to such roles.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — this is good for ATS.
+- Dates are in a consistent format — fine.
+- If your CV is single-column and all text is selectable, you are ATS-friendly.
+- If you use a photo, do not put contact details inside it — keep them in the text.
+- Save as PDF with selectable text, not a scan.
+
+**Summary:**  
+Your CV is well-structured for ATS, but it is not a fit for this accounting job. If you are interested in accounting, consider gaining relevant experience and certifications, and update your CV accordingly.

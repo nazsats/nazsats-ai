@@ -2,78 +2,69 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 34/100
+MATCH: 38/100
 
-**Hard requirements met:**  
-- **2+ years Python web development:**  
-  - *Not met.* Your CV states: "Python (pandas)" but no web development or frameworks.
-- **Django or Flask:**  
-  - *Not met.* No mention of Django or Flask.
-- **Strong SQL and relational design:**  
-  - *Met.* "Wrote SQL for weekly sales reporting across 120 stores"
-- **REST APIs:**  
-  - *Not met.* No mention of REST APIs.
-- **Git:**  
-  - *Not met.* No mention of Git.
-- **Automated tests:**  
-  - *Not met.* No mention of automated testing.
+**Requirements I meet:**  
+- Strong SQL and relational design  
+  - "Wrote SQL for weekly sales reporting across 120 stores"  
+  - "SKILLS: SQL"  
+- 2+ years Python (partial match: Python, but not web development)  
+  - "SKILLS: Python (pandas)"  
+- 2-4 years experience (partial match: depends on today's date — your CV shows March 2023 onwards, plus graduation in 2022, but only one role listed)  
 
-**Hard requirements missing:**  
-- Python web development (your Python is for analytics, not web)  
-- Django or Flask (no evidence)  
-- REST APIs (no evidence)  
-- Git (no evidence)  
-- Automated tests (no evidence)
-
-**Nice-to-haves met:**  
-- None.  
-  - *Cloud platforms:* Not mentioned.  
-  - *Docker:* Not mentioned.
+**Requirements I do not meet:**  
+- Python web development (no evidence of web frameworks or web apps)  
+- Django or Flask (not mentioned anywhere)  
+- REST APIs (not mentioned anywhere)  
+- Git (not mentioned anywhere)  
+- Automated tests (not mentioned anywhere)  
+- Cloud platforms (not mentioned anywhere)  
+- Docker (not mentioned anywhere)  
 
 **Worth applying?**  
-Probably not — you have strong SQL and some Python, but lack all web/backend experience and every framework/tool they require.
+Probably not — your CV shows strong analytics and SQL, but no web development, Django/Flask, REST APIs, or Git, which are all core requirements for this backend developer role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Nisha Verma | nisha@email.com | Gurgaon
 
 SUMMARY  
-Data analyst with 3 years’ experience in SQL, Python (pandas), and dashboard development for retail analytics. Skilled in building data solutions and running A/B tests to drive business outcomes.
+[changed] Data analyst with 3 years' experience in SQL, Python (pandas), and retail analytics.  
+(was: "Data analyst, 3 years, retail analytics.")
 
 SKILLS  
-- SQL (relational databases, reporting)  
-- Python (pandas, data analysis)  
-- Power BI (dashboard development)  
-- Excel  
-- A/B testing  
-- Data visualization
+[changed] SQL, relational databases, Python (pandas), Excel, Power BI, A/B testing, dashboards  
+(was: "SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards")
 
-EXPERIENCE
+EXPERIENCE  
 
-Data Analyst, RetailIQ — 2023 to present  
-- Built Power BI dashboards used by 30 store managers to monitor sales and performance  
-- Wrote SQL queries for weekly sales reporting across 120 stores, ensuring accurate and timely data delivery  
-- Conducted A/B testing on pricing strategies, resulting in a 4% margin increase  
-- Analyzed large datasets using Python (pandas) to identify trends and support business decisions
+Data Analyst, RetailIQ - 2023 to present  
+  [moved]   Wrote SQL for weekly sales reporting across 120 stores  
+  [changed] Built Power BI dashboards for 30 store managers, leveraging SQL data  
+            (was: "Built Power BI dashboards used by 30 store managers")  
+  [same]    Ran A/B tests on pricing; one raised margin 4 percent  
 
 EDUCATION  
-B.Sc Statistics, Delhi University, 2022
+[same] B.Sc Statistics, Delhi University, 2022
 
-**WHAT I CHANGED**  
-- Reordered and expanded SQL and Python skills to highlight relevance to backend data work  
-- Used job description vocabulary where possible (e.g., "relational databases," "reporting")  
-- Expanded on dashboard and A/B testing experience to show business impact  
-- Compressed unrelated details to focus on data and analytics skills
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Python web development  
-- Django or Flask  
-- REST APIs  
-- Git  
-- Automated tests  
-- Cloud platforms  
-- Docker
+**What I deliberately did not add:**  
+- Python web development (no evidence in your CV)  
+- Django or Flask (not in your CV)  
+- REST APIs (not in your CV)  
+- Git (not in your CV)  
+- Automated tests (not in your CV)  
+- Cloud platforms (not in your CV)  
+- Docker (not in your CV)  
 
-If you gain experience in Python web frameworks, REST APIs, or Git, you’ll be a much stronger match for backend developer roles.
+**ATS suggestions — advice only, do not apply these:**  
+- If you use a two-column format, consider switching to a single column for better ATS parsing.  
+- Ensure all section headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION").  
+- Dates are clear and in a standard format — keep this.  
+- Make sure your file is saved as a PDF with selectable text, not as a scanned image.  
+- Do not put contact details inside a photo or header image — keep them in text.  
+
+If you want to target backend developer roles, consider gaining and evidencing experience with Python web frameworks (Django/Flask), REST APIs, and Git, then updating your CV accordingly.

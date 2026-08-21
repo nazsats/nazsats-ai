@@ -2,85 +2,84 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 23/100
+MATCH: 35/100
 
-**Hard requirements met:**  
+**Requirements I meet:**  
 - Git  
-  - "SKILLS: ... Git"  
-- SQL and relational design  
-  - "SKILLS: ... MySQL"  
-  - "College project - Library management system in Java and MySQL"  
-- Python (basic)  
-  - "SKILLS: ... basic Python"  
+  - SKILLS: "Git"  
+- Strong SQL and relational design  
+  - SKILLS: "MySQL"  
+  - EXPERIENCE: "Library management system in Java and MySQL"  
+- Some Python  
+  - SKILLS: "basic Python"  
 
-**Hard requirements missing:**  
+**Requirements I do not meet:**  
 - 2+ years Python web development  
-  - No professional experience; only "basic Python" in skills. No evidence of web development in Python.
+  - No evidence of professional Python web development or any web framework (Django/Flask) experience.  
 - Django or Flask  
-  - Not mentioned anywhere in CV.
+  - No mention of Django or Flask anywhere.  
 - REST APIs  
-  - Not mentioned anywhere in CV.
+  - No mention of REST APIs or API development.  
 - Automated tests  
-  - Not mentioned anywhere in CV.
+  - No mention of automated testing or test frameworks.  
+- Cloud platforms, Docker (nice to have)  
+  - No mention of cloud, Docker, or related technologies.  
 - 2-4 years experience  
-  - "Final-year student seeking a first role." No professional experience; only college projects.
-
-**Nice-to-haves met:**  
-- None.
-
-**Nice-to-haves missing:**  
-- Cloud platforms  
-  - Not mentioned anywhere in CV.
-- Docker  
-  - Not mentioned anywhere in CV.
+  - You are a final-year student with no professional experience listed.  
 
 **Worth applying?**  
-Probably not — you lack all core professional experience and required frameworks; this is an entry-level CV for a mid-level role.
+Probably not — you lack nearly all core requirements (Python web development, Django/Flask, REST APIs, automated tests, and years of experience), so you are unlikely to pass screening for this mid-level role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Karan Patel | karan@email.com | Ahmedabad
 
 SUMMARY  
-Final-year B.Tech Information Technology student with hands-on experience in Java, MySQL, and basic Python. Strong foundation in data structures, algorithms, and relational database design, seeking to launch a backend development career.
+[changed] Final-year Information Technology student with hands-on experience in Java, MySQL, and Git, seeking to apply strong SQL and programming fundamentals in a backend developer role.  
+(was: Final-year student seeking a first role.)
 
 SKILLS  
-- Relational databases (MySQL)
-- Java
-- C++
-- Basic Python
-- Data Structures and Algorithms (DSA)
-- Git
+[changed] Programming: C++, Java, basic Python  
+(was: C++, Java, basic Python, DSA, MySQL, Git)  
+[changed] Databases: Relational databases (MySQL)  
+(was: C++, Java, basic Python, DSA, MySQL, Git)  
+[changed] Version Control: Git  
+(was: C++, Java, basic Python, DSA, MySQL, Git)
 
 EXPERIENCE  
-
-College Project: Library Management System  
-- Developed a library management system using Java and MySQL, implementing core CRUD operations and relational database design principles.
-- Designed and managed database schema to support efficient data retrieval and integrity.
-
-Hackathon: Bus-Tracking Android Prototype  
-- Built a prototype Android application for real-time bus tracking; achieved 2nd place out of 40 teams.
-- Collaborated with team members to design and implement application features.
+[changed]  
+College project – Library management system  
+  - Developed a library management system using Java and MySQL, implementing core relational database concepts and SQL queries.  
+(was: College project - Library management system in Java and MySQL)  
+[changed]  
+Hackathon – Bus-tracking Android prototype  
+  - Built a prototype Android application for real-time bus tracking; awarded 2nd place out of 40 teams.  
+(was: Hackathon - Bus-tracking Android prototype, 2nd of 40 teams)
 
 EDUCATION  
-B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+[changed]  
+B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1  
+(was: B.Tech Information Technology, GTU, expected 2026. CGPA 8.1)
 
-WHAT I CHANGED  
-- Reordered and expanded the college project to highlight relational database and backend skills.
-- Used the job's vocabulary ("relational database design", "CRUD operations") where supported by your project.
-- Placed MySQL and database skills at the top of the skills section, as these are most relevant.
-- Compressed unrelated details and focused on backend-relevant experience.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-WHAT I DELIBERATELY DID NOT ADD  
-- 2+ years Python web development  
-- Django or Flask  
-- REST APIs  
-- Automated tests  
-- Cloud platforms  
-- Docker  
-- Any professional experience or years of experience  
-- Any claim of advanced Python skills or web frameworks
+**What I deliberately did not add:**  
+- Python web development (no evidence of any web framework or web backend work)  
+- Django or Flask (not mentioned anywhere)  
+- REST APIs (not mentioned anywhere)  
+- Automated tests (not mentioned anywhere)  
+- Cloud platforms, Docker (not mentioned anywhere)  
+- 2+ years of relevant experience (not present; you are a student)
 
-If you would like advice on how to build toward this kind of role, let me know!
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear.  
+- Your skills are listed as text, not images or graphics — good.  
+- If your CV uses a single column, that's best; if not, switch to one column for better parsing.  
+- Ensure dates (e.g., "expected 2026") are in a consistent format throughout.  
+- Use a common font and avoid putting any contact details inside headers/footers or images.  
+- Save your CV as a PDF with selectable text, not a scan, for best ATS compatibility.  
+
+**Summary:**  
+You do not meet the core requirements for this backend developer role, but your CV is clear and ATS-friendly. To target such jobs in the future, gain hands-on experience with Python web frameworks (Django/Flask), REST APIs, and automated testing, and update your CV accordingly.

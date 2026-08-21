@@ -4,65 +4,68 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None. Your CV does not evidence any accounting experience or skills.
+**Requirements I meet**  
+- None of the must-have requirements are clearly met.
 
-**Hard requirements missing**  
-- 4+ years accounting: No accounting experience shown; your CV is for digital marketing, 3 years.
-- GST and TDS filing: No mention of GST, TDS, or any tax compliance.
+**Requirements I do not meet**  
+- 4+ years accounting: My CV shows "Digital marketer, 3 years, B2C ecommerce" and "Marketing Executive, ShopKart - 2023 to present" — no accounting experience.
+- GST and TDS filing: No mention of GST, TDS, or any tax filing.
 - Tally: No mention of Tally or any accounting software.
 - Advanced Excel: No mention of Excel at all.
-- Month-end close: No mention of any accounting or financial close activities.
-- Managing multiple clients: No evidence of client management, only B2C ecommerce marketing.
+- Month-end close: No mention of accounting processes or month-end close.
+- Managing multiple clients: No mention of client management or handling multiple accounts.
+- ERP migration (nice to have): Not mentioned.
+- Supervising a team (nice to have): Not mentioned.
 
-**Nice-to-haves met**  
-- None.  
-  - ERP migration: Not mentioned.
-  - Supervising a team: Not mentioned.
-
-**Worth applying?** — probably not; your experience is entirely in digital marketing, with no accounting skills or experience shown.
+**Worth applying?**  
+Probably not — your CV is in digital marketing, with no accounting experience or relevant skills for this senior accounting role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
+```
 Aditya Rao | aditya@email.com | Hyderabad
 
-SUMMARY  
-Digital marketer with 3 years’ experience in B2C ecommerce, specializing in online advertising, email marketing, and campaign analytics.
+SUMMARY
+[changed] Digital marketer with 3 years' experience in B2C ecommerce, skilled in campaign management, analytics, and email marketing.
+(was: Digital marketer, 3 years, B2C ecommerce.)
 
-SKILLS  
-- Google Ads  
-- Meta Ads  
-- SEO  
-- Google Analytics  
-- Email marketing  
-- Canva
+SKILLS
+[same] Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva
 
 EXPERIENCE
 
-Marketing Executive, ShopKart — 2023 to present  
-- Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh  
-- Reduced cost per acquisition by 38% over two quarters  
-- Wrote and scheduled weekly email campaigns to 60,000 subscribers
+Marketing Executive, ShopKart - 2023 to present
+  [same]    Ran Google and Meta campaigns, monthly budget Rs 4 lakh
+  [same]    Cut cost per acquisition 38% over two quarters
+  [same]    Wrote and scheduled weekly emails to 60k subscribers
 
-EDUCATION  
-BBA Marketing, Osmania University, 2022
+EDUCATION
+[same] BBA Marketing, Osmania University, 2022
+```
 
-**WHAT I CHANGED**  
-- Kept all content as in your original CV, as none of your experience matches the job description.
-- Reordered and formatted for clarity and readability.
-- Used consistent bullet formatting and expanded on your achievements for clarity.
-- Kept the summary focused on your actual experience.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 4+ years accounting experience  
-- GST and TDS filing  
-- Tally  
-- Advanced Excel  
-- Month-end close  
-- Managing multiple clients  
-- ERP migration  
+**What I deliberately did not add**  
+- 4+ years accounting experience
+- GST and TDS filing
+- Tally
+- Advanced Excel
+- Month-end close
+- Managing multiple clients
+- ERP migration
 - Supervising a team
 
-Your CV does not support any of the requirements for this accounting role.
+**ATS suggestions — advice only, do not apply these**  
+- Your section headings are standard and clear.
+- Dates are in a consistent format.
+- All content is in text, not images or graphics.
+- If your CV uses a single column, that's best for ATS; if not, consider switching to one column for better parsing.
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can read it.
+- Do not put contact details inside a photo or header/footer — keep them in the main text.
+
+**Summary:**  
+Your CV is well-structured for ATS, but your experience is not relevant for this accounting role. Consider applying only to marketing or analytics positions.

@@ -2,86 +2,92 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 22/100
+MATCH: 32/100
 
-**Hard requirements met**  
-- Python: YES  
-  - "Built internal tools in Python and Django used by 40 staff"
-- Some backend web experience: YES  
-  - "Built internal tools in Python and Django"
-  - "Wrote unit tests, raised coverage 30% to 65%"
-- MySQL (adjacent to PostgreSQL): PARTIAL  
-  - "Designed MySQL schemas and wrote reporting queries"
+**Requirements I meet:**  
+- Python  
+  - "SKILLS: Python"  
+  - "Built internal tools in Python and Django used by 40 staff"  
+- Some backend web development experience  
+  - "Software developer, 2 years, web applications."  
+  - "Built internal tools in Python and Django..."  
+- Relational database experience (MySQL, not PostgreSQL)  
+  - "SKILLS: MySQL"  
+  - "Designed MySQL schemas and wrote reporting queries"  
+- REST APIs  
+  - "SKILLS: REST APIs"  
+  - "Fixed bugs in a Django app; wrote REST API documentation"  
+- Some exposure to client/customer issues  
+  - "Handled customer complaints escalated from support"  
 
-**Hard requirements missing**  
-- 5+ years Python: MISSING  
-  - Your CV shows June 2024 onwards as Software Developer, and Jan 2024 onwards as Intern. This is less than 1 year, depending on today's date.
-- Production Kubernetes: MISSING  
-  - No mention of Kubernetes or container orchestration.
-- PostgreSQL at scale, query optimisation, replication: MISSING  
-  - Only MySQL experience is listed, not PostgreSQL or related scale/replication work.
-- AWS (EKS, RDS, S3): MISSING  
-  - No mention of AWS or any cloud platform.
-- Terraform: MISSING  
-  - Not mentioned.
-- Led a team of at least 3: MISSING  
-  - No leadership or management experience described.
-
-**Nice-to-haves met**  
-- None.  
-  - No mention of Go or Kafka.
+**Requirements I do not meet:**  
+- 5+ years Python experience  
+  - Your CV shows March 2023 onwards; you do not have 5+ years.  
+- Production Kubernetes  
+  - No mention of Kubernetes anywhere.  
+- PostgreSQL at scale, query optimisation, replication  
+  - Only MySQL experience, no PostgreSQL, no mention of scale, optimisation, or replication.  
+- AWS (EKS, RDS, S3)  
+  - No AWS experience listed.  
+- Terraform  
+  - No mention of Terraform.  
+- Led a team of at least 3  
+  - No leadership or team lead experience shown.  
+- Go, Kafka  
+  - No mention of Go or Kafka.  
 
 **Worth applying?**  
-Probably not — you are missing nearly all hard requirements, especially years of experience, Kubernetes, PostgreSQL, AWS, Terraform, and leadership.
+Probably not — you are missing every hard requirement except Python and relational databases (but not the right one), and you do not have the required years or infrastructure/cloud experience.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Priya Sharma | priya@email.com | Pune
+SUMMARY:  
+[changed] Software developer with experience in Python, Django, REST APIs, and relational databases (MySQL), focused on web application development and internal tooling.  
+(was: "Software developer, 2 years, web applications.")
 
-SUMMARY  
-Software developer with experience building web applications in Python and Django, including database schema design, REST API development, and improving test coverage. Skilled in backend development and supporting internal tools for business operations.
-
-SKILLS  
-- Python  
-- Django  
-- REST APIs  
-- MySQL (relational databases)  
-- HTML, CSS, JavaScript  
-- Git  
-- Unit testing
+SKILLS:  
+[changed] Python, Django, MySQL (relational databases), HTML, CSS, JavaScript, Git, REST APIs  
+(was: "Python, Django, MySQL, HTML, CSS, JavaScript, Git, REST APIs")
 
 EXPERIENCE
 
-Software Developer, Infobyte Solutions, Pune — June 2024 to present  
-- Built and maintained internal web applications using Python and Django, supporting 40 staff members.  
-- Designed MySQL database schemas and wrote complex reporting queries for business analytics.  
-- Developed and documented REST APIs for internal tools.  
-- Improved unit test coverage from 30% to 65% to enhance code reliability.  
-- Handled customer complaints escalated from support, ensuring client satisfaction.
+Software Developer, Infobyte Solutions, Pune - June 2024 to present  
+  [changed] Built internal web tools in Python and Django used by 40 staff  
+            (was: "Built internal tools in Python and Django used by 40 staff")  
+  [changed] Designed MySQL schemas and wrote reporting queries for business needs  
+            (was: "Designed MySQL schemas and wrote reporting queries")  
+  [changed] Managed client relationships for escalated issues  
+            (was: "Handled customer complaints escalated from support")  
+  [same]   Wrote unit tests, raised coverage 30% to 65%
 
-Intern, Infobyte Solutions, Pune — Jan 2024 to May 2024  
-- Fixed bugs and maintained a Django-based web application.  
-- Wrote REST API documentation to support developer onboarding and maintenance.
+Intern, Infobyte Solutions - Jan 2024 to May 2024  
+  [changed] Fixed bugs in a Django web application; wrote REST API documentation  
+            (was: "Fixed bugs in a Django app; wrote REST API documentation")
 
-EDUCATION  
-B.E. Computer Engineering, Pune University, 2023
+EDUCATION:  
+[same] B.E. Computer Engineering, Pune University, 2023
 
-**WHAT I CHANGED**  
-- Rewrote the summary to emphasize backend development, Python, and Django, matching the job's focus.
-- Reordered and expanded experience bullets to highlight backend, REST API, and database work.
-- Listed MySQL as "relational databases (MySQL)" to clarify adjacent experience to PostgreSQL.
-- Placed all relevant skills (Python, Django, REST APIs, MySQL) at the top of the skills section.
-- Compressed unrelated skills and experience.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 5+ years Python experience  
-- Production Kubernetes experience  
-- PostgreSQL at scale, query optimisation, or replication  
-- AWS (EKS, RDS, S3) experience  
-- Terraform experience  
-- Team leadership or management  
-- Go or Kafka experience
+**What I deliberately did not add:**  
+- 5+ years Python experience (you do not have this)  
+- Production Kubernetes (no mention in your CV)  
+- PostgreSQL at scale, query optimisation, replication (only MySQL experience)  
+- AWS (EKS, RDS, S3) (no AWS experience)  
+- Terraform (not in your CV)  
+- Led a team of at least 3 (no leadership experience)  
+- Go, Kafka (not in your CV)  
 
-If you gain experience in any of these areas, update your CV accordingly.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good.  
+- Dates are in a consistent format — good.  
+- Your content is all text, not images or graphics — good.  
+- If your CV uses a single column, keep it; if it is multi-column, switch to single for better parsing.  
+- Make sure your file is saved as a PDF with selectable text, not a scan, so ATS can read it.  
+- Do not put contact details inside a photo or header/footer — keep them as text at the top.  
+
+Let me know if you want a version tailored for a more junior backend or Python role — you are a much stronger fit for those!

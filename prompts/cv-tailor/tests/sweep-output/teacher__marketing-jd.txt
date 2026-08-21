@@ -4,60 +4,63 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None. No evidence in your CV of paid acquisition, Google Ads, Meta Ads, Google Analytics, CAC/ROAS, or budget management.
+**Requirements I meet:**  
+- None. Your CV does not show any experience in performance marketing, paid acquisition, digital advertising, or related tools.
 
-**Hard requirements missing**  
-- 3+ years paid acquisition — No mention of any paid acquisition or digital marketing experience.
-- Google Ads and Meta Ads at scale — No mention of Google Ads, Meta Ads, or any digital advertising platforms.
-- Google Analytics — Not mentioned.
-- Owning CAC and ROAS targets — No mention of customer acquisition cost (CAC), return on ad spend (ROAS), or similar metrics.
-- Managing budgets above Rs 3 lakh a month — No evidence of budget management, especially at this scale.
-
-**Nice-to-haves met**  
-- None. No mention of SEO or marketing automation.
+**Requirements I do not meet:**  
+- 3+ years paid acquisition: No evidence of any paid acquisition or digital marketing experience.
+- Google Ads and Meta Ads at scale: No mention of Google Ads, Meta Ads, or any digital advertising platforms.
+- Google Analytics: Not listed as a skill or in experience.
+- Owning CAC and ROAS targets: No mention of customer acquisition cost, return on ad spend, or similar metrics.
+- Managing budgets above Rs 3 lakh/month: No budget management experience shown.
+- SEO, marketing automation (nice to have): Not mentioned anywhere.
 
 **Worth applying?**  
-Probably not — your CV is in a different field (secondary school teaching) with no evidence of marketing or advertising experience.
+Probably not — your CV is in secondary school teaching with no evidence of digital marketing or related experience, so you do not meet any of the core requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Meera Nair | meera@email.com | Kochi
 
 SUMMARY  
-Experienced secondary school physics teacher with 8 years of expertise in curriculum design, classroom management, and assessment. Proven ability to mentor colleagues and drive measurable improvements in student outcomes.
+[changed] Secondary school teacher with 8 years of experience in physics education, curriculum design, and classroom management.  
+(was: "Secondary school teacher, 8 years, physics.")
 
 SKILLS  
-- Curriculum design  
-- Classroom management  
-- Assessment  
-- Google Classroom
+[changed] Curriculum design, classroom management, assessment, Google Classroom  
+(was: same)
 
-EXPERIENCE
+EXPERIENCE  
 
-Physics Teacher, St Thomas HSS — 2018 to present  
-- Led instruction for grades 11 and 12, improving class average from 62% to 78%.  
-- Designed and implemented a lab curriculum adopted across three schools.  
-- Mentored and supported 4 new teachers in instructional best practices.
+Physics Teacher, St Thomas HSS - 2018 to present  
+  [changed] Taught physics to grades 11 and 12; improved class average from 62 to 78 percent  
+    (was: "Teach grades 11 and 12; class average rose from 62 to 78 percent")  
+  [changed] Designed a physics lab curriculum adopted across three schools  
+    (was: "Designed a lab curriculum adopted across three schools")  
+  [changed] Mentored 4 new teachers in instructional methods and classroom management  
+    (was: "Mentored 4 new teachers")
 
 EDUCATION  
-M.Sc Physics, Kerala University, 2017  
-B.Ed, 2018
+[changed] M.Sc Physics, Kerala University, 2017; B.Ed 2018  
+(was: same)
 
-**WHAT I CHANGED**  
-- Reworded the summary to highlight measurable outcomes and leadership (mentoring, curriculum design), as would be valued in any results-driven role.
-- Ordered skills and experience to foreground curriculum design and measurable results.
-- Used more outcome-focused language in experience bullets.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 3+ years paid acquisition  
-- Google Ads and Meta Ads at scale  
-- Google Analytics  
-- Owning CAC and ROAS targets  
-- Managing budgets above Rs 3 lakh a month  
-- SEO  
-- Marketing automation  
+**What I deliberately did not add:**  
+- Paid acquisition experience (none in your CV)
+- Google Ads or Meta Ads experience (none in your CV)
+- Google Analytics (not listed)
+- CAC/ROAS or budget management (not in your CV)
+- SEO or marketing automation (not in your CV)
 
-(There is no evidence of any of these in your CV.)
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear.
+- Dates are in a consistent format.
+- If your CV uses a single column, that is best for ATS; if it is multi-column, switch to single column for better parsing.
+- Ensure all text (including contact details) is selectable and not inside images or graphics.
+- Save as PDF with selectable text, not a scan, for best ATS compatibility.
+
+**Summary:**  
+Your CV is well-structured for teaching roles but does not align with the requirements for a Performance Marketing Manager. If you are interested in transitioning to marketing, consider gaining relevant experience or certifications before applying to such roles.

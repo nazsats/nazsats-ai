@@ -4,73 +4,67 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 32/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - Leading a small team  
-  - "Mentored 4 new teachers" (shows some leadership, though not in a SaaS or customer context)
+  - "Mentored 4 new teachers" (shows some leadership, though not in a SaaS/customer context)
+- Designing a programme  
+  - "Designed a lab curriculum adopted across three schools" (adjacent to onboarding programme design)
 
-**Hard requirements missing**  
-- 3+ years customer-facing SaaS  
-  - No evidence of SaaS experience or customer-facing roles in a SaaS environment.
+**Requirements I do not meet:**  
+- 3+ years customer-facing SaaS experience  
+  - No SaaS or customer-facing experience shown anywhere in CV
 - Owning retention and escalations  
-  - No mention of retention, escalations, or similar responsibilities.
+  - No evidence of retention, escalations, or similar responsibilities
 - CRM tools such as Zendesk or Intercom  
-  - Only "Google Classroom" is listed; not a CRM or customer support tool.
+  - No mention of CRM tools; only "Google Classroom" (adjacent, but not a CRM)
 - Writing customer documentation  
-  - No evidence of writing documentation for customers or users.
-
-**Nice-to-haves met**  
-- None directly.  
-  - "Designed a lab curriculum" is adjacent to "designing an onboarding programme" but not the same context or audience.
-
-**Nice-to-haves missing**  
+  - No evidence of documentation for customers; only curriculum design (for internal use)
 - Basic SQL  
-  - No mention of SQL or database skills.
-- Designing an onboarding programme  
-  - No direct evidence; curriculum design is adjacent but not onboarding for SaaS customers.
+  - No mention of SQL or any database skills
 
 **Worth applying?**  
-Probably not — you lack all core SaaS and customer success experience, as well as required tools and documentation skills.
+Probably not — your experience is in secondary education, not SaaS or customer success, and you do not meet any of the core requirements for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Meera Nair | meera@email.com | Kochi
 
 SUMMARY  
-Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and mentoring. Proven ability to lead small teams and drive measurable improvements in student outcomes.
+[changed] Secondary school teacher with 8 years of experience in curriculum design, classroom management, and mentoring, with a focus on physics education.  
+(was: "Secondary school teacher, 8 years, physics.")
 
 SKILLS  
-- Team leadership and mentoring  
-- Curriculum design  
-- Assessment and progress tracking  
-- Classroom management  
-- Google Classroom
+[changed] Programme design, team mentoring, classroom management, Google Classroom  
+(was: "Curriculum design, classroom management, assessment, Google Classroom")
 
-EXPERIENCE
+EXPERIENCE  
 
-Physics Teacher, St Thomas HSS — 2018 to present  
-- Led and mentored 4 new teachers, supporting their professional development and integration into the school community.  
-- Designed a physics lab curriculum that was adopted across three schools, demonstrating strong programme development skills.  
-- Taught grades 11 and 12, raising class average from 62% to 78% through targeted instruction and assessment strategies.  
-- Managed classroom environments and student progress using Google Classroom.
+Physics Teacher, St Thomas HSS - 2018 to present  
+  [moved]   Designed a lab curriculum adopted across three schools  
+  [changed] Mentored 4 new teachers, supporting their onboarding and integration into the teaching team  
+            (was: "Mentored 4 new teachers")  
+  [changed] Taught physics to grades 11 and 12; improved class average from 62 to 78 percent  
+            (was: "Teach grades 11 and 12; class average rose from 62 to 78 percent")
 
 EDUCATION  
-M.Sc Physics, Kerala University, 2017  
-B.Ed, 2018
+[same] M.Sc Physics, Kerala University, 2017; B.Ed 2018
 
-**WHAT I CHANGED**  
-- Reordered and expanded leadership and mentoring experience to align with the job's team leadership requirement.  
-- Highlighted curriculum design as programme development, to echo the onboarding programme nice-to-have.  
-- Used the job's vocabulary where possible (e.g., "mentoring," "programme development").  
-- Compressed unrelated details and surfaced all evidence of leadership and programme design.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 3+ years customer-facing SaaS experience  
+**What I deliberately did not add:**  
+- Customer-facing SaaS experience  
 - Owning retention and escalations  
 - CRM tools such as Zendesk or Intercom  
 - Writing customer documentation  
-- Basic SQL  
-- Designing an onboarding programme (no direct evidence; curriculum design is adjacent but not the same)
+- Basic SQL
 
-If you gain experience in SaaS, CRM tools, or customer-facing roles, you will be a stronger match for this type of position.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- Dates are in a consistent format — fine.
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can parse it.
+- If your contact details are in a header or image, move them to the main body for better parsing.
+- If your CV is in a single column, that's best for ATS. If not, consider switching to single column to avoid parsing errors.
+
+Let me know if you want a version tailored for a different role or industry!

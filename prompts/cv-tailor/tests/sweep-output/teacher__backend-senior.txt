@@ -2,78 +2,65 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 10/100
+MATCH: 0/100
 
-**Hard requirements met**  
-- Has led a team of at least 3:  
-  - "Mentored 4 new teachers" (adjacent, but not technical team leadership)
+**Requirements I meet:**  
+- None. Your CV does not mention any experience or skills related to Python, Kubernetes, PostgreSQL, AWS, Terraform, backend engineering, or software development.
 
-**Hard requirements missing**  
-- 5+ years Python:  
-  - No evidence of Python or any programming language in CV.
-- Production Kubernetes:  
-  - No mention of Kubernetes or any container orchestration.
-- PostgreSQL at scale with query optimisation and replication:  
-  - No mention of PostgreSQL, databases, or related experience.
-- AWS (EKS, RDS, S3):  
-  - No mention of AWS or any cloud platform.
-- Terraform:  
-  - No mention of Terraform or infrastructure as code.
-- Led a team of at least 3 (technical context):  
-  - "Mentored 4 new teachers" is adjacent but not technical team leadership.
-
-**Nice-to-haves met**  
-- None.
-
-**Nice-to-haves missing**  
-- Go:  
-  - No mention of Go or any programming language.
-- Kafka:  
-  - No mention of Kafka or any message queue/streaming technology.
+**Requirements I do not meet:**  
+- 5+ years Python — No mention of Python or any programming language.
+- Production Kubernetes — No mention of Kubernetes or container orchestration.
+- PostgreSQL at scale, query optimisation, replication — No mention of PostgreSQL or any database technology.
+- AWS (EKS, RDS, S3) — No mention of AWS or any cloud platform.
+- Terraform — No mention of Terraform or infrastructure as code.
+- Led a team of at least 3 — Mentored 4 new teachers, but not in a technical or engineering context.
+- Go, Kafka — No mention of Go, Kafka, or any related technologies.
 
 **Worth applying?**  
-Probably not — your CV is in a different field (secondary education) with no evidence of software engineering or relevant technical skills.
+Probably not — your experience is entirely in secondary school teaching and education, with no evidence of software engineering or relevant technical skills.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Meera Nair | meera@email.com | Kochi
 
 SUMMARY  
-Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and mentoring. Proven ability to improve student outcomes and support new educators.
+[changed] Secondary school teacher with 8 years of experience in physics education, curriculum design, and classroom management.  
+(was: "Secondary school teacher, 8 years, physics.")
 
 SKILLS  
-- Curriculum design  
-- Classroom management  
-- Assessment  
-- Google Classroom
+[changed] Curriculum design, classroom management, assessment, Google Classroom  
+(was: same)
 
-EXPERIENCE
+EXPERIENCE  
 
-Physics Teacher, St Thomas HSS — 2018 to present  
-- Led instruction for grades 11 and 12, improving class average from 62% to 78%.  
-- Designed and implemented a laboratory curriculum adopted across three schools.  
-- Mentored 4 new teachers, supporting their onboarding and professional development.
+Physics Teacher, St Thomas HSS - 2018 to present  
+  [changed] Taught physics to grades 11 and 12; improved class average from 62 to 78 percent  
+    (was: "Teach grades 11 and 12; class average rose from 62 to 78 percent")  
+  [changed] Designed a physics lab curriculum adopted across three schools  
+    (was: "Designed a lab curriculum adopted across three schools")  
+  [changed] Mentored 4 new teachers in instructional methods and classroom practices  
+    (was: "Mentored 4 new teachers")
 
 EDUCATION  
-M.Sc Physics, Kerala University, 2017  
-B.Ed, 2018
+[changed] M.Sc Physics, Kerala University, 2017; B.Ed 2018  
+(was: same)
 
-**WHAT I CHANGED**  
-- Reordered and clarified bullets to emphasize leadership/mentoring, as this is the only partially relevant requirement.
-- Used the job's vocabulary where possible (e.g., "led instruction," "mentored").
-- Compressed unrelated details to keep focus on transferable skills.
-- Kept the summary focused on outcomes and leadership.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Python experience  
-- Kubernetes  
-- PostgreSQL  
-- AWS (EKS, RDS, S3)  
-- Terraform  
-- Go  
-- Kafka  
-- Technical team leadership (beyond mentoring teachers)
+**What I deliberately did not add:**  
+- Python, Kubernetes, PostgreSQL, AWS, Terraform, Go, Kafka, or any software engineering skills or experience, as your CV does not support them.
+- Any claim of backend engineering, cloud infrastructure, or technical team leadership.
+- Any mention of production systems, query optimisation, or infrastructure as code.
 
-If you wish to transition to software engineering, consider gaining experience and certifications in relevant technologies before applying to such roles.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION").
+- Dates are in a consistent format.
+- All content is in text, not images or graphics.
+- If your CV uses a single column, that's best for ATS; if not, consider switching to single column for better parsing.
+- Ensure your file is saved as a PDF with selectable text, not a scan, for ATS compatibility.
+- Do not put contact details inside a photo or header image; keep them in plain text.
+
+**Summary:**  
+Your CV is well-structured for education roles but is not a match for this backend engineering position. If you are interested in transitioning to tech, consider upskilling and gaining relevant experience before applying to such roles.

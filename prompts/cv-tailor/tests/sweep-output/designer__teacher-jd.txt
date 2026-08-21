@@ -2,67 +2,74 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 18/100
+MATCH: 32/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - Familiarity with digital learning tools  
-  - "SKILLS: Figma, Illustrator, Photoshop, ... basic HTML/CSS, Canva" (shows comfort with digital tools, though not specifically educational ones)
+  - "SKILLS: Figma, Illustrator, Photoshop, basic HTML/CSS, Canva" (shows comfort with digital tools, though not education-specific)  
 
-**Hard requirements missing**  
+**Requirements I do not meet:**  
 - 5+ years teaching or curriculum work  
-  - No evidence of teaching or curriculum design; "Freelance designer, 4 years" and "Junior Designer" are unrelated fields.
+  - No teaching or curriculum design experience is listed.  
 - Designing assessments  
-  - No mention of assessment design or related experience.
+  - No mention of assessment design or related work.  
 - Subject expertise in physics or chemistry  
-  - No evidence of science background; education is in Applied Arts.
+  - No evidence of science background; degree is in Applied Arts.  
 - Training other educators  
-  - No mention of training or mentoring others.
-  
-**Nice-to-haves met**  
-- None. No EdTech experience or published material is mentioned.
+  - No mention of training or mentoring others.  
+- EdTech experience (nice to have)  
+  - No EdTech roles or projects.  
+- Published material (nice to have)  
+  - No mention of published work.  
 
 **Worth applying?**  
-Probably not — you lack all core requirements (teaching/curriculum experience, science expertise, assessment design, educator training), and your background is in design, not education or science.
+Probably not — your CV shows no science, teaching, or curriculum experience, and the gap is too wide for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Anjali Desai | anjali@email.com | Remote
 
 SUMMARY  
-Creative designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in digital design tools and visual communication, seeking to apply design expertise in new contexts.
+[changed] Freelance designer with 4 years' experience supporting small businesses, skilled in digital tools and visual communication.  
+(was: "Freelance designer, 4 years, small businesses.")
 
 SKILLS  
-- Digital design: Figma, Illustrator, Photoshop, Canva  
-- Basic HTML/CSS  
-- Brand identity development  
-- Visual communication
+[same] Figma, Illustrator, Photoshop, brand identity, basic HTML/CSS, Canva
 
-EXPERIENCE
+EXPERIENCE  
 
-Freelance Designer | 2022 – present  
-- Developed brand identities for 14 small businesses, collaborating closely with clients to understand their needs and deliver tailored visual solutions  
-- Designed and executed a social media campaign that increased engagement by 40%  
-- Built two landing pages using HTML and CSS, ensuring responsive and visually appealing layouts
+Freelance Designer — 2022 to present  
+  [changed] Developed brand identities for 14 small businesses, utilizing digital design tools to create engaging visual content.  
+  (was: "Brand identities for 14 small businesses")  
+  [changed] Led a social media campaign that increased engagement by 40%, demonstrating ability to design for digital platforms.  
+  (was: "Social campaign raised engagement 40%")  
+  [changed] Built two landing pages using HTML and CSS, applying digital design skills to web-based projects.  
+  (was: "Built two landing pages in HTML and CSS")
 
-Junior Designer, PixelCraft Studio | 2021 – 2022  
-- Supported senior designers in creating digital and print assets for client projects  
-- Assisted in the development of marketing materials and visual content
+Junior Designer, PixelCraft Studio — 2021 to 2022  
+  [same] (No additional detail relevant to curriculum design or science.)
 
 EDUCATION  
-BA Applied Arts, Gujarat University, 2021
+[same] BA Applied Arts, Gujarat University, 2021
 
-**WHAT I CHANGED**  
-- Reworded and reordered the summary to highlight digital skills and adaptability, as relevant as possible to curriculum design.  
-- Placed digital design tools and visual communication at the top of the skills section, as these are the closest match to the job’s digital learning tools requirement.  
-- Expanded freelance experience bullets to emphasize collaboration and tailored solutions, echoing curriculum customization.  
-- Compressed unrelated details and kept the focus on digital and design skills.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 5+ years teaching or curriculum work (no evidence in CV)  
-- Designing assessments (no evidence in CV)  
-- Subject expertise in physics or chemistry (no evidence in CV)  
-- Training other educators (no evidence in CV)  
-- EdTech experience (no evidence in CV)  
-- Published material (no evidence in CV)
+**What I deliberately did not add:**  
+- 5+ years teaching or curriculum work  
+- Designing assessments  
+- Subject expertise in physics or chemistry  
+- Training other educators  
+- EdTech experience  
+- Published material  
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear.  
+- Dates are in a consistent format.  
+- Your CV is already in plain text and uses standard headings.  
+- No evidence of multi-column layout or images in the text you provided, but if your actual file uses columns or graphics for key info, switch to single column and text for all content — ATS may miss info in columns or images.  
+- If your contact details are inside a photo or header graphic, move them to plain text at the top.  
+- Save as PDF with selectable text, not a scan, to ensure ATS can read it.
+
+Let me know if you want advice on how to pivot your CV toward education or curriculum roles in the future!

@@ -4,63 +4,74 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - Familiarity with digital learning tools  
-  - No direct evidence, but some adjacent digital tools: "Google Analytics, Canva" (not education-specific, but digital tools).
+  - [SKILLS: Canva] (Canva is a digital tool, though not specific to learning)  
 
-**Hard requirements missing**  
+**Requirements I do not meet:**  
 - 5+ years teaching or curriculum work  
-  - No evidence. Your CV shows only 3 years in digital marketing, none in education or curriculum.
+  - No teaching or curriculum design experience shown  
 - Designing assessments  
-  - No evidence.
+  - No mention of assessment design  
 - Subject expertise in physics or chemistry  
-  - No evidence. Your degree is in Marketing.
+  - No evidence of science background; degree is BBA Marketing  
 - Training other educators  
-  - No evidence.
-  
-**Nice-to-haves met**  
-- None. No EdTech experience or published material listed.
+  - No mention of educator training  
+- EdTech experience  
+  - No EdTech roles listed  
+- Published material  
+  - No mention of published work  
 
 **Worth applying?**  
-Probably not — you lack all core requirements (education experience, subject expertise, assessment design), and your background is unrelated.
+Probably not — your CV is in digital marketing with no evidence of science, curriculum, or teaching experience, and does not meet any of the hard requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
 Aditya Rao | aditya@email.com | Hyderabad
 
 SUMMARY  
-Digital marketer with 3 years’ experience in B2C ecommerce, specializing in online campaign management, email marketing, and analytics. Skilled in leveraging digital tools to drive customer engagement and optimize marketing performance.
+[changed] Digital marketer with 3 years' experience in B2C ecommerce, skilled in digital campaign management and email marketing.  
+(was: Digital marketer, 3 years, B2C ecommerce.)
 
 SKILLS  
-- Digital marketing (Google Ads, Meta Ads)  
-- Email marketing  
-- SEO  
-- Google Analytics  
-- Canva
+[changed] Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva  
+(was: Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva)
 
 EXPERIENCE
 
-Marketing Executive, ShopKart — 2023 to present  
-- Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh  
-- Reduced cost per acquisition by 38% over two quarters through data-driven optimization  
-- Developed and scheduled weekly email campaigns to a subscriber base of 60,000  
-- Utilized digital tools such as Google Analytics and Canva to monitor performance and create marketing assets
+Marketing Executive, ShopKart - 2023 to present  
+  [changed] Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh, optimizing digital strategies.  
+    (was: Ran Google and Meta campaigns, monthly budget Rs 4 lakh)  
+  [changed] Reduced cost per acquisition by 38% over two quarters through data-driven campaign adjustments.  
+    (was: Cut cost per acquisition 38% over two quarters)  
+  [changed] Created and scheduled weekly email marketing campaigns to a subscriber base of 60,000 using digital tools.  
+    (was: Wrote and scheduled weekly emails to 60k subscribers)
 
 EDUCATION  
 BBA Marketing, Osmania University, 2022
 
-**WHAT I CHANGED**  
-- Reworded the summary and bullets to emphasize digital tool usage, as this is the only remotely relevant aspect for the job.  
-- Ordered skills to put digital tools first.  
-- Expanded on digital tools in the experience section to surface any adjacency to "familiarity with digital learning tools."  
-- Compressed unrelated details.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 5+ years teaching or curriculum work (not present in CV)  
-- Designing assessments (not present)  
-- Subject expertise in physics or chemistry (not present)  
-- Training other educators (not present)  
-- EdTech experience (not present)  
-- Published material (not present)
+**What I deliberately did not add:**  
+- 5+ years teaching or curriculum work  
+- Designing assessments  
+- Subject expertise in physics or chemistry  
+- Training other educators  
+- EdTech experience  
+- Published material  
+
+Your CV does not support any of these requirements, so they were not added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.  
+- Dates are consistent and clear.  
+- Your CV appears to be single-column and text-based, which is ATS-friendly.  
+- Ensure your file is saved as a PDF with selectable text, not as a scan, so ATS can read it.  
+- Do not put contact details inside a photo or header image — keep them as text.  
+
+**Summary:**  
+Your CV is well-formatted for ATS, but your experience is not relevant to this curriculum designer role. Consider applying only if you have unlisted experience in science education or curriculum design.

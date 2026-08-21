@@ -2,66 +2,71 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 28/100
+MATCH: 32/100
 
-**Hard requirements met:**  
-- None.
+**Requirements I meet:**  
+- None of the must-have requirements are directly evidenced in your CV.  
+- Closest adjacent:  
+  - "Wrote and scheduled weekly emails to 60k subscribers" (adjacent to customer communication, but not customer success or SaaS support)
+  - "Cut cost per acquisition 38% over two quarters" (shows ownership of a metric, but not retention or escalations)
+  - "Marketing Executive, ShopKart - 2023 to present" (shows B2C ecommerce, not SaaS or customer-facing support)
 
-**Hard requirements missing:**  
-- **3+ years customer-facing SaaS:** No SaaS experience is mentioned. Your CV is focused on B2C ecommerce marketing, not SaaS or customer success.  
-- **Owning retention and escalations:** No evidence of direct responsibility for customer retention or handling escalations.  
-- **CRM tools such as Zendesk or Intercom:** No mention of any CRM tools; only marketing tools (Google Ads, Meta Ads, Google Analytics, email marketing).  
-- **Writing customer documentation:** No evidence of writing customer-facing documentation; only marketing emails.  
-- **Leading a small team:** No mention of team leadership or management experience.
-
-**Nice-to-haves met:**  
-- None.  
-  - **Basic SQL:** Not mentioned.  
-  - **Designing an onboarding programme:** Not mentioned.
+**Requirements I do not meet:**  
+- 3+ years customer-facing SaaS experience (your CV shows digital marketing in B2C ecommerce, not SaaS or customer success)
+- Owning retention and escalations (no evidence of retention ownership or handling escalations)
+- CRM tools such as Zendesk or Intercom (no mention of any CRM or support tools)
+- Writing customer documentation (no evidence of documentation writing)
+- Leading a small team (no mention of team leadership)
+- Nice to have: basic SQL (not mentioned)
+- Nice to have: designing an onboarding programme (not mentioned)
 
 **Worth applying?**  
-Probably not — you do not meet any of the hard requirements, and your experience is in digital marketing, not customer success or SaaS.
+Probably not — your experience is in digital marketing for ecommerce, not customer success or SaaS, and you do not meet any of the core requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Aditya Rao | aditya@email.com | Hyderabad
 
 SUMMARY  
-Digital marketer with 3 years’ experience in B2C ecommerce, specializing in paid campaigns, email marketing, and analytics. Proven track record in optimizing acquisition costs and managing large-scale communications.
+[changed] Digital marketer with experience in B2C ecommerce, focused on campaign management, customer engagement, and performance analytics.  
+(was: Digital marketer, 3 years, B2C ecommerce.)
 
 SKILLS  
-- Google Ads  
-- Meta Ads  
-- SEO  
-- Google Analytics  
-- Email marketing  
-- Canva
+[changed] Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva  
+(was: Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva)
 
-EXPERIENCE
+EXPERIENCE  
 
-Marketing Executive, ShopKart — 2023 to present  
-- Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh, optimizing for customer acquisition.  
-- Reduced cost per acquisition by 38% over two quarters through data-driven campaign management.  
-- Wrote and scheduled weekly marketing emails to a subscriber base of 60,000, supporting customer engagement and retention initiatives.
+Marketing Executive, ShopKart - 2023 to present  
+  [changed] Wrote and scheduled weekly email campaigns to 60,000 subscribers, driving customer engagement.  
+    (was: Wrote and scheduled weekly emails to 60k subscribers)  
+  [changed] Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh, optimizing for acquisition cost.  
+    (was: Ran Google and Meta campaigns, monthly budget Rs 4 lakh)  
+  [changed] Reduced cost per acquisition by 38% over two quarters through data-driven campaign adjustments.  
+    (was: Cut cost per acquisition 38% over two quarters)
 
 EDUCATION  
-BBA Marketing, Osmania University, 2022
+[same] BBA Marketing, Osmania University, 2022
 
-**WHAT I CHANGED**  
-- Reworded and reordered bullets to emphasize customer engagement and retention, as relevant to customer success.  
-- Used phrases like “customer acquisition” and “customer engagement” to align with the job’s vocabulary.  
-- Highlighted communication with a large subscriber base to show scale and responsibility.  
-- Compressed unrelated details to keep focus on transferable skills.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 3+ years customer-facing SaaS experience  
-- Owning retention and escalations in a SaaS context  
+- Owning retention and escalations  
 - CRM tools such as Zendesk or Intercom  
-- Writing customer documentation (beyond marketing emails)  
+- Writing customer documentation  
 - Leading a small team  
 - Basic SQL  
-- Designing an onboarding programme
+- Designing an onboarding programme  
 
-If you gain experience in SaaS, customer success, CRM tools, or team leadership, you’ll be a stronger match for this kind of role.
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear.
+- Dates are in a consistent format.
+- If your CV uses a single column, that's best; if not, consider switching to a single column for better ATS parsing.
+- Ensure all text (contact details, etc.) is selectable and not inside images or headers/footers.
+- Save as a PDF with selectable text, not a scan, for best parsing.
+
+**Summary:**  
+Your CV is well-structured for digital marketing roles, but does not match customer success or SaaS requirements. Consider gaining relevant experience or certifications if you wish to transition to this field.

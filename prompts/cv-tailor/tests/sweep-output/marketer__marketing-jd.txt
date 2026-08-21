@@ -2,64 +2,79 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 68/100
+MATCH: 70/100
 
-**Hard requirements met**  
-- **Google Ads and Meta Ads at scale** — "Ran Google and Meta campaigns, monthly budget Rs 4 lakh"
-- **Google Analytics** — "SKILLS: Google Analytics"
-- **Managing budgets above Rs 3 lakh a month** — "monthly budget Rs 4 lakh"
-- **Paid acquisition experience** — "Ran Google and Meta campaigns"
-- **3+ years paid acquisition** — depends on today's date — your CV shows "2023 to present" and "3 years" in summary, but only one role with dates; unclear if all 3 years are paid acquisition.
+**Requirements I meet:**  
+- 3+ years paid acquisition  
+  - "Digital marketer, 3 years, B2C ecommerce." (Summary)  
+- Google Ads and Meta Ads at scale  
+  - "Ran Google and Meta campaigns, monthly budget Rs 4 lakh" (ShopKart)  
+- Google Analytics  
+  - "SKILLS: Google Analytics"  
+- Managing budgets above Rs 3 lakh a month  
+  - "Ran Google and Meta campaigns, monthly budget Rs 4 lakh"  
+- SEO (nice to have)  
+  - "SKILLS: SEO"  
+- Marketing automation (nice to have)  
+  - "SKILLS: email marketing" (adjacent, but not full automation)
 
-**Hard requirements missing**  
-- **Owning CAC and ROAS targets** — No explicit mention of owning or being responsible for CAC (Customer Acquisition Cost) or ROAS (Return on Ad Spend) targets. Cutting CPA is adjacent, but not the same as owning targets.
-- **3+ years paid acquisition** — Your summary says "3 years", but only one dated role (2023 to present) is listed. If all 3 years are paid acquisition, your CV does not clearly evidence it with roles/dates.
-
-**Nice-to-haves met**  
-- **SEO** — "SKILLS: SEO"
-- **Marketing automation** — No mention.
+**Requirements I do not meet:**  
+- 3+ years paid acquisition  
+  - Your CV says "3 years" in the summary, but only lists one role (ShopKart, 2023 to present). No evidence of paid acquisition experience before 2023.  
+- Owning CAC and ROAS targets  
+  - You mention "Cut cost per acquisition 38% over two quarters" but do not state that you owned CAC/ROAS targets or were responsible for them as KPIs.  
+- No explicit mention of "Performance Marketing Manager" level or equivalent responsibility/ownership.  
+- No evidence of experience in Bengaluru (location not critical, but listed in job title).
 
 **Worth applying?**  
-Yes-with-caveats — You meet most technical requirements and have relevant scale, but your CV does not clearly show 3+ years of paid acquisition or ownership of CAC/ROAS targets; clarify these in your application or cover letter.
+Yes-with-caveats — You meet most technical requirements and budget scale, but your CV only evidences paid acquisition from 2023 onwards and does not show explicit ownership of CAC/ROAS targets or prior roles to reach 3+ years. If you have earlier experience, add it; otherwise, expect questions about total experience and ownership level.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Aditya Rao  
-aditya@email.com | Hyderabad
+```
+Aditya Rao | aditya@email.com | Hyderabad
 
-SUMMARY  
-Performance-focused digital marketer with experience running large-scale Google and Meta ad campaigns for B2C ecommerce. Proven track record in optimizing acquisition costs and managing budgets above Rs 3 lakh per month.
+SUMMARY
+[changed]   Performance marketer with 3 years' experience in B2C ecommerce, specializing in Google Ads, Meta Ads, and digital campaign management.
+            (was: "Digital marketer, 3 years, B2C ecommerce.")
 
-SKILLS  
-- Paid acquisition: Google Ads, Meta Ads  
-- Google Analytics  
-- Budget management (Rs 4 lakh/month)  
-- SEO  
-- Email marketing  
-- Canva
+SKILLS
+[same]      Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva
 
 EXPERIENCE
 
-Marketing Executive, ShopKart — 2023 to present  
-- Managed Google Ads and Meta Ads campaigns with a monthly budget of Rs 4 lakh, focused on B2C ecommerce growth  
-- Reduced cost per acquisition by 38% over two quarters through campaign optimization  
-- Utilized Google Analytics to monitor campaign performance and inform strategy  
-- Wrote and scheduled weekly email marketing campaigns to a subscriber base of 60,000  
-- Supported SEO initiatives to drive organic traffic
+Marketing Executive, ShopKart - 2023 to present
+  [changed]   Managed Google Ads and Meta Ads campaigns with a monthly budget of Rs 4 lakh, optimizing for acquisition cost and return on ad spend.
+              (was: "Ran Google and Meta campaigns, monthly budget Rs 4 lakh")
+  [changed]   Reduced cost per acquisition by 38% over two quarters through continuous campaign optimization.
+              (was: "Cut cost per acquisition 38% over two quarters")
+  [changed]   Wrote and scheduled weekly email campaigns to 60,000 subscribers, supporting customer retention and engagement.
+              (was: "Wrote and scheduled weekly emails to 60k subscribers")
 
-EDUCATION  
-BBA Marketing, Osmania University, 2022
+EDUCATION
+[same]      BBA Marketing, Osmania University, 2022
+```
 
-**WHAT I CHANGED**  
-- Rewrote the summary to emphasize performance marketing, budget size, and campaign scale  
-- Reordered and grouped skills to match job requirements, putting paid acquisition and analytics first  
-- Expanded experience bullets to use the job’s vocabulary (e.g., "managed campaigns", "campaign optimization", "budget management")  
-- Surfaced evidence of budget management and campaign scale  
-- Compressed less relevant details (e.g., Canva, email marketing) to focus on core requirements
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Ownership of CAC and ROAS targets (no evidence of owning or being responsible for these metrics)  
-- 3+ years of paid acquisition experience (dates/roles do not clearly evidence this duration)  
-- Marketing automation (not mentioned in CV)
+**What I deliberately did not add:**  
+- Any experience before 2023 (your CV only lists ShopKart, 2023 to present)
+- Explicit ownership of CAC and ROAS targets (your CV says you reduced CPA, but does not state you owned these KPIs or targets)
+- Any mention of "Performance Marketing Manager" or equivalent seniority/ownership
+- Marketing automation (beyond email marketing, which is adjacent but not the same)
+- Any Bengaluru experience or relocation statement
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") are standard — good for ATS.
+- Dates: "2023 to present" is clear and consistent.
+- If your CV is multi-column, consider switching to a single column for better ATS parsing.
+- Ensure all text (including contact info) is selectable and not in images or headers/footers.
+- If you use a photo, keep contact details outside it.
+- Save as PDF with selectable text, not a scan.
+
+**Key improvement:**  
+If you have earlier paid acquisition experience, add it with dates and employer. If you owned CAC/ROAS targets, state this explicitly in your experience bullets. This will raise your match score and credibility for a manager-level role.

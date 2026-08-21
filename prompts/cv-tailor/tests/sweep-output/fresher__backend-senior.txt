@@ -4,69 +4,75 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- Python: "basic Python" (but not 5+ years, not production)
-- MySQL: "MySQL" (but not PostgreSQL, not at scale)
-- Git: "Git" (not a requirement, but adjacent to modern dev workflows)
+**Requirements I meet**  
+- Python (basic):  
+  - "SKILLS: C++, Java, basic Python, DSA, MySQL, Git"  
+- Relational database experience (MySQL):  
+  - "SKILLS: ... MySQL"  
+  - "College project - Library management system in Java and MySQL"  
 
-**Hard requirements missing**  
-- 5+ years Python: Your CV shows only "basic Python" and no professional experience.
-- Production Kubernetes: No mention of Kubernetes or any container orchestration.
-- PostgreSQL at scale, query optimisation, replication: Only MySQL, and only in a college project.
-- AWS (EKS, RDS, S3): No mention of AWS or any cloud experience.
-- Terraform: Not mentioned.
-- Led a team of at least 3: No leadership or team experience shown.
-
-**Nice-to-haves met**  
-- None. (Go, Kafka not mentioned.)
+**Requirements I do not meet**  
+- 5+ years Python:  
+  - Only "basic Python" listed, no years or production experience.
+- Production Kubernetes:  
+  - No mention of Kubernetes.
+- PostgreSQL at scale, query optimisation, replication:  
+  - Only MySQL, and only in a college project.
+- AWS (EKS, RDS, S3):  
+  - No AWS experience listed.
+- Terraform:  
+  - Not mentioned.
+- Led a team of at least 3:  
+  - No leadership or team management experience.
+- Go, Kafka (nice to have):  
+  - Not mentioned.
 
 **Worth applying?**  
-Probably not — you are a final-year student with no professional experience and do not meet any of the core requirements for this senior role.
+Probably not — this is a senior role requiring 5+ years of production backend experience and team leadership, while your CV is for a final-year student with only academic and hackathon projects.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Karan Patel | karan@email.com | Ahmedabad
 
 SUMMARY  
-Final-year B.Tech Information Technology student with hands-on experience in Java, MySQL, C++, and basic Python, seeking opportunities to apply backend development skills in a professional setting.
+[changed] Final-year Information Technology student with hands-on experience in Java, MySQL, and basic Python, seeking opportunities to apply backend development skills.  
+(was: "Final-year student seeking a first role.")
 
 SKILLS  
-- Java  
-- MySQL  
-- C++  
-- Basic Python  
-- Data Structures and Algorithms (DSA)  
-- Git
+[changed] Programming: C++, Java, basic Python  
+[changed] Data Structures & Algorithms (DSA)  
+[changed] Relational databases (MySQL)  
+[changed] Version control: Git  
+(was: "C++, Java, basic Python, DSA, MySQL, Git")
 
-EXPERIENCE
-
-Library Management System — College Project  
-- Developed a library management system using Java and MySQL, implementing core backend features such as user management, book inventory, and transaction processing.  
-- Applied data structures and algorithms to optimize system performance.
-
-Bus-Tracking Android Prototype — Hackathon (2nd of 40 teams)  
-- Built a prototype Android application for real-time bus tracking, collaborating with a small team to design backend logic and integrate with front-end features.
+EXPERIENCE  
+[changed]  
+- College project: Developed a Library Management System using Java and MySQL, implementing backend logic and database integration.  
+  (was: "College project - Library management system in Java and MySQL")  
+- Hackathon: Built a bus-tracking Android prototype; achieved 2nd place out of 40 teams.  
+  (was: "Hackathon - Bus-tracking Android prototype, 2nd of 40 teams")
 
 EDUCATION  
-B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026  
-CGPA: 8.1
+[same] B.Tech Information Technology, GTU, expected 2026. CGPA 8.1
 
-**WHAT I CHANGED**  
-- Reordered skills to highlight backend and database experience first, as relevant to the job.  
-- Expanded project descriptions to use backend engineering vocabulary (e.g., "core backend features", "transaction processing").  
-- Emphasized teamwork and collaboration in the hackathon project, as the job values leadership/team experience.  
-- Compressed education and removed unrelated details.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add**  
 - 5+ years Python experience  
 - Production Kubernetes  
-- PostgreSQL (at scale, query optimisation, replication)  
+- PostgreSQL at scale, query optimisation, replication  
 - AWS (EKS, RDS, S3)  
 - Terraform  
-- Go  
-- Kafka  
-- Led a team of at least 3
+- Team leadership (led a team of at least 3)  
+- Go, Kafka  
 
-If you have any experience or skills in these areas not listed in your CV, consider adding them for future applications.
+**ATS suggestions — advice only, do not apply these**  
+- Your section headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION").
+- Ensure all text (especially contact info) is selectable and not inside a header/footer or image, as ATS may not parse images.
+- Use a common font and consistent date formats throughout.
+- If your CV uses multiple columns, consider switching to a single column for better ATS parsing.
+- Save your CV as a PDF with selectable text, not a scan, to ensure ATS can read it.
+
+Let me know if you have another job description or want advice on how to build experience for roles like this!

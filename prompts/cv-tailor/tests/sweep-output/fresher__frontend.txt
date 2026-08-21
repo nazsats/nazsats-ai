@@ -2,66 +2,75 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 12/100
+MATCH: 22/100
 
-**Hard requirements met**  
-- None.
+**Requirements I meet:**  
+- None of the must-have requirements are directly met.
 
-**Hard requirements missing**  
-- **3+ years frontend experience** — Your CV shows only college projects and hackathons, with no professional or extended frontend experience.
-- **React and modern JavaScript** — No mention of React or modern JavaScript (ES6+) in your skills or experience.
-- **Strong CSS and responsive design** — No mention of CSS or responsive design skills.
-- **Working from Figma designs** — No mention of Figma or working from design files.
-- **Cross-browser compatibility** — No mention of this skill or related experience.
-
-**Nice-to-haves met**  
-- None.  
-  - (You list Java, C++, Python, MySQL, Git, but not TypeScript or design background.)
+**Requirements I do not meet:**  
+- 3+ years frontend experience — Your CV shows only student projects and no professional experience, with no dates or durations for any frontend work.
+- React and modern JavaScript — No mention of React or JavaScript in your skills or experience.
+- Strong CSS and responsive design — No mention of CSS or responsive design.
+- Working from Figma designs — No mention of Figma or design tools.
+- Cross-browser compatibility — No mention of this skill or related experience.
+- TypeScript (nice to have) — Not listed.
+- Design background (nice to have) — Not listed.
 
 **Worth applying?**  
-Probably not — you do not meet any of the hard requirements, and your CV does not evidence any frontend or React experience.
+Probably not — your CV does not show any of the required frontend skills or experience, and you are not competitive for this role as described.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
+```
 Karan Patel | karan@email.com | Ahmedabad
 
-SUMMARY  
-Final-year B.Tech Information Technology student with hands-on experience in Java, MySQL, and software development through academic projects and hackathons. Seeking to apply strong programming and problem-solving skills in a software development role.
+SUMMARY:
+[changed] Final-year B.Tech Information Technology student with hands-on experience in Java, C++, and MySQL, seeking an entry-level software development role.
+(was: Final-year student seeking a first role.)
 
-SKILLS  
-- Java  
-- C++  
-- Basic Python  
-- Data Structures and Algorithms (DSA)  
-- MySQL  
-- Git
+SKILLS:
+[changed] Programming: C++, Java, basic Python
+(was: C++, Java, basic Python, DSA, MySQL, Git)
+[changed] Databases: MySQL
+(was: C++, Java, basic Python, DSA, MySQL, Git)
+[changed] Version Control: Git
+(was: C++, Java, basic Python, DSA, MySQL, Git)
+[changed] Data Structures & Algorithms (DSA)
+(was: C++, Java, basic Python, DSA, MySQL, Git)
 
-EXPERIENCE  
+EXPERIENCE
 
-College Project: Library Management System  
-- Developed a library management system using Java and MySQL, implementing core features such as book inventory, user management, and transaction tracking.
+[changed] College project – Developed a Library Management System using Java and MySQL, focusing on backend logic and database integration.
+(was: College project - Library management system in Java and MySQL)
+[changed] Hackathon – Built a bus-tracking Android prototype; achieved 2nd place out of 40 teams.
+(was: Hackathon - Bus-tracking Android prototype, 2nd of 40 teams)
 
-Hackathon: Bus-Tracking Android Prototype  
-- Designed and built a prototype Android application for real-time bus tracking, leading a team that placed 2nd out of 40 teams.
+EDUCATION:
+B.Tech Information Technology, GTU, expected 2026. CGPA 8.1
+[same]
+```
 
-EDUCATION  
-B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I CHANGED**  
-- Rewrote the summary to highlight programming and project experience, as relevant as possible to a developer role.
-- Ordered skills to put programming languages and DSA first, as these are your strongest areas.
-- Expanded project and hackathon experience to clarify your contributions and technical skills.
-- Compressed education and removed unrelated details.
-
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 3+ years frontend experience  
 - React and modern JavaScript  
 - CSS and responsive design  
-- Working from Figma designs  
+- Figma or design tools  
 - Cross-browser compatibility  
 - TypeScript  
-- Design background
+- Design background  
 
-(Your CV does not support any of these requirements or nice-to-haves.)
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- If your CV uses a single column, keep it; if not, switch to single column for better parsing.
+- Ensure all text (especially contact info) is selectable and not inside images or headers/footers.
+- Use consistent date formats (you only have one date, which is fine).
+- Save as PDF with selectable text, not a scan, for best parsing.
+
+**Summary:**  
+Your CV is not a match for this frontend developer role. If you want to pursue frontend positions, consider building projects with React, JavaScript, and CSS, and update your CV accordingly.

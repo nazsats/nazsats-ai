@@ -2,58 +2,55 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 5/100
+MATCH: 0/100
 
-**Hard requirements met**  
-- None. There is no evidence in your CV of any backend development, Python, Django/Flask, SQL, REST APIs, Git, or automated testing.
+**Requirements I meet:**  
+None. Your CV is for a secondary school physics teacher. There is no mention of Python, web development, Django, Flask, SQL, REST APIs, Git, automated tests, cloud platforms, or Docker.
 
-**Hard requirements missing**  
-- 2+ years Python web development — No mention of Python or web development.
-- Django or Flask — Not mentioned.
-- Strong SQL and relational design — Not mentioned.
-- REST APIs — Not mentioned.
-- Git — Not mentioned.
-- Automated tests — Not mentioned.
-
-**Nice-to-haves met**  
-- None. No mention of cloud platforms or Docker.
+**Requirements I do not meet:**  
+- 2+ years Python web development — no evidence of Python or web development experience.  
+- Django or Flask — not mentioned anywhere.  
+- Strong SQL and relational design — not mentioned.  
+- REST APIs — not mentioned.  
+- Git — not mentioned.  
+- Automated tests — not mentioned.  
+- Cloud platforms — not mentioned.  
+- Docker — not mentioned.
 
 **Worth applying?**  
-Probably not — your CV is in a completely different field (secondary school physics teaching) and does not evidence any of the required technical skills or experience.
+Probably not — your CV is in a completely different field and does not show any of the required technical skills or experience for this backend developer role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Meera Nair | meera@email.com | Kochi
 
 SUMMARY  
-Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and assessment. Proven track record of improving student outcomes and mentoring new educators.
+[changed] Secondary school teacher with 8 years of experience in physics education, curriculum design, and classroom management.  
+(was: "Secondary school teacher, 8 years, physics.")
 
 SKILLS  
-- Curriculum design  
-- Classroom management  
-- Assessment  
-- Google Classroom
+[changed] Curriculum design, classroom management, assessment, Google Classroom  
+(was: same)
 
-EXPERIENCE
+EXPERIENCE  
 
-Physics Teacher, St Thomas HSS — 2018 to present  
-- Taught grades 11 and 12, raising class average from 62% to 78%  
-- Designed a laboratory curriculum adopted across three schools  
-- Mentored four new teachers in instructional methods and classroom management
+Physics Teacher, St Thomas HSS - 2018 to present  
+  [changed] Taught physics to grades 11 and 12; improved class average from 62 to 78 percent  
+  (was: "Teach grades 11 and 12; class average rose from 62 to 78 percent")  
+  [changed] Designed a physics lab curriculum adopted across three schools  
+  (was: "Designed a lab curriculum adopted across three schools")  
+  [changed] Mentored 4 new teachers in instructional methods  
+  (was: "Mentored 4 new teachers")
 
 EDUCATION  
-M.Sc Physics, Kerala University, 2017  
-B.Ed, 2018
+[changed] M.Sc Physics, Kerala University, 2017; B.Ed 2018  
+(was: same)
 
-**WHAT I CHANGED**  
-- Maintained your original summary but clarified your experience and outcomes.
-- Ordered skills and experience to highlight your strengths as an educator.
-- Used more outcome-focused language in your experience section.
-- Compressed education and skills for clarity.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - Python web development  
 - Django or Flask  
 - SQL or relational database design  
@@ -61,6 +58,17 @@ B.Ed, 2018
 - Git  
 - Automated tests  
 - Cloud platforms  
-- Docker
+- Docker  
 
-Your CV does not support any of the technical requirements for the Backend Developer role.
+None of these are supported by your CV, so they were not added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") are standard — good for ATS.  
+- Dates are in a consistent format — fine.  
+- Your CV is in plain text, so text is selectable — good.  
+- If your CV uses a single column, that's best for ATS. If not, consider switching to a single column to avoid parsing errors.  
+- If you use a photo, make sure contact details are outside the image.  
+- Save as PDF with selectable text, not a scan, for best ATS compatibility.
+
+**Summary:**  
+Your CV is not a match for this backend developer role. If you are interested in transitioning to software development, consider gaining relevant experience and certifications, then update your CV to reflect those skills.

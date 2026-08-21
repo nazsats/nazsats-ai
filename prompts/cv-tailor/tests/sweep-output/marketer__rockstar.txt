@@ -2,74 +2,76 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 6/100
+MATCH: 10/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - Data-driven decisions  
-  - CV evidence: "Cut cost per acquisition 38% over two quarters"  
-- (None of the other hard requirements are evidenced.)
+  - "Cut cost per acquisition 38% over two quarters" (shows use of data to drive outcomes)
+- Client relationship management (partial/adjacent)  
+  - "Wrote and scheduled weekly emails to 60k subscribers" (adjacent: mass communication, not direct client management)
+- Cross-functional collaboration (very weak/implicit)  
+  - No direct evidence, but running campaigns may involve some collaboration
 
-**Hard requirements missing**  
-- Full stack development  
-  - No evidence of any software development experience, front-end or back-end.
-- Client relationship management  
-  - No evidence of direct client interaction or relationship management.
-- Agile and Scrum  
-  - No mention of Agile, Scrum, or any software development methodology.
-- Cross-functional collaboration  
-  - No mention of working with other teams or functions.
-- Stakeholder management  
-  - No evidence of managing stakeholders.
-- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD  
-  - No mention of any programming languages, frameworks, cloud platforms, containerization, or CI/CD tools.
-
-**Nice-to-haves met**  
-- Data-driven decisions (as above)
-- Experience in fast-paced environments (implied by "monthly budget Rs 4 lakh" and "cut cost per acquisition", but not explicit)
+**Requirements I do not meet:**  
+- Full stack development: No evidence of any software development experience  
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD: None of these technologies are mentioned anywhere  
+- Agile and Scrum: No mention of Agile, Scrum, or any software development methodology  
+- Stakeholder management: No explicit mention  
+- "10x engineer", "self-starter", "ninja", "wears many hats": No evidence of engineering or technical breadth  
+- Fast-paced environments: Not explicitly stated  
+- Any engineering or developer experience: None
 
 **Worth applying?**  
-Probably not — you lack all core technical and process requirements for this role, and your experience is in digital marketing, not software development.
+Probably not — your CV is in digital marketing, not software engineering, and does not show any of the required technical or development experience.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
+```
 Aditya Rao | aditya@email.com | Hyderabad
 
-SUMMARY  
-Results-driven digital marketer with 3 years’ experience in B2C ecommerce, specializing in data-driven campaign management and performance optimization.
+SUMMARY
+[changed]    Data-driven digital marketer with 3 years' experience in B2C ecommerce, focused on campaign optimization and subscriber engagement.
+             (was: "Digital marketer, 3 years, B2C ecommerce.")
 
-SKILLS  
-- Data-driven decision making  
-- Google Ads  
-- Meta Ads  
-- SEO  
-- Google Analytics  
-- Email marketing  
-- Canva
+SKILLS
+[same]       Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva
 
 EXPERIENCE
 
-Marketing Executive, ShopKart — 2023 to present  
-- Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh, optimizing for performance and ROI.  
-- Reduced cost per acquisition by 38% over two quarters through data-driven analysis and campaign adjustments.  
-- Developed and scheduled weekly email marketing campaigns to a subscriber base of 60,000, driving customer engagement and retention.
+Marketing Executive, ShopKart - 2023 to present
+  [changed]   Used data-driven decision making to cut cost per acquisition by 38% over two quarters
+              (was: "Cut cost per acquisition 38% over two quarters")
+  [changed]   Managed and executed Google and Meta ad campaigns with a monthly budget of Rs 4 lakh
+              (was: "Ran Google and Meta campaigns, monthly budget Rs 4 lakh")
+  [changed]   Communicated with a subscriber base of 60k through weekly email campaigns
+              (was: "Wrote and scheduled weekly emails to 60k subscribers")
 
-EDUCATION  
-BBA Marketing, Osmania University, 2022
+EDUCATION
+[same]       BBA Marketing, Osmania University, 2022
+```
 
-**WHAT I CHANGED**  
-- Reworded summary and bullets to emphasize data-driven decision making and campaign management, the only partial overlap with the job description.  
-- Placed data-driven skills and outcomes at the top of the skills list.  
-- Used the job’s vocabulary where possible (e.g., “data-driven analysis”, “performance optimization”).  
-- Compressed unrelated details and focused on measurable outcomes.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - Full stack development  
-- Client relationship management  
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD  
 - Agile and Scrum  
-- Cross-functional collaboration  
 - Stakeholder management  
-- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD
+- Any engineering or software development experience  
+- "10x engineer", "ninja", "self-starter" (in a technical sense)  
+- Cross-functional collaboration (no explicit evidence)  
+- Fast-paced environments (not stated)
 
-These requirements are not supported by your CV.
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear — good.  
+- Dates are in a consistent format — good.  
+- Your CV is single column and text-based — good.  
+- If you use a photo, do not put contact details inside it (not shown here, but just in case).  
+- Make sure your file is saved as a PDF with selectable text, not a scan, for best parsing.  
+
+**Summary:**  
+Your CV is well-structured for ATS, but you do not have the technical or software development experience required for this role. Consider applying only if you have relevant experience not shown here, or if you are transitioning and can demonstrate skills elsewhere (e.g., a portfolio or side projects).

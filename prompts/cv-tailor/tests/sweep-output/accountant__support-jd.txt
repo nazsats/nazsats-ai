@@ -2,71 +2,67 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 18/100
+MATCH: 32/100
 
-**Hard requirements met**  
-- None.  
-  - Your CV does not mention SaaS, customer-facing roles, retention/escalation ownership, CRM tools, customer documentation, or team leadership.
+**Requirements I meet:**  
+- 3+ years experience: "Accountant, 5 years"  
+- Leading a small team (adjacent): No explicit team leadership, but "Manage books for 22 SME clients" implies responsibility, not people management.
 
-**Hard requirements missing**  
-- 3+ years customer-facing SaaS experience  
-  - No mention of SaaS or customer-facing roles. All experience is in accounting for SME clients.
-- Owning retention and escalations  
-  - No evidence of retention or escalation management.
-- CRM tools such as Zendesk or Intercom  
-  - No mention of any CRM tools; only Tally and Excel are listed.
-- Writing customer documentation  
-  - No evidence of documentation writing.
-- Leading a small team  
-  - No mention of team leadership.
-
-**Nice-to-haves met**  
-- None.
-  - Basic SQL: Not mentioned.
-  - Designing onboarding programme: Not mentioned.
+**Requirements I do not meet:**  
+- Customer-facing SaaS experience: No SaaS or software product experience mentioned.
+- Owning retention and escalations: No evidence of retention, customer escalations, or similar responsibilities.
+- CRM tools such as Zendesk or Intercom: No mention of CRM tools or customer support platforms.
+- Writing customer documentation: No mention of documentation or writing for customers.
+- Leading a small team: No explicit team leadership or management experience.
+- Nice to have — basic SQL: No SQL experience listed.
+- Nice to have — designing an onboarding programme: No onboarding or training programme experience.
 
 **Worth applying?**  
-Probably not — your experience is entirely in accounting, with no evidence of SaaS, customer success, CRM tools, or team leadership.
+Probably not — your CV is strong in accounting for SMEs but does not show any SaaS, customer success, CRM, or team leadership experience required for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Sneha Kulkarni | sneha@email.com | Nashik
 
 SUMMARY  
-Experienced accountant specializing in SME bookkeeping, compliance, and process improvement. Skilled in managing multiple client accounts, ensuring timely filings, and optimizing workflows.
+[changed] Accountant with 5 years’ experience supporting SME clients in bookkeeping and compliance, skilled in reconciliation, GST filing, TDS, and advanced Excel.  
+(was: Accountant, 5 years, SME bookkeeping and compliance.)
 
 SKILLS  
-- Bookkeeping and compliance (Tally, GST filing, TDS)  
-- Advanced Excel (process automation, reconciliation)  
-- Payroll management  
-- Client account management
+[changed] Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll  
+(was: Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll)
 
-EXPERIENCE
-
-Senior Accountant, Deshmukh and Co — 2021 to present  
-- Managed books and compliance for 22 SME clients, ensuring zero late GST and TDS filings over four years  
-- Built and implemented advanced Excel models, reducing monthly close process from 6 days to 2  
-- Responsible for payroll and reconciliation for multiple clients  
-- Maintained strong client relationships through consistent, accurate service
+EXPERIENCE  
+Senior Accountant, Deshmukh and Co - 2021 to present  
+  [changed] Manage bookkeeping and compliance for 22 SME clients, ensuring accurate records and timely filings.  
+    (was: Manage books for 22 SME clients)  
+  [same] File GST and TDS returns; zero late filings in four years  
+  [changed] Built advanced Excel models, reducing monthly close from 6 days to 2.  
+    (was: Built Excel models cutting monthly close from 6 days to 2)
 
 EDUCATION  
-M.Com, Pune University, 2020
+[same] M.Com, Pune University, 2020
 
-**WHAT I CHANGED**  
-- Reworded and reordered bullets to emphasize client account management and process improvement, which are the closest adjacent experiences to customer success.  
-- Used the job’s vocabulary where possible (e.g., “client account management” instead of “manage books for clients”).  
-- Placed skills in the order most relevant to the job description, with client-facing and process skills first.  
-- Compressed education and unrelated skills.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 3+ years customer-facing SaaS experience  
+**What I deliberately did not add:**  
+- Customer-facing SaaS experience  
 - Owning retention and escalations  
-- CRM tools such as Zendesk or Intercom  
+- CRM tools (Zendesk, Intercom, etc.)  
 - Writing customer documentation  
 - Leading a small team  
 - Basic SQL  
 - Designing an onboarding programme
 
-If you want to move into customer success, consider gaining experience with SaaS tools, CRM platforms, and customer-facing roles, and update your CV accordingly.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear — good for ATS.  
+- Dates are consistent and clear.  
+- If your CV uses a single column, that’s best; if not, consider switching, as multi-column layouts can confuse ATS.  
+- Ensure all text (including contact info) is selectable and not inside images or headers/footers.  
+- Save as a PDF with selectable text, not a scan, for best parsing.  
+- If you use a photo, keep contact details outside it.
+
+**Summary:**  
+Your CV is well-structured for accounting roles but does not match the requirements for a Customer Success Manager in SaaS. Consider gaining experience with CRM tools, customer documentation, and SaaS environments if you wish to move into this field.

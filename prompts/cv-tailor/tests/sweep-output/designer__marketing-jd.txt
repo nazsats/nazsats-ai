@@ -2,77 +2,67 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 20/100
+MATCH: 32/100
 
-**Hard requirements met**  
-- None.  
-  - Your CV does not mention paid acquisition, Google Ads, Meta Ads, Google Analytics, CAC/ROAS, or budget management.
+**Requirements I meet:**  
+- 3+ years experience: "Freelance designer, 4 years, small businesses." (but not in performance marketing)
+- Some digital skills: "Figma, Illustrator, Photoshop, basic HTML/CSS, Canva" (adjacent, but not direct marketing tools)
+- Experience with social campaigns: "Social campaign raised engagement 40%" (but not paid acquisition)
 
-**Hard requirements missing**  
-- 3+ years paid acquisition  
-  - No mention of paid acquisition or any paid marketing campaigns.
-- Google Ads and Meta Ads at scale  
-  - No mention of Google Ads or Meta Ads experience.
-- Google Analytics  
-  - No mention of Google Analytics.
-- Owning CAC and ROAS targets  
-  - No mention of customer acquisition cost (CAC) or return on ad spend (ROAS), or any performance marketing metrics.
-- Managing budgets above Rs 3 lakh a month  
-  - No mention of budget management or any financial responsibility.
-
-**Nice-to-haves met**  
-- Basic HTML/CSS  
-  - "Built two landing pages in HTML and CSS" (adjacent to digital marketing, but not SEO or automation).
-- Brand identity, social campaign  
-  - "Brand identities for 14 small businesses" and "Social campaign raised engagement 40%" (related to marketing, but not performance marketing or automation).
+**Requirements I do not meet:**  
+- 3+ years paid acquisition: No mention of paid ads, campaign management, or acquisition.
+- Google Ads and Meta Ads at scale: No mention of Google Ads, Meta Ads, or any paid ad platforms.
+- Google Analytics: Not listed as a skill or in experience.
+- Owning CAC and ROAS targets: No mention of cost of acquisition, return on ad spend, or similar metrics.
+- Managing budgets above Rs 3 lakh/month: No budget management experience listed.
+- SEO, marketing automation: Not listed anywhere.
 
 **Worth applying?**  
-Probably not — you lack all core requirements for performance marketing, including paid ads, analytics, and budget management.
+Probably not — your CV does not show any experience in paid acquisition, ad platforms, analytics, or budget management, which are all core requirements for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Anjali Desai | anjali@email.com | Remote
 
 SUMMARY  
-Creative designer with 4 years’ experience delivering brand identity and digital campaigns for small businesses. Skilled in visual design and digital content creation, with hands-on experience building landing pages and driving engagement through social media.
+[changed] Freelance designer with 4 years’ experience supporting small businesses in brand identity and digital campaigns.  
+(was: "Freelance designer, 4 years, small businesses.")
 
 SKILLS  
-- Brand identity  
-- Digital campaign design  
-- Figma  
-- Illustrator  
-- Photoshop  
-- Canva  
-- Basic HTML/CSS
+[same] Figma, Illustrator, Photoshop, brand identity, basic HTML/CSS, Canva
 
-EXPERIENCE
+EXPERIENCE  
 
-Freelance Designer | 2022 – present  
-- Developed brand identities for 14 small businesses, supporting their digital presence and marketing efforts.  
-- Designed and executed a social media campaign that raised engagement by 40%.  
-- Built two landing pages using HTML and CSS to support client marketing initiatives.
+Freelance Designer - 2022 to present  
+  [changed] Developed brand identities and digital assets for 14 small businesses, supporting their online presence.  
+    (was: "Brand identities for 14 small businesses")  
+  [changed] Led a social media campaign that increased engagement by 40%.  
+    (was: "Social campaign raised engagement 40%")  
+  [changed] Built two landing pages using HTML and CSS to support digital marketing efforts.  
+    (was: "Built two landing pages in HTML and CSS")
 
-Junior Designer, PixelCraft Studio | 2021 – 2022  
-- Supported senior designers in delivering visual assets for client projects.  
-- Assisted in the creation of digital and print materials for marketing campaigns.
+Junior Designer, PixelCraft Studio - 2021 to 2022  
+  [same] (No change; no relevant bullets to reorder or expand.)
 
 EDUCATION  
-BA Applied Arts, Gujarat University, 2021
+[same] BA Applied Arts, Gujarat University, 2021
 
-**WHAT I CHANGED**  
-- Rewrote the summary to emphasize digital campaign and marketing-related work.
-- Reordered and expanded bullets to highlight experience with digital campaigns and landing pages.
-- Placed skills relevant to digital marketing and design at the top.
-- Compressed unrelated experience and education.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Paid acquisition experience (no evidence in CV).
-- Google Ads or Meta Ads (not mentioned in CV).
-- Google Analytics (not mentioned in CV).
-- CAC or ROAS targets (not mentioned in CV).
-- Managing budgets above Rs 3 lakh a month (not mentioned in CV).
-- SEO and marketing automation (not mentioned in CV).
+**What I deliberately did not add:**  
+- Paid acquisition experience (Google Ads, Meta Ads, or any paid ad platform)
+- Google Analytics
+- Owning CAC or ROAS targets
+- Managing large budgets (Rs 3 lakh/month or more)
+- SEO or marketing automation
 
-If you gain experience in paid ads or analytics, update your CV to reflect it before applying to roles like this.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear — no change needed.
+- Dates are in a consistent format — no change needed.
+- All content is text, not images — good for parsing.
+- If your CV uses columns or puts contact info in a header/footer, move all text to a single column and keep contact info in the main body, as some ATS may skip header/footer content.
+- Save as a PDF with selectable text, not a scan, to ensure ATS can read it.
+
+Let me know if you want advice on how to reposition your experience for marketing roles, or if you want to see a sample CV for a junior marketing position.

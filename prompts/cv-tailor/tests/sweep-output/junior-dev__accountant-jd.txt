@@ -2,76 +2,70 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 5/100
+MATCH: 0/100
 
-**Hard requirements met**  
-- None. No accounting experience or skills are evidenced in your CV.
+**Requirements I meet:**  
+- None. Your CV is for a software/web developer role and does not mention any accounting, finance, or related experience, skills, or tools.
 
-**Hard requirements missing**  
-- 4+ years accounting: No accounting experience shown; your CV is for software development, 2 years.
-- GST and TDS filing: No mention of tax, GST, TDS, or related activities.
-- Tally: No mention of Tally or any accounting software.
-- Advanced Excel: No mention of Excel at all.
-- Month-end close: No mention of accounting cycles or closing activities.
-- Managing multiple clients: No evidence of client management in an accounting context.
-
-**Nice-to-haves met**  
-- None.  
-  - ERP migration: Not mentioned.
-  - Supervising a team: No mention of team leadership or supervision.
+**Requirements I do not meet:**  
+- 4+ years accounting experience — No accounting experience listed; your experience is in software development.
+- GST and TDS filing — No mention of GST, TDS, or any tax/finance work.
+- Tally — No mention of Tally or any accounting software.
+- Advanced Excel — No mention of Excel at all.
+- Month-end close — No accounting or finance processes described.
+- Managing multiple clients — No evidence of managing accounting clients; "Handled customer complaints" is not the same.
+- ERP migration — Not mentioned.
+- Supervising a team — Not mentioned.
 
 **Worth applying?**  
-Probably not — your experience is entirely in software development, with no accounting background or relevant skills for this role.
+Probably not — your CV is in a completely different field (software development) and does not meet any of the core requirements for this senior accounting position.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Priya Sharma | priya@email.com | Pune
+SUMMARY:  
+[changed] Software developer with 2 years of experience building web applications.  
+(was: "Software developer, 2 years, web applications.")
 
-SUMMARY  
-Software developer with 2 years of experience building web applications using Python, Django, and MySQL. Skilled in designing internal tools, writing REST APIs, and improving code quality through testing.
-
-SKILLS  
-- Python  
-- Django  
-- MySQL (relational databases)  
-- HTML, CSS, JavaScript  
-- REST APIs  
-- Git  
-- Unit testing
+SKILLS:  
+[changed] Python, Django, MySQL (relational databases), HTML, CSS, JavaScript, Git, REST APIs  
+(was: "Python, Django, MySQL, HTML, CSS, JavaScript, Git, REST APIs")
 
 EXPERIENCE
 
-Software Developer, Infobyte Solutions, Pune  
-June 2024 – present  
-- Built internal tools in Python and Django used by 40 staff, improving operational efficiency.  
-- Designed MySQL schemas and wrote reporting queries for internal applications.  
-- Handled customer complaints escalated from support, ensuring timely resolution and client satisfaction.  
-- Wrote unit tests, raising code coverage from 30% to 65% to improve software reliability.
+Software Developer, Infobyte Solutions, Pune - June 2024 to present  
+  [same]    Built internal tools in Python and Django used by 40 staff  
+  [same]    Designed MySQL schemas and wrote reporting queries  
+  [changed] Managed client relationships for escalated issues  
+            (was: "Handled customer complaints escalated from support")  
+  [same]    Wrote unit tests, raised coverage 30% to 65%
 
-Intern, Infobyte Solutions, Pune  
-Jan 2024 – May 2024  
-- Fixed bugs in a Django application, contributing to product stability.  
-- Wrote REST API documentation to support developer onboarding and integration.
+Intern, Infobyte Solutions - Jan 2024 to May 2024  
+  [same]    Fixed bugs in a Django app; wrote REST API documentation
 
-EDUCATION  
-B.E. Computer Engineering, Pune University, 2023
+EDUCATION:  
+[same] B.E. Computer Engineering, Pune University, 2023
 
-**WHAT I CHANGED**  
-- Reworded and reordered bullets to emphasize client interaction and reporting, as these are the closest (though not relevant) to the job requirements.
-- Placed MySQL as "relational databases" to align with typical accounting software stack language.
-- Highlighted internal tool development and reporting as the most transferable skills, though not directly relevant.
-- Kept the summary focused on software development, as no accounting experience is present.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 4+ years accounting experience  
 - GST and TDS filing  
 - Tally  
 - Advanced Excel  
 - Month-end close  
-- Managing multiple clients  
+- Managing multiple clients (in an accounting context)  
 - ERP migration  
-- Supervising a team
+- Supervising a team  
 
-These requirements are not supported anywhere in your CV.
+**ATS suggestions — advice only, do not apply these:**  
+- If your CV uses standard section headings and dates in a consistent format, you are fine.  
+- If you use a single column and text (not images) for all content, ATS will parse it well.  
+- If you do not mention Excel and this is relevant for your target jobs, consider adding it where appropriate.  
+- If you ever apply for accounting roles, you will need to build relevant experience and skills first; your current CV is not suitable for this field.  
+
+**Summary:**  
+Your CV is not a match for this job. If you wish to move into accounting, you will need to gain relevant experience and skills, and then rewrite your CV accordingly.

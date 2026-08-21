@@ -4,60 +4,68 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None.  
-  - Your CV does not mention any frontend experience, JavaScript, React, CSS, responsive design, Figma, or cross-browser compatibility.
+**Requirements I meet:**  
+- None. My CV does not mention any frontend experience, JavaScript, React, CSS, Figma, or design work.
 
-**Hard requirements missing**  
-- 3+ years frontend experience — No evidence of any frontend work in your CV.
-- React and modern JavaScript — No mention of React or JavaScript.
-- Strong CSS and responsive design — No mention of CSS or frontend design.
+**Requirements I do not meet:**  
+- 3+ years frontend experience — No mention of frontend or UI work.
+- React and modern JavaScript — No mention of React, JavaScript, or any frontend framework.
+- Strong CSS and responsive design — No mention of CSS, HTML, or design.
 - Working from Figma designs — No mention of Figma or design tools.
-- Cross-browser compatibility — No mention of frontend/browser work.
+- Cross-browser compatibility — No mention of browser or UI testing.
+- TypeScript (nice to have) — Not mentioned.
+- Design background (nice to have) — Not mentioned.
 
-**Nice-to-haves met**  
-- None.  
-  - No mention of TypeScript or a design background.
-
-**Worth applying?** — Probably not; your CV is entirely backend-focused with no evidence of frontend skills or experience.
+**Worth applying?**  
+Probably not — your CV is entirely backend-focused with no evidence of frontend skills or experience, and you do not meet any of the core requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Vikram Iyer | vikram@email.com | Bengaluru
 
 SUMMARY  
-Backend engineer with 9 years of experience in distributed systems, specializing in Go, Python, and large-scale infrastructure.
+[changed] Backend engineer, 9 years, distributed systems.  
+(was: Backend engineer, 9 years, distributed systems.)
 
 SKILLS  
-Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC
+[changed] Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC  
+(was: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC)
 
-EXPERIENCE
+EXPERIENCE  
 
-Staff Engineer, ScaleWorks — 2021 to present  
-- Owned a 60-node Kubernetes cluster serving 12M requests a day  
-- Led a team of 5; managed hiring and design reviews  
-- Reduced p99 latency from 340ms to 90ms by reworking Postgres indexes  
+Staff Engineer, ScaleWorks - 2021 to present  
+  [same]    Own a 60-node Kubernetes cluster serving 12M requests a day  
+  [same]    Led a team of 5; ran hiring and design reviews  
+  [same]    Cut p99 latency from 340ms to 90ms by reworking Postgres indexes  
 
-Senior Engineer, DataCore — 2017 to 2021  
-- Built Kafka pipelines processing 2TB daily  
+Senior Engineer, DataCore - 2017 to 2021  
+  [same]    Built Kafka pipelines processing 2TB daily  
 
 EDUCATION  
-M.Tech CSE, IIT Madras, 2017
+[changed] M.Tech CSE, IIT Madras, 2017  
+(was: M.Tech CSE, IIT Madras, 2017)
 
-**WHAT I CHANGED**
-- Maintained original order and content, as none of your experience matches the frontend requirements.
-- Kept summary and skills focused on backend and distributed systems, as per your background.
-- Did not attempt to reword or surface any frontend-related skills, since none exist in your CV.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**
-- 3+ years frontend experience
-- React and modern JavaScript
-- CSS and responsive design
-- Figma or design tools
-- Cross-browser compatibility
-- TypeScript
-- Design background
+**What I deliberately did not add:**  
+- 3+ years frontend experience  
+- React and modern JavaScript  
+- CSS and responsive design  
+- Figma or design tools  
+- Cross-browser compatibility  
+- TypeScript  
+- Design background  
 
-(If this list is empty, say so explicitly. In this case, it is not.)
+Your CV does not support any of these requirements, so they were not added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- Dates are in a consistent format — fine.
+- If your CV uses a single column and text (not images) for all content, you are ATS-friendly.
+- If your contact details are in the header or a photo, move them to plain text at the top for better parsing.
+- Save as PDF with selectable text, not a scan, for best results.
+
+**Summary:**  
+Your CV is well-structured for backend roles but does not match this frontend job at all. If you wish to move into frontend, you will need to gain and evidence relevant skills and experience first.

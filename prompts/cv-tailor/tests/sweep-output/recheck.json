@@ -2,7 +2,7 @@
   {
     "cv": "accountant",
     "jd": "accountant-jd",
-    "score": 90,
+    "score": 92,
     "at_risk": 0,
     "fabricated": [],
     "has_gaps": true
@@ -10,7 +10,7 @@
   {
     "cv": "accountant",
     "jd": "backend-mid",
-    "score": 10,
+    "score": 0,
     "at_risk": 4,
     "fabricated": [],
     "has_gaps": true
@@ -26,7 +26,7 @@
   {
     "cv": "accountant",
     "jd": "data-analyst-jd",
-    "score": 32,
+    "score": 38,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -34,7 +34,7 @@
   {
     "cv": "accountant",
     "jd": "frontend",
-    "score": 7,
+    "score": 0,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -50,7 +50,7 @@
   {
     "cv": "accountant",
     "jd": "ml-engineer",
-    "score": 5,
+    "score": 0,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
@@ -66,7 +66,7 @@
   {
     "cv": "accountant",
     "jd": "support-jd",
-    "score": 18,
+    "score": 32,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -74,7 +74,7 @@
   {
     "cv": "accountant",
     "jd": "teacher-jd",
-    "score": 12,
+    "score": 18,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -82,7 +82,7 @@
   {
     "cv": "data-analyst",
     "jd": "accountant-jd",
-    "score": 12,
+    "score": 18,
     "at_risk": 3,
     "fabricated": [],
     "has_gaps": true
@@ -90,7 +90,7 @@
   {
     "cv": "data-analyst",
     "jd": "backend-mid",
-    "score": 34,
+    "score": 38,
     "at_risk": 4,
     "fabricated": [],
     "has_gaps": true
@@ -106,7 +106,7 @@
   {
     "cv": "data-analyst",
     "jd": "data-analyst-jd",
-    "score": 92,
+    "score": 90,
     "at_risk": 1,
     "fabricated": [],
     "has_gaps": true
@@ -114,7 +114,7 @@
   {
     "cv": "data-analyst",
     "jd": "frontend",
-    "score": 12,
+    "score": 10,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -122,7 +122,7 @@
   {
     "cv": "data-analyst",
     "jd": "marketing-jd",
-    "score": 30,
+    "score": 18,
     "at_risk": 3,
     "fabricated": [],
     "has_gaps": true
@@ -130,7 +130,7 @@
   {
     "cv": "data-analyst",
     "jd": "ml-engineer",
-    "score": 22,
+    "score": 32,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
@@ -162,7 +162,7 @@
   {
     "cv": "designer",
     "jd": "accountant-jd",
-    "score": 7,
+    "score": 10,
     "at_risk": 3,
     "fabricated": [],
     "has_gaps": true
@@ -178,7 +178,7 @@
   {
     "cv": "designer",
     "jd": "backend-senior",
-    "score": 5,
+    "score": 0,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
@@ -186,7 +186,7 @@
   {
     "cv": "designer",
     "jd": "data-analyst-jd",
-    "score": 12,
+    "score": 32,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -194,7 +194,7 @@
   {
     "cv": "designer",
     "jd": "frontend",
-    "score": 38,
+    "score": 52,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -202,7 +202,7 @@
   {
     "cv": "designer",
     "jd": "marketing-jd",
-    "score": 20,
+    "score": 32,
     "at_risk": 3,
     "fabricated": [],
     "has_gaps": true
@@ -218,7 +218,7 @@
   {
     "cv": "designer",
     "jd": "rockstar",
-    "score": 12,
+    "score": 18,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
@@ -226,7 +226,7 @@
   {
     "cv": "designer",
     "jd": "support-jd",
-    "score": 18,
+    "score": 32,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -234,7 +234,7 @@
   {
     "cv": "designer",
     "jd": "teacher-jd",
-    "score": 18,
+    "score": 32,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -242,7 +242,7 @@
   {
     "cv": "fresher",
     "jd": "accountant-jd",
-    "score": 5,
+    "score": 10,
     "at_risk": 3,
     "fabricated": [],
     "has_gaps": true
@@ -250,7 +250,7 @@
   {
     "cv": "fresher",
     "jd": "backend-mid",
-    "score": 23,
+    "score": 35,
     "at_risk": 3,
     "fabricated": [],
     "has_gaps": true
@@ -266,7 +266,7 @@
   {
     "cv": "fresher",
     "jd": "data-analyst-jd",
-    "score": 18,
+    "score": 34,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -274,7 +274,7 @@
   {
     "cv": "fresher",
     "jd": "frontend",
-    "score": 12,
+    "score": 22,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -282,7 +282,7 @@
   {
     "cv": "fresher",
     "jd": "marketing-jd",
-    "score": 5,
+    "score": 10,
     "at_risk": 3,
     "fabricated": [],
     "has_gaps": true
@@ -290,7 +290,7 @@
   {
     "cv": "fresher",
     "jd": "ml-engineer",
-    "score": 10,
+    "score": 18,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
@@ -298,7 +298,7 @@
   {
     "cv": "fresher",
     "jd": "rockstar",
-    "score": 22,
+    "score": 33,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
@@ -306,7 +306,7 @@
   {
     "cv": "fresher",
     "jd": "support-jd",
-    "score": 10,
+    "score": 20,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -322,7 +322,7 @@
   {
     "cv": "junior-dev",
     "jd": "accountant-jd",
-    "score": 5,
+    "score": 0,
     "at_risk": 3,
     "fabricated": [],
     "has_gaps": true
@@ -330,69 +330,149 @@
   {
     "cv": "junior-dev",
     "jd": "backend-mid",
+    "score": 72,
+    "at_risk": 1,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "backend-senior",
+    "score": 32,
+    "at_risk": 5,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "data-analyst-jd",
+    "score": 52,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "frontend",
+    "score": 35,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "marketing-jd",
+    "score": 10,
+    "at_risk": 3,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "ml-engineer",
+    "score": 32,
+    "at_risk": 5,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "rockstar",
+    "score": 56,
+    "at_risk": 5,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "support-jd",
+    "score": 38,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "teacher-jd",
+    "score": 10,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "marketer",
+    "jd": "accountant-jd",
+    "score": 10,
+    "at_risk": 3,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "marketer",
+    "jd": "backend-mid",
+    "score": 10,
+    "at_risk": 4,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "marketer",
+    "jd": "backend-senior",
+    "score": 0,
+    "at_risk": 5,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "marketer",
+    "jd": "data-analyst-jd",
+    "score": 32,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "marketer",
+    "jd": "frontend",
+    "score": 10,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "marketer",
+    "jd": "marketing-jd",
     "score": 70,
     "at_risk": 1,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "junior-dev",
-    "jd": "backend-senior",
-    "score": 22,
+    "cv": "marketer",
+    "jd": "ml-engineer",
+    "score": 0,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "junior-dev",
-    "jd": "data-analyst-jd",
-    "score": 37,
-    "at_risk": 2,
+    "cv": "marketer",
+    "jd": "rockstar",
+    "score": 10,
+    "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "junior-dev",
-    "jd": "frontend",
+    "cv": "marketer",
+    "jd": "support-jd",
     "score": 32,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "junior-dev",
-    "jd": "marketing-jd",
-    "score": 10,
-    "at_risk": 3,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "junior-dev",
-    "jd": "ml-engineer",
-    "score": 15,
-    "at_risk": 5,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "junior-dev",
-    "jd": "rockstar",
-    "score": 41,
-    "at_risk": 5,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "junior-dev",
-    "jd": "support-jd",
-    "score": 33,
-    "at_risk": 2,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "junior-dev",
+    "cv": "marketer",
     "jd": "teacher-jd",
     "score": 10,
     "at_risk": 2,
@@ -400,7 +480,7 @@
     "has_gaps": true
   },
   {
-    "cv": "marketer",
+    "cv": "nurse",
     "jd": "accountant-jd",
     "score": 10,
     "at_risk": 3,
@@ -408,15 +488,15 @@
     "has_gaps": true
   },
   {
-    "cv": "marketer",
+    "cv": "nurse",
     "jd": "backend-mid",
-    "score": 10,
+    "score": 0,
     "at_risk": 4,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "marketer",
+    "cv": "nurse",
     "jd": "backend-senior",
     "score": 0,
     "at_risk": 5,
@@ -424,55 +504,135 @@
     "has_gaps": true
   },
   {
-    "cv": "marketer",
+    "cv": "nurse",
     "jd": "data-analyst-jd",
-    "score": 25,
-    "at_risk": 2,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "marketer",
-    "jd": "frontend",
     "score": 10,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "marketer",
+    "cv": "nurse",
+    "jd": "frontend",
+    "score": 0,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "nurse",
     "jd": "marketing-jd",
-    "score": 68,
+    "score": 0,
+    "at_risk": 3,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "nurse",
+    "jd": "ml-engineer",
+    "score": 0,
+    "at_risk": 5,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "nurse",
+    "jd": "rockstar",
+    "score": 0,
+    "at_risk": 5,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "nurse",
+    "jd": "support-jd",
+    "score": 30,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "nurse",
+    "jd": "teacher-jd",
+    "score": 35,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "accountant-jd",
+    "score": 10,
+    "at_risk": 3,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "backend-mid",
+    "score": 65,
+    "at_risk": 4,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "backend-senior",
+    "score": 90,
     "at_risk": 1,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "marketer",
-    "jd": "ml-engineer",
-    "score": 5,
-    "at_risk": 5,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "marketer",
-    "jd": "rockstar",
-    "score": 6,
-    "at_risk": 5,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "marketer",
-    "jd": "support-jd",
-    "score": 28,
+    "cv": "senior-dev",
+    "jd": "data-analyst-jd",
+    "score": 32,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "marketer",
+    "cv": "senior-dev",
+    "jd": "frontend",
+    "score": 10,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "marketing-jd",
+    "score": 0,
+    "at_risk": 3,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "ml-engineer",
+    "score": 32,
+    "at_risk": 5,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "rockstar",
+    "score": 45,
+    "at_risk": 5,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "support-jd",
+    "score": 30,
+    "at_risk": 2,
+    "fabricated": [],
+    "has_gaps": true
+  },
+  {
+    "cv": "senior-dev",
     "jd": "teacher-jd",
     "score": 10,
     "at_risk": 2,
@@ -480,193 +640,33 @@
     "has_gaps": true
   },
   {
-    "cv": "nurse",
+    "cv": "support",
     "jd": "accountant-jd",
-    "score": 5,
+    "score": 20,
     "at_risk": 3,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "nurse",
+    "cv": "support",
     "jd": "backend-mid",
-    "score": 5,
-    "at_risk": 4,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "nurse",
-    "jd": "backend-senior",
-    "score": 0,
-    "at_risk": 5,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "nurse",
-    "jd": "data-analyst-jd",
-    "score": 10,
-    "at_risk": 2,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "nurse",
-    "jd": "frontend",
-    "score": 0,
-    "at_risk": 2,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "nurse",
-    "jd": "marketing-jd",
-    "score": 5,
-    "at_risk": 3,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "nurse",
-    "jd": "ml-engineer",
-    "score": 0,
-    "at_risk": 5,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "nurse",
-    "jd": "rockstar",
-    "score": 5,
-    "at_risk": 5,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "nurse",
-    "jd": "support-jd",
     "score": 18,
-    "at_risk": 2,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "nurse",
-    "jd": "teacher-jd",
-    "score": 32,
-    "at_risk": 2,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "senior-dev",
-    "jd": "accountant-jd",
-    "score": 0,
-    "at_risk": 3,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "senior-dev",
-    "jd": "backend-mid",
-    "score": 61,
     "at_risk": 4,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "senior-dev",
+    "cv": "support",
     "jd": "backend-senior",
-    "score": 95,
-    "at_risk": 1,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "senior-dev",
-    "jd": "data-analyst-jd",
-    "score": 32,
-    "at_risk": 2,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "senior-dev",
-    "jd": "frontend",
-    "score": 10,
-    "at_risk": 2,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "senior-dev",
-    "jd": "marketing-jd",
-    "score": 10,
-    "at_risk": 3,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "senior-dev",
-    "jd": "ml-engineer",
-    "score": 32,
+    "score": 30,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
   },
   {
-    "cv": "senior-dev",
-    "jd": "rockstar",
+    "cv": "support",
+    "jd": "data-analyst-jd",
     "score": 38,
-    "at_risk": 5,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "senior-dev",
-    "jd": "support-jd",
-    "score": 32,
-    "at_risk": 2,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "senior-dev",
-    "jd": "teacher-jd",
-    "score": 10,
-    "at_risk": 2,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "support",
-    "jd": "accountant-jd",
-    "score": 10,
-    "at_risk": 3,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "support",
-    "jd": "backend-mid",
-    "score": 12,
-    "at_risk": 4,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "support",
-    "jd": "backend-senior",
-    "score": 18,
-    "at_risk": 5,
-    "fabricated": [],
-    "has_gaps": true
-  },
-  {
-    "cv": "support",
-    "jd": "data-analyst-jd",
-    "score": 32,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -682,7 +682,7 @@
   {
     "cv": "support",
     "jd": "marketing-jd",
-    "score": 10,
+    "score": 18,
     "at_risk": 3,
     "fabricated": [],
     "has_gaps": true
@@ -698,7 +698,7 @@
   {
     "cv": "support",
     "jd": "rockstar",
-    "score": 15,
+    "score": 20,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
@@ -706,7 +706,7 @@
   {
     "cv": "support",
     "jd": "support-jd",
-    "score": 82,
+    "score": 85,
     "at_risk": 0,
     "fabricated": [],
     "has_gaps": true
@@ -714,7 +714,7 @@
   {
     "cv": "support",
     "jd": "teacher-jd",
-    "score": 13,
+    "score": 30,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -730,7 +730,7 @@
   {
     "cv": "teacher",
     "jd": "backend-mid",
-    "score": 5,
+    "score": 0,
     "at_risk": 4,
     "fabricated": [],
     "has_gaps": true
@@ -738,7 +738,7 @@
   {
     "cv": "teacher",
     "jd": "backend-senior",
-    "score": 10,
+    "score": 0,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
@@ -746,7 +746,7 @@
   {
     "cv": "teacher",
     "jd": "data-analyst-jd",
-    "score": 12,
+    "score": 10,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -754,7 +754,7 @@
   {
     "cv": "teacher",
     "jd": "frontend",
-    "score": 10,
+    "score": 0,
     "at_risk": 2,
     "fabricated": [],
     "has_gaps": true
@@ -770,7 +770,7 @@
   {
     "cv": "teacher",
     "jd": "ml-engineer",
-    "score": 5,
+    "score": 0,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
@@ -778,7 +778,7 @@
   {
     "cv": "teacher",
     "jd": "rockstar",
-    "score": 5,
+    "score": 0,
     "at_risk": 5,
     "fabricated": [],
     "has_gaps": true
@@ -794,7 +794,7 @@
   {
     "cv": "teacher",
     "jd": "teacher-jd",
-    "score": 83,
+    "score": 82,
     "at_risk": 1,
     "fabricated": [],
     "has_gaps": true

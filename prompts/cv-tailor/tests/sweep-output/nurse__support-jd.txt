@@ -2,74 +2,73 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 18/100
+MATCH: 30/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - Leading a small team  
-  - "Trained 8 junior nurses on documentation standards" (shows some leadership/training experience)
+  - "Trained 8 junior nurses on documentation standards"  
+  - "Coordinated between doctors, pharmacy and families" (shows some team coordination)  
 
-**Hard requirements missing**  
+**Requirements I do not meet:**  
 - 3+ years customer-facing SaaS  
-  - No SaaS or software industry experience mentioned anywhere in CV.
+  - No SaaS or software company experience shown  
 - Owning retention and escalations  
-  - No evidence of responsibility for customer retention or handling escalations in a business context.
+  - No evidence of customer retention, account management, or handling escalations  
 - CRM tools such as Zendesk or Intercom  
-  - Only "Epic EHR" (healthcare record system), not a customer support CRM.
+  - No CRM tools listed; only Epic EHR (healthcare-specific)  
 - Writing customer documentation  
-  - No mention of documentation for customers; only "documentation standards" for internal use.
-
-**Nice-to-haves met**  
-- None.
-
-**Nice-to-haves missing**  
-- Basic SQL  
-  - Not mentioned.
-- Designing an onboarding programme  
-  - Not mentioned.
+  - No mention of documentation for customers; only "documentation standards" (likely internal)  
+- Nice to have: basic SQL  
+  - No SQL or database skills listed  
+- Nice to have: designing an onboarding programme  
+  - No onboarding programme design experience shown  
 
 **Worth applying?**  
-Probably not — your experience is entirely in clinical nursing, with no SaaS, CRM, or customer success background.
+Probably not — your experience is entirely in clinical nursing, with no SaaS, CRM, or customer success background, and you do not meet any of the core requirements for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Rahul Mehta | rahul@email.com | Mumbai
+SUMMARY:  
+[changed] Registered nurse with 6 years of experience in critical care, team coordination, and training junior staff.  
+(was: "Registered nurse, 6 years critical care.")
 
-SUMMARY  
-Experienced registered nurse with a strong background in critical care, team coordination, and training. Skilled in patient assessment, documentation standards, and cross-functional communication in high-pressure environments.
-
-SKILLS  
-- Team leadership and training  
-- Patient assessment  
-- Triage and crisis management  
-- Documentation standards  
-- Epic EHR  
-- IV therapy  
-- Coordination with multidisciplinary teams
+SKILLS:  
+[changed] Team coordination, training, documentation standards, Epic EHR, patient assessment, IV therapy, triage  
+(was: "Patient assessment, IV therapy, Epic EHR, triage, team coordination")
 
 EXPERIENCE  
+Staff Nurse, Lilavati Hospital - 2019 to present  
+  [changed] Coordinated between doctors, pharmacy, and families to ensure effective communication and care delivery  
+    (was: "Coordinated between doctors, pharmacy and families")  
+  [changed] Trained 8 junior nurses on documentation standards and best practices  
+    (was: "Trained 8 junior nurses on documentation standards")  
+  [same]   Managed up to 12 ICU patients per shift  
 
-Staff Nurse, Lilavati Hospital — 2019 to present  
-- Managed up to 12 ICU patients per shift, ensuring high-quality care and clear communication with doctors, pharmacy, and families.  
-- Trained 8 junior nurses on documentation standards, supporting team development and adherence to protocols.  
-- Coordinated between medical staff and patient families to facilitate care delivery and resolve issues.  
+EDUCATION:  
+B.Sc. Nursing, MUHS, 2019  
+[same]
 
-EDUCATION  
-B.Sc. Nursing, MUHS, 2019
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I CHANGED**  
-- Rewrote the summary to emphasize leadership, training, and coordination, which are most relevant to customer success roles.  
-- Placed team leadership and training first in the skills section, using the job’s vocabulary where possible.  
-- Expanded the experience bullets to highlight cross-functional coordination and issue resolution, aligning with client relationship management concepts.  
-- Compressed unrelated clinical details to focus on transferable skills.
-
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 3+ years customer-facing SaaS experience  
+**What I deliberately did not add:**  
+- 3+ years customer-facing SaaS  
 - Owning retention and escalations  
 - CRM tools such as Zendesk or Intercom  
 - Writing customer documentation  
 - Basic SQL  
-- Designing an onboarding programme
+- Designing an onboarding programme  
 
-These requirements are not supported by your CV and are therefore not claimed.
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear — good for ATS.  
+- Dates are in a consistent format — fine.  
+- Your CV is single column and uses plain text — ideal for parsing.  
+- All content is text, not images — good.  
+- If you use a photo, ensure your contact details are outside the image.  
+- Save as PDF with selectable text, not a scan, for best parsing.  
+
+**Summary:**  
+Your CV is well-structured for ATS, but your experience is not a match for this SaaS Customer Success Manager role. Consider roles that leverage your clinical background or seek additional experience in SaaS, CRM tools, and customer-facing environments if you wish to pivot.

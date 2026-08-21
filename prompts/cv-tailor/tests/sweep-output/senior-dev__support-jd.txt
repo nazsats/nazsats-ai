@@ -2,74 +2,72 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 32/100
+MATCH: 30/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - Leading a small team  
-  - "Led a team of 5; ran hiring and design reviews" (ScaleWorks)
+  - "Led a team of 5; ran hiring and design reviews" (ScaleWorks)  
+- Basic SQL (nice to have)  
+  - "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes"  
+  - "PostgreSQL" in Skills  
 
-**Hard requirements missing**  
+**Requirements I do not meet:**  
 - 3+ years customer-facing SaaS  
-  - No evidence of customer-facing roles or SaaS customer interaction in your CV.
+  - No evidence of any customer-facing work, SaaS or otherwise  
 - Owning retention and escalations  
-  - No mention of retention, escalations, or customer success responsibilities.
+  - No mention of retention, escalations, or customer ownership  
 - CRM tools such as Zendesk or Intercom  
-  - No mention of any CRM tools in your skills or experience.
+  - No mention of CRM tools or customer support platforms  
 - Writing customer documentation  
-  - No mention of documentation, customer-facing or otherwise.
-
-**Nice-to-haves met**  
-- Basic SQL  
-  - "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes" (ScaleWorks) — shows SQL knowledge.
-
-**Nice-to-haves missing**  
-- Designing an onboarding programme  
-  - No mention of onboarding programmes or similar activities.
+  - No evidence of documentation, internal or external  
+- Designing an onboarding programme (nice to have)  
+  - No mention of onboarding, training, or enablement  
 
 **Worth applying?**  
-Probably not — you have strong engineering and leadership experience, but lack any evidence of customer-facing SaaS, CRM tools, or customer success responsibilities.
+Probably not — your CV shows strong engineering and leadership, but no customer-facing or SaaS success experience, and you lack all core requirements for this CSM role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Vikram Iyer | vikram@email.com | Bengaluru
+SUMMARY:  
+[changed] Backend engineer, 9 years, distributed systems and team leadership.  
+(was: "Backend engineer, 9 years, distributed systems.")
 
-SUMMARY  
-Experienced backend engineer with 9 years in distributed systems, team leadership, and relational database optimization. Skilled in technical problem-solving and leading engineering teams in high-scale SaaS environments.
-
-SKILLS  
-- Team leadership  
-- Distributed systems (Go, Python, Kubernetes, AWS)  
-- Relational databases (PostgreSQL)  
-- Data pipelines (Kafka)  
-- Infrastructure as Code (Terraform)  
-- gRPC
+SKILLS:  
+[changed] Go, Python, Kubernetes, AWS, PostgreSQL (SQL), Kafka, Terraform, gRPC  
+(was: "Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC")
 
 EXPERIENCE
 
-Staff Engineer, ScaleWorks — 2021 to present  
-- Led a team of 5 engineers, including hiring and technical design reviews.  
-- Owned a 60-node Kubernetes cluster serving 12M requests daily.  
-- Improved system performance by reducing p99 latency from 340ms to 90ms through PostgreSQL index optimization.
+Staff Engineer, ScaleWorks - 2021 to present  
+  [moved]   Led a team of 5; ran hiring and design reviews  
+  [same]    Own a 60-node Kubernetes cluster serving 12M requests a day  
+  [same]    Cut p99 latency from 340ms to 90ms by reworking Postgres indexes  
 
-Senior Engineer, DataCore — 2017 to 2021  
-- Built and maintained Kafka pipelines processing 2TB of data daily.
+Senior Engineer, DataCore - 2017 to 2021  
+  [same]    Built Kafka pipelines processing 2TB daily  
 
-EDUCATION  
-M.Tech, Computer Science & Engineering, IIT Madras, 2017
+EDUCATION:  
+[same] M.Tech CSE, IIT Madras, 2017
 
-**WHAT I CHANGED**  
-- Placed team leadership first in skills and experience to match the requirement for leading a small team.  
-- Highlighted SaaS scale and technical ownership to align with SaaS context (though not customer-facing).  
-- Surfaced relational database and SQL experience as a nice-to-have.  
-- Compressed unrelated technical details and focused on leadership and system ownership.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 3+ years customer-facing SaaS experience  
+**What I deliberately did not add:**  
+- Customer-facing SaaS experience  
 - Owning retention and escalations  
 - CRM tools such as Zendesk or Intercom  
 - Writing customer documentation  
-- Designing an onboarding programme
+- Designing an onboarding programme  
 
-These requirements are not supported by your CV and are therefore not included.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.  
+- Dates are consistent and clear.  
+- All content is in text, not images or graphics — good.  
+- If your file is not a selectable-text PDF, save it as one for ATS compatibility.  
+- If you use a photo, do not put contact details inside it (none shown here).  
+- If your layout is multi-column, consider switching to single column for better parsing.  
+
+Let me know if you want advice on pivoting your CV for customer-facing roles — you would need to gain and evidence relevant experience first.

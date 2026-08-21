@@ -4,60 +4,67 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None. There is no evidence in your CV of analytics experience, SQL, dashboarding, Excel, or communicating data findings.
+**Requirements I meet:**  
+- None. Your CV does not show any analytics, SQL, dashboarding, Excel, or data communication experience.
 
-**Hard requirements missing**  
-- 2+ years analytics: No analytics experience mentioned.
-- Strong SQL: No mention of SQL or any database querying.
-- Dashboarding in Power BI or Tableau: No mention of either tool or dashboarding.
-- Excel: Not listed as a skill or in experience.
-- Communicating findings to non-technical stakeholders: While you coordinated between doctors, pharmacy, and families, this is not the same as communicating data findings.
-
-**Nice-to-haves met**  
-- None. No mention of Python or A/B testing.
+**Requirements I do not meet:**  
+- 2+ years analytics: No analytics experience is listed.
+- Strong SQL: No mention of SQL or any database experience.
+- Dashboarding in Power BI or Tableau: No mention of dashboarding or these tools.
+- Excel: Not listed as a skill or in any experience.
+- Communicating findings to non-technical stakeholders: While you mention "coordinated between doctors, pharmacy and families," this is not the same as communicating data findings.
+- Python: Not listed.
+- A/B testing: Not listed.
 
 **Worth applying?**  
-Probably not — your CV is in a different field (nursing), with no evidence of analytics, technical, or data skills required for this job.
+Probably not — your background is in nursing/healthcare, and your CV does not show any analytics, technical, or data experience required for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
 Rahul Mehta | rahul@email.com | Mumbai
 
-SUMMARY  
-Registered nurse with 6 years of critical care experience, skilled in patient assessment, team coordination, and clinical documentation. Proven ability to manage complex situations and collaborate with multidisciplinary teams.
+SUMMARY:  
+[changed] Registered nurse with 6 years of experience in critical care, skilled in patient assessment, IV therapy, Epic EHR, triage, and team coordination.  
+(was: Registered nurse, 6 years critical care.)
 
-SKILLS  
-- Patient assessment  
-- IV therapy  
-- Epic EHR  
-- Triage  
-- Team coordination
+SKILLS:  
+[changed] Patient assessment, IV therapy, Epic EHR, triage, team coordination  
+(was: Patient assessment, IV therapy, Epic EHR, triage, team coordination)
 
 EXPERIENCE
 
-Staff Nurse, Lilavati Hospital — 2019 to present  
-- Managed up to 12 ICU patients per shift, ensuring high standards of care and patient safety  
-- Trained 8 junior nurses on documentation standards, improving accuracy and compliance  
-- Coordinated between doctors, pharmacy, and families to facilitate effective patient care
+Staff Nurse, Lilavati Hospital - 2019 to present  
+  [changed] Coordinated between doctors, pharmacy, and families to ensure effective patient care.  
+            (was: Coordinated between doctors, pharmacy and families)  
+  [same]    Managed up to 12 ICU patients per shift  
+  [same]    Trained 8 junior nurses on documentation standards
 
-EDUCATION  
+EDUCATION:  
 B.Sc. Nursing, MUHS, 2019
 
-**WHAT I CHANGED**  
-- Reworded and reordered the summary to emphasize coordination and communication, the closest adjacent skills to the job requirements.
-- Highlighted team coordination and documentation training as the most relevant experience.
-- Compressed unrelated details to focus on transferable skills.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 2+ years analytics experience  
-- Strong SQL  
+- SQL  
 - Dashboarding in Power BI or Tableau  
 - Excel  
 - Communicating data findings to non-technical stakeholders  
 - Python  
-- A/B testing
+- A/B testing  
 
-These requirements are not supported by your CV.
+Your CV does not support any of these requirements, so they were not added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION").
+- Dates are in a consistent format.
+- All content is text-based, not images or graphics.
+- If you use a photo, ensure contact details are not inside it.
+- Save as PDF with selectable text, not a scan, to ensure ATS readability.
+
+**Biggest gap:**  
+Your experience is entirely in nursing/healthcare, with no analytics, technical, or data-related skills or experience. If you are interested in data analyst roles, consider gaining relevant skills (SQL, Excel, Power BI/Tableau, Python) and experience before applying.

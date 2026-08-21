@@ -4,72 +4,67 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 5/100
 
-**Hard requirements met**  
-- 5+ years experience: "Accountant, 5 years" — but in accounting, not software.
-- Has led a team of at least 3: No evidence in CV.
-- Python (5+ years): Not mentioned.
-- Production Kubernetes: Not mentioned.
-- PostgreSQL at scale with query optimisation and replication: Not mentioned.
-- AWS (EKS, RDS, S3): Not mentioned.
-- Terraform: Not mentioned.
+**Requirements I meet**  
+- 5+ years experience (in any field): "Accountant, 5 years, SME bookkeeping and compliance."  
+- Team leadership (adjacent): None explicitly, but "Manage books for 22 SME clients" shows responsibility, not people management.
 
-**Hard requirements missing**  
-- 5+ years Python: No mention of Python or any programming language.
-- Production Kubernetes: No mention of Kubernetes or container orchestration.
-- PostgreSQL at scale (query optimisation, replication): No mention of PostgreSQL or any database technology except Excel and Tally (accounting software).
+**Requirements I do not meet**  
+- Python (5+ years): No mention of Python or any programming language.
+- Production Kubernetes: No mention of Kubernetes or any container orchestration.
+- PostgreSQL at scale, query optimisation, replication: No mention of PostgreSQL or any database technology.
 - AWS (EKS, RDS, S3): No mention of AWS or any cloud platform.
-- Terraform: Not mentioned.
-- Has led a team of at least 3: No evidence of team leadership or management.
-
-**Nice-to-haves met**  
-- None.  
-  - Go: Not mentioned.
-  - Kafka: Not mentioned.
+- Terraform: No mention of Terraform or infrastructure as code.
+- Led a team of at least 3: No evidence of team leadership or management.
+- Go, Kafka (nice to have): No mention of either.
 
 **Worth applying?**  
-Probably not — your experience is entirely in accounting, with no evidence of software engineering, Python, or any of the required technologies.
+Probably not — your experience is in accounting and SME finance, with no evidence of software engineering or the required technologies.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Sneha Kulkarni | sneha@email.com | Nashik
 
 SUMMARY  
-Experienced accountant with 5 years managing SME bookkeeping, compliance, and financial process optimisation. Skilled in Tally, GST filing, TDS, and advanced Excel modelling.
+[changed] Accountant, 5 years, SME bookkeeping and compliance.  
+(was: Accountant, 5 years, SME bookkeeping and compliance.)
 
 SKILLS  
-- Bookkeeping and compliance for SMEs  
-- Tally  
-- GST and TDS filing  
-- Advanced Excel (including financial modelling and reconciliation)  
-- Payroll management  
+[changed] Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll  
+(was: Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll)
 
 EXPERIENCE  
 
-Senior Accountant, Deshmukh and Co — 2021 to present  
-- Manage books for 22 SME clients, ensuring accurate and timely financial records  
-- File GST and TDS returns with zero late filings in four years  
-- Built Excel models that reduced monthly close from 6 days to 2  
-- Handle payroll and reconciliation for multiple clients  
+Senior Accountant, Deshmukh and Co - 2021 to present  
+  [changed] Manage books for 22 SME clients  
+  (was: Manage books for 22 SME clients)  
+  [changed] File GST and TDS returns; zero late filings in four years  
+  (was: File GST and TDS returns; zero late filings in four years)  
+  [changed] Built Excel models cutting monthly close from 6 days to 2  
+  (was: Built Excel models cutting monthly close from 6 days to 2)
 
 EDUCATION  
-M.Com, Pune University, 2020
+[changed] M.Com, Pune University, 2020  
+(was: M.Com, Pune University, 2020)
 
-**WHAT I CHANGED**  
-- Reordered and expanded bullets to emphasise process optimisation and client management, as these are the most transferable skills.
-- Used more formal language to match the seniority of the target role.
-- Highlighted advanced Excel modelling and process improvements.
-- Compressed education and unrelated details.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Python (any experience or projects)
-- Kubernetes (any experience)
-- PostgreSQL (any experience)
-- AWS (any experience)
-- Terraform (any experience)
-- Go (any experience)
-- Kafka (any experience)
-- Team leadership (no evidence in CV)
+**What I deliberately did not add**  
+- Python (no evidence in CV)  
+- Kubernetes (no evidence in CV)  
+- PostgreSQL (no evidence in CV)  
+- AWS (no evidence in CV)  
+- Terraform (no evidence in CV)  
+- Team leadership (no evidence in CV)  
+- Go, Kafka (no evidence in CV)  
 
-If you wish to move into backend engineering, consider upskilling and gaining relevant experience before applying to such roles.
+**ATS suggestions — advice only, do not apply these**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- Dates are in a consistent format — fine.
+- If your CV uses a single column and text (not images) for all content, you are ATS-friendly. If not, switch to single column and text.
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can parse it.
+- Do not put contact details inside a photo or header/footer — keep them as text at the top.
+
+**Summary:**  
+Your CV is well-structured for accounting roles, but does not match any requirements for a Senior Backend Engineer (Python/Kubernetes). Consider upskilling and gaining relevant experience if you wish to transition to this field.

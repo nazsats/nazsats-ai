@@ -4,66 +4,60 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - Familiarity with digital learning tools  
-  - No direct evidence, but as a software developer, you may have some exposure; however, your CV does not mention any digital learning tools specifically.
+  - [SKILLS]: "Python, Django, MySQL, HTML, CSS, JavaScript, Git, REST APIs" (shows comfort with digital tools, though not specifically educational ones)
 
-**Hard requirements missing**  
+**Requirements I do not meet:**  
 - 5+ years teaching or curriculum work  
-  - No teaching or curriculum design experience is listed.  
+  - Nothing in CV supports teaching, curriculum design, or 5+ years in any related field.  
 - Designing assessments  
-  - No mention of assessment design or related activities.  
+  - No mention of assessment design or related tasks.  
 - Subject expertise in physics or chemistry  
-  - No evidence of subject expertise in physics or chemistry; your degree is in Computer Engineering.  
+  - No evidence of subject expertise in science; degree is in Computer Engineering.  
 - Training other educators  
-  - No mention of training or mentoring educators or colleagues.  
-
-**Nice-to-haves met**  
-- None explicitly.  
-  - EdTech experience: Not mentioned.  
-  - Published material: Not mentioned.
+  - No mention of training, mentoring, or working with educators.  
+- EdTech experience (nice to have)  
+  - No EdTech experience listed.  
+- Published material (nice to have)  
+  - No mention of published work.
 
 **Worth applying?**  
-Probably not — you lack all core requirements (teaching/curriculum experience, subject expertise, assessment design), and your background is in software development, not science education.
+Probably not — your background is in software development, not science education or curriculum design, and you do not meet any of the core requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Priya Sharma | priya@email.com | Pune
+SUMMARY:  
+[changed] Software developer with experience building web applications and digital tools.  
+(was: "Software developer, 2 years, web applications.")
 
-SUMMARY  
-Software developer with experience building web applications and internal tools using Python, Django, and MySQL. Strong background in software development, unit testing, and customer support for technology solutions.
-
-SKILLS  
-- Python  
-- Django  
-- MySQL  
-- HTML, CSS, JavaScript  
-- REST APIs  
-- Git
+SKILLS:  
+[same] Python, Django, MySQL, HTML, CSS, JavaScript, Git, REST APIs
 
 EXPERIENCE
 
-Software Developer, Infobyte Solutions, Pune — June 2024 to present  
-- Built internal tools in Python and Django used by 40 staff  
-- Designed MySQL schemas and wrote reporting queries  
-- Handled customer complaints escalated from support  
-- Wrote unit tests, raised coverage 30% to 65%
+Software Developer, Infobyte Solutions, Pune - June 2024 to present  
+  [changed] Developed internal digital tools using Python and Django for 40 staff  
+    (was: "Built internal tools in Python and Django used by 40 staff")  
+  [same] Designed MySQL schemas and wrote reporting queries  
+  [changed] Managed client relationships for escalated issues  
+    (was: "Handled customer complaints escalated from support")  
+  [same] Wrote unit tests, raised coverage 30% to 65%
 
-Intern, Infobyte Solutions — Jan 2024 to May 2024  
-- Fixed bugs in a Django app; wrote REST API documentation
+Intern, Infobyte Solutions - Jan 2024 to May 2024  
+  [changed] Fixed bugs in a Django application; documented REST APIs  
+    (was: "Fixed bugs in a Django app; wrote REST API documentation")
 
-EDUCATION  
-B.E. Computer Engineering, Pune University, 2023
+EDUCATION:  
+[same] B.E. Computer Engineering, Pune University, 2023
 
-**WHAT I CHANGED**  
-- Kept the summary focused on software development, as there is no evidence of curriculum or science teaching experience.  
-- Ordered skills and experience to highlight technical abilities, as these are your strengths.  
-- Used the most relevant vocabulary from your CV, as nothing matches the job's requirements directly.  
-- Compressed education and unrelated experience.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 5+ years teaching or curriculum work  
 - Designing assessments  
 - Subject expertise in physics or chemistry  
@@ -71,4 +65,11 @@ B.E. Computer Engineering, Pune University, 2023
 - EdTech experience  
 - Published material
 
-If you gain experience in education, curriculum design, or science teaching, revisit this role in the future.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.  
+- Dates are in a consistent format — keep this.  
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can parse it.  
+- If your CV uses multiple columns or puts contact info in a header/footer, switch to a single column and keep all text in the main body for better parsing.
+
+**Summary:**  
+Your CV is well-structured for ATS, but your experience is not a match for this curriculum designer role. Consider applying for roles aligned with your software development background, or gain relevant experience before targeting curriculum design positions.

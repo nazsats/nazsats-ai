@@ -2,56 +2,68 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 12/100
+MATCH: 10/100
 
-**Hard requirements met**  
-- None.
+**Requirements I meet**  
+- None. Your CV does not mention any frontend development, JavaScript, React, CSS, Figma, or related skills.
 
-**Hard requirements missing**  
-- 3+ years frontend experience — No evidence of any frontend development in your CV.
-- React and modern JavaScript — No mention of React, JavaScript, or any frontend framework or language.
-- Strong CSS and responsive design — No mention of CSS, HTML, or responsive design.
-- Working from Figma designs — No mention of Figma or design tools.
-- Cross-browser compatibility — No mention of browser testing or compatibility work.
+**Requirements I do not meet**  
+- 3+ years frontend experience — Your CV is for a Data Analyst role, not frontend development.
+- React and modern JavaScript — No mention of React, JavaScript, or any frontend framework.
+- Strong CSS and responsive design — Not present.
+- Working from Figma designs — Not present.
+- Cross-browser compatibility — Not present.
+- TypeScript (nice to have) — Not present.
+- Design background (nice to have) — Not present.
 
-**Nice-to-haves met**  
-- None.  
-  - TypeScript — Not mentioned.
-  - Design background — Not mentioned.
-
-**Worth applying?** — Probably not; your CV is entirely in data analytics with no evidence of frontend or web development, so you would not pass screening for this role.
+**Worth applying?**  
+Probably not — your experience is in data analytics, not frontend development, and your CV does not show any relevant skills or experience for this job.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Nisha Verma | nisha@email.com | Gurgaon
 
 SUMMARY  
-Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Power BI dashboards, and A/B testing to drive business insights.
+[changed] Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Excel, Power BI, and Python (pandas).  
+(was: Data analyst, 3 years, retail analytics.)
 
 SKILLS  
-- SQL  
-- Power BI  
-- Excel  
-- Python (pandas)  
-- A/B testing  
-- Dashboards
+[changed] SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards  
+(was: SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards)
 
-EXPERIENCE
+EXPERIENCE  
 
-Data Analyst, RetailIQ — 2023 to present  
-- Built Power BI dashboards used by 30 store managers to visualize sales and performance metrics  
-- Wrote SQL queries for weekly sales reporting across 120 stores  
-- Conducted A/B tests on pricing strategies, resulting in a 4% increase in margin
+Data Analyst, RetailIQ - 2023 to present  
+  [same] Built Power BI dashboards used by 30 store managers  
+  [same] Wrote SQL for weekly sales reporting across 120 stores  
+  [same] Ran A/B tests on pricing; one raised margin 4 percent  
 
 EDUCATION  
-B.Sc Statistics, Delhi University, 2022
+[changed] B.Sc Statistics, Delhi University, 2022  
+(was: B.Sc Statistics, Delhi University, 2022)
 
-**WHAT I CHANGED**  
-- Kept the summary and skills focused on analytics, as there is no frontend experience to highlight.
-- Reordered and expanded bullets to emphasize dashboard building and data visualization, the closest adjacent experience to UI work.
-- Compressed education and unrelated details.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Any mention of frontend development, React, JavaScript, CSS, responsive design, Figma, cross-browser compatibility, TypeScript, or design background, as your CV contains no evidence of these skills or experiences.
+**What I deliberately did not add**  
+- 3+ years frontend experience  
+- React and modern JavaScript  
+- CSS and responsive design  
+- Working from Figma designs  
+- Cross-browser compatibility  
+- TypeScript  
+- Design background  
+
+Your CV does not mention any of these, so none could be added.
+
+**ATS suggestions — advice only, do not apply these.**  
+- Your headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- Dates are in a consistent format — good.
+- Your CV appears to be single-column and text-based — good for parsing.
+- No mention of images or graphics for key info — good.
+- If you use a photo, ensure contact details are outside it.
+- Save as PDF with selectable text, not a scan, for best parsing.
+
+**Summary:**  
+Your CV is well-structured for ATS, but you do not meet any requirements for this frontend developer job. If you wish to move into frontend roles, consider gaining and evidencing relevant skills and experience first.

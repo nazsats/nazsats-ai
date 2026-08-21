@@ -4,61 +4,63 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 0/100
 
-**Hard requirements met**  
-_None._
+**Requirements I meet:**  
+None.  
+Your CV is for a Registered Nurse with experience in critical care, patient assessment, and healthcare systems. There is no evidence of any software engineering, programming, or cloud infrastructure experience.
 
-**Hard requirements missing**  
-- **5+ years Python:** No mention of Python or any programming language in your CV.
-- **Production Kubernetes:** No mention of Kubernetes or any container orchestration.
-- **PostgreSQL at scale with query optimisation and replication:** No mention of PostgreSQL, databases, or related technologies.
-- **AWS (EKS, RDS, S3):** No mention of AWS or any cloud platform.
-- **Terraform:** No mention of Terraform or infrastructure as code.
-- **Led a team of at least 3:** While you trained 8 junior nurses, this is not technical team leadership in software engineering.
-
-**Nice-to-haves met**  
-_None. No mention of Go or Kafka, or any related technologies._
+**Requirements I do not meet:**  
+- 5+ years Python: No programming or Python experience listed.
+- Production Kubernetes: No mention of Kubernetes or any container orchestration.
+- PostgreSQL at scale, query optimisation, replication: No database experience.
+- AWS (EKS, RDS, S3): No cloud or AWS experience.
+- Terraform: No infrastructure-as-code or Terraform experience.
+- Led a team of at least 3: No explicit team leadership; only mentions training 8 junior nurses (not leading a technical team).
+- Go, Kafka: No mention of either.
 
 **Worth applying?**  
-Probably not — your background is in nursing, with no evidence of software engineering or any of the required technical skills.
+Probably not — your background is in nursing, not software engineering, and you do not meet any of the hard requirements for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
 Rahul Mehta | rahul@email.com | Mumbai
 
-SUMMARY  
-Registered nurse with 6 years of critical care experience, skilled in patient assessment, IV therapy, and team coordination within high-pressure environments.
+SUMMARY:  
+Registered nurse, 6 years critical care.
 
-SKILLS  
-- Patient assessment  
-- IV therapy  
-- Epic EHR  
-- Triage  
-- Team coordination  
+SKILLS:  
+Patient assessment, IV therapy, Epic EHR, triage, team coordination
 
-EXPERIENCE  
+EXPERIENCE
 
-Staff Nurse, Lilavati Hospital — 2019 to present  
-- Managed up to 12 ICU patients per shift, ensuring high standards of care and safety  
-- Trained 8 junior nurses on documentation standards and best practices  
-- Coordinated between doctors, pharmacy, and families to facilitate effective patient care  
+Staff Nurse, Lilavati Hospital - 2019 to present  
+  [same]    Managed up to 12 ICU patients per shift  
+  [same]    Trained 8 junior nurses on documentation standards  
+  [same]    Coordinated between doctors, pharmacy and families  
 
-EDUCATION  
+EDUCATION:  
 B.Sc. Nursing, MUHS, 2019
 
-**WHAT I CHANGED**  
-- Maintained your original CV structure, as none of your experience or skills match the requirements for a Senior Backend Engineer role.
-- Reworded the summary and bullets for clarity and conciseness, but did not add any technical or software engineering terms.
-- Kept all content strictly within your nursing experience, as per the rules.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Python (or any programming language)
-- Kubernetes
-- PostgreSQL (or any database experience)
-- AWS (EKS, RDS, S3)
-- Terraform
-- Technical team leadership
-- Go, Kafka
+**What I deliberately did not add:**  
+- Python experience  
+- Kubernetes experience  
+- PostgreSQL (or any database) experience  
+- AWS (EKS, RDS, S3) experience  
+- Terraform experience  
+- Experience leading a technical team  
+- Go or Kafka experience
 
-**This list is complete — your CV does not support any of the job requirements.**
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION").
+- Dates are consistent.
+- Your CV appears to be single-column and text-based, which is ATS-friendly.
+- Ensure your file is saved as a PDF with selectable text (not a scan), so ATS systems can parse it.
+- Do not put contact details inside a photo or header/footer; keep them in the main text.
+
+**Summary:**  
+Your CV is well-structured for healthcare roles, but it is not relevant for this software engineering position. If you are interested in transitioning to tech, consider gaining experience and certifications in programming, cloud, and DevOps tools, and update your CV accordingly.

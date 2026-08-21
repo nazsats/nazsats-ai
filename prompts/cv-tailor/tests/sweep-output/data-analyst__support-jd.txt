@@ -4,62 +4,66 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 32/100
 
-**Hard requirements met:**  
-- None fully met.
+**Requirements I meet:**  
+- Basic SQL (nice to have):  
+  - "SKILLS: SQL"  
+  - "Wrote SQL for weekly sales reporting across 120 stores"
 
-**Hard requirements missing:**  
-- **3+ years customer-facing SaaS:** No evidence. Your CV is data analytics in retail, not SaaS, and not customer-facing.
-- **Owning retention and escalations:** No mention of retention, escalations, or customer ownership.
-- **CRM tools such as Zendesk or Intercom:** No CRM tools listed; only analytics tools (SQL, Excel, Power BI, Python).
-- **Writing customer documentation:** No mention of documentation or writing for customers.
-- **Leading a small team:** No mention of team leadership or management.
-
-**Nice-to-haves met:**  
-- **Basic SQL:** "SQL" is listed in your skills and experience.
-- **Designing an onboarding programme:** No evidence.
+**Requirements I do not meet:**  
+- 3+ years customer-facing SaaS:  
+  - No SaaS experience mentioned; all experience is in retail analytics.
+- Owning retention and escalations:  
+  - No mention of customer retention, escalations, or similar responsibilities.
+- CRM tools such as Zendesk or Intercom:  
+  - No CRM tools listed.
+- Writing customer documentation:  
+  - No mention of documentation or customer-facing writing.
+- Leading a small team:  
+  - No team leadership or management experience described.
+- Designing an onboarding programme (nice to have):  
+  - No onboarding or training experience.
 
 **Worth applying?**  
-Probably not — you lack all core requirements (customer-facing SaaS, retention/escalations, CRM, documentation, team leadership), and your experience is in analytics, not customer success.
+Probably not — your experience is in data analytics for retail, not customer success, SaaS, or team leadership, and you do not meet any of the core requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Nisha Verma | nisha@email.com | Gurgaon
 
 SUMMARY  
-Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Power BI dashboards, and A/B testing to drive business insights. Skilled in data-driven reporting and supporting operational decision-making for large retail networks.
+[changed] Data analyst with 3 years’ experience in retail analytics, skilled in SQL, Excel, Power BI, and A/B testing.  
+(was: Data analyst, 3 years, retail analytics.)
 
 SKILLS  
-- SQL  
-- Power BI  
-- Excel  
-- Python (pandas)  
-- A/B testing  
-- Dashboards
+[same] SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards
 
-EXPERIENCE
-
-Data Analyst, RetailIQ — 2023 to present  
-- Built and maintained Power BI dashboards used by 30 store managers to monitor sales and performance.  
-- Developed SQL queries for weekly sales reporting across 120 stores, supporting business decisions.  
-- Conducted A/B tests on pricing strategies, resulting in a 4 percent increase in margin.
+EXPERIENCE  
+Data Analyst, RetailIQ - 2023 to present  
+  [moved]   Wrote SQL for weekly sales reporting across 120 stores  
+  [same]    Built Power BI dashboards used by 30 store managers  
+  [same]    Ran A/B tests on pricing; one raised margin 4 percent
 
 EDUCATION  
-B.Sc Statistics, Delhi University, 2022
+[same] B.Sc Statistics, Delhi University, 2022
 
-**WHAT I CHANGED**  
-- Rewrote the summary to emphasize business support and operational impact, aligning with customer success outcomes where possible.
-- Ordered skills to highlight SQL and reporting, as these are the only partial matches to the job’s requirements.
-- Expanded experience bullets to clarify the scale of reporting and dashboard use, showing indirect support for business users.
-- Compressed education and removed unrelated details.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - Customer-facing SaaS experience  
 - Owning retention and escalations  
-- CRM tools such as Zendesk or Intercom  
+- CRM tools (Zendesk, Intercom, etc.)  
 - Writing customer documentation  
 - Leading a small team  
 - Designing an onboarding programme
 
-If you want to move into customer success, consider gaining direct customer-facing experience and familiarity with SaaS tools and CRM platforms.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear — no change needed.  
+- Dates are in a consistent format — no change needed.  
+- If your CV uses a single column, that’s best for ATS; if not, consider switching to single column for better parsing.  
+- Ensure all text is selectable (not an image or scan) so ATS can read it.  
+- Contact details should be outside any photo or header image.  
+- File should be saved as a PDF with selectable text, not a scan.
+
+Let me know if you want advice on how to pivot your CV toward customer success roles, or if you have more relevant experience to add!

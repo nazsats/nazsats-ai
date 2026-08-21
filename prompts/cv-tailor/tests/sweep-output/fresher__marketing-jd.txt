@@ -2,63 +2,62 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 5/100
+MATCH: 10/100
 
-**Hard requirements met**  
-- None.
+**Requirements I meet:**  
+- None. Your CV does not mention any experience or skills in marketing, advertising, analytics, or budget management.
 
-**Hard requirements missing**  
-- 3+ years paid acquisition experience — No evidence of any paid acquisition or marketing experience.
-- Google Ads and Meta Ads at scale — No mention of Google Ads, Meta Ads, or any digital advertising platforms.
-- Google Analytics — Not mentioned.
-- Owning CAC and ROAS targets — No experience with customer acquisition cost (CAC) or return on ad spend (ROAS).
-- Managing budgets above Rs 3 lakh/month — No budget management or financial responsibility shown.
-
-**Nice-to-haves met**  
-- None. No mention of SEO or marketing automation.
+**Requirements I do not meet:**  
+- 3+ years paid acquisition: No marketing or acquisition experience listed.
+- Google Ads and Meta Ads at scale: No mention of Google Ads, Meta Ads, or any digital advertising platforms.
+- Google Analytics: Not listed in skills or experience.
+- Owning CAC and ROAS targets: No evidence of experience with customer acquisition cost or return on ad spend.
+- Managing budgets above Rs 3 lakh/month: No budget management experience shown.
+- SEO, marketing automation (nice to have): No mention of SEO or marketing automation.
 
 **Worth applying?**  
-Probably not — there is no overlap between your CV and the requirements for this role; it is a different field and level.
+Probably not — this is a marketing manager role requiring 3+ years of paid acquisition experience, and your CV is for a final-year IT student with no marketing background.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Karan Patel | karan@email.com | Ahmedabad
+SUMMARY:  
+[changed] Final-year Information Technology student with strong technical skills in C++, Java, Python, and MySQL, seeking to apply analytical and problem-solving abilities in a new domain.  
+(was: Final-year student seeking a first role.)
 
-SUMMARY  
-Final-year B.Tech Information Technology student with hands-on experience in software development projects and hackathons. Strong foundation in programming, data structures, and relational databases. Seeking an entry-level opportunity to apply technical skills and learn in a professional environment.
+SKILLS:  
+[same] C++, Java, basic Python, DSA, MySQL, Git
 
-SKILLS  
-- Programming: C++, Java, basic Python  
-- Data Structures and Algorithms (DSA)  
-- Relational databases (MySQL)  
-- Version control (Git)
+EXPERIENCE  
+[changed]  
+- Developed a Library Management System using Java and MySQL, demonstrating ability to design and implement software solutions.  
+  (was: College project - Library management system in Java and MySQL)
+- Built a bus-tracking Android prototype in a hackathon, placing 2nd out of 40 teams, showcasing teamwork and rapid prototyping skills.  
+  (was: Hackathon - Bus-tracking Android prototype, 2nd of 40 teams)
 
-EXPERIENCE
+EDUCATION:  
+[same] B.Tech Information Technology, GTU, expected 2026. CGPA 8.1
 
-College Project: Library Management System  
-- Developed a library management system using Java and MySQL, implementing core features for book tracking and user management.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-Hackathon: Bus-Tracking Android Prototype  
-- Built an Android prototype for real-time bus tracking; achieved 2nd place out of 40 teams in a college hackathon.
+**What I deliberately did not add:**  
+- 3+ years paid acquisition experience  
+- Google Ads and Meta Ads at scale  
+- Google Analytics  
+- Experience owning CAC and ROAS targets  
+- Managing budgets above Rs 3 lakh/month  
+- SEO or marketing automation experience  
 
-EDUCATION  
-B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026  
-CGPA: 8.1
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.  
+- Dates are clear and consistent (expected 2026).  
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can parse it.  
+- If your CV uses columns, consider switching to a single column for better parsing.  
+- Do not put contact details inside a header/footer or image.  
+- Use a common font (Arial, Calibri, Times New Roman) for best compatibility.  
 
-**WHAT I CHANGED**
-- Rewrote the summary to focus on technical skills and project experience, as there is no marketing background.
-- Ordered skills and experience to highlight programming and project work.
-- Used more formal, resume-style bullet points for projects.
-- Compressed education and removed unrelated details.
-
-**WHAT I DELIBERATELY DID NOT ADD**
-- 3+ years paid acquisition experience
-- Google Ads and Meta Ads experience
-- Google Analytics
-- Experience owning CAC and ROAS targets
-- Managing large marketing budgets
-- SEO or marketing automation
-
-There is no evidence in your CV to support any of the requirements for the Performance Marketing Manager role.
+**Summary:**  
+Your CV is not a match for this marketing manager role. If you are interested in marketing, consider internships or certifications in digital marketing to build relevant experience.

@@ -2,74 +2,73 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 32/100
+MATCH: 38/100
 
-**Hard requirements met:**  
+**Requirements I meet:**  
 - 2+ years analytics  
-  - Partial: "Accountant, 5 years, SME bookkeeping and compliance." (Bookkeeping involves some data analysis, but not analytics as defined in the job description.)
+  - "Accountant, 5 years, SME bookkeeping and compliance." (adjacent: accounting, not analytics)  
 - Excel  
-  - "Excel (advanced)", "Built Excel models cutting monthly close from 6 days to 2"
+  - "Excel (advanced)"  
 - Communicating findings to non-technical stakeholders  
-  - Partial: "Manage books for 22 SME clients" (implies some client communication, but not explicitly about data findings)
+  - "Manage books for 22 SME clients" (adjacent: client communication, not analytics findings)
 
-**Hard requirements missing:**  
+**Requirements I do not meet:**  
 - Strong SQL  
-  - Nowhere in your CV is SQL mentioned.
+  - No mention of SQL in CV  
 - Dashboarding in Power BI or Tableau  
-  - No mention of Power BI, Tableau, or any dashboarding tool.
-- 2+ years analytics (as defined by the job, not general data work)  
-  - Your experience is in accounting/bookkeeping, not analytics roles. No explicit analytics projects or titles.
-
-**Nice-to-haves met:**  
-- None.
-
-**Nice-to-haves missing:**  
+  - No mention of Power BI or Tableau  
+- Analytics experience (as defined in data analysis, not accounting/bookkeeping)  
+  - All experience is in accounting/bookkeeping, not analytics  
 - Python  
-  - Not mentioned.
+  - Not mentioned  
 - A/B testing  
-  - Not mentioned.
+  - Not mentioned
 
 **Worth applying?**  
-Probably not — you lack core requirements (SQL, dashboarding, analytics experience), and your background is accounting, not data analytics.
+Probably not — your experience is in accounting, not analytics, and you lack the core technical skills (SQL, Power BI/Tableau) required for this data analyst role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Sneha Kulkarni | sneha@email.com | Nashik
 
 SUMMARY  
-Accountant with 5 years’ experience supporting SME clients, specializing in advanced Excel modeling, reconciliation, and compliance. Skilled in managing large volumes of financial data and communicating results to clients.
+[changed] Accountant with 5 years’ experience in SME bookkeeping, compliance, and advanced Excel-based reporting.  
+(was: Accountant, 5 years, SME bookkeeping and compliance.)
 
 SKILLS  
-- Advanced Excel (modeling, reconciliation, reporting)  
-- GST and TDS filing  
-- Bookkeeping and compliance  
-- Payroll  
-- Client relationship management  
-- Tally
+[changed] Advanced Excel, reconciliation, payroll, Tally, GST filing, TDS  
+(was: Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll)
 
-EXPERIENCE
+EXPERIENCE  
 
-Senior Accountant, Deshmukh and Co — 2021 to present  
-- Managed books and financial data for 22 SME clients, ensuring accuracy and compliance  
-- Filed GST and TDS returns with zero late filings in four years  
-- Built advanced Excel models, reducing monthly close process from 6 days to 2  
-- Communicated financial results and compliance updates to clients  
-- Performed reconciliation and payroll processing
+Senior Accountant, Deshmukh and Co - 2021 to present  
+  [changed] Built Excel models to streamline monthly close, reducing process from 6 days to 2  
+  (was: Built Excel models cutting monthly close from 6 days to 2)  
+  [changed] Managed books and compliance for 22 SME clients, including regular reporting and communication  
+  (was: Manage books for 22 SME clients)  
+  [changed] Filed GST and TDS returns with zero late filings in four years  
+  (was: File GST and TDS returns; zero late filings in four years)
 
 EDUCATION  
-M.Com, Pune University, 2020
+[same] M.Com, Pune University, 2020
 
-**WHAT I CHANGED**  
-- Reworded and expanded bullets to emphasize data handling, Excel modeling, and client communication, aligning with analytics and reporting language.  
-- Moved advanced Excel and client communication to the top of the skills list, as these are most relevant to the job.  
-- Used "communicating results to clients" and "managing large volumes of financial data" to echo the job’s focus on stakeholder communication and data.  
-- Compressed compliance and payroll details, as they are less relevant.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- SQL (not mentioned in your CV)  
-- Dashboarding in Power BI or Tableau (not mentioned)  
-- Python (not mentioned)  
-- A/B testing (not mentioned)  
-- Explicit analytics projects or roles (not present in your CV)
+**What I deliberately did not add:**  
+- SQL (not in CV)  
+- Power BI or Tableau (not in CV)  
+- Analytics experience (as defined in data analysis, not accounting/bookkeeping)  
+- Python (not in CV)  
+- A/B testing (not in CV)
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear — no change needed.  
+- Dates are in a consistent format — no change needed.  
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can read it.  
+- If your CV uses multiple columns, consider switching to a single column for better ATS parsing.  
+- Make sure all key skills (like Excel) are in text, not images or graphics.  
+- Keep contact details outside any header/footer or image.  
+
+Let me know if you want advice on how to pivot your CV toward analytics roles!

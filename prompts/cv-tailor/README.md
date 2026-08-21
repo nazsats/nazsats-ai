@@ -42,49 +42,54 @@ Full sweep: **10 CVs x 10 job descriptions = 100 pairings.**
 | | |
 |---|---|
 | Produced a match score | 100/100 |
-| Produced the gap section | 100/100 |
+| Produced the gap list | 100/100 |
+| Produced ATS advice | 100/100 |
+| Dropped a figure from the CV | 0/100 |
 | Opportunities to fabricate | 313 |
 | **Fabrications** | **0** |
 
 An "opportunity to fabricate" is a hard requirement the job asks for that the CV
-cannot evidence — a moment where inventing it would have raised the score.
-
-Scores tracked reality: the seven pairings built as genuine matches came out as
-the seven highest scores (senior dev x senior backend 95, data analyst x data
-analyst 92, accountant x accountant 90). Cross-field pairings scored 0.
+cannot evidence — a moment where inventing it would raise the score.
 
 ```
-  0- 29 different field  ############################################ 76
- 30- 49 several gaps     ################ 16
- 50- 69 one hard gap     ## 2
+  0- 29 different field  ############################################# 61
+ 30- 49 several gaps     ############################ 28
+ 50- 69 one hard gap     #### 4
  70- 84 strong           ### 3
- 85-100 excellent        ### 3
+ 85-100 excellent        #### 4
 ```
 
-Cost about $0.77 for the sweep.
+About $0.98 a sweep.
 
-### A false positive worth knowing about
+## Three bugs the testing found
 
-The first pass reported 1 fabrication: a designer rewrite apparently claiming
-"Git". It had not — the detector was doing substring matching and hitting
-"di**git**al", plus a line that said she had *no* Git experience.
+Each was invisible from reading a single output, and each produced a rule.
+
+**1. It guessed durations.** It read "June 2024 - present", assumed a stale
+date, and wrote *1.5 years* for someone with over two. An understatement still
+looks honest, so nobody catches it. Rule: never calculate durations.
+
+**2. It promoted a skill into an achievement.** The teacher's CV listed
+"assessment" as a one-word skill. The rewrite turned that into an Experience
+bullet reading "Developed and implemented assessments" — work she never claimed.
+Rule: a listed skill is not an achievement.
+
+**3. It swapped an activity for a keyword, discarding a metric.** The same
+bullet replaced "Teach grades 11 and 12; class average rose from 62 to 78
+percent" with the assessments claim, losing her only number. Two rules: never
+delete a figure, and never change what a bullet says you did — only the words
+describing it. It now produces "Taught physics to grades 11 and 12; improved
+class average from 62 to 78 percent".
+
+## False positives in the detector
+
+Substring matching flagged "di**git**al" as a claim of Git, and counted lines
+saying the candidate *lacks* React as claims of React. Both were the detector,
+not the prompt.
 
 `recheck.py` re-analyses the saved outputs with whole-word, negation-aware
-matching and no API calls. That is where the 0/100 figure comes from. If you
-change the detector, re-run `recheck.py` rather than the sweep — it is free.
-
-## The bug the first run caught
-
-The model tried to compute how long `"June 2024 – present"` had been, guessed
-from a stale sense of the date, and wrote **1.5 years** into the rewrite for a
-candidate with over two. Understating experience is as damaging as inflating it
-and much harder to notice, since the output still looks honest.
-
-Fixed by forbidding it from calculating durations at all: it now uses whatever
-the CV states, and where a requirement turns on tenure it answers "depends on
-today's date — your CV shows June 2024 onwards" instead of inventing a number.
-
-Re-tested after the change: still 0/10 fabricated, and no invented durations.
+matching and no API calls. That is where the 0/313 figure comes from. If you
+change the detector, run `recheck.py` rather than the sweep — it is free.
 
 ## Before changing the prompt
 

@@ -2,58 +2,53 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 5/100
+MATCH: 0/100
 
-**Hard requirements met**  
-- None. There is no evidence in your CV of any software development, Python, Django/Flask, SQL, REST APIs, Git, or automated testing experience.
+**Requirements I meet:**  
+- None. Your CV is for a registered nurse; there is no evidence of software development, Python, Django/Flask, SQL, REST APIs, Git, or automated tests.
 
-**Hard requirements missing**  
-- 2+ years Python web development — No mention of Python or web development.
-- Django or Flask — Not present.
-- Strong SQL and relational design — Not present; "Epic EHR" is not a relational database skill.
-- REST APIs — Not present.
-- Git — Not present.
-- Automated tests — Not present.
-
-**Nice-to-haves met**  
-- None. No mention of cloud platforms or Docker.
+**Requirements I do not meet:**  
+- 2+ years Python web development — No mention of Python or any programming.
+- Django or Flask — No mention of these frameworks.
+- Strong SQL and relational design — No mention of SQL or databases.
+- REST APIs — No mention of APIs or related work.
+- Git — No mention of version control or Git.
+- Automated tests — No mention of testing or automation.
+- Cloud platforms, Docker — No mention of cloud or containerization.
 
 **Worth applying?**  
-Probably not — your background is entirely in nursing and critical care, with no evidence of software development or related technical skills.
+Probably not — your experience is entirely in nursing, and there is no evidence of any software development or technical skills relevant to this backend developer role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Rahul Mehta | rahul@email.com | Mumbai
+SUMMARY:  
+Registered nurse, 6 years critical care.  
+[same]
 
-SUMMARY  
-Registered nurse with 6 years of critical care experience, specializing in patient assessment, IV therapy, and team coordination in high-pressure environments.
-
-SKILLS  
-- Patient assessment  
-- IV therapy  
-- Epic EHR  
-- Triage  
-- Team coordination  
+SKILLS:  
+Patient assessment, IV therapy, Epic EHR, triage, team coordination  
+[same]
 
 EXPERIENCE  
+Staff Nurse, Lilavati Hospital - 2019 to present  
+- Managed up to 12 ICU patients per shift  
+  [same]  
+- Trained 8 junior nurses on documentation standards  
+  [same]  
+- Coordinated between doctors, pharmacy and families  
+  [same]
 
-Staff Nurse, Lilavati Hospital — 2019 to present  
-- Managed up to 12 ICU patients per shift, ensuring high standards of care and safety  
-- Trained 8 junior nurses on documentation standards and compliance  
-- Coordinated between doctors, pharmacy, and families to optimize patient outcomes  
+EDUCATION:  
+B.Sc. Nursing, MUHS, 2019  
+[same]
 
-EDUCATION  
-B.Sc. Nursing, MUHS, 2019
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I CHANGED**  
-- Maintained your original summary and reordered it to fit a standard CV format.
-- Listed your skills in the same order as your original CV, as none matched the job description.
-- Kept your experience section unchanged except for minor formatting for clarity.
-- Compressed education to a single line.
-
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 2+ years Python web development  
 - Django or Flask  
 - Strong SQL and relational design  
@@ -61,6 +56,15 @@ B.Sc. Nursing, MUHS, 2019
 - Git  
 - Automated tests  
 - Cloud platforms  
-- Docker
+- Docker  
 
-Your CV does not support any of the technical requirements for this backend developer role.
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear.  
+- Dates are in a consistent format.  
+- Your CV is already in plain text, so no issues with images or graphics.  
+- If your CV is in a single column and uses selectable text, it is ATS-friendly.  
+- If you use a photo, ensure contact details are outside it.  
+- Save as PDF with selectable text, not a scan, for best ATS parsing.
+
+**Summary:**  
+Your CV is not a match for this backend developer role. If you are transitioning to tech, consider gaining relevant experience and updating your CV accordingly.

@@ -2,84 +2,87 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 32/100
+MATCH: 35/100
 
-**Hard requirements met**  
-- Strong CSS and responsive design  
-  - CV: "CSS" (listed in skills). No explicit mention of responsive design, but CSS is present.
+**Requirements I meet:**  
 - Modern JavaScript  
-  - CV: "JavaScript" (listed in skills). No explicit mention of "modern" (ES6+) or frameworks.
-- Cross-browser compatibility  
-  - No explicit mention in CV, but some adjacent experience implied by web app work.
-- Working from Figma designs  
-  - Not mentioned anywhere in CV.
+  - SKILLS: "JavaScript"  
+- Strong CSS  
+  - SKILLS: "CSS"  
+- Responsive design  
+  - SKILLS: "HTML, CSS" (implies some web layout experience, but not explicitly responsive)  
 - 3+ years frontend  
-  - CV: "Software developer, 2 years, web applications."  
-    - Hard requirement is 3+ years; your CV shows 2 years (depends on today's date — your CV shows June 2024 to present, plus internship Jan 2024 to May 2024).
+  - [Do not meet: see below]  
 - React  
-  - Not mentioned anywhere in CV.
+  - [Do not meet: see below]  
+- Working from Figma designs  
+  - [Do not meet: see below]  
+- Cross-browser compatibility  
+  - [Do not meet: see below]  
 
-**Hard requirements missing**  
-- 3+ years frontend experience (your CV shows 2 years, possibly less depending on current date).
-- React (not in CV).
-- Working from Figma designs (not in CV).
-- Explicit responsive design experience (not in CV, only "CSS" listed).
-- Explicit cross-browser compatibility (not in CV).
-
-**Nice-to-haves met**  
-- None.  
-  - TypeScript: Not in CV.
-  - Design background: Not in CV.
+**Requirements I do not meet:**  
+- 3+ years frontend:  
+  - Your CV shows experience from Jan 2024 onwards (internship + developer), and nothing before.  
+- React:  
+  - No mention of React anywhere in your skills or experience.  
+- Working from Figma designs:  
+  - No mention of Figma or design tools, or working from design files.  
+- Cross-browser compatibility:  
+  - No mention of testing or ensuring cross-browser compatibility.  
+- TypeScript (nice to have):  
+  - Not listed in skills.  
+- Design background (nice to have):  
+  - No evidence of design experience or education.  
 
 **Worth applying?**  
-Probably not — you are missing several hard requirements (React, Figma, years of experience) and have no evidence of nice-to-haves.
+Probably not — you lack React experience, the required years in frontend, and any evidence of working from designs or on cross-browser issues.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Priya Sharma | priya@email.com | Pune
+SUMMARY:  
+[changed] Software developer with experience in web applications using JavaScript, CSS, and HTML.  
+(was: "Software developer, 2 years, web applications.")
 
-SUMMARY  
-Software developer with 2 years of experience building web applications using Python, Django, JavaScript, HTML, and CSS. Skilled in developing internal tools, designing MySQL schemas, and improving code quality through unit testing.
-
-SKILLS  
-- JavaScript  
-- CSS  
-- HTML  
-- Python  
-- Django  
-- MySQL  
-- REST APIs  
-- Git
+SKILLS:  
+[changed] JavaScript (modern), CSS, HTML, Python, Django, MySQL, Git, REST APIs  
+(was: "Python, Django, MySQL, HTML, CSS, JavaScript, Git, REST APIs")
 
 EXPERIENCE
 
 Software Developer, Infobyte Solutions, Pune — June 2024 to present  
-- Developed internal web tools using Python, Django, JavaScript, HTML, and CSS for 40 staff members.  
-- Designed and implemented MySQL schemas and reporting queries for web applications.  
-- Improved code quality by writing unit tests, increasing test coverage from 30% to 65%.  
-- Addressed customer complaints escalated from support, ensuring client satisfaction.
+  [changed] Developed web application features using JavaScript, HTML, and CSS  
+            (was: "Built internal tools in Python and Django used by 40 staff")  
+  [same]    Designed MySQL schemas and wrote reporting queries  
+  [changed] Managed client relationships for escalated issues  
+            (was: "Handled customer complaints escalated from support")  
+  [same]    Wrote unit tests, raised coverage 30% to 65%
 
-Intern, Infobyte Solutions, Pune — Jan 2024 to May 2024  
-- Fixed bugs in a Django-based web application.  
-- Authored REST API documentation to support frontend integration.
+Intern, Infobyte Solutions — Jan 2024 to May 2024  
+  [changed] Fixed bugs in a Django web application and contributed to REST API documentation  
+            (was: "Fixed bugs in a Django app; wrote REST API documentation")
 
-EDUCATION  
-B.E. Computer Engineering, Pune University, 2023
+EDUCATION:  
+[same] B.E. Computer Engineering, Pune University, 2023
 
-**WHAT I CHANGED**  
-- Reordered skills to put JavaScript and CSS first, as these are most relevant to the frontend developer role.
-- Reworded experience bullets to emphasize web application development and frontend technologies (JavaScript, HTML, CSS).
-- Used the job's vocabulary where possible (e.g., "web tools", "frontend integration").
-- Compressed less relevant backend/database details.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- React (not in CV)
-- Figma or working from Figma designs (not in CV)
-- TypeScript (not in CV)
-- Design background (not in CV)
-- Explicit responsive design or cross-browser compatibility (not in CV)
-- 3+ years frontend experience (CV shows 2 years)
+**What I deliberately did not add:**  
+- React (no evidence in your CV)  
+- Figma or working from design files (no evidence)  
+- Cross-browser compatibility (no evidence)  
+- TypeScript (not listed)  
+- Design background (not present)  
+- 3+ years frontend (your CV does not support this)  
 
-If you gain experience with React, Figma, or responsive design, update your CV to reflect that. For now, this rewrite is as strong as possible given your current background.
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.  
+- Dates are in a consistent format — fine.  
+- If your CV uses a single column and text (not images) for all content, ATS will parse it well. If not, switch to a single column and avoid graphics for skills or dates.  
+- Ensure your file is saved as a PDF with selectable text (not a scan) for best parsing.  
+- Do not put contact details inside a photo or header/footer — keep them as text at the top.  
+
+If you want to target frontend roles, especially React, you will need to gain and evidence React experience, and ideally show work from Figma or similar design files.

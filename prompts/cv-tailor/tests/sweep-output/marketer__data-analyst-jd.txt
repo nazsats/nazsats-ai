@@ -2,66 +2,77 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 25/100
+MATCH: 32/100
 
-**Hard requirements met**  
-- "2+ years analytics" — PARTIAL. Your CV shows: "Cut cost per acquisition 38% over two quarters" and "Ran Google and Meta campaigns, monthly budget Rs 4 lakh." This shows some data-driven marketing, but not dedicated analytics roles or responsibilities.
-- "Communicating findings to non-technical stakeholders" — PARTIAL. Your CV shows: "Wrote and scheduled weekly emails to 60k subscribers." This is communication, but not specifically about analytics findings.
+**Requirements I meet:**  
+- 2+ years analytics  
+  - [Partial] "Digital marketer, 3 years, B2C ecommerce." (You have 3 years’ experience in a data-driven field, but not specifically analytics.)  
+- Communicating findings to non-technical stakeholders  
+  - [Partial] "Wrote and scheduled weekly emails to 60k subscribers" (Shows some communication, but not of data findings.)  
 
-**Hard requirements missing**  
-- "Strong SQL" — Nowhere in your CV.
-- "Dashboarding in Power BI or Tableau" — Nowhere in your CV.
-- "Excel" — Nowhere in your CV.
-- "2+ years analytics" — Your CV is for digital marketing, not analytics. No explicit analytics role or title.
-- "Gurgaon location" — Your CV says Hyderabad.
-
-**Nice-to-haves met**  
-- None.  
-  - "Python" — Not in your CV.
-  - "A/B testing" — Not in your CV.
+**Requirements I do not meet:**  
+- Strong SQL  
+  - Nowhere in your CV is SQL mentioned.  
+- Dashboarding in Power BI or Tableau  
+  - No mention of Power BI, Tableau, or any dashboarding tool.  
+- Excel  
+  - Excel is not listed in your skills or experience.  
+- Analytics experience (as a primary function)  
+  - Your experience is in digital marketing, not analytics roles.  
+- Python (nice to have)  
+  - Not mentioned.  
+- A/B testing (nice to have)  
+  - Not mentioned.  
 
 **Worth applying?**  
-Probably not — you lack all the core technical requirements (SQL, dashboarding, Excel) and your experience is in digital marketing, not analytics.
+Probably not — your CV does not show analytics, SQL, dashboarding, or Excel, all of which are core requirements for this job.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
 Aditya Rao | aditya@email.com | Hyderabad
 
 SUMMARY  
-Digital marketer with 3 years of experience in B2C ecommerce, specializing in performance marketing campaigns, cost optimization, and large-scale email communications.
+[changed] Digital marketer with 3 years’ experience in B2C ecommerce, skilled in campaign management, reporting, and communicating results to stakeholders.  
+(was: Digital marketer, 3 years, B2C ecommerce.)
 
 SKILLS  
-- Google Ads  
-- Meta Ads  
-- SEO  
-- Google Analytics  
-- Email marketing  
-- Canva  
+[changed] Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva  
+(was: Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva)
 
 EXPERIENCE  
-
-Marketing Executive, ShopKart — 2023 to present  
-- Ran Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh, using data-driven strategies to optimize performance.  
-- Reduced cost per acquisition by 38% over two quarters through continuous analysis and campaign adjustments.  
-- Wrote and scheduled weekly email campaigns to a subscriber base of 60,000, communicating marketing messages and campaign results to a broad audience.
+Marketing Executive, ShopKart - 2023 to present  
+  [changed] Ran Google and Meta campaigns, managed monthly budget of Rs 4 lakh, and reported on campaign performance.  
+  (was: Ran Google and Meta campaigns, monthly budget Rs 4 lakh)  
+  [changed] Cut cost per acquisition by 38% over two quarters through data-driven optimizations.  
+  (was: Cut cost per acquisition 38% over two quarters)  
+  [changed] Wrote and scheduled weekly email campaigns to 60k subscribers, communicating marketing results to a broad audience.  
+  (was: Wrote and scheduled weekly emails to 60k subscribers)
 
 EDUCATION  
-BBA Marketing, Osmania University, 2022
+BBA Marketing, Osmania University, 2022  
+[same]
 
-**WHAT I CHANGED**  
-- Reworded bullets to emphasize data-driven decision making and communication of results, aligning with analytics and stakeholder communication requirements.
-- Placed emphasis on campaign optimization and performance analysis.
-- Used language such as "data-driven strategies" and "continuous analysis" to surface analytical aspects of your marketing work.
-- Kept skills and experience order focused on what is most relevant to analytics.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- SQL (no mention in your CV)
-- Dashboarding in Power BI or Tableau (no mention in your CV)
-- Excel (no mention in your CV)
-- Python (no mention in your CV)
-- A/B testing (no mention in your CV)
-- Gurgaon location (your CV says Hyderabad)
+**What I deliberately did not add:**  
+- SQL (no mention in your CV)  
+- Power BI or Tableau/dashboarding (no mention)  
+- Excel (no mention)  
+- Python (no mention)  
+- A/B testing (no mention)  
+- Analytics as a primary function (your experience is in marketing, not analytics roles)
 
-If you want to move into analytics, consider upskilling in SQL, Excel, and dashboarding tools, and update your CV once you have relevant experience.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear — good for ATS.  
+- If your CV is single-column and all text, you’re fine. If you use two columns, consider switching to single column for better parsing.  
+- Make sure all dates are in a consistent format (e.g., "2023 to present").  
+- Ensure your file is a PDF with selectable text, not a scan.  
+- If you use a photo, do not put contact details inside it.  
+- If you use any graphics for skills or experience, replace them with text.
+
+**Summary:**  
+Your CV is well-structured for marketing roles but does not meet the core requirements for this data analyst position. Consider upskilling in SQL, Excel, and dashboarding tools if you wish to target analytics jobs in the future.

@@ -4,64 +4,60 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None.
+**Requirements I meet:**  
+- None. Your CV does not mention any frontend development, JavaScript, React, CSS, Figma, or related skills.
 
-**Hard requirements missing**  
-- 3+ years frontend experience — No evidence of any frontend development experience.
-- React and modern JavaScript — No mention of React, JavaScript, or any frontend framework.
-- Strong CSS and responsive design — No mention of CSS, responsive design, or web development.
-- Working from Figma designs — No mention of Figma or design-to-code workflows.
-- Cross-browser compatibility — No evidence of web development or browser testing.
-
-**Nice-to-haves met**  
-- Design background — Some experience with Canva, but not in a web/frontend context.
+**Requirements I do not meet:**  
+- 3+ years frontend experience — No evidence of frontend or software development experience.
+- React and modern JavaScript — Not mentioned anywhere.
+- Strong CSS and responsive design — Not mentioned.
+- Working from Figma designs — Not mentioned.
+- Cross-browser compatibility — Not mentioned.
+- TypeScript — Not mentioned.
+- Design background — Only Canva is listed, which is not a design background as meant here.
 
 **Worth applying?**  
-Probably not — Your CV is entirely in digital marketing, with no evidence of frontend development or required technical skills.
-
-Scoring guide: 0-29 means different field or level entirely, which applies here.
+Probably not. Your experience is entirely in digital marketing, not frontend development, and your CV does not show any of the required technical skills.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Aditya Rao | aditya@email.com | Hyderabad
 
 SUMMARY  
-Digital marketer with 3 years’ experience in B2C ecommerce, specializing in online advertising, email marketing, and campaign analytics.
+[changed] Digital marketer with 3 years’ experience in B2C ecommerce, skilled in digital campaign management, email marketing, and analytics.  
+(was: Digital marketer, 3 years, B2C ecommerce.)
 
 SKILLS  
-- Google Ads  
-- Meta Ads  
-- SEO  
-- Google Analytics  
-- Email marketing  
-- Canva
+[same] Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva
 
 EXPERIENCE  
-
-Marketing Executive, ShopKart — 2023 to present  
-- Managed Google and Meta ad campaigns with a monthly budget of Rs 4 lakh  
-- Reduced cost per acquisition by 38% over two quarters  
-- Wrote and scheduled weekly email campaigns to 60,000 subscribers
+Marketing Executive, ShopKart - 2023 to present  
+  [same] Ran Google and Meta campaigns, monthly budget Rs 4 lakh  
+  [same] Cut cost per acquisition 38% over two quarters  
+  [same] Wrote and scheduled weekly emails to 60k subscribers
 
 EDUCATION  
-BBA Marketing, Osmania University, 2022
+[same] BBA Marketing, Osmania University, 2022
 
-**WHAT I CHANGED**  
-- Kept the summary and experience focused on digital marketing, as there is no evidence of frontend development.
-- Ordered skills and bullets to reflect the most relevant marketing experience.
-- Used the job’s vocabulary where possible (e.g., “campaigns”, “analytics”), but did not invent technical skills.
-- Compressed and clarified the education section.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 3+ years frontend experience  
 - React and modern JavaScript  
-- CSS and responsive design  
+- Strong CSS and responsive design  
 - Working from Figma designs  
 - Cross-browser compatibility  
 - TypeScript  
-- Any frontend or web development skills
+- Design background (beyond Canva)
 
-If you want to move into frontend development, consider building relevant skills and projects, then update your CV accordingly.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear.
+- Dates are consistent.
+- If your CV uses columns or puts contact details in a header/footer, switch to a single column and keep all text selectable for best parsing.
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can read it.
+- Canva is fine to mention, but if you have more design experience, consider expanding.
+
+**Summary:**  
+Your CV is not a match for this frontend developer role. If you are interested in frontend development, consider gaining experience and skills in JavaScript, React, CSS, and related areas, and update your CV accordingly.

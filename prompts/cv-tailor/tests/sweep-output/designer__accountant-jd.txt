@@ -2,66 +2,76 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 7/100
+MATCH: 10/100
 
-**Hard requirements met**  
-- None. There is no evidence in your CV of accounting experience, GST/TDS filing, Tally, advanced Excel, month-end close, or managing multiple clients in an accounting context.
+**Requirements I meet:**  
+- Managing multiple clients  
+  - "Brand identities for 14 small businesses" (shows experience handling multiple clients/projects)
 
-**Hard requirements missing**  
-- 4+ years accounting — No accounting experience shown; your CV is entirely design-focused.
-- GST and TDS filing — No mention of tax or compliance work.
-- Tally — No mention of Tally or any accounting software.
-- Advanced Excel — Only "basic HTML/CSS" is listed; no Excel skills at all.
-- Month-end close — No mention of any accounting or financial close processes.
-- Managing multiple clients (in an accounting context) — While you have worked with multiple clients as a designer, there is no evidence of managing clients' accounts or finances.
-
-**Nice-to-haves met**  
-- None. No ERP migration or team supervision experience is mentioned.
+**Requirements I do not meet:**  
+- 4+ years accounting  
+  - No accounting experience or education listed  
+- GST and TDS filing  
+  - No mention of GST, TDS, or any tax/finance work  
+- Tally  
+  - No mention of Tally or any accounting software  
+- Advanced Excel  
+  - No mention of Excel at all  
+- Month-end close  
+  - No mention of accounting cycles or closing processes  
+- ERP migration  
+  - No ERP experience listed  
+- Supervising a team  
+  - No team leadership or supervision experience listed
 
 **Worth applying?**  
-Probably not — your background is in design, not accounting, and you do not meet any of the hard requirements for this role.
+Probably not — your CV is in design, not accounting, and does not meet any of the core requirements for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Anjali Desai | anjali@email.com | Remote
+SUMMARY:  
+Freelance designer, 4 years, small businesses.  
+  [same]
 
-SUMMARY  
-Creative freelance designer with 4 years of experience delivering brand identities and digital assets for small businesses. Skilled in visual design, client collaboration, and digital tools.
-
-SKILLS  
-- Brand identity design  
-- Figma, Illustrator, Photoshop  
-- Canva  
-- Basic HTML/CSS
+SKILLS:  
+Figma, Illustrator, Photoshop, brand identity, basic HTML/CSS, Canva  
+  [same]
 
 EXPERIENCE
 
-Freelance Designer | 2022 to present  
-- Developed brand identities for 14 small business clients, managing end-to-end design projects.  
-- Led a social media campaign that increased engagement by 40%.  
-- Built two landing pages using HTML and CSS.
+Freelance Designer - 2022 to present  
+  [changed] Managed multiple client projects, delivering brand identities for 14 small businesses  
+            (was: "Brand identities for 14 small businesses")  
+  [same]    Social campaign raised engagement 40%  
+  [same]    Built two landing pages in HTML and CSS  
 
-Junior Designer, PixelCraft Studio | 2021 to 2022  
-- Supported senior designers in delivering creative assets for client projects.
+Junior Designer, PixelCraft Studio - 2021 to 2022  
+  [same]
 
-EDUCATION  
-BA Applied Arts, Gujarat University, 2021
+EDUCATION:  
+BA Applied Arts, Gujarat University, 2021  
+  [same]
 
-**WHAT I CHANGED**
-- Reworded and expanded client management and project delivery to highlight multi-client experience, as this is the only remotely relevant overlap.
-- Reordered and clarified skills to match the format and focus on what you offer.
-- Used the job's vocabulary where possible (e.g., "managing end-to-end design projects" for client management).
-- Compressed unrelated details to keep the CV focused and clear.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**
-- 4+ years accounting experience
-- GST and TDS filing
-- Tally
-- Advanced Excel
-- Month-end close
-- ERP migration
-- Supervising a team
+**What I deliberately did not add:**  
+- Accounting experience (none in CV)  
+- GST and TDS filing (none in CV)  
+- Tally (none in CV)  
+- Advanced Excel (none in CV)  
+- Month-end close (none in CV)  
+- ERP migration (none in CV)  
+- Supervising a team (none in CV)
 
-None of these requirements are supported by your CV.
+**ATS suggestions — advice only, do not apply these:**  
+- If your CV uses any non-standard section headings, change to standard ones like "Experience" and "Education" for better parsing.  
+- Make sure all dates are in a consistent format (e.g., "2022 to present" everywhere).  
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can read it.  
+- If you use columns or graphics for contact info, move all essential details into plain text at the top.  
+
+**Summary:**  
+Your CV is not a match for this accounting job. If you want to pivot to accounting, consider gaining relevant experience or qualifications first.

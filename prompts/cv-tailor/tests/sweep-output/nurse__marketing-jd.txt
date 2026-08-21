@@ -2,62 +2,65 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 5/100
+MATCH: 0/100
 
-**Hard requirements met**  
-- None. There is no evidence in your CV of any experience in performance marketing, paid acquisition, Google Ads, Meta Ads, Google Analytics, CAC/ROAS, or budget management.
+**Requirements I meet:**  
+- None. Your CV is for a Registered Nurse with critical care experience. There is no evidence of marketing, paid acquisition, Google Ads, Meta Ads, analytics, or budget management.
 
-**Hard requirements missing**  
-- 3+ years paid acquisition — No mention of marketing or paid acquisition experience.
-- Google Ads and Meta Ads at scale — No mention of Google Ads, Meta Ads, or any digital advertising platform.
-- Google Analytics — Not referenced anywhere.
-- Owning CAC and ROAS targets — No mention of customer acquisition cost, return on ad spend, or similar metrics.
-- Managing budgets above Rs 3 lakh/month — No budget management experience cited.
-
-**Nice-to-haves met**  
-- None. No mention of SEO or marketing automation.
+**Requirements I do not meet:**  
+- 3+ years paid acquisition — No marketing or acquisition experience listed.
+- Google Ads and Meta Ads at scale — No mention of these platforms or any digital marketing tools.
+- Google Analytics — Not present.
+- Owning CAC and ROAS targets — No experience with marketing metrics or targets.
+- Managing budgets above Rs 3 lakh/month — No budget management or financial responsibility described.
+- SEO, marketing automation — Not mentioned or implied anywhere.
 
 **Worth applying?**  
-Probably not — your CV is entirely in nursing/healthcare, with no evidence of marketing or related skills.
+Probably not — This is a completely different field and level; your CV shows no relevant experience or skills for this marketing role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Rahul Mehta | rahul@email.com | Mumbai
 
 SUMMARY  
-Registered nurse with 6 years of critical care experience, skilled in patient assessment, team coordination, and clinical documentation.
+[changed] Experienced registered nurse with 6 years in critical care, skilled in patient assessment, IV therapy, Epic EHR, triage, and team coordination.  
+(was: Registered nurse, 6 years critical care.)
 
 SKILLS  
-- Patient assessment  
-- IV therapy  
-- Epic EHR  
-- Triage  
-- Team coordination
+[changed] Patient assessment, IV therapy, Epic EHR, triage, team coordination  
+(was: Patient assessment, IV therapy, Epic EHR, triage, team coordination)
 
-EXPERIENCE
+EXPERIENCE  
 
-Staff Nurse, Lilavati Hospital — 2019 to present  
-- Managed up to 12 ICU patients per shift, ensuring high standards of patient care and safety  
-- Trained 8 junior nurses on documentation standards and compliance  
-- Coordinated between doctors, pharmacy, and families to optimize patient outcomes
+Staff Nurse, Lilavati Hospital - 2019 to present  
+  [same]    Managed up to 12 ICU patients per shift  
+  [same]    Trained 8 junior nurses on documentation standards  
+  [same]    Coordinated between doctors, pharmacy and families  
 
 EDUCATION  
-B.Sc. Nursing, MUHS, 2019
+[changed] B.Sc. Nursing, MUHS, 2019  
+(was: B.Sc. Nursing, MUHS, 2019)
 
-**WHAT I CHANGED**  
-- Maintained original order and content, as none of your experience matches the job description.
-- Reworded bullets slightly for clarity and professionalism.
-- Kept summary and skills focused on nursing, as there is no marketing experience to highlight.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 3+ years paid acquisition  
 - Google Ads and Meta Ads at scale  
 - Google Analytics  
 - Owning CAC and ROAS targets  
 - Managing budgets above Rs 3 lakh/month  
-- SEO  
-- Marketing automation
+- SEO, marketing automation  
 
-(If this list is empty, say so explicitly. In this case, all requirements are missing.)
+Your CV does not support any of these requirements, so none were added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") are standard — keep them.
+- Dates are in a consistent format — good.
+- Your CV is already in plain text and uses standard sections — ATS-friendly.
+- If your actual file uses a photo or puts contact details inside a header/footer, move contact details into the main text for ATS parsing.
+- If your file is not a PDF with selectable text, save it as one — never as a scan or image.
+
+**Summary:**  
+Your CV is not a match for this job. If you want to move into marketing, you will need to gain relevant experience and update your CV accordingly.

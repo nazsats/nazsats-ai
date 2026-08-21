@@ -2,72 +2,79 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 18/100
+MATCH: 30/100
 
-**Hard requirements met:**  
+**Requirements I meet:**  
 - Has led a team of at least 3  
   - "Lead a team of 6; own the first-response SLA"
 
-**Hard requirements missing:**  
+**Requirements I do not meet:**  
 - 5+ years Python  
-  - No evidence of Python experience in CV.
+  - No Python experience listed anywhere.
 - Production Kubernetes  
-  - No mention of Kubernetes or related container orchestration.
+  - No Kubernetes experience listed.
 - PostgreSQL at scale with query optimisation and replication  
-  - Only "SQL (basic)" is listed; no PostgreSQL, no mention of scale, optimisation, or replication.
+  - Only "SQL (basic)" and "Query the product database with basic SQL"; no PostgreSQL, no scale, no optimisation/replication.
 - AWS (EKS, RDS, S3)  
-  - No mention of AWS or any cloud infrastructure.
+  - No AWS experience listed.
 - Terraform  
-  - Not mentioned anywhere.
-
-**Nice-to-haves met:**  
-- None.  
-  - No mention of Go or Kafka.
+  - No Terraform experience listed.
+- Go, Kafka (nice to have)  
+  - No Go or Kafka experience listed.
 
 **Worth applying?**  
-Probably not — you meet only the team leadership requirement and lack all technical skills required for this backend engineering role.
+Probably not — you meet only the people leadership requirement, with no evidence of backend engineering, Python, or relevant infrastructure skills.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
+```
 Faisal Khan | faisal@email.com | Delhi
 
 SUMMARY  
-Experienced customer support lead with a background in SaaS, team leadership, and process optimisation. Skilled in escalation management, documentation, and basic SQL for issue diagnosis.
+[changed] Customer support lead with 4 years SaaS experience, team management, and basic SQL for product issue diagnosis  
+(was: "Customer support lead, 4 years SaaS.")
 
 SKILLS  
-- Team leadership (6 direct reports)  
-- Escalation management  
-- Zendesk  
-- Intercom  
-- Documentation (help centre articles)  
-- SQL (basic)
+[changed] Team leadership (6 direct reports), Zendesk, Intercom, SQL (basic), escalation management, documentation  
+(was: "Zendesk, Intercom, SQL (basic), escalation management, documentation")
 
 EXPERIENCE
 
-Support Lead, CloudDesk — 2022 to present  
-- Led a team of 6, managing first-response SLAs and escalation processes  
-- Reduced average resolution time from 14 hours to 5 through workflow improvements  
-- Authored 80 help-centre articles to improve customer self-service and internal knowledge  
-- Queried product database with basic SQL to diagnose and resolve customer issues
+Support Lead, CloudDesk - 2022 to present  
+  [changed] Led a team of 6 support specialists, managing first-response SLA and escalations  
+    (was: "Lead a team of 6; own the first-response SLA")  
+  [changed] Reduced average resolution time from 14 hours to 5 through workflow improvements  
+    (was: "Cut average resolution time from 14 hours to 5")  
+  [changed] Authored 80 help-centre articles to improve customer self-service and internal documentation  
+    (was: "Wrote 80 help-centre articles")  
+  [changed] Used basic SQL to query product database and assist in diagnosing customer issues  
+    (was: "Query the product database with basic SQL to diagnose issues")
 
 EDUCATION  
 BA English, Delhi University, 2021
+```
 
-**WHAT I CHANGED**  
-- Put team leadership and process optimisation at the top of the summary and skills, as this is the only hard requirement met.  
-- Used the job’s vocabulary where possible (e.g., "team leadership", "escalation management").  
-- Expanded on the SQL experience to clarify its context and limitations.  
-- Compressed unrelated details to focus on leadership and technical troubleshooting.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Python (no evidence in CV)  
-- Kubernetes (no evidence in CV)  
-- PostgreSQL at scale, query optimisation, replication (only basic SQL, no PostgreSQL)  
-- AWS (EKS, RDS, S3) (not mentioned)  
-- Terraform (not mentioned)  
-- Go (not mentioned)  
-- Kafka (not mentioned)  
+**What I deliberately did not add:**  
+- Python (no experience listed)  
+- Kubernetes (no experience listed)  
+- PostgreSQL (no experience listed; only basic SQL)  
+- AWS (EKS, RDS, S3) (no experience listed)  
+- Terraform (no experience listed)  
+- Go, Kafka (no experience listed)  
+- Backend engineering (no experience listed; all experience is in customer support/leadership)
 
-If you want to target backend engineering roles, you will need to gain and evidence relevant technical experience first.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- Dates are in a consistent format — fine.
+- Your CV is already in plain text, so nothing is hidden in images or graphics.
+- No evidence of multi-column layout or non-standard fonts in this text version — if your actual file uses columns, consider switching to single column for better parsing.
+- Ensure your file is saved as a PDF with selectable text, not a scan, for best ATS compatibility.
+
+**Summary:**  
+Your CV is well-structured for ATS, but you do not meet the technical or backend requirements for this role. Consider applying to roles that match your customer support leadership and SaaS experience, or upskilling in backend technologies if you wish to transition.

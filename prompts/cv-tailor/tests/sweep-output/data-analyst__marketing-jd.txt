@@ -2,64 +2,67 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 30/100
+MATCH: 18/100
 
-**Hard requirements met**  
-- None. Your CV does not directly evidence any of the must-haves for this role.
+**Requirements I meet:**  
+- None of the must-have requirements are directly met.
 
-**Hard requirements missing**  
-- **3+ years paid acquisition:** No mention of paid acquisition or digital marketing experience.
-- **Google Ads and Meta Ads at scale:** No mention of Google Ads, Meta Ads, or any advertising platform.
-- **Google Analytics:** Not present in your skills or experience.
-- **Owning CAC and ROAS targets:** No evidence of managing or optimizing Customer Acquisition Cost or Return on Ad Spend.
-- **Managing budgets above Rs 3 lakh/month:** No mention of budget management or marketing spend.
-
-**Nice-to-haves met**  
-- None. No mention of SEO or marketing automation.
+**Requirements I do not meet:**  
+- 3+ years paid acquisition: No mention of paid acquisition or digital marketing experience.
+- Google Ads and Meta Ads at scale: No evidence of experience with Google Ads, Meta Ads, or any digital ad platforms.
+- Google Analytics: No mention of Google Analytics or web analytics tools.
+- Owning CAC and ROAS targets: No mention of customer acquisition cost (CAC), return on ad spend (ROAS), or similar metrics.
+- Managing budgets above Rs 3 lakh a month: No mention of budget management or any financial responsibility for marketing spend.
+- Nice to have — SEO, marketing automation: No mention of SEO or marketing automation tools or experience.
 
 **Worth applying?**  
-Probably not — your CV is in data analytics for retail, with no evidence of digital marketing, ad platforms, or budget ownership.
+Probably not — your experience is in data analytics for retail, not performance marketing or digital advertising, and you do not meet any of the core requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Nisha Verma | nisha@email.com | Gurgaon
 
 SUMMARY  
-Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Power BI dashboards, and A/B testing to drive business insights and support decision-making.
+[changed] Data analyst with 3 years’ experience in retail analytics, specializing in SQL, dashboarding, and A/B testing.  
+(was: Data analyst, 3 years, retail analytics.)
 
 SKILLS  
-- SQL  
-- Power BI  
-- Excel  
-- Python (pandas)  
-- A/B testing  
-- Dashboards
+[changed] SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards  
+(was: same)
 
-EXPERIENCE
+EXPERIENCE  
 
-Data Analyst, RetailIQ — 2023 to present  
-- Built Power BI dashboards used by 30 store managers to monitor sales and performance metrics  
-- Wrote SQL queries for weekly sales reporting across 120 retail locations  
-- Designed and analyzed A/B tests on pricing strategies, resulting in a 4% increase in profit margin
+Data Analyst, RetailIQ - 2023 to present  
+  [changed] Developed and maintained Power BI dashboards for 30+ retail store managers to support data-driven decision making.  
+    (was: Built Power BI dashboards used by 30 store managers)  
+  [changed] Wrote SQL queries for weekly sales reporting and performance tracking across 120 retail locations.  
+    (was: Wrote SQL for weekly sales reporting across 120 stores)  
+  [changed] Conducted A/B testing on pricing strategies, resulting in a 4% increase in profit margin for a key product line.  
+    (was: Ran A/B tests on pricing; one raised margin 4 percent)
 
 EDUCATION  
-B.Sc Statistics, Delhi University, 2022
+[changed] B.Sc Statistics, Delhi University, 2022  
+(was: same)
 
-**WHAT I CHANGED**  
-- Rewrote the summary to emphasize analytics, dashboards, and A/B testing, using language relevant to performance measurement.
-- Ordered skills to highlight analytics and reporting, as these are closest to the job’s focus on performance.
-- Expanded experience bullets to clarify outcomes and business impact, using terms like “performance metrics” and “profit margin.”
-- Compressed education and omitted unrelated details.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - Paid acquisition experience  
-- Google Ads or Meta Ads  
-- Google Analytics  
+- Google Ads or Meta Ads experience  
+- Google Analytics experience  
 - CAC or ROAS ownership  
-- Budget management  
-- SEO  
-- Marketing automation
+- Budget management above Rs 3 lakh/month  
+- SEO or marketing automation experience  
 
-If you gain experience in digital marketing platforms or budget management, update your CV accordingly. As it stands, this role is not a fit.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear — no change needed.  
+- Dates are in a consistent format — no change needed.  
+- If your CV uses a single column, that’s best for ATS; if not, consider switching to one column for better parsing.  
+- Ensure all text is selectable and not inside images or graphics, especially for contact details.  
+- Save as a PDF with selectable text, not a scan, to ensure ATS can read your CV.  
+- If you use a photo, do not put contact details inside or near it, as ATS may ignore them.
+
+**Summary:**  
+Your CV is well-structured for analytics roles but does not match the requirements for a performance marketing manager. Consider applying to data analyst or analytics manager positions, or upskilling in digital marketing if you wish to move into this field.

@@ -4,77 +4,65 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 0/100
 
-**Hard requirements met:**  
-_None._  
-- 4+ years deploying ML in production — No evidence in CV.  
-- PyTorch or TensorFlow — Not mentioned.  
-- Feature engineering — Not mentioned.  
-- MLOps (versioning, monitoring, retraining) — Not mentioned.  
-- Strong statistics — Not mentioned.  
+**Requirements I meet:**  
+None. There is no evidence in your CV of any of the following:
+- Machine learning experience (production or otherwise)
+- PyTorch or TensorFlow
+- Feature engineering
+- MLOps (versioning, monitoring, retraining)
+- Statistics (strong or otherwise)
+- NumPy, pandas, scikit-learn
+- LLM fine-tuning or distributed training
+
+**Requirements I do not meet:**  
+- 4+ years deploying ML in production — No ML experience shown; all experience is in design.
+- PyTorch or TensorFlow — Not mentioned anywhere.
+- Feature engineering — Not mentioned.
+- MLOps (versioning, monitoring, retraining) — Not mentioned.
+- Strong statistics — Not mentioned.
 - NumPy, pandas, scikit-learn — Not mentioned.
-
-**Hard requirements missing:**  
-- 4+ years deploying ML in production — No ML experience shown; only design work.
-- PyTorch or TensorFlow — No mention of these or any ML frameworks.
-- Feature engineering — No mention.
-- MLOps (versioning, monitoring, retraining) — No mention.
-- Strong statistics — No mention.
-- NumPy, pandas, scikit-learn — No mention.
-
-**Nice-to-haves met:**  
-_None._  
-- LLM fine-tuning — Not mentioned.  
-- Distributed training — Not mentioned.
+- LLM fine-tuning, distributed training — Not mentioned.
 
 **Worth applying?**  
-Probably not — your CV is in design, not machine learning, and does not meet any requirements for this role.
+Probably not — your CV is in a different field (design, not machine learning or engineering) and does not meet any of the required skills or experience.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Anjali Desai | anjali@email.com | Remote
 
 SUMMARY  
-Creative freelance designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in Figma, Illustrator, Photoshop, and basic web design.
+[changed] Freelance designer with 4 years of experience supporting small businesses with brand identity, digital design, and web assets.  
+(was: Freelance designer, 4 years, small businesses.)
 
 SKILLS  
-- Brand identity design  
-- Figma  
-- Illustrator  
-- Photoshop  
-- Canva  
-- Basic HTML/CSS
+[same] Figma, Illustrator, Photoshop, brand identity, basic HTML/CSS, Canva
 
-EXPERIENCE
+EXPERIENCE  
 
-Freelance Designer | 2022 – present  
-- Developed brand identities for 14 small businesses, enhancing visual presence and consistency.  
-- Designed and executed a social media campaign that raised engagement by 40%.  
-- Built two landing pages using HTML and CSS to support client marketing efforts.
+Freelance Designer - 2022 to present  
+  [same] Brand identities for 14 small businesses  
+  [same] Social campaign raised engagement 40%  
+  [same] Built two landing pages in HTML and CSS
 
-Junior Designer, PixelCraft Studio | 2021 – 2022  
-- Supported senior designers in creating digital and print assets for client projects.
+Junior Designer, PixelCraft Studio - 2021 to 2022  
+  [same] (no bullets provided in original)
 
 EDUCATION  
-BA Applied Arts, Gujarat University, 2021
+[same] BA Applied Arts, Gujarat University, 2021
 
----
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I CHANGED**  
-- Reordered and clarified skills to match the job’s format, but kept only design-related skills as per your CV.  
-- Expanded on outcomes and responsibilities in freelance work using more formal language.  
-- Compressed unrelated experience (PixelCraft Studio) to a single line.  
-- Kept summary focused on design, as no ML experience is present.
+**What I deliberately did not add:**  
+- Any mention of machine learning, ML deployment, PyTorch, TensorFlow, feature engineering, MLOps, statistics, NumPy, pandas, scikit-learn, LLM fine-tuning, or distributed training, as your CV does not support any of these.
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 4+ years deploying ML in production  
-- PyTorch or TensorFlow  
-- Feature engineering  
-- MLOps (versioning, monitoring, retraining)  
-- Strong statistics  
-- NumPy, pandas, scikit-learn  
-- LLM fine-tuning  
-- Distributed training
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION").
+- Dates are in a consistent format.
+- All content appears to be text, not images or graphics.
+- If your CV uses a multi-column layout, consider switching to a single column for better ATS parsing.
+- Ensure your file is saved as a PDF with selectable text, not a scan, for best ATS compatibility.
 
-Your CV does not support any of the requirements for this role.
+**Summary:**  
+Your CV is well-structured for design roles, but does not match the requirements for a Machine Learning Engineer position. If you wish to move into ML, consider gaining relevant skills and experience first.

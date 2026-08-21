@@ -2,73 +2,77 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 37/100
+MATCH: 52/100
 
-**Hard requirements met**  
-- **Strong SQL:**  
+**Requirements I meet:**  
+- 2+ years analytics:  
+  - [Partial] "Software developer, 2 years, web applications." (Relevant experience, but not explicitly analytics-focused.)  
+- Strong SQL:  
   - "Designed MySQL schemas and wrote reporting queries"  
-- **Python:**  
-  - "Built internal tools in Python and Django used by 40 staff" (Python is a nice-to-have, but included here for completeness)
+- Communicating findings to non-technical stakeholders:  
+  - [Partial] "Handled customer complaints escalated from support" (Some client communication, but not explicitly about analytics findings.)  
+- Python (Nice to have):  
+  - "Python" (in Skills and used in Experience)  
 
-**Hard requirements missing**  
-- **2+ years analytics:**  
-  - No evidence of analytics-specific work. Your experience is in software development, not analytics.  
-- **Dashboarding in Power BI or Tableau:**  
+**Requirements I do not meet:**  
+- Dashboarding in Power BI or Tableau:  
   - No mention of Power BI, Tableau, or any dashboarding tool.  
-- **Excel:**  
-  - No mention of Excel or spreadsheet work.  
-- **Communicating findings to non-technical stakeholders:**  
-  - Closest is "Handled customer complaints escalated from support," but this is not the same as communicating data insights or analytics findings.
-
-**Nice-to-haves met**  
-- **Python:**  
-  - "Built internal tools in Python and Django used by 40 staff"  
-- **A/B testing:**  
-  - No mention.
+- Excel:  
+  - No mention of Excel anywhere in the CV.  
+- 2+ years analytics:  
+  - Your experience is in software/web development, not analytics roles.  
+- A/B testing:  
+  - No mention of A/B testing.  
 
 **Worth applying?**  
-Probably not — you lack analytics experience, dashboarding, and Excel, which are all core to the role.
+Yes-with-caveats — You have strong SQL and Python, but lack direct analytics, dashboarding, and Excel experience; you may get filtered out by ATS, but could be considered if you can show analytics work in your application or cover letter.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Priya Sharma | priya@email.com | Pune
+SUMMARY:  
+[changed] Software developer with 2 years' experience in web applications, strong skills in Python and SQL, and experience designing MySQL schemas and reporting queries.  
+(was: "Software developer, 2 years, web applications.")
 
-SUMMARY  
-Software developer with experience in Python, MySQL, and web applications. Skilled in designing relational databases and building internal tools for business operations.
-
-SKILLS  
-- SQL (MySQL: schema design, reporting queries)  
-- Python  
-- Django  
-- REST APIs  
-- HTML, CSS, JavaScript  
-- Git
+SKILLS:  
+[changed] Python, relational databases (MySQL), SQL reporting, HTML, CSS, JavaScript, Git, REST APIs  
+(was: "Python, Django, MySQL, HTML, CSS, JavaScript, Git, REST APIs")
 
 EXPERIENCE
 
-Software Developer, Infobyte Solutions, Pune — June 2024 to present  
-- Designed MySQL schemas and wrote reporting queries to support internal business processes  
-- Built internal tools in Python and Django used by 40 staff  
-- Wrote unit tests, raising coverage from 30% to 65%  
-- Handled customer complaints escalated from support
+Software Developer, Infobyte Solutions, Pune - June 2024 to present  
+  [changed] Designed MySQL schemas and wrote reporting queries for internal tools  
+            (was: "Designed MySQL schemas and wrote reporting queries")  
+  [changed] Managed client relationships for escalated issues, communicating technical information to non-technical staff  
+            (was: "Handled customer complaints escalated from support")  
+  [same]   Built internal tools in Python and Django used by 40 staff  
+  [same]   Wrote unit tests, raised coverage 30% to 65%
 
-Intern, Infobyte Solutions — Jan 2024 to May 2024  
-- Fixed bugs in a Django app and wrote REST API documentation
+Intern, Infobyte Solutions - Jan 2024 to May 2024  
+  [changed] Fixed bugs in a Django app and wrote REST API documentation  
+            (was: "Fixed bugs in a Django app; wrote REST API documentation")
 
-EDUCATION  
-B.E. Computer Engineering, Pune University, 2023
+EDUCATION:  
+[same] B.E. Computer Engineering, Pune University, 2023
 
-**WHAT I CHANGED**  
-- Reordered and expanded SQL/MySQL and Python experience to the top of skills and bullets, as these are most relevant to the job.  
-- Used the job’s vocabulary where possible (e.g., "reporting queries", "internal business processes").  
-- Compressed less relevant web development skills (HTML, CSS, JavaScript) to the end of the skills list.  
-- Summarized experience to focus on data-related tasks.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Dashboarding in Power BI or Tableau (not in your CV)  
-- Excel (not in your CV)  
-- Analytics experience (not in your CV)  
-- Communicating findings to non-technical stakeholders (not in your CV)  
-- A/B testing (not in your CV)
+**What I deliberately did not add:**  
+- Dashboarding in Power BI or Tableau (no evidence in your CV)  
+- Excel (no evidence in your CV)  
+- A/B testing (no evidence in your CV)  
+- Explicit analytics experience (your work is software development, not analytics per se)  
+
+**ATS suggestions — advice only, do not apply these:**  
+- If your CV uses a single column, keep it; if not, switch to single column for better parsing.  
+- Ensure all section headings are standard ("Summary", "Skills", "Experience", "Education") — your headings are fine.  
+- Make sure dates are in a consistent format (yours are consistent).  
+- Use selectable text (not images) for all content — your sample is text, so this is fine.  
+- If you use a photo, do not put contact details inside it.  
+- Save as PDF with selectable text, not a scan.  
+
+**Summary:**  
+Your CV is clear and well-structured, but lacks dashboarding, Excel, and direct analytics experience. If you have any analytics or dashboarding projects (even side projects), add them. Otherwise, consider upskilling in Power BI/Tableau and Excel for better fit.

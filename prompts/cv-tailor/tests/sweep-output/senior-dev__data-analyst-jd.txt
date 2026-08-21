@@ -4,75 +4,68 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 32/100
 
-**Hard requirements met**  
-- 2+ years analytics  
-  - Nothing in your CV directly evidences analytics work. Your experience is in backend engineering and distributed systems, not analytics.
-- Strong SQL  
-  - "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes" (shows some SQL/database experience, but not analytics-focused SQL).
-- Dashboarding in Power BI or Tableau  
-  - No mention of Power BI or Tableau anywhere in your CV.
-- Excel  
-  - No mention of Excel.
-- Communicating findings to non-technical stakeholders  
-  - "Led a team of 5; ran hiring and design reviews" (shows some communication, but not specifically about analytics findings to non-technical stakeholders).
+**Requirements I meet**  
+- Python (Nice to have): "SKILLS: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC"  
+- SQL (Partial): "SKILLS: PostgreSQL" and "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes"  
+- Communicating findings to non-technical stakeholders (Partial): "Led a team of 5; ran hiring and design reviews" (suggests some communication, but not specifically analytics findings to non-technical stakeholders)  
 
-**Hard requirements missing**  
-- 2+ years analytics: No analytics experience is described; all experience is backend/distributed systems engineering.
-- Dashboarding in Power BI or Tableau: No evidence of either tool.
-- Excel: No evidence of Excel.
-- Communicating findings to non-technical stakeholders: No direct evidence of analytics findings or communication to non-technical audiences.
-
-**Nice-to-haves met**  
-- Python: "SKILLS: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC" (Python listed).
-- A/B testing: Not mentioned.
+**Requirements I do not meet**  
+- 2+ years analytics: Nowhere does your CV mention analytics, data analysis, or analytics projects.  
+- Dashboarding in Power BI or Tableau: No mention of either tool, or of dashboarding/reporting.  
+- Excel: Not mentioned anywhere.  
+- A/B testing: Not mentioned.  
+- Communicating findings to non-technical stakeholders (as required): No explicit evidence of this in an analytics context.  
+- 2-4 years experience: Your CV shows 9 years, which is far above the level sought.  
 
 **Worth applying?**  
-Probably not — you lack direct analytics experience and the core dashboarding/Excel skills this job requires.
+Probably not — your experience is in backend engineering and distributed systems, not analytics, dashboarding, or business data analysis, and you lack most of the core requirements for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
+```
 Vikram Iyer | vikram@email.com | Bengaluru
 
-SUMMARY  
-Backend engineer with 9 years of experience in distributed systems, specializing in large-scale data infrastructure, SQL optimization, and team leadership.
+SUMMARY: Backend engineer, 9 years, distributed systems.
 
-SKILLS  
-- SQL (PostgreSQL)
-- Python
-- Distributed systems
-- Go
-- Kubernetes
-- AWS
-- Kafka
-- Terraform
-- gRPC
+SKILLS: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC
+  [changed] Python, PostgreSQL (SQL)
+            (was: "Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC")
 
 EXPERIENCE
 
-Staff Engineer, ScaleWorks — 2021 to present  
-- Owned a 60-node Kubernetes cluster serving 12M requests daily, ensuring high reliability and performance of backend data systems.  
-- Led a team of 5 engineers, conducting hiring and design reviews to drive project success.  
-- Improved SQL query performance by reworking Postgres indexes, reducing p99 latency from 340ms to 90ms.
+Staff Engineer, ScaleWorks - 2021 to present
+  [changed] Improved database query performance by reworking Postgres indexes, reducing p99 latency from 340ms to 90ms
+            (was: "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes")
+  [same]    Own a 60-node Kubernetes cluster serving 12M requests a day
+  [same]    Led a team of 5; ran hiring and design reviews
 
-Senior Engineer, DataCore — 2017 to 2021  
-- Built and maintained Kafka pipelines processing 2TB of data daily, supporting robust data flows for backend services.
+Senior Engineer, DataCore - 2017 to 2021
+  [same]    Built Kafka pipelines processing 2TB daily
 
-EDUCATION  
-M.Tech Computer Science & Engineering, IIT Madras, 2017
+EDUCATION: M.Tech CSE, IIT Madras, 2017
+```
 
-**WHAT I CHANGED**  
-- Reordered and expanded SQL/PostgreSQL experience to highlight relevance to analytics roles.
-- Placed Python and SQL at the top of the skills section, as these are most relevant to the job.
-- Used the job's vocabulary where possible (e.g., "SQL query performance").
-- Compressed unrelated backend/distributed systems details.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Analytics experience (2+ years): Not supported by your CV.
-- Dashboarding in Power BI or Tableau: Not supported by your CV.
-- Excel: Not supported by your CV.
-- Communicating analytics findings to non-technical stakeholders: Not supported by your CV.
-- A/B testing: Not supported by your CV.
+**What I deliberately did not add**  
+- Analytics experience (not evidenced in your CV)
+- Dashboarding in Power BI or Tableau (not present)
+- Excel (not present)
+- A/B testing (not present)
+- Communicating analytics findings to non-technical stakeholders (not evidenced)
+- 2-4 years experience (your CV shows 9 years, not 2-4)
 
-If you gain experience in analytics, dashboarding, or Excel, update your CV to reflect that before applying to roles like this.
+**ATS suggestions — advice only, do not apply these**  
+- Your section headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- Dates are in a consistent format — fine.
+- Your skills are listed as text, not images — good.
+- If your CV uses a single column, that's best for ATS. If it's multi-column, consider switching to single column to avoid parsing errors.
+- Make sure your file is saved as a PDF with selectable text, not a scan, so ATS can read it.
+- Contact details are in text, not inside a photo — good.
+
+**Summary:**  
+Your CV is well-structured for ATS, but your experience does not match the analytics/data analyst requirements of this job. If you want to move into analytics, consider gaining experience with Power BI/Tableau, Excel, and analytics projects, and update your CV accordingly.

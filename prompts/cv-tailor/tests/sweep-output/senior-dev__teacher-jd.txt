@@ -4,68 +4,66 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None. Your CV does not show any experience in teaching, curriculum design, assessment design, science subject expertise, educator training, or digital learning tools in an educational context.
+**Requirements I meet:**  
+- None. Your CV does not show any teaching, curriculum design, assessment creation, subject expertise in physics or chemistry, educator training, or digital learning tools experience.
 
-**Hard requirements missing**  
-- 5+ years teaching or curriculum work — No evidence of teaching or curriculum work. Your experience is entirely in backend engineering.
-- Designing assessments — No mention of assessment design or related activities.
-- Subject expertise in physics or chemistry — Your education is in Computer Science and Engineering; no mention of physics or chemistry.
-- Training other educators — No evidence of educator training; your leadership was in engineering contexts.
-- Familiarity with digital learning tools — No mention of educational technology or digital learning platforms.
-
-**Nice-to-haves met**  
-- None.  
-  - EdTech experience — No evidence.
-  - Published material — No evidence.
+**Requirements I do not meet:**  
+- 5+ years teaching or curriculum work — No evidence of teaching or curriculum work.
+- Designing assessments — No mention of assessment design.
+- Subject expertise in physics or chemistry — No mention of either subject.
+- Training other educators — No evidence of educator training.
+- Familiarity with digital learning tools — No mention of digital learning tools.
+- EdTech experience (nice to have) — No EdTech roles or experience.
+- Published material (nice to have) — No mention of publications.
 
 **Worth applying?**  
-Probably not — your background is in backend engineering, with no evidence of teaching, curriculum design, or science subject expertise.
+Probably not — your experience is entirely in backend engineering and distributed systems, with no evidence of teaching, curriculum design, or science subject expertise.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Vikram Iyer | vikram@email.com | Bengaluru
 
 SUMMARY  
-Backend engineer with 9 years’ experience in distributed systems, team leadership, and large-scale infrastructure. Skilled in Go, Python, Kubernetes, and cloud technologies.
+[changed] Backend engineer, 9 years, distributed systems.  
+(was: Backend engineer, 9 years, distributed systems.)
 
 SKILLS  
-- Distributed systems (Go, Python)  
-- Kubernetes  
-- AWS  
-- PostgreSQL  
-- Kafka  
-- Terraform  
-- gRPC
+[same] Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC
 
 EXPERIENCE
 
-Staff Engineer, ScaleWorks — 2021 to present  
-- Led a team of 5 engineers, including hiring and technical mentorship  
-- Owned a 60-node Kubernetes cluster serving 12M requests daily  
-- Improved system performance by optimizing PostgreSQL indexes, reducing p99 latency from 340ms to 90ms
+Staff Engineer, ScaleWorks - 2021 to present  
+[same] Own a 60-node Kubernetes cluster serving 12M requests a day  
+[same] Led a team of 5; ran hiring and design reviews  
+[same] Cut p99 latency from 340ms to 90ms by reworking Postgres indexes
 
-Senior Engineer, DataCore — 2017 to 2021  
-- Built and maintained Kafka pipelines processing 2TB of data daily
+Senior Engineer, DataCore - 2017 to 2021  
+[same] Built Kafka pipelines processing 2TB daily
 
 EDUCATION  
-M.Tech, Computer Science and Engineering, IIT Madras, 2017
+[same] M.Tech CSE, IIT Madras, 2017
 
-**WHAT I CHANGED**  
-- Reordered and expanded leadership and mentorship experience, as this is the closest adjacent skill to educator training.
-- Used “technical mentorship” to clarify the nature of team leadership.
-- Kept all technical skills and experience, as there is no relevant educational or science curriculum experience to surface.
-- Compressed unrelated details to focus on transferable skills.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 5+ years teaching or curriculum work  
 - Designing assessments  
 - Subject expertise in physics or chemistry  
 - Training other educators  
 - Familiarity with digital learning tools  
 - EdTech experience  
-- Published material
+- Published material  
 
-(If this list is empty, I would say so, but in this case, all requirements are missing.)
+None of these are supported by your CV, so they were not added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- Dates are in a consistent format — good.
+- Your CV appears to be in plain text, which is ATS-friendly.
+- If you use a photo or multi-column layout in your actual file, consider switching to single column and removing the photo for ATS parsing, as these can cause issues.
+- Ensure your file is saved as a PDF with selectable text, not a scan, for best parsing.
+
+**Summary:**  
+Your CV is well-structured for backend engineering roles but does not match the requirements for a Curriculum Designer - Science position. If you have any relevant experience not listed, consider adding it; otherwise, this is not a suitable match.

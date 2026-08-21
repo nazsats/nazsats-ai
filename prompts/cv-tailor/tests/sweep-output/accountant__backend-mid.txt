@@ -2,63 +2,72 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 10/100
+MATCH: 0/100
 
-**Hard requirements met**  
-- None. There is no evidence in your CV of Python, web development, Django/Flask, REST APIs, Git, or automated tests.
-- The only partial overlap is "Excel (advanced)" and "reconciliation", which are not relevant to backend development.
+**Requirements I meet:**  
+- None. My CV does not mention Python, web development, Django, Flask, SQL, REST APIs, Git, automated tests, cloud, or Docker.
 
-**Hard requirements missing**  
+**Requirements I do not meet:**  
 - 2+ years Python web development — No mention of Python or web development.
 - Django or Flask — No mention.
-- Strong SQL and relational design — Only "Tally" and "Excel (advanced)" are listed; no SQL or relational database experience.
+- Strong SQL and relational design — No mention of SQL or database design.
 - REST APIs — No mention.
 - Git — No mention.
 - Automated tests — No mention.
-
-**Nice-to-haves met**  
-- None. No mention of cloud platforms or Docker.
+- Cloud platforms (nice to have) — No mention.
+- Docker (nice to have) — No mention.
 
 **Worth applying?**  
-Probably not — your CV is entirely in accounting, with no evidence of software development or the required technical skills.
-
-Scoring guide: 0-29 = different field or level entirely.
+Probably not — your experience is entirely in accounting and finance, with no evidence of software development or related skills.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
 Sneha Kulkarni | sneha@email.com | Nashik
 
 SUMMARY  
-Experienced accountant specializing in SME bookkeeping, compliance, and advanced Excel-based process automation.
+[changed] Accountant with 5 years’ experience in SME bookkeeping, compliance, and financial process optimization.  
+(was: Accountant, 5 years, SME bookkeeping and compliance.)
 
 SKILLS  
-- Bookkeeping and compliance (Tally, GST filing, TDS)  
-- Advanced Excel modeling  
-- Payroll management  
-- Account reconciliation  
+[changed] Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll  
+(was: Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll)
 
-EXPERIENCE  
+EXPERIENCE
 
-Senior Accountant, Deshmukh and Co — 2021 to present  
-- Managed books for 22 SME clients, ensuring accuracy and compliance  
-- Filed GST and TDS returns with zero late filings in four years  
-- Built advanced Excel models, reducing monthly close from 6 days to 2  
-- Oversaw payroll and account reconciliation for multiple clients  
+Senior Accountant, Deshmukh and Co - 2021 to present  
+  [changed] Manage books for 22 SME clients, ensuring accurate financial records and compliance.  
+    (was: Manage books for 22 SME clients)  
+  [same] File GST and TDS returns; zero late filings in four years  
+  [changed] Built Excel models to streamline monthly close, reducing process from 6 days to 2.  
+    (was: Built Excel models cutting monthly close from 6 days to 2)
 
 EDUCATION  
-M.Com, Pune University, 2020
+[same] M.Com, Pune University, 2020
 
-**WHAT I CHANGED**  
-- Reordered and expanded the experience section to emphasize process automation and advanced Excel skills, as these are the closest adjacent skills to backend work.
-- Used more technical language ("process automation", "advanced Excel modeling") to align with a technical job description, within the limits of your actual experience.
-- Placed skills in order of technical relevance, with Excel and process automation first.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Python, web development, Django, Flask, REST APIs, Git, automated tests, SQL, relational database design, cloud platforms, Docker — none are present in your CV, so none are claimed.
+**What I deliberately did not add:**  
+- Python web development  
+- Django or Flask  
+- SQL or relational database design  
+- REST APIs  
+- Git  
+- Automated tests  
+- Cloud platforms  
+- Docker  
 
----
+Your CV does not support any of these requirements, so none were added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear.
+- Dates are in a consistent format.
+- Your CV appears to be single-column and text-based, which is good for ATS.
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can parse it.
+- Do not put contact details inside a photo or header/footer image.
 
 **Summary:**  
-You do not meet any of the hard or nice-to-have requirements for this backend developer role. Your background is entirely in accounting, with no evidence of programming or software development.
+Your CV is well-structured for accounting roles but does not match this backend developer job at all. If you are considering a career change, you will need to gain and evidence relevant technical skills before applying to such roles.

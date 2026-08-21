@@ -4,62 +4,78 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 18/100
 
-**Hard requirements met**  
-- Python: "Python (pandas)" — You have Python experience, but only in the context of data analysis, not backend engineering.
-- SQL: "SQL" — You have SQL experience, but no mention of PostgreSQL specifically or at scale.
+**Requirements I meet:**  
+- Python  
+  - "Python (pandas)" in Skills  
+- SQL  
+  - "SQL" in Skills; "Wrote SQL for weekly sales reporting across 120 stores" in Experience
 
-**Hard requirements missing**  
-- 5+ years Python: Your CV shows "Data analyst, 3 years" and "2023 to present" for your current role. This is less than 5 years, and your Python use is for analytics, not backend engineering.
-- Production Kubernetes: No mention of Kubernetes or any container orchestration.
-- PostgreSQL at scale with query optimisation and replication: No mention of PostgreSQL, query optimisation, or replication. Only "SQL" is listed.
-- AWS (EKS, RDS, S3): No mention of AWS or any cloud experience.
-- Terraform: Not mentioned.
-- Has led a team of at least 3: No evidence of any leadership or management experience.
-
-**Nice-to-haves met**  
-- None. No mention of Go or Kafka.
+**Requirements I do not meet:**  
+- 5+ years Python  
+  - My CV shows Python experience, but not 5+ years; only 3 years total experience, and Python is not the main focus.
+- Production Kubernetes  
+  - No mention of Kubernetes.
+- PostgreSQL at scale with query optimisation and replication  
+  - No mention of PostgreSQL, query optimisation, or replication; only general SQL.
+- AWS (EKS, RDS, S3)  
+  - No mention of AWS or any cloud platform.
+- Terraform  
+  - No mention of Terraform.
+- Led a team of at least 3  
+  - No mention of team leadership or management.
+- Go, Kafka (nice to have)  
+  - No mention of Go or Kafka.
 
 **Worth applying?**  
-Probably not — you are missing nearly all hard requirements, especially in backend engineering, cloud, and leadership.
+Probably not — you lack almost all the core backend engineering and infrastructure requirements, and your experience is in data analysis, not backend engineering or DevOps.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
+```
 Nisha Verma | nisha@email.com | Gurgaon
 
 SUMMARY  
-Data analyst with 3 years of experience in retail analytics, specialising in SQL, Python (pandas), and Power BI. Skilled in building dashboards, conducting A/B testing, and delivering actionable insights for business growth.
+[changed] Data analyst with 3 years' experience in Python (pandas), SQL, and retail analytics.  
+(was: "Data analyst, 3 years, retail analytics.")
 
 SKILLS  
-- Python (pandas)  
-- SQL  
-- Power BI  
-- Excel  
-- A/B testing  
-- Dashboards
+[changed] Python (pandas), SQL, Excel, Power BI, A/B testing, dashboards  
+(was: "SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards")
 
 EXPERIENCE
 
-Data Analyst, RetailIQ — 2023 to present  
-- Built Power BI dashboards used by 30 store managers to monitor sales and performance  
-- Wrote SQL queries for weekly sales reporting across 120 stores  
-- Conducted A/B tests on pricing strategies, resulting in a 4% margin increase
+Data Analyst, RetailIQ - 2023 to present  
+  [changed] Wrote SQL queries for weekly sales reporting across 120 stores  
+    (was: "Wrote SQL for weekly sales reporting across 120 stores")  
+  [changed] Built Power BI dashboards used by 30 store managers  
+    (was: "Built Power BI dashboards used by 30 store managers")  
+  [changed] Conducted A/B tests on pricing strategies; one test increased margin by 4 percent  
+    (was: "Ran A/B tests on pricing; one raised margin 4 percent")
 
 EDUCATION  
 B.Sc Statistics, Delhi University, 2022
+```
 
-**WHAT I CHANGED**
-- Reworded the summary to emphasise Python and SQL skills, as these are most relevant to the job.
-- Ordered skills to put Python and SQL first, matching the job’s focus.
-- Expanded experience bullets to use more of the job’s vocabulary (e.g., “monitor sales and performance”, “pricing strategies”).
-- Compressed education and removed unrelated details, as the job is senior and technical.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**
-- 5+ years Python (your CV only supports 3 years, and only for analytics)
-- Production Kubernetes (not mentioned)
-- PostgreSQL at scale, query optimisation, replication (not mentioned)
-- AWS (EKS, RDS, S3) (not mentioned)
-- Terraform (not mentioned)
-- Team leadership (not mentioned)
-- Go, Kafka (not mentioned)
+**What I deliberately did not add:**  
+- Production Kubernetes (no mention in your CV)
+- PostgreSQL at scale, query optimisation, replication (no mention)
+- AWS (EKS, RDS, S3) (no mention)
+- Terraform (no mention)
+- Led a team of at least 3 (no mention)
+- Go, Kafka (no mention)
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good.
+- Dates are in a consistent format — good.
+- If your CV uses a single column and text (not images) for all content, you are fine. If not, switch to single column and text for better parsing.
+- Make sure your file is saved as a PDF with selectable text, not a scan, so ATS systems can read it.
+- Do not put contact details inside a photo or header/footer — keep them in the main text.
+
+**Summary:**  
+Your CV is well-structured for ATS, but you do not meet the core requirements for this backend engineering role. Consider applying to data analyst or analytics engineering roles that match your experience and skills.

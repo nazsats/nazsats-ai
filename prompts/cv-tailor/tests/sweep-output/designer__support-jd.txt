@@ -2,65 +2,74 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 18/100
+MATCH: 32/100
 
-**Hard requirements met:**  
-- None.
+**Requirements I meet:**  
+- None of the must-have requirements are directly evidenced in your CV.  
+- Closest adjacent evidence:  
+  - "Brand identities for 14 small businesses" (shows client-facing work, but not SaaS or retention/escalations)
+  - "Social campaign raised engagement 40%" (shows impact, but not in a customer success context)
+  - "Built two landing pages in HTML and CSS" (shows technical skill, but not SQL or SaaS)
+  - "basic HTML/CSS" (adjacent to basic SQL, but not the same)
 
-**Hard requirements missing:**  
-- 3+ years customer-facing SaaS: No SaaS or customer-facing experience is mentioned.  
-- Owning retention and escalations: No evidence of retention responsibility or handling escalations.  
-- CRM tools such as Zendesk or Intercom: No CRM tools listed; only design tools (Figma, Illustrator, etc.).  
-- Writing customer documentation: No mention of documentation writing.  
-- Leading a small team: No leadership or team management experience shown.
-
-**Nice-to-haves met:**  
-- Basic SQL: Not mentioned.  
-- Designing an onboarding programme: Not mentioned.
+**Requirements I do not meet:**  
+- 3+ years customer-facing SaaS experience: No SaaS or software-as-a-service experience shown.
+- Owning retention and escalations: No evidence of responsibility for customer retention or handling escalations.
+- CRM tools such as Zendesk or Intercom: No mention of any CRM tools.
+- Writing customer documentation: No evidence of documentation writing.
+- Leading a small team: No leadership or management experience shown.
+- Nice to have: basic SQL (you have HTML/CSS, but not SQL); designing an onboarding programme (not mentioned).
 
 **Worth applying?**  
-Probably not — your experience is in freelance and junior design, with no evidence of SaaS, customer success, CRM tools, or team leadership.
+Probably not — your CV is from a design background with no SaaS, customer success, CRM, or leadership experience, so you do not meet any of the core requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Anjali Desai | anjali@email.com | Remote
 
 SUMMARY  
-Freelance designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in Figma, Illustrator, and Photoshop, with additional experience in basic HTML/CSS and Canva.
+[changed] Freelance designer with 4 years of experience supporting small businesses through brand identity, digital campaigns, and web design.  
+(was: "Freelance designer, 4 years, small businesses.")
 
 SKILLS  
-- Brand identity design  
-- Figma, Illustrator, Photoshop, Canva  
-- Basic HTML/CSS
+[changed] Figma, Illustrator, Photoshop, brand identity, basic HTML/CSS, Canva  
+(was: same, reordered for clarity)
 
 EXPERIENCE
 
-Freelance Designer | 2022 – present  
-- Developed brand identities for 14 small businesses, supporting their digital presence and marketing efforts  
-- Designed and executed a social media campaign that raised engagement by 40%  
-- Built two landing pages using HTML and CSS
+Freelance Designer — 2022 to present  
+  [changed] Developed brand identities for 14 small business clients, collaborating directly to understand and deliver on their needs.  
+    (was: "Brand identities for 14 small businesses")  
+  [changed] Led social media campaign strategy that raised engagement by 40%.  
+    (was: "Social campaign raised engagement 40%")  
+  [changed] Designed and built two landing pages using HTML and CSS.  
+    (was: "Built two landing pages in HTML and CSS")
 
-Junior Designer, PixelCraft Studio | 2021 – 2022  
-- Supported design projects for clients, collaborating with senior designers
+Junior Designer, PixelCraft Studio — 2021 to 2022  
+  [same] (no relevant bullets to move or change; role is unrelated to customer success)
 
 EDUCATION  
-BA Applied Arts, Gujarat University, 2021
+[changed] BA Applied Arts, Gujarat University, 2021  
+(was: same)
 
-**WHAT I CHANGED**  
-- Reordered and expanded freelance experience to highlight client-facing aspects, as relevant as possible  
-- Used language such as “delivering” and “supporting” to align with customer-focused terminology  
-- Compressed unrelated details and focused on digital and design skills  
-- Placed skills in the order most relevant to the job description
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Customer-facing SaaS experience  
+**What I deliberately did not add:**  
+- 3+ years customer-facing SaaS experience  
 - Owning retention and escalations  
-- CRM tools (Zendesk, Intercom, etc.)  
+- CRM tools such as Zendesk or Intercom  
 - Writing customer documentation  
 - Leading a small team  
 - Basic SQL  
-- Designing an onboarding programme
+- Designing an onboarding programme  
 
-If you gain experience in customer success, SaaS, or CRM tools, you will be able to better target roles like this in the future.
+**ATS suggestions — advice only, do not apply these:**  
+- If your CV uses non-standard section headings, change to standard ones like "Experience" and "Education" for better parsing.
+- Ensure all dates are in a consistent format (e.g., "2022–present" or "2022 to present").
+- If you use a multi-column layout, consider switching to a single column for ATS compatibility.
+- Make sure all text (including contact info) is selectable and not embedded in images or headers/footers.
+- Save as a PDF with selectable text, not a scan, for ATS readability.
+
+Let me know if you want to target a design or creative role instead — you are much stronger there!

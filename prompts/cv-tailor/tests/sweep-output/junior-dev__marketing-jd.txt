@@ -4,66 +4,67 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None.
+**Requirements I meet:**  
+- None. Your CV does not show any experience in performance marketing, paid acquisition, Google Ads, Meta Ads, Google Analytics, or managing marketing budgets.
 
-**Hard requirements missing**  
-- 3+ years paid acquisition — No evidence of any paid acquisition or marketing experience.
-- Google Ads and Meta Ads at scale — No mention of Google Ads, Meta Ads, or any digital advertising platforms.
-- Google Analytics — Not mentioned anywhere in the CV.
-- Owning CAC and ROAS targets — No mention of customer acquisition cost, return on ad spend, or any performance marketing metrics.
-- Managing budgets above Rs 3 lakh a month — No mention of budget management or financial responsibility.
-
-**Nice-to-haves met**  
-- None. No mention of SEO or marketing automation.
+**Requirements I do not meet:**  
+- 3+ years paid acquisition: No marketing or acquisition experience shown.
+- Google Ads and Meta Ads at scale: No mention of these platforms or any advertising work.
+- Google Analytics: Not listed as a skill or in experience.
+- Owning CAC and ROAS targets: No evidence of marketing metrics or targets.
+- Managing budgets above Rs 3 lakh/month: No budget management experience shown.
+- SEO, marketing automation: Not listed or evidenced.
 
 **Worth applying?**  
-Probably not — your CV is entirely software development with no marketing or advertising experience, and you do not meet any of the hard requirements.
+Probably not — your CV is entirely in software/web development and does not show any marketing, advertising, or analytics experience required for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Priya Sharma | priya@email.com | Pune
+SUMMARY:  
+[changed] Software developer with 2 years’ experience building web applications, specializing in Python, Django, and relational databases (MySQL).  
+(was: Software developer, 2 years, web applications.)
 
-SUMMARY  
-Software developer with 2 years of experience building web applications using Python, Django, and MySQL. Skilled in backend development, REST APIs, and improving software quality through testing.
-
-SKILLS  
-- Python  
-- Django  
-- MySQL  
-- HTML, CSS, JavaScript  
-- REST APIs  
-- Git
+SKILLS:  
+[changed] Python, Django, relational databases (MySQL), HTML, CSS, JavaScript, Git, REST APIs  
+(was: Python, Django, MySQL, HTML, CSS, JavaScript, Git, REST APIs)
 
 EXPERIENCE
 
 Software Developer, Infobyte Solutions, Pune — June 2024 to present  
-- Built internal tools in Python and Django used by 40 staff  
-- Designed MySQL schemas and wrote reporting queries  
-- Handled customer complaints escalated from support  
-- Wrote unit tests, raised coverage 30% to 65%
+  [changed] Built internal web tools in Python and Django for 40 staff  
+            (was: Built internal tools in Python and Django used by 40 staff)  
+  [same]    Designed MySQL schemas and wrote reporting queries  
+  [changed] Managed client relationships for escalated technical issues  
+            (was: Handled customer complaints escalated from support)  
+  [same]    Wrote unit tests, raised coverage 30% to 65%
 
 Intern, Infobyte Solutions — Jan 2024 to May 2024  
-- Fixed bugs in a Django app; wrote REST API documentation
+  [same]    Fixed bugs in a Django app; wrote REST API documentation
 
-EDUCATION  
-B.E. Computer Engineering, Pune University, 2023
+EDUCATION:  
+[same] B.E. Computer Engineering, Pune University, 2023
 
-**WHAT I CHANGED**  
-- Kept the summary focused on software development, as there is no marketing experience to highlight.
-- Ordered skills and experience to emphasize backend and web application development.
-- Used the job description's vocabulary where possible (e.g., "reporting queries" for analytics-adjacent work).
-- Compressed unrelated details to keep the CV concise and relevant.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - Paid acquisition experience  
-- Google Ads or Meta Ads  
+- Google Ads or Meta Ads experience  
 - Google Analytics  
-- CAC or ROAS targets  
-- Budget management  
-- SEO  
-- Marketing automation
+- CAC/ROAS metrics or ownership  
+- Budget management (especially at scale)  
+- SEO or marketing automation
 
-Your CV does not support any of the requirements for this role.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear — good.  
+- Dates are in a consistent format — good.  
+- All content is in text, not images — good.  
+- If your CV uses a single column, keep it; if not, switch to single column for better parsing.  
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can read it.  
+- Do not put contact details inside a photo or header/footer — keep them in the main text.
+
+**Summary:**  
+Your CV is well-structured for software roles, but does not match this marketing position. If you want to move into marketing, consider gaining relevant experience or certifications first.

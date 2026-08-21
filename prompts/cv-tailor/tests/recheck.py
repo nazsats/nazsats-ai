@@ -48,8 +48,9 @@ def rewrite_body(text: str) -> str:
         if i != -1:
             body = body[i:]
             break
-    for marker in ("WHAT I DELIBERATELY DID NOT ADD", "DELIBERATELY DID NOT",
-                   "WHAT I CHANGED", "WHAT I DID NOT ADD"):
+    for marker in ("PART 3", "WHAT I DELIBERATELY DID NOT ADD",
+                   "DELIBERATELY DID NOT", "WHAT I CHANGED",
+                   "WHAT I DID NOT ADD", "ATS SUGGESTION"):
         i = body.upper().find(marker)
         if i != -1:
             body = body[:i]

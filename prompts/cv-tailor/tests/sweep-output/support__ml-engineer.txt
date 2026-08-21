@@ -4,58 +4,53 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None. There is no evidence in your CV of machine learning, ML deployment, or the required technical stack.
+**Requirements I meet:**  
+- None. Your CV does not show any experience with machine learning, ML frameworks, or the required technical stack.
 
-**Hard requirements missing**  
-- 4+ years deploying ML in production — No mention of ML experience or deployment in your CV.
+**Requirements I do not meet:**  
+- 4+ years deploying ML in production — No ML experience or deployment history in your CV.
 - PyTorch or TensorFlow — Not mentioned anywhere.
 - Feature engineering — Not mentioned.
-- MLOps: versioning, monitoring, retraining — No evidence.
+- MLOps (versioning, monitoring, retraining) — Not mentioned.
 - Strong statistics — Not mentioned.
-- NumPy, pandas, scikit-learn — Not mentioned or implied.
+- NumPy, pandas, scikit-learn — Not mentioned.
+- LLM fine-tuning, distributed training — Not mentioned.
 
-**Nice-to-haves met**  
-- None.  
-  - LLM fine-tuning — Not mentioned.
-  - Distributed training — Not mentioned.
-
-**Worth applying?** — Probably not. This is a completely different field and skillset; your experience is in SaaS customer support, not machine learning engineering.
+**Worth applying?**  
+Probably not. Your experience is entirely in SaaS customer support and does not overlap with the ML engineering requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Faisal Khan | faisal@email.com | Delhi
 
 SUMMARY  
-Customer support lead with 4 years’ experience in SaaS environments, specializing in team leadership, escalation management, and process optimization.
+[changed] Customer support lead with 4 years’ SaaS experience, skilled in escalation management, documentation, and basic SQL for product issue diagnosis.  
+(was: Customer support lead, 4 years SaaS.)
 
 SKILLS  
-- Zendesk  
-- Intercom  
-- Escalation management  
-- Documentation  
-- SQL (basic)
+[changed] Zendesk, Intercom, SQL (basic), escalation management, documentation  
+(was: Zendesk, Intercom, SQL (basic), escalation management, documentation)
 
-EXPERIENCE
+EXPERIENCE  
 
-Support Lead, CloudDesk — 2022 to present  
-- Lead a team of 6, owning first-response SLA for SaaS customer support  
-- Reduced average resolution time from 14 hours to 5  
-- Authored 80 help-centre articles to improve customer self-service  
-- Queried product database with basic SQL to diagnose and resolve issues
+Support Lead, CloudDesk - 2022 to present  
+  [changed] Lead a team of 6; managed first-response SLA for SaaS customer support  
+    (was: Lead a team of 6; own the first-response SLA)  
+  [changed] Reduced average resolution time from 14 hours to 5 through process improvements  
+    (was: Cut average resolution time from 14 hours to 5)  
+  [changed] Authored 80 help-centre articles to improve customer self-service  
+    (was: Wrote 80 help-centre articles)  
+  [changed] Used basic SQL to query product database and diagnose support issues  
+    (was: Query the product database with basic SQL to diagnose issues)
 
 EDUCATION  
-BA English, Delhi University, 2021
+[same] BA English, Delhi University, 2021
 
-**WHAT I CHANGED**  
-- Reworded summary to emphasize leadership, process improvement, and SaaS context, as these are your strengths.
-- Ordered skills and experience to highlight customer support leadership and process optimization.
-- Used job description vocabulary where possible (e.g., “owning SLA,” “process optimization”).
-- Expanded on outcomes (resolution time reduction, help-centre articles) to foreground measurable impact.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 4+ years deploying ML in production  
 - PyTorch or TensorFlow  
 - Feature engineering  
@@ -63,6 +58,16 @@ BA English, Delhi University, 2021
 - Strong statistics  
 - NumPy, pandas, scikit-learn  
 - LLM fine-tuning  
-- Distributed training
+- Distributed training  
 
-(There is no evidence for any of these requirements in your CV.)
+Your CV does not support any of these requirements, so none were added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear.
+- Dates are in a consistent format.
+- Your CV is already in plain text, which is ATS-friendly.
+- If you use a photo or multi-column layout in your actual file, consider switching to a single column and removing the photo for ATS parsing.
+- Ensure your file is saved as a PDF with selectable text, not a scan, for best parsing results.
+
+**Summary:**  
+Your background is in customer support, not machine learning. If you wish to move into ML engineering, consider gaining relevant experience and skills before applying to such roles.

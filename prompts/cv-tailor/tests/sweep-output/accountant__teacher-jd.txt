@@ -2,64 +2,66 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 12/100
+MATCH: 18/100
 
-**Hard requirements met**  
-- None.
+**Requirements I meet:**  
+- None. My CV does not show teaching, curriculum design, science subject expertise, assessment design, educator training, or digital learning tools.
 
-**Hard requirements missing**  
-- 5+ years teaching or curriculum work — No evidence of teaching or curriculum design experience.  
-- Designing assessments — No mention of assessment design.  
-- Subject expertise in physics or chemistry — No indication of science background; all experience is in accounting.  
-- Training other educators — No evidence of training or mentoring educators.  
-- Familiarity with digital learning tools — No mention of digital learning tools; only accounting software (Tally, Excel).
+**Requirements I do not meet:**  
+- 5+ years teaching or curriculum work — My CV is entirely in accounting and finance roles.
+- Designing assessments — No mention of assessment or curriculum design.
+- Subject expertise in physics or chemistry — No science background; my education is M.Com (Commerce).
+- Training other educators — No evidence of training or education roles.
+- Familiarity with digital learning tools — No mention of EdTech, LMS, or similar tools.
+- EdTech experience (nice to have) — No evidence.
+- Published material (nice to have) — No evidence.
 
-**Nice-to-haves met**  
-- None.  
-  - EdTech experience — Not present.  
-  - Published material — Not present.
-
-**Worth applying?** — Probably not. You lack all required experience and subject expertise; this is a different field.
+**Worth applying?**  
+Probably not — your experience is in accounting, not education or science, and there is no evidence of curriculum or teaching work.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Sneha Kulkarni | sneha@email.com | Nashik
+SUMMARY:  
+Accountant, 5 years, SME bookkeeping and compliance.  
+[same]
 
-SUMMARY  
-Experienced accountant with 5 years managing SME bookkeeping, compliance, and process improvement. Skilled in financial reconciliation, GST/TDS filing, and advanced Excel modeling.
+SKILLS:  
+Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll  
+[same]
 
-SKILLS  
-- Bookkeeping and compliance  
-- Tally  
-- GST and TDS filing  
-- Excel (advanced)  
-- Reconciliation  
-- Payroll
+EXPERIENCE  
+Senior Accountant, Deshmukh and Co - 2021 to present  
+  [same]    Manage books for 22 SME clients  
+  [same]    File GST and TDS returns; zero late filings in four years  
+  [same]    Built Excel models cutting monthly close from 6 days to 2  
 
-EXPERIENCE
+EDUCATION:  
+M.Com, Pune University, 2020  
+[same]
 
-Senior Accountant, Deshmukh and Co — 2021 to present  
-- Manage books for 22 SME clients, ensuring accurate and timely financial records  
-- File GST and TDS returns with zero late filings in four years  
-- Built Excel models to streamline monthly close process from 6 days to 2
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-EDUCATION  
-M.Com, Pune University, 2020
-
-**WHAT I CHANGED**  
-- Maintained original order and content, as none of your experience matches the job description.  
-- Reworded summary and bullets for clarity and conciseness.  
-- Highlighted process improvement and compliance, as these are your core strengths.
-
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 5+ years teaching or curriculum work  
 - Designing assessments  
 - Subject expertise in physics or chemistry  
 - Training other educators  
 - Familiarity with digital learning tools  
 - EdTech experience  
-- Published material
+- Published material  
 
-**(No requirements from the job description are supported by your CV.)**
+None of these are supported by your CV, so none were added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear — good for ATS.
+- Dates are in a consistent format.
+- Your CV is single column and text-based (as provided) — good for ATS.
+- If you use a photo or put contact details in a header/footer in your actual file, move contact details into the main text area — ATS may miss them otherwise.
+- Save as PDF with selectable text, not a scan — ensures ATS can read your content.
+
+**Summary:**  
+Your CV is well-structured for accounting roles, but does not match the requirements for a science curriculum designer. Consider applying only if you have relevant experience not shown here, or if you are making a significant career change and can explain your motivation and transferable skills in a cover letter.

@@ -2,69 +2,64 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 32/100
+MATCH: 35/100
 
-**Hard requirements met:**  
-- 5+ years teaching or curriculum work  
-  - **Not met.** Your CV shows 6 years as a critical care nurse, but no teaching or curriculum design experience.
-- Designing assessments  
-  - **Not met.** No mention of assessment design in your CV.
-- Subject expertise in physics or chemistry  
-  - **Not met.** Your background is in nursing; no evidence of physics or chemistry expertise.
-- Training other educators  
-  - **Partially met.** "Trained 8 junior nurses on documentation standards." (This is adjacent, but not in an educational or science curriculum context.)
-- Familiarity with digital learning tools  
-  - **Not met.** You mention "Epic EHR," which is a healthcare record system, not a digital learning tool.
+**Requirements I meet:**  
+- 5+ years experience: "Registered nurse, 6 years critical care."  
+- Training other educators: "Trained 8 junior nurses on documentation standards."  
+- Familiarity with digital learning tools: "Epic EHR" (adjacent; EHR is a digital tool, but not an education platform).  
 
-**Hard requirements missing:**  
-- 5+ years teaching or curriculum work — nothing in your CV supports teaching or curriculum design.
-- Designing assessments — no evidence of assessment creation.
-- Subject expertise in physics or chemistry — your degree and experience are in nursing.
-- Familiarity with digital learning tools — Epic EHR is not a digital learning tool.
-
-**Nice-to-haves met:**  
-- None. No EdTech or published material experience is shown.
+**Requirements I do not meet:**  
+- 5+ years teaching or curriculum work: No teaching or curriculum design experience in my CV.  
+- Designing assessments: No evidence of assessment design or implementation.  
+- Subject expertise in physics or chemistry: No mention of physics or chemistry; background is in nursing.  
+- EdTech experience: No EdTech or education technology company experience.  
+- Published material: No mention of published work.  
 
 **Worth applying?**  
-Probably not — you lack direct experience in curriculum design, science subject expertise, and digital learning tools, which are all core to the role.
+Probably not — your experience is in nursing, not science education or curriculum design, and you lack subject expertise and curriculum/assessment development.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Rahul Mehta | rahul@email.com | Mumbai
 
 SUMMARY  
-Registered nurse with 6 years of critical care experience, skilled in team coordination, training junior staff, and patient assessment. Experienced in high-pressure environments and documentation standards.
+[changed] Registered nurse with 6 years of critical care experience, skilled in training junior staff and coordinating multidisciplinary teams, with familiarity in digital documentation tools.  
+(was: "Registered nurse, 6 years critical care.")
 
 SKILLS  
-- Team coordination  
-- Training junior staff  
-- Patient assessment  
-- IV therapy  
-- Epic EHR  
-- Triage
+[changed] Team coordination, training junior staff, digital documentation (Epic EHR), patient assessment, IV therapy, triage  
+(was: "Patient assessment, IV therapy, Epic EHR, triage, team coordination")
 
 EXPERIENCE  
-
-Staff Nurse, Lilavati Hospital — 2019 to present  
-- Managed up to 12 ICU patients per shift, ensuring high standards of care and documentation.  
-- Trained 8 junior nurses on documentation standards and best practices.  
-- Coordinated communication between doctors, pharmacy, and families to support patient care.  
+Staff Nurse, Lilavati Hospital - 2019 to present  
+  [changed] Trained 8 junior nurses on documentation standards and procedures  
+    (was: "Trained 8 junior nurses on documentation standards")  
+  [changed] Coordinated between doctors, pharmacy, and families to ensure effective communication and care delivery  
+    (was: "Coordinated between doctors, pharmacy and families")  
+  [changed] Managed up to 12 ICU patients per shift, utilizing digital health records (Epic EHR) for documentation  
+    (was: "Managed up to 12 ICU patients per shift")
 
 EDUCATION  
-B.Sc. Nursing, MUHS, 2019
+B.Sc. Nursing, MUHS, 2019  
+[same]
 
-**WHAT I CHANGED**  
-- Reworded "handled customer complaints" to "coordinated communication" to align with "client relationship management" style language.
-- Highlighted training of junior nurses as the closest match to "training other educators."
-- Placed team coordination and training skills at the top of the skills section, as these are most relevant to the job description.
-- Compressed unrelated clinical details to focus on transferable skills.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 5+ years teaching or curriculum work (no evidence in CV)
-- Designing assessments (no evidence in CV)
-- Subject expertise in physics or chemistry (no evidence in CV)
-- Familiarity with digital learning tools (Epic EHR is not a digital learning tool)
-- EdTech experience (not in CV)
-- Published material (not in CV)
+**What I deliberately did not add:**  
+- Teaching or curriculum design experience  
+- Designing assessments  
+- Subject expertise in physics or chemistry  
+- EdTech experience  
+- Published material  
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.  
+- Dates are in a consistent format — fine.  
+- If your CV uses a single column, keep it; if not, switch to single column for better parsing.  
+- Ensure all text (especially contact info) is selectable and not inside a header/footer or image.  
+- Save as PDF with selectable text, not a scan, to ensure ATS can read it.  
+
+Let me know if you want advice on how to pivot your CV towards education or curriculum design roles!

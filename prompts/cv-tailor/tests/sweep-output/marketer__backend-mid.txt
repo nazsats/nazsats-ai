@@ -4,64 +4,59 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None. Your CV does not evidence any backend development, Python, Django/Flask, SQL, REST APIs, Git, or automated testing experience.
+**Requirements I meet**  
+- None. Your CV does not mention Python, web development, Django, Flask, SQL, REST APIs, Git, automated tests, or cloud platforms.
 
-**Hard requirements missing**  
-- 2+ years Python web development — No mention of Python or web development in your CV.
-- Django or Flask — No mention of either framework.
-- Strong SQL and relational design — No mention of SQL or database design.
-- REST APIs — No mention of APIs.
-- Git — No mention of version control or Git.
-- Automated tests — No mention of testing or test automation.
-
-**Nice-to-haves met**  
-- None. No mention of cloud platforms or Docker.
+**Requirements I do not meet**  
+- 2+ years Python web development — No mention of Python or web development.
+- Django or Flask — No mention.
+- Strong SQL and relational design — No mention.
+- REST APIs — No mention.
+- Git — No mention.
+- Automated tests — No mention.
+- Cloud platforms, Docker (nice to have) — No mention.
 
 **Worth applying?**  
-Probably not — your experience is in digital marketing, not backend development, and you do not meet any of the core requirements.
+Probably not — your experience is in digital marketing, not backend development or software engineering, and your CV does not show any relevant technical skills or experience.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
 Aditya Rao | aditya@email.com | Hyderabad
 
 SUMMARY  
-Digital marketer with 3 years’ experience in B2C ecommerce, specializing in paid campaigns, email marketing, and analytics.
+[changed] Digital marketer with 3 years’ experience in B2C ecommerce, specializing in online advertising, email marketing, and analytics.  
+(was: Digital marketer, 3 years, B2C ecommerce.)
 
 SKILLS  
-- Google Ads  
-- Meta Ads  
-- SEO  
-- Google Analytics  
-- Email marketing  
-- Canva
+[same] Google Ads, Meta Ads, SEO, Google Analytics, email marketing, Canva
 
 EXPERIENCE  
-
-Marketing Executive, ShopKart — 2023 to present  
-- Managed Google and Meta ad campaigns with a monthly budget of Rs 4 lakh  
-- Reduced cost per acquisition by 38% over two quarters  
-- Wrote and scheduled weekly email campaigns to 60,000 subscribers
+Marketing Executive, ShopKart - 2023 to present  
+  [changed] Managed digital marketing campaigns for B2C ecommerce, including Google Ads and Meta Ads, with a monthly budget of Rs 4 lakh.  
+  (was: Ran Google and Meta campaigns, monthly budget Rs 4 lakh)
+  [same] Cut cost per acquisition 38% over two quarters  
+  [changed] Wrote and scheduled weekly email marketing campaigns to 60k subscribers.  
+  (was: Wrote and scheduled weekly emails to 60k subscribers)
 
 EDUCATION  
-BBA Marketing, Osmania University, 2022
+[same] BBA Marketing, Osmania University, 2022
 
-**WHAT I CHANGED**  
-- Kept the CV structure but clarified and formatted skills and experience for readability.
-- Used the job’s vocabulary where possible (e.g., “campaigns” instead of “ads”).
-- Highlighted outcomes (cost per acquisition reduction).
-- Kept all content strictly within your original CV.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Python web development  
-- Django or Flask  
-- SQL or relational database design  
-- REST APIs  
-- Git  
-- Automated tests  
-- Cloud platforms  
-- Docker
+**What I deliberately did not add**  
+- Python, Django, Flask, SQL, REST APIs, Git, automated tests, cloud platforms, Docker — your CV does not mention any of these, so none were added.
 
-You do not meet any of the technical requirements for this backend developer role.
+**ATS suggestions — advice only, do not apply these**  
+- Your headings are standard and clear.
+- Your dates are in a consistent format.
+- Your CV appears to be single column and text-based, which is good for ATS.
+- If you use any graphics or images for contact details or skills, replace them with text so ATS can read them.
+- If you use a photo, do not put contact details inside it.
+- Save as PDF with selectable text, not a scan, for best parsing.
+
+**Summary:**  
+Your CV is well-formatted for ATS, but it is not relevant for this backend developer role. If you are interested in backend development, consider gaining experience and skills in Python, Django/Flask, SQL, REST APIs, and Git, and updating your CV accordingly.

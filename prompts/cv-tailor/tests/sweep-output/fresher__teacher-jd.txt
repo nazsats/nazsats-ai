@@ -4,65 +4,75 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None.
+**Requirements I meet:**  
+- Familiarity with digital learning tools  
+    - "Hackathon - Bus-tracking Android prototype" (shows some exposure to digital tools, though not in education)  
+    - "Library management system in Java and MySQL" (shows experience building digital systems)  
 
-**Hard requirements missing**  
-- **5+ years teaching or curriculum work** — No teaching or curriculum experience is mentioned; "Final-year student seeking a first role."
-- **Designing assessments** — No evidence of assessment design.
-- **Subject expertise in physics or chemistry** — No mention of physics or chemistry; only Information Technology and programming skills listed.
-- **Training other educators** — No evidence of training others.
-- **Familiarity with digital learning tools** — No mention of digital learning tools; only programming languages and Git.
-
-**Nice-to-haves met**  
-- None.
-- **EdTech experience** — No EdTech experience shown.
-- **Published material** — No published material mentioned.
+**Requirements I do not meet:**  
+- 5+ years teaching or curriculum work  
+    - No teaching or curriculum experience is listed anywhere in your CV.  
+- Designing assessments  
+    - No mention of assessment design or related activities.  
+- Subject expertise in physics or chemistry  
+    - No evidence of subject expertise in physics or chemistry; your degree is in Information Technology.  
+- Training other educators  
+    - No mention of training or mentoring others.  
+- EdTech experience (nice to have)  
+    - No direct EdTech experience; your projects are not education-focused.  
+- Published material (nice to have)  
+    - No mention of published work.  
 
 **Worth applying?**  
-Probably not — you do not meet any of the hard requirements, and your background is in IT, not science education or curriculum design.
+Probably not — you do not meet any of the core requirements for teaching, curriculum design, or subject expertise, and your background is in IT/software, not science education.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
+```
 Karan Patel | karan@email.com | Ahmedabad
 
-SUMMARY  
-Final-year Information Technology student with hands-on experience in Java, MySQL, and software development projects. Seeking to apply technical and analytical skills in a professional environment.
+SUMMARY:  
+[changed] Final-year Information Technology student with experience in software development and digital tools, seeking a first professional role.  
+(was: "Final-year student seeking a first role.")
 
-SKILLS  
-- Java  
-- C++  
-- MySQL  
-- Python (basic)  
-- Data Structures & Algorithms (DSA)  
-- Git
+SKILLS:  
+[changed] C++, Java, basic Python, data structures and algorithms, relational databases (MySQL), Git, experience with digital tools  
+(was: "C++, Java, basic Python, DSA, MySQL, Git")
 
 EXPERIENCE
 
-College Project: Library Management System  
-- Developed a library management system using Java and MySQL, demonstrating skills in software design and database management.
+[changed] College project - Developed a Library Management System using Java and MySQL, demonstrating skills in building digital solutions.  
+(was: "College project - Library management system in Java and MySQL")
 
-Hackathon: Bus-Tracking Android Prototype  
-- Collaborated in a team to build a bus-tracking Android prototype; achieved 2nd place out of 40 teams, showcasing problem-solving and teamwork.
+[changed] Hackathon - Built a bus-tracking Android prototype; achieved 2nd place out of 40 teams, showcasing ability to create digital tools and work in a competitive environment.  
+(was: "Hackathon - Bus-tracking Android prototype, 2nd of 40 teams")
 
-EDUCATION  
-B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+EDUCATION:  
+[changed] B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA 8.1  
+(was: "B.Tech Information Technology, GTU, expected 2026. CGPA 8.1")
+```
 
-**WHAT I CHANGED**  
-- Reworded the summary to focus on technical and analytical skills, as curriculum design experience is not present.
-- Ordered skills to highlight programming and database knowledge.
-- Expanded experience bullets to clarify project outcomes and teamwork.
-- Compressed education for clarity.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 5+ years teaching or curriculum work  
 - Designing assessments  
 - Subject expertise in physics or chemistry  
 - Training other educators  
-- Familiarity with digital learning tools  
-- EdTech experience  
-- Published material
+- EdTech experience (your projects are not education-focused)  
+- Published material  
 
-(If this list is empty, say so explicitly. In this case, all requirements are missing.)
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.  
+- Dates are clear and consistent.  
+- If your CV is in a single column and uses selectable text, you are fine.  
+- Ensure your contact details are in text, not inside a header/footer or image.  
+- If you use a photo, remember ATS ignores it — but this is fine for India.  
+- Save as PDF with selectable text, not a scan, for best parsing.  
+
+**Summary:**  
+Your CV is not a match for this job, as you lack all core requirements in science education and curriculum design. If you want to move into EdTech or curriculum roles, consider gaining experience in teaching, assessment design, or science content development first.

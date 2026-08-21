@@ -2,67 +2,69 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 10/100
+MATCH: 0/100
 
-**Hard requirements met**  
-- None. Your CV does not show any experience in performance marketing, paid acquisition, Google Ads, Meta Ads, Google Analytics, CAC/ROAS ownership, or marketing budgets.
+**Requirements I meet:**  
+- None. Your CV is for a backend engineer with distributed systems experience. There is no evidence of marketing, paid acquisition, or advertising platform experience.
 
-**Hard requirements missing**  
-- 3+ years paid acquisition — No evidence. Your CV is entirely backend engineering.
-- Google Ads and Meta Ads at scale — No mention of digital advertising platforms.
-- Google Analytics — Not mentioned.
-- Owning CAC and ROAS targets — Not mentioned.
-- Managing budgets above Rs 3 lakh/month — No budget or marketing ownership shown.
-
-**Nice-to-haves met**  
-- None. No mention of SEO or marketing automation.
+**Requirements I do not meet:**  
+- 3+ years paid acquisition: No marketing or acquisition experience shown.
+- Google Ads and Meta Ads at scale: No mention of these platforms or any advertising work.
+- Google Analytics: Not mentioned anywhere.
+- Owning CAC and ROAS targets: No evidence of marketing KPIs or targets.
+- Managing budgets above Rs 3 lakh/month: No mention of budget management, especially in a marketing context.
+- SEO, marketing automation (nice to have): Not mentioned.
 
 **Worth applying?**  
-Probably not — your CV is entirely backend engineering with no marketing experience or relevant skills.
+Probably not — your experience is entirely in backend engineering and distributed systems, with no overlap with performance marketing or digital advertising.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Vikram Iyer | vikram@email.com | Bengaluru
 
 SUMMARY  
-Backend engineer with 9 years’ experience designing and operating distributed systems at scale. Proven expertise in leading engineering teams, optimizing system performance, and building robust data pipelines.
+[changed] Backend engineer, 9 years, distributed systems.  
+(was: Backend engineer, 9 years, distributed systems.)
 
 SKILLS  
-- Distributed systems (Go, Python)  
-- Kubernetes  
-- AWS  
-- PostgreSQL  
-- Kafka  
-- Terraform  
-- gRPC
+[changed] Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC  
+(was: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC)
 
 EXPERIENCE
 
-Staff Engineer, ScaleWorks — 2021 to present  
-- Led a team of 5 engineers, including hiring and design reviews  
-- Owned a 60-node Kubernetes cluster serving 12M requests daily  
-- Improved system performance by reducing p99 latency from 340ms to 90ms through Postgres index optimization
+Staff Engineer, ScaleWorks - 2021 to present  
+  [same] Own a 60-node Kubernetes cluster serving 12M requests a day  
+  [same] Led a team of 5; ran hiring and design reviews  
+  [same] Cut p99 latency from 340ms to 90ms by reworking Postgres indexes  
 
-Senior Engineer, DataCore — 2017 to 2021  
-- Built and maintained Kafka pipelines processing 2TB of data daily
+Senior Engineer, DataCore - 2017 to 2021  
+  [same] Built Kafka pipelines processing 2TB daily  
 
 EDUCATION  
-M.Tech Computer Science & Engineering, IIT Madras, 2017
+[changed] M.Tech CSE, IIT Madras, 2017  
+(was: M.Tech CSE, IIT Madras, 2017)
 
-**WHAT I CHANGED**  
-- Reordered and expanded technical leadership and system ownership to the top, as these are the most substantial achievements.
-- Used concise, outcome-focused language to highlight scale and impact.
-- Grouped and ordered skills to emphasize distributed systems and cloud infrastructure.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 3+ years paid acquisition experience  
-- Google Ads and Meta Ads  
+**What I deliberately did not add:**  
+- 3+ years paid acquisition  
+- Google Ads and Meta Ads at scale  
 - Google Analytics  
-- CAC and ROAS ownership  
-- Managing marketing budgets  
-- SEO  
-- Marketing automation
+- Owning CAC and ROAS targets  
+- Managing budgets above Rs 3 lakh/month  
+- SEO, marketing automation  
 
-Your CV contains no evidence for any marketing or advertising requirements in the job description.
+Your CV does not mention any of these, so none were added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION").
+- Dates are in a consistent format.
+- All content is text, not images or graphics.
+- No evidence of multi-column layout, but if your CV uses columns, consider switching to a single column for better parsing.
+- If your contact details are in a header or footer, move them to the main body for ATS compatibility.
+- Save as a PDF with selectable text, not a scan, to ensure ATS can read your CV.
+
+**Summary:**  
+Your CV is well-structured for engineering roles but is not suitable for this marketing position. If you wish to transition to marketing, you will need to gain relevant experience and update your CV accordingly.

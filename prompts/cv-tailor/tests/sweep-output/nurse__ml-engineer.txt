@@ -4,62 +4,65 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 0/100
 
-**Hard requirements met**  
-_None._
+**Requirements I meet:**  
+None. Your CV is for a Registered Nurse with critical care experience. There is no mention of machine learning, programming, statistics, or any technical skills related to ML engineering.
 
-**Hard requirements missing**  
-- 4+ years deploying ML in production — No evidence of any machine learning or software engineering experience.
-- PyTorch or TensorFlow — No mention of either framework or any programming.
-- Feature engineering — No mention of data science, data analysis, or feature engineering.
-- MLOps (versioning, monitoring, retraining) — No mention of MLOps or related practices.
-- Strong statistics — No mention of statistics or quantitative skills.
-- NumPy, pandas, scikit-learn — No mention of Python, programming, or these libraries.
-
-**Nice-to-haves met**  
-_None._
+**Requirements I do not meet:**  
+- 4+ years deploying ML in production — No evidence of any ML experience.
+- PyTorch or TensorFlow — Not mentioned.
+- Feature engineering — Not mentioned.
+- MLOps (versioning, monitoring, retraining) — Not mentioned.
+- Strong statistics — Not mentioned.
+- NumPy, pandas, scikit-learn — Not mentioned.
+- LLM fine-tuning — Not mentioned.
+- Distributed training — Not mentioned.
 
 **Worth applying?**  
-Probably not — your background is in nursing with no evidence of machine learning, programming, or related skills.
+Probably not — your background is entirely in nursing, with no overlap in skills, experience, or qualifications for this ML engineering role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
 Rahul Mehta | rahul@email.com | Mumbai
 
-SUMMARY  
-Registered nurse with 6 years of critical care experience, skilled in patient assessment, IV therapy, and team coordination in high-pressure environments.
+SUMMARY:  
+[changed] Registered nurse with 6 years of critical care experience, skilled in patient assessment, IV therapy, Epic EHR, triage, and team coordination.  
+(was: "Registered nurse, 6 years critical care.")
 
-SKILLS  
-- Patient assessment  
-- IV therapy  
-- Epic EHR  
-- Triage  
-- Team coordination  
+SKILLS:  
+[changed] Patient assessment, IV therapy, Epic EHR, triage, team coordination  
+(was: same)
 
-EXPERIENCE  
+EXPERIENCE
 
-Staff Nurse, Lilavati Hospital — 2019 to present  
-- Managed up to 12 ICU patients per shift, ensuring high standards of care and safety.  
-- Trained 8 junior nurses on documentation standards, improving compliance and accuracy.  
-- Coordinated between doctors, pharmacy, and families to facilitate patient care and communication.
+Staff Nurse, Lilavati Hospital - 2019 to present  
+  [changed] Managed care for up to 12 ICU patients per shift, ensuring accurate documentation and coordination with multidisciplinary teams.  
+  (was: "Managed up to 12 ICU patients per shift")  
+  [changed] Trained 8 junior nurses on documentation standards and best practices.  
+  (was: "Trained 8 junior nurses on documentation standards")  
+  [changed] Coordinated communication between doctors, pharmacy, and families to support patient care.  
+  (was: "Coordinated between doctors, pharmacy and families")
 
-EDUCATION  
-B.Sc. Nursing, MUHS, 2019
+EDUCATION:  
+B.Sc. Nursing, MUHS, 2019  
+[same]
 
-**WHAT I CHANGED**  
-- Maintained original order and content, as none of your experience or skills are relevant to the machine learning engineer role.
-- Clarified and slightly expanded bullet points for clarity and professionalism.
-- Kept the summary focused on your actual background.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 4+ years deploying ML in production  
-- PyTorch or TensorFlow  
-- Feature engineering  
-- MLOps (versioning, monitoring, retraining)  
-- Strong statistics  
-- NumPy, pandas, scikit-learn  
-- LLM fine-tuning  
-- Distributed training  
+**What I deliberately did not add:**  
+- Any mention of machine learning, programming languages, statistics, MLOps, or related technical skills, as your CV does not support these.
+- Any reference to PyTorch, TensorFlow, NumPy, pandas, scikit-learn, LLM fine-tuning, or distributed training.
 
-None of these requirements are supported by your CV.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") are standard and ATS-friendly.
+- Dates are in a consistent format.
+- Your CV is in plain text, which is ATS-friendly.
+- No evidence of multi-column layout, images, or non-selectable text.
+- If you use a photo or non-standard fonts in your actual file, remove them for ATS use.
+- Ensure your contact details are in text, not inside a header/footer or image.
+
+**Summary:**  
+Your CV is well-structured for ATS, but it is not relevant for this job. If you are interested in ML engineering, you would need to gain relevant skills and experience before applying.

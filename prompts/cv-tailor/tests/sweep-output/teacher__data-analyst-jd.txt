@@ -2,74 +2,66 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 12/100
+MATCH: 10/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - Communicating findings to non-technical stakeholders  
-  - "Mentored 4 new teachers" (some evidence of communication, but not in analytics context)
-  - "Teach grades 11 and 12; class average rose from 62 to 78 percent" (implies some communication of results, but not analytics findings)
+  - "Mentored 4 new teachers" (adjacent: some communication, but not data findings)  
+  - "Teach grades 11 and 12" (adjacent: communication, but not analytics)  
 
-**Hard requirements missing**  
-- 2+ years analytics  
-  - No analytics experience stated in CV.
-- Strong SQL  
-  - No mention of SQL or any database skills.
-- Dashboarding in Power BI or Tableau  
-  - No mention of Power BI, Tableau, or any dashboarding tools.
-- Excel  
-  - No mention of Excel or spreadsheet skills.
-
-**Nice-to-haves met**  
-- None.
-
-**Nice-to-haves missing**  
-- Python  
-  - No mention of Python.
-- A/B testing  
-  - No mention of A/B testing.
+**Requirements I do not meet:**  
+- 2+ years analytics (no analytics experience shown)  
+- Strong SQL (no SQL mentioned)  
+- Dashboarding in Power BI or Tableau (no dashboarding or these tools mentioned)  
+- Excel (not listed)  
+- Python (not listed)  
+- A/B testing (not listed)  
 
 **Worth applying?**  
-Probably not — you do not meet any of the core technical requirements, and your experience is in a different field.
+Probably not — your CV is in secondary school teaching with no analytics, SQL, or dashboarding experience, and does not meet any core requirements for this data analyst role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Meera Nair | meera@email.com | Kochi
 
 SUMMARY  
-Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and assessment. Proven ability to communicate complex concepts to diverse audiences and mentor peers. Seeking to leverage educational experience in a new analytical or data-driven environment.
+[changed] Secondary school teacher with 8 years' experience in physics, curriculum design, and classroom management.  
+(was: Secondary school teacher, 8 years, physics.)
 
 SKILLS  
-- Curriculum design  
-- Classroom management  
-- Assessment  
-- Google Classroom  
+[changed] Curriculum design, classroom management, assessment, Google Classroom  
+(was: Curriculum design, classroom management, assessment, Google Classroom)
 
-EXPERIENCE
-
-Physics Teacher, St Thomas HSS — 2018 to present  
-- Taught grades 11 and 12, improving class average from 62% to 78%  
-- Designed a laboratory curriculum adopted across three schools  
-- Mentored 4 new teachers, supporting their professional development  
-- Developed and implemented assessment strategies to measure student progress  
+EXPERIENCE  
+Physics Teacher, St Thomas HSS - 2018 to present  
+  [changed] Taught physics to grades 11 and 12; class average rose from 62 to 78 percent  
+  (was: Teach grades 11 and 12; class average rose from 62 to 78 percent)  
+  [changed] Designed a laboratory curriculum adopted across three schools  
+  (was: Designed a lab curriculum adopted across three schools)  
+  [same]   Mentored 4 new teachers  
 
 EDUCATION  
-M.Sc Physics, Kerala University, 2017  
-B.Ed, 2018  
+[changed] M.Sc Physics, Kerala University, 2017; B.Ed 2018  
+(was: M.Sc Physics, Kerala University, 2017; B.Ed 2018)
 
-**WHAT I CHANGED**  
-- Rewrote the summary to emphasize communication, mentoring, and analytical thinking as relevant to data roles.  
-- Reordered and expanded bullets to highlight measurable outcomes and communication skills.  
-- Used phrases like "assessment strategies" and "communicate complex concepts" to align with the job's focus on communicating findings.  
-- Kept skills and experience focused on what is present in the CV.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 2+ years analytics experience  
 - SQL  
 - Dashboarding in Power BI or Tableau  
 - Excel  
 - Python  
-- A/B testing
+- A/B testing  
 
-These requirements are not supported by your CV and are therefore not included.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.  
+- Dates are in a consistent format — fine.  
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can parse it.  
+- If your CV uses a single column, that's best for ATS; if not, consider switching to single column.  
+- Make sure all text (especially contact info) is outside any images or headers/footers, as ATS may ignore those.  
+
+**Summary:**  
+Your CV is well-structured for teaching roles but does not match the requirements for a data analyst position. Consider upskilling in analytics, SQL, and dashboarding tools if you wish to transition to this field.

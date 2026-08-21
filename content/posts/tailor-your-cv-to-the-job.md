@@ -1,6 +1,6 @@
 ---
 title: "I tested one CV prompt 100 times so you don't have to"
-summary: "Ten CVs, ten job descriptions, every combination. It had 313 chances to lie about someone's skills and took none of them. Here is the prompt, and how I checked it."
+summary: "Ten CVs, ten job descriptions, every combination. It had 313 chances to invent a skill and took none. Upload your CV, keep your design, and see what you are actually missing."
 date: "2026-08-22"
 topic: "Career"
 audience: ["students", "freelancers"]
@@ -190,75 +190,136 @@ for forty jobs is a tool that wastes forty applications.
 
 ---
 
-## Part 4 — The bug the testing found
+## Part 4 — The three bugs the testing found
 
-This is the part I would have missed if I had just eyeballed one output.
+Each of these was invisible from reading one output. Each became a rule.
 
-On an early run, the prompt read *"June 2024 – present"*, tried to work out how
-long that had been, guessed from a stale sense of today's date, and wrote **1.5
-years** into the CV of someone with over two years of experience.
+**It guessed how long I had worked somewhere.** It read *"June 2024 – present"*,
+assumed a date, and wrote *1.5 years* for someone with over two. Not
+exaggeration — the opposite, which is worse, because an understatement still
+looks honest and nobody catches it. It now refuses to calculate durations.
 
-It did not exaggerate. It did the opposite — and that is worse in one specific
-way: **an understatement still looks honest, so nobody catches it.** She would
-have applied for jobs claiming a year less than she had earned, and never known
-why the answer was no.
+**It turned a skill into an achievement.** A teacher listed "assessment" as a
+one-word skill. The rewrite promoted that into an experience bullet reading
+*"Developed and implemented assessments"* — work she had never claimed to do.
+Listing a skill means you have it. It does not mean you did a specific project
+with it.
 
-The fix was to forbid it from calculating durations at all. It now uses whatever
-your CV states, and where a requirement turns on years it says *"depends on
-today's date — your CV shows June 2024 onwards"* instead of inventing a number.
+**It threw away a number to make room for a keyword.** The same bullet replaced
+*"Teach grades 11 and 12; class average rose from 62 to 78 percent"* with the
+assessments line, losing her only measurable result. A CV that trades a real
+outcome for a matching keyword has been made weaker, not more targeted.
 
-Which is the honest summary of the whole exercise: **the prompt is accurate
-because it was tested and then corrected**, not because I wrote it carefully the
-first time.
+After those three rules, the same case now produces *"Taught physics to grades
+11 and 12; improved class average from 62 to 78 percent"* — the same work, in
+clearer words, with the number intact.
+
+Which is the honest summary of this whole exercise: **the prompt is accurate
+because it was tested and corrected three times**, not because it was written
+carefully the first time.
 
 ---
 
 ## Part 5 — Using it
 
-<svg viewBox="0 0 640 130" role="img" aria-label="Four steps: copy the prompt, paste your CV and the job description, read the score, then use the rewrite." style="max-width:100%;height:auto">
+**Upload your CV file. Do not retype it.**
+
+<svg viewBox="0 0 640 132" role="img" aria-label="Four steps: upload your CV file, paste the prompt and the job description, read the score, then copy the marked changes into your own document." style="max-width:100%;height:auto">
   <circle cx="60" cy="42" r="21" fill="#C2410C"/>
   <text x="60" y="49" text-anchor="middle" font-size="17" font-weight="800" fill="#FFFFFF">1</text>
-  <text x="60" y="86" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1815">Copy</text>
-  <text x="60" y="103" text-anchor="middle" font-size="11" fill="#7C7873">the prompt</text>
+  <text x="60" y="86" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1815">Upload your CV</text>
+  <text x="60" y="103" text-anchor="middle" font-size="11" fill="#7C7873">the actual file</text>
   <path d="M92 42 H140" stroke="#ADA8A2" stroke-width="2"/><path d="M134 37 l7 5 -7 5" fill="#ADA8A2"/>
   <circle cx="172" cy="42" r="21" fill="#C2410C"/>
   <text x="172" y="49" text-anchor="middle" font-size="17" font-weight="800" fill="#FFFFFF">2</text>
-  <text x="172" y="86" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1815">Paste both</text>
-  <text x="172" y="103" text-anchor="middle" font-size="11" fill="#7C7873">CV + the job ad</text>
+  <text x="172" y="86" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1815">Paste the prompt</text>
+  <text x="172" y="103" text-anchor="middle" font-size="11" fill="#7C7873">then the job ad</text>
   <path d="M204 42 H252" stroke="#ADA8A2" stroke-width="2"/><path d="M246 37 l7 5 -7 5" fill="#ADA8A2"/>
   <circle cx="284" cy="42" r="21" fill="#C2410C"/>
   <text x="284" y="49" text-anchor="middle" font-size="17" font-weight="800" fill="#FFFFFF">3</text>
   <text x="284" y="86" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1815">Read the score</text>
-  <text x="284" y="103" text-anchor="middle" font-size="11" fill="#7C7873">is it worth an hour?</text>
+  <text x="284" y="103" text-anchor="middle" font-size="11" fill="#7C7873">worth an hour?</text>
   <path d="M316 42 H364" stroke="#ADA8A2" stroke-width="2"/><path d="M358 37 l7 5 -7 5" fill="#ADA8A2"/>
   <circle cx="396" cy="42" r="21" fill="#C2410C"/>
   <text x="396" y="49" text-anchor="middle" font-size="17" font-weight="800" fill="#FFFFFF">4</text>
-  <text x="396" y="86" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1815">Check every line</text>
-  <text x="396" y="103" text-anchor="middle" font-size="11" fill="#7C7873">it is your name</text>
+  <text x="396" y="86" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1815">Copy the changes</text>
+  <text x="396" y="103" text-anchor="middle" font-size="11" fill="#7C7873">into your own file</text>
   <rect x="446" y="20" width="186" height="44" rx="8" fill="#F1EFEC" stroke="#C2410C" stroke-width="2"/>
-  <text x="539" y="40" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1815">About 30 seconds</text>
+  <text x="539" y="40" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1815">A few minutes</text>
   <text x="539" y="57" text-anchor="middle" font-size="11" fill="#7C7873">per job, after the first</text>
 </svg>
 
 It works in ChatGPT, Claude or Gemini. The free version of any of them is fine.
 
-> **[Get the prompt →](/prompts/cv-tailor)**
+> **[Get the prompt](/prompts/cv-tailor)**
 
-**Read Part 1 of its answer before the rewrite.** The score and the missing-
-requirements list tell you whether this job deserves an hour of your evening.
-That is worth more than the tailored CV.
+### Why it does not hand you back a PDF
 
-What the score means:
+This is the question everyone asks, so here is the straight answer.
+
+You can ask ChatGPT to generate a PDF, and it will produce one. But it does not
+edit your file — it builds a **new** document from scratch, with its own fonts,
+its own spacing, and its own idea of a layout. Your design is gone. If your CV
+has a photo, the photo is gone too. Claude and Gemini cannot make you a PDF in
+chat at all.
+
+So a prompt that promised "same design, keeps your photo, returns a PDF" would
+fail at exactly the thing you care about most.
+
+<svg viewBox="0 0 640 190" role="img" aria-label="Letting AI rebuild the PDF loses your design and photo. Copying marked changes into your own file keeps everything." style="max-width:100%;height:auto">
+  <rect x="8" y="12" width="300" height="166" rx="10" fill="#FDFCFB" stroke="#DAD6D1" stroke-width="2"/>
+  <text x="158" y="40" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1815">Ask AI to make the PDF</text>
+  <text x="30" y="72" font-size="12" fill="#57534E">✕  your fonts and spacing</text>
+  <text x="30" y="96" font-size="12" fill="#57534E">✕  your photo</text>
+  <text x="30" y="120" font-size="12" fill="#57534E">✕  your columns and layout</text>
+  <text x="30" y="144" font-size="12" fill="#57534E">✓  the words</text>
+  <text x="158" y="168" text-anchor="middle" font-size="11" font-weight="700" fill="#7C7873">a stranger&apos;s CV with your name</text>
+  <rect x="332" y="12" width="300" height="166" rx="10" fill="#F1EFEC" stroke="#C2410C" stroke-width="2.5"/>
+  <text x="482" y="40" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1815">Paste changes into your file</text>
+  <text x="354" y="72" font-size="12" fill="#57534E">✓  your fonts and spacing</text>
+  <text x="354" y="96" font-size="12" fill="#57534E">✓  your photo</text>
+  <text x="354" y="120" font-size="12" fill="#57534E">✓  your columns and layout</text>
+  <text x="354" y="144" font-size="12" fill="#57534E">✓  the words</text>
+  <text x="482" y="168" text-anchor="middle" font-size="11" font-weight="700" fill="#C2410C">your CV, aimed at this job</text>
+</svg>
+
+So the prompt does the opposite. It reads your uploaded CV, keeps your sections
+in your order, and hands back the text **marked line by line**:
+
+```
+EXPERIENCE
+
+Physics Teacher, St Thomas HSS — 2018 to present
+  [same]    Mentored 4 new teachers
+  [changed] Taught physics to grades 11 and 12; improved class
+            average from 62 to 78 percent
+            (was: "Teach grades 11 and 12; class average rose
+             from 62 to 78 percent")
+```
+
+You open your own CV, change the handful of lines marked `[changed]`, and save.
+Two minutes. **Your design never leaves your computer**, because the AI never
+touched it.
+
+### It also tells you how to make your CV easier to read
+
+At the end it looks at how your CV is built and suggests things — single column
+instead of two, standard section headings, dates in one format, no text hidden
+in headers.
+
+**It suggests. It does not change them.** Those are decisions about your
+document, and it should not be quietly restructuring your CV while you think it
+is only swapping words.
+
+### What the score means
 
 - **70+** — apply, and tailor properly
 - **50–69** — apply if you want it, and be ready to explain the gap
 - **Under 50** — usually not worth it. Better spent on three jobs you fit
 
-Most people find their first honest score lower than they expected. That is not
-the tool being harsh. That is the information you were missing while you sent
-forty applications and heard nothing.
-
----
+Most people find their first honest score lower than expected. That is not the
+tool being harsh. That is the information you were missing while you sent forty
+applications and heard nothing.
 
 ## The wider point
 

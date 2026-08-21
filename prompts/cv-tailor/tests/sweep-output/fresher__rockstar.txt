@@ -2,81 +2,89 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 22/100
+MATCH: 33/100
 
-**Hard requirements met**  
-- Python: "basic Python" (CV says "basic", not production-level)
-- Java: "Java" (CV)
-- MySQL: "MySQL" (CV)
+**Requirements I meet:**  
+- Full stack development  
+  - Partial: "Library management system in Java and MySQL" (backend/database project, but not full stack as per job's definition)
+- Python  
+  - "basic Python" (listed in Skills)
+- Java  
+  - "Java" (listed in Skills; used in project)
+- Relational database  
+  - "MySQL" (listed in Skills; used in project)
+- Cross-functional collaboration  
+  - Partial: "Hackathon - Bus-tracking Android prototype, 2nd of 40 teams" (implies teamwork, but not cross-functional in a business sense)
+- Self-starter / fast-paced environments  
+  - Partial: Hackathon and project work suggest initiative, but not at professional scale
 
-**Hard requirements missing**  
-- Full stack development: No evidence of end-to-end or front-end + back-end work; only a college project and hackathon prototype, no mention of full stack or production experience.
-- Client relationship management: No evidence.
-- Agile and Scrum: No mention.
-- Cross-functional collaboration: No mention.
-- Data-driven decisions: No mention.
-- Stakeholder management: No mention.
-- JavaScript: Not listed.
-- React: Not listed.
-- Node.js: Not listed.
-- MongoDB: Not listed.
-- AWS: Not listed.
-- Docker: Not listed.
-- CI/CD: Not listed.
-
-**Nice-to-haves met**  
-- Demonstrated initiative: "Hackathon - Bus-tracking Android prototype, 2nd of 40 teams" shows some initiative and competition experience.
+**Requirements I do not meet:**  
+- Client relationship management  
+  - No evidence of any client or stakeholder-facing work
+- Agile and Scrum  
+  - No mention of Agile, Scrum, or any formal development methodology
+- JavaScript, React, Node.js  
+  - No mention of any JavaScript, React, or Node.js experience
+- MongoDB  
+  - No mention of MongoDB or any NoSQL database
+- AWS, Docker, CI/CD  
+  - No mention of any cloud, containerization, or CI/CD tools
+- Stakeholder management  
+  - No evidence of managing or communicating with stakeholders
+- Data-driven decisions  
+  - No evidence of using data to drive decisions
 
 **Worth applying?**  
-Probably not — you are missing nearly all core requirements, especially in full stack, frameworks, and production tools.
+Probably not — you are missing most of the core stack (JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD) and all client/stakeholder-facing experience, but if you are looking for learning experience and the company is open to juniors, you could try with caveats.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
+```
 Karan Patel | karan@email.com | Ahmedabad
 
-SUMMARY  
-Final-year B.Tech Information Technology student with hands-on experience in Java and MySQL, seeking an entry-level opportunity to apply software development skills. Demonstrated initiative through academic projects and hackathons.
+SUMMARY:
+[changed] Final-year B.Tech Information Technology student with hands-on experience in Java, MySQL, and basic Python, seeking an entry-level full stack development opportunity.
+(was: Final-year student seeking a first role.)
 
-SKILLS  
-- Java  
-- C++  
-- MySQL  
-- Basic Python  
-- Data Structures and Algorithms (DSA)  
-- Git
+SKILLS:
+[changed] Java, C++, basic Python, Data Structures & Algorithms, relational databases (MySQL), Git
+(was: C++, Java, basic Python, DSA, MySQL, Git)
 
 EXPERIENCE
 
-College Project: Library Management System  
-- Developed a library management system using Java and MySQL, implementing core features for book tracking and user management.
+[changed] College project – Developed a Library Management System using Java and MySQL, implementing backend logic and database integration.
+(was: College project - Library management system in Java and MySQL)
 
-Hackathon: Bus-Tracking Android Prototype  
-- Designed and built a prototype Android application for real-time bus tracking; achieved 2nd place out of 40 teams in a college hackathon.
+[changed] Hackathon – Collaborated in a team to build a bus-tracking Android prototype; achieved 2nd place out of 40 teams.
+(was: Hackathon - Bus-tracking Android prototype, 2nd of 40 teams)
 
-EDUCATION  
-B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+EDUCATION:
+B.Tech Information Technology, GTU, expected 2026. CGPA 8.1
+[same]
+```
 
-**WHAT I CHANGED**  
-- Reordered skills to highlight Java and MySQL, as these are the closest matches to the job requirements.
-- Expanded on the college project and hackathon experience to clarify your technical contributions.
-- Used language like "developed" and "designed and built" to align with software development terminology.
-- Compressed education and non-relevant information.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Full stack development  
+**What I deliberately did not add:**  
 - Client relationship management  
 - Agile and Scrum  
-- Cross-functional collaboration  
-- Data-driven decisions  
-- Stakeholder management  
-- JavaScript  
-- React  
-- Node.js  
+- JavaScript, React, Node.js  
 - MongoDB  
-- AWS  
-- Docker  
-- CI/CD
+- AWS, Docker, CI/CD  
+- Stakeholder management  
+- Data-driven decisions  
 
-These requirements are not supported by your CV and are therefore not included.
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear.
+- Your skills are in text, not images — good.
+- Your dates are consistent.
+- If your CV is multi-column, consider switching to a single column for better ATS parsing.
+- Ensure your file is saved as a PDF with selectable text, not a scan, for ATS compatibility.
+
+---
+
+Let me know if you have another job description or want advice on how to start building skills for these gaps!

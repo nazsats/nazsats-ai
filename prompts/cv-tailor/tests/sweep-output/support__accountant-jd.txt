@@ -2,15 +2,15 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 10/100
+MATCH: 20/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - Supervising a team  
   - "Lead a team of 6" (from Support Lead, CloudDesk)
 
-**Hard requirements missing**  
-- 4+ years accounting  
-  - No accounting experience shown anywhere in CV.
+**Requirements I do not meet:**  
+- 4+ years accounting experience  
+  - No accounting experience shown; all experience is in customer support/SaaS.
 - GST and TDS filing  
   - No mention of GST, TDS, or any tax/finance work.
 - Tally  
@@ -18,57 +18,45 @@ MATCH: 10/100
 - Advanced Excel  
   - No mention of Excel at all.
 - Month-end close  
-  - No mention of accounting cycles or month-end processes.
+  - No mention of month-end close or any accounting processes.
 - Managing multiple clients  
-  - No mention of client management in an accounting context.
-
-**Nice-to-haves met**  
-- Supervising a team  
-  - "Lead a team of 6" (already noted above)
-
-**Nice-to-haves missing**  
-- ERP migration  
-  - No mention of ERP systems or migrations.
+  - No mention of client management; experience is internal team/customer support.
+- ERP migration (nice to have)  
+  - No mention of ERP or migration projects.
 
 **Worth applying?**  
-Probably not — you have no accounting experience or relevant technical skills for this role.
+Probably not — your CV is in customer support, not accounting, and does not show any accounting skills or experience.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Faisal Khan | faisal@email.com | Delhi
 
 SUMMARY  
-Experienced team lead in SaaS customer support, skilled in escalation management, documentation, and process improvement.
+[changed] Customer support lead with 4 years SaaS experience, skilled in team supervision and escalation management.  
+(was: Customer support lead, 4 years SaaS.)
 
 SKILLS  
-- Team supervision  
-- Escalation management  
-- Zendesk  
-- Intercom  
-- Documentation  
-- SQL (basic)
+[changed] Team supervision, escalation management, Zendesk, Intercom, SQL (basic), documentation  
+(was: Zendesk, Intercom, SQL (basic), escalation management, documentation)
 
-EXPERIENCE
+EXPERIENCE  
 
-Support Lead, CloudDesk — 2022 to present  
-- Lead a team of 6, ensuring adherence to first-response SLAs  
-- Reduced average resolution time from 14 hours to 5  
-- Authored 80 help-centre articles to improve customer self-service  
-- Queried product database using basic SQL to diagnose issues
+Support Lead, CloudDesk - 2022 to present  
+  [changed] Supervised a team of 6 support agents, ensuring performance and adherence to SLAs  
+    (was: Lead a team of 6; own the first-response SLA)  
+  [same]    Cut average resolution time from 14 hours to 5  
+  [same]    Wrote 80 help-centre articles  
+  [same]    Query the product database with basic SQL to diagnose issues  
 
 EDUCATION  
-BA English, Delhi University, 2021
+[same] BA English, Delhi University, 2021
 
-**WHAT I CHANGED**  
-- Placed team supervision and leadership skills at the top, as supervising a team is a relevant nice-to-have.
-- Reworded bullets to emphasize process improvement and documentation, which are tangentially relevant to organized work.
-- Compressed unrelated details and omitted customer support specifics not relevant to accounting.
-- Kept the summary focused on leadership and process skills.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 4+ years accounting  
+**What I deliberately did not add:**  
+- 4+ years accounting experience  
 - GST and TDS filing  
 - Tally  
 - Advanced Excel  
@@ -76,4 +64,12 @@ BA English, Delhi University, 2021
 - Managing multiple clients  
 - ERP migration
 
-These requirements are not supported by your CV and are therefore not included.
+**ATS suggestions — advice only, do not apply these:**  
+- If your CV uses a single column, you are fine. If it is multi-column, switch to single column for better parsing.
+- Make sure all section headings are standard ("Experience", "Education", "Skills", "Summary") — you already use these.
+- Ensure all dates are in a consistent format (e.g., "2022 to present").
+- Use a common font and avoid putting any important text inside headers or footers.
+- If your contact details are in a photo or graphic, move them to text.
+- Save as a PDF with selectable text, not a scan, for best ATS compatibility.
+
+Let me know if you need this tailored for a different job!

@@ -4,60 +4,65 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 0/100
 
-**Hard requirements met**  
-- None. Your CV does not evidence any of the required technical skills or experience.
+**Requirements I meet**  
+- None. Your CV is for a Registered Nurse, not a Frontend Developer.
 
-**Hard requirements missing**  
-- 3+ years frontend: No mention of frontend or software development experience.
-- React and modern JavaScript: No mention of React, JavaScript, or any programming.
-- Strong CSS and responsive design: No mention of CSS, HTML, or web design.
-- Working from Figma designs: No mention of Figma or design tools.
-- Cross-browser compatibility: No mention of browser testing or web technologies.
-
-**Nice-to-haves met**  
-- None. No mention of TypeScript or design background.
+**Requirements I do not meet**  
+- 3+ years frontend experience — No evidence of any frontend or software development experience.
+- React and modern JavaScript — No mention of React, JavaScript, or any programming.
+- Strong CSS and responsive design — No mention of CSS, HTML, or web design.
+- Working from Figma designs — No mention of Figma or design tools.
+- Cross-browser compatibility — No mention of web development or browser testing.
+- TypeScript — Not mentioned.
+- Design background — Not mentioned.
 
 **Worth applying?**  
-Probably not — your experience is entirely in nursing, with no evidence of frontend development or related skills.
+Probably not. Your experience is entirely in nursing and healthcare, with no evidence of frontend or software development skills.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Rahul Mehta | rahul@email.com | Mumbai
+SUMMARY:  
+Registered nurse, 6 years critical care.  
+[same]
 
-SUMMARY  
-Registered nurse with 6 years of critical care experience, skilled in patient assessment, IV therapy, and team coordination in high-pressure environments.
+SKILLS:  
+Patient assessment, IV therapy, Epic EHR, triage, team coordination  
+[same]
 
-SKILLS  
-- Patient assessment  
-- IV therapy  
-- Epic EHR  
-- Triage  
-- Team coordination
+EXPERIENCE
 
-EXPERIENCE  
+Staff Nurse, Lilavati Hospital - 2019 to present  
+  [same]    Managed up to 12 ICU patients per shift  
+  [same]    Trained 8 junior nurses on documentation standards  
+  [same]    Coordinated between doctors, pharmacy and families  
 
-Staff Nurse, Lilavati Hospital — 2019 to present  
-- Managed up to 12 ICU patients per shift, ensuring high standards of care and patient safety  
-- Trained 8 junior nurses on documentation standards and compliance  
-- Coordinated between doctors, pharmacy, and families to optimize patient outcomes
+EDUCATION:  
+B.Sc. Nursing, MUHS, 2019  
+[same]
 
-EDUCATION  
-B.Sc. Nursing, MUHS, 2019
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I CHANGED**  
-- Maintained your original order and content, as none of your experience or skills match the job description.
-- Clarified and slightly expanded your summary and bullets for readability, but did not add or reword for tech relevance, as none exists.
-- Kept all nursing-related skills and experience, as these are your only demonstrated areas.
-
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 3+ years frontend development  
+**What I deliberately did not add**  
+- 3+ years frontend experience  
 - React and modern JavaScript  
-- CSS and responsive design  
-- Figma or design tools  
+- Strong CSS and responsive design  
+- Working from Figma designs  
 - Cross-browser compatibility  
 - TypeScript  
-- Design background
+- Design background  
 
-If you are interested in frontend development roles, consider gaining relevant skills and experience before applying.
+Your CV does not support any of these requirements, so none were added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") are standard — good for ATS.
+- Dates are in a consistent format — fine.
+- Your CV is in plain text and uses no images or graphics for key information — good.
+- If your actual file uses a photo or puts contact details inside a header/footer, move contact details into the main text so ATS can read them.
+- Save as PDF with selectable text, not a scan, to ensure ATS can parse your information.
+
+**Summary:**  
+Your CV is not a match for this job. If you are interested in frontend development roles, you will need to gain relevant experience and update your CV accordingly.

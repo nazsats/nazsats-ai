@@ -2,65 +2,76 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 15/100
+MATCH: 32/100
 
-**Hard requirements met**  
-- None.  
-  - Your CV does not evidence any of the following: ML deployment, PyTorch/TensorFlow, feature engineering, MLOps, statistics, NumPy, pandas, scikit-learn.
+**Requirements I meet:**  
+- Python  
+  - SKILLS: Python  
+- Relational databases  
+  - SKILLS: MySQL  
+  - EXPERIENCE: Designed MySQL schemas and wrote reporting queries  
+- REST APIs  
+  - SKILLS: REST APIs  
+  - EXPERIENCE: Wrote REST API documentation  
+- Git  
+  - SKILLS: Git  
+- Web application development  
+  - SUMMARY: Software developer, 2 years, web applications.  
+  - EXPERIENCE: Built internal tools in Python and Django  
 
-**Hard requirements missing**  
-- 4+ years deploying ML in production — your CV shows June 2024 onwards as a Software Developer, and Jan 2024 to May 2024 as an intern; no ML deployment experience is described.
-- PyTorch or TensorFlow — not mentioned anywhere in your CV.
-- Feature engineering — not mentioned.
-- MLOps (versioning, monitoring, retraining) — not mentioned.
-- Strong statistics — not mentioned.
-- NumPy, pandas, scikit-learn — not mentioned.
-
-**Nice-to-haves met**  
-- None.  
-  - LLM fine-tuning, distributed training — not mentioned.
+**Requirements I do not meet:**  
+- 4+ years deploying ML in production  
+  - No ML deployment or production ML experience shown; only 2 years total experience in web development  
+- PyTorch or TensorFlow  
+  - No mention of PyTorch or TensorFlow  
+- Feature engineering  
+  - No mention of feature engineering or related ML data prep  
+- MLOps (versioning, monitoring, retraining)  
+  - No MLOps, ML model versioning, monitoring, or retraining experience  
+- Strong statistics  
+  - No mention of statistics knowledge or application  
+- NumPy, pandas, scikit-learn  
+  - No mention of any of these libraries  
+- LLM fine-tuning (nice to have)  
+  - No mention  
+- Distributed training (nice to have)  
+  - No mention  
 
 **Worth applying?**  
-Probably not — you lack all core requirements for this role, including ML experience, relevant tools, and years of experience.
+Probably not — you do not meet any of the machine learning or MLOps requirements, and your experience is in web development, not ML engineering.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Priya Sharma | priya@email.com | Pune
 
 SUMMARY  
-Software developer with experience building web applications using Python, Django, and MySQL. Skilled in designing database schemas, developing REST APIs, and improving code quality through unit testing.
+[changed] Software developer with 2 years of experience in web application development using Python, Django, and relational databases (MySQL).  
+(was: "Software developer, 2 years, web applications.")
 
 SKILLS  
-- Python  
-- Django  
-- MySQL  
-- REST APIs  
-- HTML, CSS, JavaScript  
-- Git
+[changed] Python, Django, relational databases (MySQL), HTML, CSS, JavaScript, Git, REST APIs  
+(was: "Python, Django, MySQL, HTML, CSS, JavaScript, Git, REST APIs")
 
 EXPERIENCE
 
-Software Developer, Infobyte Solutions, Pune — June 2024 to present  
-- Built internal tools in Python and Django used by 40 staff  
-- Designed MySQL schemas and wrote reporting queries  
-- Handled customer complaints escalated from support  
-- Wrote unit tests, raised coverage 30% to 65%
+Software Developer, Infobyte Solutions, Pune - June 2024 to present  
+  [same]    Built internal tools in Python and Django used by 40 staff  
+  [same]    Designed MySQL schemas and wrote reporting queries  
+  [changed] Managed client relationships for escalated issues  
+            (was: "Handled customer complaints escalated from support")  
+  [same]    Wrote unit tests, raised coverage 30% to 65%
 
-Intern, Infobyte Solutions — Jan 2024 to May 2024  
-- Fixed bugs in a Django app; wrote REST API documentation
+Intern, Infobyte Solutions - Jan 2024 to May 2024  
+  [same]    Fixed bugs in a Django app; wrote REST API documentation
 
 EDUCATION  
-B.E. Computer Engineering, Pune University, 2023
+[same] B.E. Computer Engineering, Pune University, 2023
 
-**WHAT I CHANGED**  
-- Reworded the summary to focus on Python, Django, and web application development, as these are the closest adjacent skills.
-- Ordered skills to put Python and Django first, as they are most relevant to the job’s technical stack.
-- Rewrote experience bullets to use more technical language (e.g., "designed MySQL schemas", "developing REST APIs") to align with the job’s vocabulary.
-- Compressed unrelated skills and experience (HTML, CSS, JavaScript) to the end of the skills list.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 4+ years deploying ML in production  
 - PyTorch or TensorFlow  
 - Feature engineering  
@@ -68,6 +79,14 @@ B.E. Computer Engineering, Pune University, 2023
 - Strong statistics  
 - NumPy, pandas, scikit-learn  
 - LLM fine-tuning  
-- Distributed training
+- Distributed training  
 
-If you gain experience in ML, MLOps, or the required libraries, you can revisit this role in the future.
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear — no change needed.  
+- Dates are in a consistent format — no change needed.  
+- All content is in text, not images — no change needed.  
+- If your CV uses a single column, that's best for ATS; if not, consider switching to a single column to ensure correct parsing.  
+- Ensure your file is saved as a PDF with selectable text (not a scan), so ATS can read it.  
+- Do not put contact details inside a header/footer or image — keep them in the main text.  
+
+If you plan to move into ML roles, consider building and documenting ML projects, learning relevant libraries (NumPy, pandas, scikit-learn, TensorFlow/PyTorch), and adding these to your CV before applying.

@@ -26,6 +26,8 @@ MODEL = os.environ.get("TEST_MODEL", "gpt-4.1")
 PROMPT = (HERE.parent / "PROMPT.md").read_text(encoding="utf-8")
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
+NUM_RE = r"\\b\\d+(?:\\.\\d+)?%?\\b"
+
 SCORE_RE = re.compile(r"MATCH:\s*(\d{1,3})\s*/\s*100", re.I)
 
 
@@ -37,8 +39,8 @@ def rewrite_only(text: str) -> str:
         if i != -1:
             body = body[i:]
             break
-    for marker in ("WHAT I DELIBERATELY DID NOT ADD", "DELIBERATELY DID NOT",
-                   "WHAT I CHANGED"):
+    for marker in ("PART 3", "WHAT I DELIBERATELY DID NOT ADD",
+                   "DELIBERATELY DID NOT", "WHAT I CHANGED", "ATS SUGGESTION"):
         i = body.upper().find(marker)
         if i != -1:
             body = body[:i]
@@ -49,9 +51,13 @@ def run(pair):
     cv_name, jd_name = pair
     cv, jd = corpus.CVS[cv_name], corpus.JDS[jd_name]
 
-    filled = (PROMPT
-              .replace("[PASTE YOUR CV HERE]", cv.strip())
-              .replace("[PASTE THE JOB DESCRIPTION HERE]", jd.strip()))
+    filled = PROMPT.replace("[PASTE THE JOB DESCRIPTION HERE]", jd.strip())
+    # Stand in for the file upload.
+    filled = filled.replace(
+        "I have uploaded my CV.",
+        "Here is my CV (treat this as the uploaded file):\n\n" + cv.strip() + "\n",
+        1,
+    )
     # 100 requests against a per-minute token budget will rate limit no matter
     # how few workers there are, so back off and retry rather than losing the
     # run. Jittered, so retries do not resynchronise into another burst.
@@ -84,10 +90,25 @@ def run(pair):
     at_risk = [t for t in corpus.JD_CLAIMS[jd_name] if t not in cv_low]
     fabricated = [t for t in at_risk if t in body]
 
+    # A rewrite that quietly drops a metric is a real regression the
+    # fabrication check cannot see: no new word appears, so it passes while
+    # the CV gets weaker. Every number in the original should survive.
+    cv_nums = set(re.findall(NUM_RE, cv))
+    out_nums = set(re.findall(NUM_RE, rewrite_only(out)))
+    dropped = sorted(cv_nums - out_nums)
+
+    # Every number in the original CV should survive into the rewrite.
+    cv_nums = set(re.findall(r"\d+(?:\.\d+)?%?", cv))
+    out_nums = set(re.findall(r"\d+(?:\.\d+)?%?", rewrite_only(out)))
+    dropped = sorted(cv_nums - out_nums)
+
     return {
         "cv": cv_name, "jd": jd_name, "score": score,
         "at_risk": at_risk, "fabricated": fabricated,
+        "dropped_numbers": dropped,
+        "dropped_numbers": dropped,
         "has_gaps": "DID NOT ADD" in out.upper(),
+        "has_ats": "ATS" in out.upper(),
         "tokens": usage, "output": out,
     }
 
@@ -106,6 +127,7 @@ if __name__ == "__main__":
     errs = [r for r in results if "error" in r]
     fab = [r for r in ok if r["fabricated"]]
     nogaps = [r for r in ok if not r["has_gaps"]]
+    noats = [r for r in ok if not r.get("has_ats")]
     scored = [r for r in ok if r["score"] is not None]
 
     for r in ok:
@@ -117,6 +139,9 @@ if __name__ == "__main__":
     print(f"  completed        : {len(ok)}/{len(pairs)}   errors: {len(errs)}")
     print(f"  produced a score : {len(scored)}/{len(ok)}")
     print(f"  gap section      : {len(ok)-len(nogaps)}/{len(ok)}")
+    print(f"  ATS advice       : {len(ok)-len(noats)}/{len(ok)}")
+    lost = [r for r in ok if r["dropped_numbers"]]
+    print(f"  dropped a number : {len(lost)}/{len(ok)}")
     print(f"  FABRICATED       : {len(fab)}/{len(ok)}")
     if fab:
         print("\n  cases that invented something:")

@@ -2,68 +2,72 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 5/100
+MATCH: 0/100
 
-**Hard requirements met**  
-- None.
+**Requirements I meet:**  
+None. Your CV does not mention any of the following: Python, Kubernetes, PostgreSQL, AWS, Terraform, Go, Kafka, backend engineering, or team leadership.
 
-**Hard requirements missing**  
-- 5+ years Python: No mention of Python anywhere in your CV.
-- Production Kubernetes: No mention of Kubernetes or any container orchestration.
-- PostgreSQL at scale with query optimisation and replication: No mention of PostgreSQL or any relational database experience beyond "basic HTML/CSS".
-- AWS (EKS, RDS, S3): No mention of AWS or any cloud platform.
-- Terraform: Not mentioned.
-- Has led a team of at least 3: No evidence of team leadership or management.
-
-**Nice-to-haves met**  
-- None. No mention of Go or Kafka.
+**Requirements I do not meet:**  
+- 5+ years Python: No Python experience listed.
+- Production Kubernetes: No mention of Kubernetes.
+- PostgreSQL at scale, query optimisation, replication: No PostgreSQL or database experience.
+- AWS (EKS, RDS, S3): No AWS experience.
+- Terraform: Not listed.
+- Led a team of at least 3: No team leadership experience.
+- Go, Kafka: Not listed.
+- Backend engineering: No backend or software engineering roles; all experience is in design.
 
 **Worth applying?**  
-Probably not — your experience is in design, not backend engineering, and you do not meet any of the hard requirements.
+Probably not — your CV is in a different field (design, not backend engineering) and does not meet any of the must-have requirements.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Anjali Desai | anjali@email.com | Remote
 
 SUMMARY  
-Creative freelance designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in Figma, Illustrator, Photoshop, and basic HTML/CSS.
+[changed] Freelance designer with 4 years’ experience supporting small businesses in brand identity, digital campaigns, and web design.  
+(was: Freelance designer, 4 years, small businesses.)
 
 SKILLS  
-- Figma  
-- Illustrator  
-- Photoshop  
-- Brand identity  
-- Basic HTML/CSS  
-- Canva
+[same] Figma, Illustrator, Photoshop, brand identity, basic HTML/CSS, Canva
 
-EXPERIENCE
+EXPERIENCE  
 
-Freelance Designer | 2022 to present  
-- Developed brand identities for 14 small businesses, enhancing their visual presence.  
-- Designed and executed a social campaign that raised engagement by 40%.  
-- Built two landing pages using HTML and CSS.
+Freelance Designer - 2022 to present  
+  [changed] Developed brand identities for 14 small businesses, including digital assets and web presence.  
+    (was: Brand identities for 14 small businesses)  
+  [changed] Designed and executed social media campaigns, raising engagement by 40%.  
+    (was: Social campaign raised engagement 40%)  
+  [changed] Built two landing pages using HTML and CSS for client projects.  
+    (was: Built two landing pages in HTML and CSS)
 
-Junior Designer, PixelCraft Studio | 2021 to 2022  
-- Supported senior designers in creating digital and print assets for client projects.
+Junior Designer, PixelCraft Studio - 2021 to 2022  
+  [same] (No relevant backend engineering experience; kept as one line.)
 
 EDUCATION  
-BA Applied Arts, Gujarat University, 2021
+[same] BA Applied Arts, Gujarat University, 2021
 
-**WHAT I CHANGED**  
-- Maintained your original order and content, as none of your experience matches the backend engineering role.
-- Used more formal language in the summary and experience sections.
-- Grouped and clarified skills for readability.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- Python (no evidence in CV)
+**What I deliberately did not add:**  
+- Python (no evidence in your CV)
 - Kubernetes (no evidence)
 - PostgreSQL (no evidence)
 - AWS (no evidence)
 - Terraform (no evidence)
+- Go, Kafka (no evidence)
+- Backend engineering or software development (no evidence)
 - Team leadership (no evidence)
-- Go (no evidence)
-- Kafka (no evidence)
 
-If you wish to pursue backend engineering roles, consider gaining experience and certifications in relevant technologies first.
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard and clear — good for ATS.
+- Dates are in a consistent format — good.
+- All content is text, not images — good.
+- If your CV uses a photo or non-standard fonts, ensure contact details are outside the photo and text is selectable for ATS parsing.
+- If your CV is multi-column, consider switching to a single column for better ATS compatibility.
+- Save as PDF with selectable text, not a scan, for best parsing.
+
+**Summary:**  
+Your CV is well-structured for design roles, but does not match backend engineering requirements. Consider upskilling and gaining relevant experience if you wish to pivot to backend engineering roles in the future.

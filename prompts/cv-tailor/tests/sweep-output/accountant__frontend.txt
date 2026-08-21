@@ -2,66 +2,67 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 7/100
+MATCH: 0/100
 
-**Hard requirements met**  
-- None.  
-  - Your CV does not mention any frontend development, JavaScript, React, CSS, Figma, or related skills.
+**Requirements I meet:**  
+- None. Your CV is for an Accountant role and contains no evidence of frontend development, programming, or design experience.
 
-**Hard requirements missing**  
-- 3+ years frontend experience — No evidence of any frontend or web development experience.
-- React and modern JavaScript — Not mentioned anywhere in your CV.
+**Requirements I do not meet:**  
+- 3+ years frontend experience — No mention of frontend, web, or software development.
+- React and modern JavaScript — No mention of any programming language or framework.
 - Strong CSS and responsive design — No mention of CSS, HTML, or web design.
-- Working from Figma designs — No mention of Figma or design tools.
+- Working from Figma designs — No mention of Figma or any design tool.
 - Cross-browser compatibility — No mention of web development or browser testing.
-
-**Nice-to-haves met**  
-- None.
-  - TypeScript — Not mentioned.
-  - Design background — No design experience listed.
+- TypeScript (nice to have) — Not present.
+- Design background (nice to have) — Not present.
 
 **Worth applying?**  
-Probably not — your CV is entirely in accounting, with no evidence of frontend or related technical skills.
+Probably not — your CV is entirely in accounting, with no evidence of frontend or software development experience.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Sneha Kulkarni | sneha@email.com | Nashik
 
 SUMMARY  
-Experienced accountant specializing in SME bookkeeping, compliance, and process improvement. Skilled in managing financial records, GST and TDS filings, and building advanced Excel models to streamline operations.
+[changed] Accountant, 5 years, SME bookkeeping and compliance.  
+(was: Accountant, 5 years, SME bookkeeping and compliance.)
 
 SKILLS  
-- Bookkeeping and compliance for SMEs  
-- Tally  
-- GST filing  
-- TDS  
-- Excel (advanced, including process automation and reconciliation)  
-- Payroll management
+[changed] Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll  
+(was: Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll)
 
 EXPERIENCE  
 
-Senior Accountant, Deshmukh and Co — 2021 to present  
-- Managed books for 22 SME clients, ensuring accuracy and compliance.  
-- Filed GST and TDS returns with zero late filings over four years.  
-- Built advanced Excel models, reducing monthly close time from 6 days to 2.  
+Senior Accountant, Deshmukh and Co - 2021 to present  
+  [same] Manage books for 22 SME clients  
+  [same] File GST and TDS returns; zero late filings in four years  
+  [same] Built Excel models cutting monthly close from 6 days to 2  
 
 EDUCATION  
-M.Com, Pune University, 2020
+[changed] M.Com, Pune University, 2020  
+(was: M.Com, Pune University, 2020)
 
-**WHAT I CHANGED**  
-- Reordered and expanded the summary and skills to emphasize process improvement and compliance, as these are your strengths.
-- Highlighted the most relevant experience (Excel automation, process streamlining) in the experience section.
-- Compressed unrelated details to keep the focus on your core accounting expertise.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 3+ years frontend experience  
 - React and modern JavaScript  
 - CSS and responsive design  
 - Working from Figma designs  
 - Cross-browser compatibility  
 - TypeScript  
-- Design background
+- Design background  
 
-These requirements are not supported by your CV and have not been included.
+None of these are supported by your CV, so none were added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") are standard — good for ATS.
+- Your dates are in a consistent format — fine.
+- Your CV appears to be single-column and text-based — good for ATS.
+- If you have a photo or put contact details inside a header/footer, move them to the main text — ATS may not read them.
+- Save as PDF with selectable text, not a scan — ensures ATS can parse your CV.
+
+**Summary:**  
+Your CV is well-structured for accounting roles, but does not match the frontend developer job in any way. If you are looking to transition, consider gaining and evidencing relevant technical skills and experience before applying.

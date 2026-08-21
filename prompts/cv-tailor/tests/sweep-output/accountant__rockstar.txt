@@ -4,62 +4,64 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 5/100
 
-**Hard requirements met**  
-- None. There is no evidence in your CV of any software development, programming languages, or related technical skills.
+**Requirements I meet:**  
+- Client relationship management  
+  - "Manage books for 22 SME clients" (shows client-facing work, but not in a tech context)
 
-**Hard requirements missing**  
-- Full stack development — No mention of any software development experience.
-- Client relationship management — No direct evidence; "Manage books for 22 SME clients" is adjacent, but not in a technical or software context.
-- Agile and Scrum — Not mentioned.
-- Cross-functional collaboration — Not mentioned.
-- Data-driven decisions — No explicit mention; some Excel modeling, but not in a software/data science context.
-- Stakeholder management — Not mentioned.
-- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD — None of these technologies or adjacent skills are present in your CV.
-
-**Nice-to-haves met**  
-- None. No evidence of any nice-to-haves related to software development or engineering.
+**Requirements I do not meet:**  
+- Full stack development (no evidence of software development experience)
+- Agile and Scrum (no mention)
+- Cross-functional collaboration (not stated)
+- Data-driven decisions (not in a software/engineering context)
+- Stakeholder management (not in a tech or project context)
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD (none mentioned)
+- "10x engineer", "self-starter", "ninja", "fast-paced environments", "wears many hats" (no evidence of engineering or tech work)
 
 **Worth applying?**  
-Probably not — your background is in accounting, not software development, and you do not meet any of the core requirements for this role.
+Probably not — your CV is entirely accounting-focused with no software development experience or relevant technical skills.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Sneha Kulkarni | sneha@email.com | Nashik
 
 SUMMARY  
-Experienced accountant specializing in SME bookkeeping, compliance, and process optimization. Proven track record in managing financial operations and delivering accurate, timely reporting for multiple clients.
+[changed] Accountant with 5 years’ experience in SME bookkeeping, compliance, and managing client relationships.  
+(was: Accountant, 5 years, SME bookkeeping and compliance.)
 
 SKILLS  
-- Bookkeeping and compliance (Tally, GST filing, TDS)  
-- Advanced Excel modeling and reconciliation  
-- Payroll processing  
-- Process improvement (reduced monthly close time)
+[changed] Client relationship management, Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll  
+(was: Tally, GST filing, TDS, Excel (advanced), reconciliation, payroll)
 
 EXPERIENCE  
 
-Senior Accountant, Deshmukh and Co — 2021 to present  
-- Managed books and compliance for 22 SME clients, ensuring accurate financial records and timely filings  
-- Filed GST and TDS returns with zero late filings over four years  
-- Developed advanced Excel models, reducing monthly close process from 6 days to 2  
-- Oversaw payroll and reconciliation for multiple clients
+Senior Accountant, Deshmukh and Co - 2021 to present  
+  [changed] Manage books and compliance for 22 SME clients, maintaining strong client relationships  
+    (was: Manage books for 22 SME clients)  
+  [same] File GST and TDS returns; zero late filings in four years  
+  [same] Built Excel models cutting monthly close from 6 days to 2  
 
 EDUCATION  
-M.Com, Pune University, 2020
+[same] M.Com, Pune University, 2020
 
-**WHAT I CHANGED**  
-- Reworded and reordered the summary and skills to emphasize process improvement and client management, which are the closest adjacent experiences to the job requirements.
-- Used phrases like "process optimization" and "delivering accurate, timely reporting" to align with the job's focus on outcomes and fast-paced environments.
-- Highlighted client management and process improvement in the experience section.
-- Compressed unrelated details and focused on transferable skills.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - Full stack development  
-- Any programming languages or frameworks (Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD)  
 - Agile and Scrum  
 - Cross-functional collaboration  
-- Stakeholder management (beyond basic client management)  
-- Data-driven decision making (in a software/engineering context)
+- Data-driven decisions (in a software context)  
+- Stakeholder management (in a tech/project context)  
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD  
+- Any engineering or software development experience  
+- "10x engineer", "self-starter", "ninja", "fast-paced environments", "wears many hats" (no evidence in your CV)
 
-If you would like to target accounting or finance roles, I can help tailor your CV for those positions. For this software developer role, your current experience is not a match.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- Dates are in a consistent format — fine.
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can read it.
+- If your CV uses a single column and text (not images) for all content, you are ATS-friendly. If not, switch to single column and text for all key info.
+
+**Summary:**  
+Your CV is well-structured for accounting roles but is not a match for this software engineering position. Consider upskilling or targeting roles aligned with your experience.

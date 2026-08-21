@@ -2,82 +2,80 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 22/100
+MATCH: 32/100
 
-**Hard requirements met:**  
-- **Strong statistics:**  
+**Requirements I meet:**  
+- Strong statistics  
   - "B.Sc Statistics, Delhi University, 2022"  
-- **pandas:**  
-  - "Python (pandas)" in SKILLS  
+- pandas  
+  - "Python (pandas)" in Skills  
+- Some experience with data analysis in Python  
+  - "Python (pandas)" in Skills  
+- Experience in analytics, data analysis, and reporting  
+  - "Data analyst, 3 years, retail analytics."  
+  - "Built Power BI dashboards used by 30 store managers"  
+  - "Wrote SQL for weekly sales reporting across 120 stores"  
+  - "Ran A/B tests on pricing; one raised margin 4 percent"  
 
-**Hard requirements missing:**  
-- **4+ years deploying ML in production:**  
-  - Nothing in your CV supports ML deployment or 4+ years' experience. Your CV shows "2023 to present" at RetailIQ and graduation in 2022.
-- **PyTorch or TensorFlow:**  
-  - No mention of either framework.
-- **Feature engineering:**  
-  - No mention of feature engineering.
-- **MLOps - versioning, monitoring, retraining:**  
-  - No mention of MLOps, versioning, monitoring, or retraining.
-- **NumPy, scikit-learn:**  
-  - No mention of either library.
-- **Deploying ML in production:**  
-  - No evidence of any ML deployment.
-
-**Nice-to-haves met:**  
-- None.
-
-**Nice-to-haves missing:**  
-- **LLM fine-tuning:**  
-  - No mention.
-- **Distributed training:**  
-  - No mention.
+**Requirements I do not meet:**  
+- 4+ years deploying ML in production  
+  - No ML deployment or production experience shown; only 3 years total experience, all in analytics  
+- PyTorch or TensorFlow  
+  - No mention of either framework  
+- Feature engineering  
+  - No mention of feature engineering or related work  
+- MLOps (versioning, monitoring, retraining)  
+  - No mention of MLOps, model versioning, monitoring, or retraining  
+- NumPy, scikit-learn  
+  - No mention of NumPy or scikit-learn  
+- LLM fine-tuning, distributed training (nice to have)  
+  - No mention of LLMs, fine-tuning, or distributed training  
 
 **Worth applying?**  
-Probably not — you lack all core ML engineering experience and tools required, with no evidence of ML deployment, frameworks, or MLOps.
+Probably not — you lack all core ML engineering experience, frameworks, and MLOps skills required for this role.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Nisha Verma | nisha@email.com | Gurgaon
 
 SUMMARY  
-Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Power BI, and statistical analysis. Strong foundation in statistics and hands-on experience with Python (pandas) for data analysis and A/B testing.
+[changed] Data analyst with 3 years' experience in retail analytics and a strong background in statistics and Python (pandas).  
+(was: "Data analyst, 3 years, retail analytics.")
 
 SKILLS  
-- Statistics (B.Sc Statistics)
-- SQL
-- Python (pandas)
-- Power BI dashboards
-- Excel
-- A/B testing
-- Data visualization
+[changed] SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards, statistics  
+(was: "SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards")
 
-EXPERIENCE
+EXPERIENCE  
 
-Data Analyst, RetailIQ — 2023 to present  
-- Developed and maintained Power BI dashboards for 30 store managers, enabling data-driven decision making.  
-- Wrote SQL queries for weekly sales reporting across 120 stores, ensuring accurate and timely insights.  
-- Conducted A/B tests on pricing strategies, resulting in a 4% increase in profit margin.  
-- Utilized Python (pandas) for data cleaning and analysis to support business initiatives.
+Data Analyst, RetailIQ - 2023 to present  
+  [moved]   Ran A/B tests on pricing; one raised margin 4 percent  
+  [changed] Built Power BI dashboards and data reports used by 30 store managers  
+            (was: "Built Power BI dashboards used by 30 store managers")  
+  [changed] Wrote SQL queries for weekly sales reporting across 120 stores  
+            (was: "Wrote SQL for weekly sales reporting across 120 stores")  
 
 EDUCATION  
-B.Sc Statistics, Delhi University, 2022
+[same] B.Sc Statistics, Delhi University, 2022
 
-**WHAT I CHANGED**  
-- Reworded the summary to emphasize statistics and Python (pandas), which are relevant to the job’s requirements.
-- Reordered and expanded skills to highlight statistics, Python (pandas), and SQL at the top, as these are most relevant.
-- Rewrote experience bullets to use the employer’s vocabulary (e.g., “data-driven decision making,” “data cleaning and analysis”).
-- Surfaced statistical and Python experience in both the summary and experience sections.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 4+ years deploying ML in production  
 - PyTorch or TensorFlow  
 - Feature engineering  
 - MLOps (versioning, monitoring, retraining)  
 - NumPy, scikit-learn  
-- LLM fine-tuning  
-- Distributed training
+- LLM fine-tuning, distributed training  
 
-If you gain experience in ML frameworks, deployment, or MLOps, update your CV accordingly.
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good.  
+- Dates are in a consistent format — good.  
+- Ensure your file is saved as a PDF with selectable text, not a scan, so ATS can parse it.  
+- If your CV uses columns or puts contact info in a header/footer, move all text content into the main body for better parsing.  
+- All important info is in text, not images — good.  
+- Use a common font (Arial, Calibri, Times New Roman) for best parsing.  
+
+Let me know if you have a different job description or want advice on pivoting toward ML roles!

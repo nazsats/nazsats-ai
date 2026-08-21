@@ -2,56 +2,50 @@
 PART 1 — HONEST MATCH SCORE  
 ═══════════════════════════════════════════════════════  
 
-MATCH: 5/100
+MATCH: 10/100
 
-**Hard requirements met**  
-- None.
+**Requirements I meet:**  
+- None. Your CV does not show any accounting experience, tools, or responsibilities.
 
-**Hard requirements missing**  
-- 4+ years accounting — No accounting experience shown; CV is for a final-year IT student.
-- GST and TDS filing — No mention of GST, TDS, or any tax/finance work.
-- Tally — No mention of Tally or any accounting software.
-- Advanced Excel — No mention of Excel skills.
-- Month-end close — No evidence of any accounting or finance process work.
-- Managing multiple clients — No client management experience shown.
+**Requirements I do not meet:**  
+- 4+ years accounting: No accounting experience or roles listed.
+- GST and TDS filing: No mention of tax, GST, TDS, or compliance.
+- Tally: No mention of Tally or any accounting software.
+- Advanced Excel: No mention of Excel skills.
+- Month-end close: No accounting tasks or responsibilities.
+- Managing multiple clients: No client management or multi-client experience.
+- ERP migration (nice to have): No ERP or migration experience.
+- Supervising a team (nice to have): No team leadership or supervision.
 
-**Nice-to-haves met**  
-- None.
-
-**Worth applying?** — Probably not. This is a completely different field and level; your CV shows no accounting experience or relevant skills.
+**Worth applying?**  
+Probably not — your CV is for a final-year IT student with no accounting experience, while this role requires 4+ years of accounting and specific finance skills.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
 
-Karan Patel | karan@email.com | Ahmedabad
+SUMMARY:  
+[changed] Final-year Information Technology student with hands-on experience in Java, C++, and MySQL, seeking to apply technical and analytical skills in a professional environment.  
+(was: Final-year student seeking a first role.)
 
-SUMMARY  
-Final-year B.Tech Information Technology student with hands-on experience in Java, MySQL, and software development projects. Seeking to apply technical and analytical skills in a professional environment.
-
-SKILLS  
-- Programming: C++, Java, basic Python  
-- Data Structures & Algorithms (DSA)  
-- Relational databases (MySQL)  
-- Version control (Git)
+SKILLS:  
+[same] C++, Java, basic Python, DSA, MySQL, Git
 
 EXPERIENCE  
-College Project: Library Management System  
-- Developed a library management system using Java and MySQL, focusing on database design and user interface.
+[changed]  
+- Developed a Library Management System using Java and MySQL as a college project, demonstrating strong analytical and problem-solving skills.  
+  (was: College project - Library management system in Java and MySQL)  
+- Built a bus-tracking Android prototype in a hackathon, achieving 2nd place out of 40 teams, showcasing teamwork and project delivery under deadlines.  
+  (was: Hackathon - Bus-tracking Android prototype, 2nd of 40 teams)
 
-Hackathon: Bus-Tracking Android Prototype  
-- Built a real-time bus-tracking Android application; achieved 2nd place out of 40 teams.
+EDUCATION:  
+[same] B.Tech Information Technology, GTU, expected 2026. CGPA 8.1
 
-EDUCATION  
-B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I CHANGED**  
-- Reworded the summary and skills to emphasize technical and analytical abilities, as much as possible within the original content.
-- Reordered and expanded project experience to highlight relevant technical skills.
-- Used job description vocabulary where possible (e.g., "relational databases").
-- Compressed education and unrelated details.
-
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 4+ years accounting experience  
 - GST and TDS filing  
 - Tally  
@@ -59,6 +53,16 @@ B.Tech Information Technology, Gujarat Technological University (GTU), expected 
 - Month-end close  
 - Managing multiple clients  
 - ERP migration  
-- Supervising a team
+- Supervising a team  
 
-These requirements are not supported by your CV.
+Your CV does not support any of these requirements, so none were added or implied.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear.
+- Your CV is in plain text and uses standard section names.
+- No dates are given for experience; if you add more, use a consistent format.
+- If you use a photo or columns in your actual file, ensure contact details are in text, not inside images or headers/footers.
+- Save as a PDF with selectable text, not a scan, for best parsing.
+
+**Summary:**  
+This job is not a fit for your profile. If you are interested in accounting roles, consider gaining relevant experience, certifications, or internships and updating your CV accordingly.

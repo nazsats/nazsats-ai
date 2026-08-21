@@ -4,65 +4,67 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 10/100
 
-**Hard requirements met**  
-- None. Your CV does not evidence any of the must-haves for this role.
+**Requirements I meet:**  
+- None. Your CV does not show any experience in frontend development, React, JavaScript, CSS, responsive design, Figma, or cross-browser compatibility.
 
-**Hard requirements missing**  
-- 3+ years frontend experience — No mention of frontend development experience.
-- React and modern JavaScript — No mention of React or JavaScript.
-- Strong CSS and responsive design — No mention of CSS or responsive design.
-- Working from Figma designs — No mention of Figma or design tools.
-- Cross-browser compatibility — No mention of browser compatibility or related skills.
-
-**Nice-to-haves met**  
-- None.  
-  - TypeScript — Not mentioned.
-  - Design background — No evidence of design experience.
+**Requirements I do not meet:**  
+- 3+ years frontend experience — No frontend experience listed.
+- React and modern JavaScript — No mention of React, JavaScript, or any frontend framework.
+- Strong CSS and responsive design — No CSS or design skills mentioned.
+- Working from Figma designs — No Figma or design tool experience.
+- Cross-browser compatibility — No evidence of web development or browser testing.
+- TypeScript (nice to have) — Not mentioned.
+- Design background (nice to have) — Not mentioned.
 
 **Worth applying?**  
-Probably not — your experience is entirely in customer support, with no evidence of frontend development or related skills.
+Probably not — your CV is entirely customer support/SaaS, with no evidence of frontend or web development skills.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Faisal Khan | faisal@email.com | Delhi
 
 SUMMARY  
-Customer support lead with 4 years of SaaS experience, specializing in team leadership, escalation management, and knowledge base documentation.
+[changed] Customer support lead, 4 years SaaS.  
+(was: Customer support lead, 4 years SaaS.)
 
 SKILLS  
-- Escalation management  
-- Zendesk  
-- Intercom  
-- Documentation  
-- SQL (basic)
+[changed] Zendesk, Intercom, SQL (basic), escalation management, documentation  
+(was: Zendesk, Intercom, SQL (basic), escalation management, documentation)
 
-EXPERIENCE
+EXPERIENCE  
 
-Support Lead, CloudDesk — 2022 to present  
-- Lead a team of 6, managing first-response SLAs for SaaS customer support  
-- Reduced average resolution time from 14 hours to 5  
-- Authored 80+ help-centre articles to improve customer self-service  
-- Queried product database with basic SQL to diagnose and resolve issues
+Support Lead, CloudDesk - 2022 to present  
+  [same]    Lead a team of 6; own the first-response SLA  
+  [same]    Cut average resolution time from 14 hours to 5  
+  [same]    Wrote 80 help-centre articles  
+  [same]    Query the product database with basic SQL to diagnose issues  
 
 EDUCATION  
-BA English, Delhi University, 2021
+[changed] BA English, Delhi University, 2021  
+(was: BA English, Delhi University, 2021)
 
----
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I CHANGED**  
-- Reordered and expanded bullets to emphasize leadership, documentation, and technical troubleshooting, as these are the most transferable skills.
-- Used more formal, results-focused language.
-- Compressed education and unrelated details.
-
-**WHAT I DELIBERATELY DID NOT ADD**  
+**What I deliberately did not add:**  
 - 3+ years frontend experience  
 - React and modern JavaScript  
-- CSS and responsive design  
+- Strong CSS and responsive design  
 - Working from Figma designs  
 - Cross-browser compatibility  
 - TypeScript  
-- Design background
+- Design background  
 
-(Your CV does not support any of these requirements, so they are not included.)
+Your CV does not support any of these requirements, so none were added.
+
+**ATS suggestions — advice only, do not apply these:**  
+- Your section headings are standard ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- All content is in text, not images — good.
+- Dates are in a consistent format — good.
+- If your CV uses a single column, keep it; if it is multi-column, switch to single column for better ATS parsing.
+- Ensure your contact details are in text, not inside a photo or header/footer.
+- Save as PDF with selectable text, not a scan.
+
+**Summary:**  
+Your CV is well-structured for ATS, but you do not meet any requirements for this frontend developer role. Consider applying only if you are transitioning to frontend and can show relevant skills elsewhere (e.g., a portfolio or side projects not listed here).

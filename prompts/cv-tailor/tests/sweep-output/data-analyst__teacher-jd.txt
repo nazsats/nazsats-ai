@@ -4,70 +4,69 @@ PART 1 — HONEST MATCH SCORE
 
 MATCH: 12/100
 
-**Hard requirements met**  
+**Requirements I meet:**  
 - Familiarity with digital learning tools  
-  - Your CV: "Built Power BI dashboards used by 30 store managers" (Power BI is a digital tool, though not specifically for learning)  
+  - "Power BI dashboards", "SQL", "Excel", "Python (pandas)" (shows comfort with digital tools, though not in education)
 
-**Hard requirements missing**  
+**Requirements I do not meet:**  
 - 5+ years teaching or curriculum work  
-  - Nothing in your CV supports teaching or curriculum design experience.  
+  - No teaching or curriculum experience shown. Your CV is entirely data analytics in retail.
 - Designing assessments  
-  - No evidence of assessment design (A/B testing is not the same as educational assessment).  
+  - No mention of assessments, tests, or educational content.
 - Subject expertise in physics or chemistry  
-  - Your degree is in Statistics; no mention of physics or chemistry.  
+  - Degree is in Statistics, not physics or chemistry.
 - Training other educators  
-  - No evidence of training or mentoring educators.  
-
-**Nice-to-haves met**  
-- None directly met.  
-
-**Nice-to-haves missing**  
+  - No mention of training, mentoring, or working with educators.
 - EdTech experience  
-  - No EdTech or education sector experience shown.  
+  - No EdTech roles or projects.
 - Published material  
-  - No mention of published material.  
+  - No publications listed.
 
 **Worth applying?**  
-Probably not — you lack all core requirements (teaching/curriculum experience, subject expertise, assessment design, educator training), and your background is in data analytics for retail.
+Probably not — your CV is in data analytics for retail, with no evidence of teaching, curriculum design, science subject expertise, or education sector experience.
 
 ═══════════════════════════════════════════════════════  
-PART 2 — TAILORED CV  
+PART 2 — THE TAILORED CV  
 ═══════════════════════════════════════════════════════  
-
-Nisha Verma | nisha@email.com | Gurgaon
 
 SUMMARY  
-Data analyst with 3 years’ experience in retail analytics, specializing in data-driven reporting, dashboard creation, and A/B testing. Skilled in leveraging digital tools to deliver actionable insights for business stakeholders.
+[changed] Data analyst with 3 years’ experience in retail analytics, skilled in digital tools including Power BI, SQL, Excel, and Python (pandas).  
+(was: Data analyst, 3 years, retail analytics.)
 
 SKILLS  
-- Digital tools: Power BI, Excel  
-- Data analysis: SQL, Python (pandas)  
-- Reporting and dashboards  
-- A/B testing  
-- Retail analytics
+[same] SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards
 
-EXPERIENCE
-
-Data Analyst, RetailIQ — 2023 to present  
-- Developed Power BI dashboards to support decision-making for 30 store managers  
-- Designed and implemented SQL-based weekly sales reports across 120 retail locations  
-- Conducted A/B testing on pricing strategies, resulting in a 4% increase in margin
+EXPERIENCE  
+Data Analyst, RetailIQ - 2023 to present  
+  [changed] Developed and maintained Power BI dashboards for 30 store managers, leveraging digital tools to support data-driven decision making.  
+    (was: Built Power BI dashboards used by 30 store managers)  
+  [changed] Wrote SQL queries for weekly sales reporting across 120 stores, ensuring accurate and timely data analysis.  
+    (was: Wrote SQL for weekly sales reporting across 120 stores)  
+  [changed] Conducted A/B tests on pricing strategies, resulting in a 4% increase in margin.  
+    (was: Ran A/B tests on pricing; one raised margin 4 percent)
 
 EDUCATION  
-B.Sc Statistics, Delhi University, 2022
+[same] B.Sc Statistics, Delhi University, 2022
 
-**WHAT I CHANGED**  
-- Reworded and reordered the summary and skills to emphasize digital tools and analytics, as these are the closest match to the job’s requirements.  
-- Highlighted experience with Power BI and dashboard/reporting creation as evidence of digital tool proficiency.  
-- Used the job’s vocabulary where possible (e.g., “digital tools”, “designed and implemented”).  
-- Compressed unrelated details and focused on transferable skills.
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I DID NOT ADD, AND WHAT YOU COULD IMPROVE  
+═══════════════════════════════════════════════════════  
 
-**WHAT I DELIBERATELY DID NOT ADD**  
-- 5+ years teaching or curriculum work  
-- Designing assessments (in the educational sense)  
-- Subject expertise in physics or chemistry  
-- Training other educators  
-- EdTech experience  
-- Published material
+**What I deliberately did not add:**  
+- 5+ years teaching or curriculum work (no evidence in your CV)  
+- Designing assessments (no evidence)  
+- Subject expertise in physics or chemistry (degree is in Statistics)  
+- Training other educators (no evidence)  
+- EdTech experience (no evidence)  
+- Published material (no evidence)
 
-If you have any experience in education, curriculum, or science subjects not listed here, consider adding it for future applications.
+**ATS suggestions — advice only, do not apply these:**  
+- Your headings are standard and clear ("SUMMARY", "SKILLS", "EXPERIENCE", "EDUCATION") — good for ATS.
+- Dates are in a consistent format — fine.
+- If your CV uses a single column, keep it; if not, switch to single column for better parsing.
+- Ensure all text is selectable and not inside images or graphics.
+- If you have a photo, do not put contact details inside it.
+- Save as PDF with selectable text, not a scan.
+
+**Summary:**  
+Your CV is well-structured for ATS, but your experience is not a match for this curriculum designer role. Consider applying only if you can demonstrate relevant education sector or curriculum work elsewhere.
