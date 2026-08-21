@@ -1,0 +1,75 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 18/100
+
+**Hard requirements met**  
+- Leading a small team  
+  - "Trained 8 junior nurses on documentation standards" (shows some leadership/training experience)
+
+**Hard requirements missing**  
+- 3+ years customer-facing SaaS  
+  - No SaaS or software industry experience mentioned anywhere in CV.
+- Owning retention and escalations  
+  - No evidence of responsibility for customer retention or handling escalations in a business context.
+- CRM tools such as Zendesk or Intercom  
+  - Only "Epic EHR" (healthcare record system), not a customer support CRM.
+- Writing customer documentation  
+  - No mention of documentation for customers; only "documentation standards" for internal use.
+
+**Nice-to-haves met**  
+- None.
+
+**Nice-to-haves missing**  
+- Basic SQL  
+  - Not mentioned.
+- Designing an onboarding programme  
+  - Not mentioned.
+
+**Worth applying?**  
+Probably not — your experience is entirely in clinical nursing, with no SaaS, CRM, or customer success background.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Rahul Mehta | rahul@email.com | Mumbai
+
+SUMMARY  
+Experienced registered nurse with a strong background in critical care, team coordination, and training. Skilled in patient assessment, documentation standards, and cross-functional communication in high-pressure environments.
+
+SKILLS  
+- Team leadership and training  
+- Patient assessment  
+- Triage and crisis management  
+- Documentation standards  
+- Epic EHR  
+- IV therapy  
+- Coordination with multidisciplinary teams
+
+EXPERIENCE  
+
+Staff Nurse, Lilavati Hospital — 2019 to present  
+- Managed up to 12 ICU patients per shift, ensuring high-quality care and clear communication with doctors, pharmacy, and families.  
+- Trained 8 junior nurses on documentation standards, supporting team development and adherence to protocols.  
+- Coordinated between medical staff and patient families to facilitate care delivery and resolve issues.  
+
+EDUCATION  
+B.Sc. Nursing, MUHS, 2019
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize leadership, training, and coordination, which are most relevant to customer success roles.  
+- Placed team leadership and training first in the skills section, using the job’s vocabulary where possible.  
+- Expanded the experience bullets to highlight cross-functional coordination and issue resolution, aligning with client relationship management concepts.  
+- Compressed unrelated clinical details to focus on transferable skills.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 3+ years customer-facing SaaS experience  
+- Owning retention and escalations  
+- CRM tools such as Zendesk or Intercom  
+- Writing customer documentation  
+- Basic SQL  
+- Designing an onboarding programme
+
+These requirements are not supported by your CV and are therefore not claimed.

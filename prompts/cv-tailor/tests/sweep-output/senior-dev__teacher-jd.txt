@@ -1,0 +1,71 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None. Your CV does not show any experience in teaching, curriculum design, assessment design, science subject expertise, educator training, or digital learning tools in an educational context.
+
+**Hard requirements missing**  
+- 5+ years teaching or curriculum work — No evidence of teaching or curriculum work. Your experience is entirely in backend engineering.
+- Designing assessments — No mention of assessment design or related activities.
+- Subject expertise in physics or chemistry — Your education is in Computer Science and Engineering; no mention of physics or chemistry.
+- Training other educators — No evidence of educator training; your leadership was in engineering contexts.
+- Familiarity with digital learning tools — No mention of educational technology or digital learning platforms.
+
+**Nice-to-haves met**  
+- None.  
+  - EdTech experience — No evidence.
+  - Published material — No evidence.
+
+**Worth applying?**  
+Probably not — your background is in backend engineering, with no evidence of teaching, curriculum design, or science subject expertise.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Vikram Iyer | vikram@email.com | Bengaluru
+
+SUMMARY  
+Backend engineer with 9 years’ experience in distributed systems, team leadership, and large-scale infrastructure. Skilled in Go, Python, Kubernetes, and cloud technologies.
+
+SKILLS  
+- Distributed systems (Go, Python)  
+- Kubernetes  
+- AWS  
+- PostgreSQL  
+- Kafka  
+- Terraform  
+- gRPC
+
+EXPERIENCE
+
+Staff Engineer, ScaleWorks — 2021 to present  
+- Led a team of 5 engineers, including hiring and technical mentorship  
+- Owned a 60-node Kubernetes cluster serving 12M requests daily  
+- Improved system performance by optimizing PostgreSQL indexes, reducing p99 latency from 340ms to 90ms
+
+Senior Engineer, DataCore — 2017 to 2021  
+- Built and maintained Kafka pipelines processing 2TB of data daily
+
+EDUCATION  
+M.Tech, Computer Science and Engineering, IIT Madras, 2017
+
+**WHAT I CHANGED**  
+- Reordered and expanded leadership and mentorship experience, as this is the closest adjacent skill to educator training.
+- Used “technical mentorship” to clarify the nature of team leadership.
+- Kept all technical skills and experience, as there is no relevant educational or science curriculum experience to surface.
+- Compressed unrelated details to focus on transferable skills.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 5+ years teaching or curriculum work  
+- Designing assessments  
+- Subject expertise in physics or chemistry  
+- Training other educators  
+- Familiarity with digital learning tools  
+- EdTech experience  
+- Published material
+
+(If this list is empty, I would say so, but in this case, all requirements are missing.)

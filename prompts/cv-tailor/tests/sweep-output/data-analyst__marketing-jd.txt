@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 30/100
+
+**Hard requirements met**  
+- None. Your CV does not directly evidence any of the must-haves for this role.
+
+**Hard requirements missing**  
+- **3+ years paid acquisition:** No mention of paid acquisition or digital marketing experience.
+- **Google Ads and Meta Ads at scale:** No mention of Google Ads, Meta Ads, or any advertising platform.
+- **Google Analytics:** Not present in your skills or experience.
+- **Owning CAC and ROAS targets:** No evidence of managing or optimizing Customer Acquisition Cost or Return on Ad Spend.
+- **Managing budgets above Rs 3 lakh/month:** No mention of budget management or marketing spend.
+
+**Nice-to-haves met**  
+- None. No mention of SEO or marketing automation.
+
+**Worth applying?**  
+Probably not — your CV is in data analytics for retail, with no evidence of digital marketing, ad platforms, or budget ownership.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Nisha Verma | nisha@email.com | Gurgaon
+
+SUMMARY  
+Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Power BI dashboards, and A/B testing to drive business insights and support decision-making.
+
+SKILLS  
+- SQL  
+- Power BI  
+- Excel  
+- Python (pandas)  
+- A/B testing  
+- Dashboards
+
+EXPERIENCE
+
+Data Analyst, RetailIQ — 2023 to present  
+- Built Power BI dashboards used by 30 store managers to monitor sales and performance metrics  
+- Wrote SQL queries for weekly sales reporting across 120 retail locations  
+- Designed and analyzed A/B tests on pricing strategies, resulting in a 4% increase in profit margin
+
+EDUCATION  
+B.Sc Statistics, Delhi University, 2022
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize analytics, dashboards, and A/B testing, using language relevant to performance measurement.
+- Ordered skills to highlight analytics and reporting, as these are closest to the job’s focus on performance.
+- Expanded experience bullets to clarify outcomes and business impact, using terms like “performance metrics” and “profit margin.”
+- Compressed education and omitted unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Paid acquisition experience  
+- Google Ads or Meta Ads  
+- Google Analytics  
+- CAC or ROAS ownership  
+- Budget management  
+- SEO  
+- Marketing automation
+
+If you gain experience in digital marketing platforms or budget management, update your CV accordingly. As it stands, this role is not a fit.

@@ -1,0 +1,86 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 23/100
+
+**Hard requirements met:**  
+- Git  
+  - "SKILLS: ... Git"  
+- SQL and relational design  
+  - "SKILLS: ... MySQL"  
+  - "College project - Library management system in Java and MySQL"  
+- Python (basic)  
+  - "SKILLS: ... basic Python"  
+
+**Hard requirements missing:**  
+- 2+ years Python web development  
+  - No professional experience; only "basic Python" in skills. No evidence of web development in Python.
+- Django or Flask  
+  - Not mentioned anywhere in CV.
+- REST APIs  
+  - Not mentioned anywhere in CV.
+- Automated tests  
+  - Not mentioned anywhere in CV.
+- 2-4 years experience  
+  - "Final-year student seeking a first role." No professional experience; only college projects.
+
+**Nice-to-haves met:**  
+- None.
+
+**Nice-to-haves missing:**  
+- Cloud platforms  
+  - Not mentioned anywhere in CV.
+- Docker  
+  - Not mentioned anywhere in CV.
+
+**Worth applying?**  
+Probably not — you lack all core professional experience and required frameworks; this is an entry-level CV for a mid-level role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Karan Patel | karan@email.com | Ahmedabad
+
+SUMMARY  
+Final-year B.Tech Information Technology student with hands-on experience in Java, MySQL, and basic Python. Strong foundation in data structures, algorithms, and relational database design, seeking to launch a backend development career.
+
+SKILLS  
+- Relational databases (MySQL)
+- Java
+- C++
+- Basic Python
+- Data Structures and Algorithms (DSA)
+- Git
+
+EXPERIENCE  
+
+College Project: Library Management System  
+- Developed a library management system using Java and MySQL, implementing core CRUD operations and relational database design principles.
+- Designed and managed database schema to support efficient data retrieval and integrity.
+
+Hackathon: Bus-Tracking Android Prototype  
+- Built a prototype Android application for real-time bus tracking; achieved 2nd place out of 40 teams.
+- Collaborated with team members to design and implement application features.
+
+EDUCATION  
+B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+
+WHAT I CHANGED  
+- Reordered and expanded the college project to highlight relational database and backend skills.
+- Used the job's vocabulary ("relational database design", "CRUD operations") where supported by your project.
+- Placed MySQL and database skills at the top of the skills section, as these are most relevant.
+- Compressed unrelated details and focused on backend-relevant experience.
+
+WHAT I DELIBERATELY DID NOT ADD  
+- 2+ years Python web development  
+- Django or Flask  
+- REST APIs  
+- Automated tests  
+- Cloud platforms  
+- Docker  
+- Any professional experience or years of experience  
+- Any claim of advanced Python skills or web frameworks
+
+If you would like advice on how to build toward this kind of role, let me know!

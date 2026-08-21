@@ -1,0 +1,63 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 92/100
+
+**Hard requirements met**  
+- **2+ years analytics** — "Data analyst, 3 years, retail analytics."  
+- **Strong SQL** — "Wrote SQL for weekly sales reporting across 120 stores"  
+- **Dashboarding in Power BI or Tableau** — "Built Power BI dashboards used by 30 store managers"  
+- **Excel** — "SKILLS: SQL, Excel, Power BI, Python (pandas), A/B testing, dashboards"  
+- **Communicating findings to non-technical stakeholders** — "Built Power BI dashboards used by 30 store managers" (implies communication to store managers, who are likely non-technical; however, this could be more explicit)
+
+**Hard requirements missing**  
+- None. All must-haves are evidenced, though explicit mention of "communicating findings" could be stronger.
+
+**Nice-to-haves met**  
+- **Python** — "Python (pandas)"  
+- **A/B testing** — "Ran A/B tests on pricing; one raised margin 4 percent"
+
+**Worth applying?**  
+Yes — you meet all hard requirements and both nice-to-haves, though you could strengthen how you describe communication with non-technical stakeholders.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Nisha Verma | nisha@email.com | Gurgaon
+
+SUMMARY  
+Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Power BI dashboarding, and communicating actionable insights to business stakeholders. Proven track record in sales reporting, A/B testing, and data-driven decision support.
+
+SKILLS  
+- SQL (sales reporting, data extraction, analysis)  
+- Power BI (dashboard creation, data visualization)  
+- Excel (data manipulation, reporting)  
+- Communicating findings to non-technical stakeholders  
+- Python (pandas)  
+- A/B testing  
+- Dashboards
+
+EXPERIENCE
+
+Data Analyst, RetailIQ — 2023 to present  
+- Built and maintained Power BI dashboards used by 30 store managers to track sales and performance metrics, enabling informed business decisions.  
+- Wrote and optimized SQL queries for weekly sales reporting across 120 stores, ensuring accurate and timely data delivery.  
+- Communicated analytical findings and actionable insights to store managers and business teams, supporting non-technical stakeholders in understanding data trends.  
+- Conducted A/B tests on pricing strategies; one initiative increased profit margin by 4 percent.  
+
+EDUCATION  
+B.Sc Statistics, Delhi University, 2022
+
+**WHAT I CHANGED**  
+- Rewrote the summary to highlight experience, tools, and communication with stakeholders, using the job’s vocabulary.  
+- Reordered and expanded skills to match the job’s priorities, putting SQL, Power BI, and communication first.  
+- Reworded experience bullets to emphasize dashboarding, SQL, and especially communicating findings to non-technical stakeholders.  
+- Expanded the A/B testing bullet to clarify business impact.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Tableau (not in your CV)
+- Any explicit years/duration calculation beyond what your CV states
+
+All job requirements are covered by your CV; nothing was omitted except Tableau, which is not present.

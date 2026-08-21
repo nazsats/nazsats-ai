@@ -1,0 +1,68 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None.
+
+**Hard requirements missing**  
+- 4+ years deploying ML in production — No evidence of any ML experience.  
+- PyTorch or TensorFlow — Not mentioned anywhere in your CV.  
+- Feature engineering — Not mentioned.  
+- MLOps (versioning, monitoring, retraining) — No mention of MLOps or related practices.  
+- Strong statistics — No mention of statistics knowledge or application.  
+- NumPy, pandas, scikit-learn — None of these libraries are listed in your skills or experience.
+
+**Nice-to-haves met**  
+- None.
+
+**Worth applying?**  
+Probably not — your CV is in digital marketing with no evidence of machine learning, programming, or data science skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Aditya Rao | aditya@email.com | Hyderabad
+
+SUMMARY  
+Digital marketer with 3 years’ experience in B2C ecommerce, specializing in paid advertising, email marketing, and campaign analytics.
+
+SKILLS  
+- Google Ads  
+- Meta Ads  
+- SEO  
+- Google Analytics  
+- Email marketing  
+- Canva
+
+EXPERIENCE  
+
+Marketing Executive, ShopKart — 2023 to present  
+- Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh  
+- Reduced cost per acquisition by 38% over two quarters through data-driven campaign optimization  
+- Wrote and scheduled weekly email campaigns to a subscriber base of 60,000  
+- Utilized Google Analytics to track and report campaign performance metrics
+
+EDUCATION  
+BBA Marketing, Osmania University, 2022
+
+**WHAT I CHANGED**  
+- Reworded bullets to emphasize analytics and data-driven optimization, as these are the closest adjacent skills to ML/data science.  
+- Placed campaign analytics and performance tracking more prominently.  
+- Kept the summary focused on digital marketing, as there is no ML experience to highlight.  
+- Maintained all original skills and experience, reordered for clarity and relevance.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years deploying ML in production  
+- PyTorch or TensorFlow  
+- Feature engineering  
+- MLOps (versioning, monitoring, retraining)  
+- Strong statistics  
+- NumPy, pandas, scikit-learn  
+- LLM fine-tuning  
+- Distributed training
+
+There is no evidence in your CV to support any of the machine learning or data science requirements from the job description.

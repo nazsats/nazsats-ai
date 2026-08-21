@@ -1,0 +1,72 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- Python (basic): "basic Python"  
+- MySQL: "MySQL" (though not directly relevant to ML, but present)  
+
+**Hard requirements missing**  
+- 4+ years deploying ML in production: No evidence. CV says "Final-year student seeking a first role."
+- PyTorch or TensorFlow: Not mentioned anywhere.
+- Feature engineering: No mention.
+- MLOps (versioning, monitoring, retraining): No mention.
+- Strong statistics: No mention.
+- NumPy, pandas, scikit-learn: Not mentioned.
+- Deploying ML in production: No mention.
+
+**Nice-to-haves met**  
+- None.
+
+**Nice-to-haves missing**  
+- LLM fine-tuning: Not mentioned.
+- Distributed training: Not mentioned.
+
+**Worth applying?**  
+Probably not — you do not meet any of the core requirements, and this is not an entry-level or adjacent role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Karan Patel | karan@email.com | Ahmedabad
+
+SUMMARY  
+Final-year B.Tech Information Technology student with hands-on experience in Java, C++, and MySQL, seeking an entry-level opportunity to apply programming and data skills. Demonstrated ability to deliver software projects and collaborate in team settings.
+
+SKILLS  
+- Programming: Java, C++, basic Python  
+- Data Structures & Algorithms (DSA)  
+- Relational Databases: MySQL  
+- Version Control: Git
+
+EXPERIENCE
+
+College Project — Library Management System  
+- Developed a library management system using Java and MySQL, implementing core database operations and user interfaces.
+
+Hackathon — Bus-Tracking Android Prototype  
+- Collaborated in a team to design and prototype a real-time bus-tracking Android application; achieved 2nd place out of 40 teams.
+
+EDUCATION  
+B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+
+**WHAT I CHANGED**  
+- Reordered and expanded the skills section to highlight programming and data experience, as relevant as possible to ML roles.
+- Reworded project and hackathon experience to use more formal, job-application language.
+- Placed the most technical/relevant experience first.
+- Clarified the summary to focus on programming and data skills, as the job is technical.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years deploying ML in production  
+- PyTorch or TensorFlow  
+- Feature engineering  
+- MLOps (versioning, monitoring, retraining)  
+- Strong statistics  
+- NumPy, pandas, scikit-learn  
+- LLM fine-tuning  
+- Distributed training
+
+These requirements are not supported anywhere in your CV.

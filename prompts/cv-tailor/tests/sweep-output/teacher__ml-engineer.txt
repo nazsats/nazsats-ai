@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None. There is no evidence in your CV of experience with machine learning, production deployment, PyTorch/TensorFlow, feature engineering, MLOps, statistics (beyond general physics background), or the listed Python libraries.
+
+**Hard requirements missing**  
+- 4+ years deploying ML in production — No mention of machine learning, production systems, or deployment.
+- PyTorch or TensorFlow — No mention.
+- Feature engineering — No mention.
+- MLOps (versioning, monitoring, retraining) — No mention.
+- Strong statistics — No explicit mention; physics background may imply some, but not at the level required.
+- NumPy, pandas, scikit-learn — No mention of Python or these libraries.
+
+**Nice-to-haves met**  
+- None.  
+  - LLM fine-tuning — No mention.
+  - Distributed training — No mention.
+
+**Worth applying?** — Probably not; your CV does not evidence any of the required skills or experience in machine learning or software engineering.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Meera Nair | meera@email.com | Kochi
+
+SUMMARY  
+Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and assessment. Proven ability to mentor peers and improve student outcomes.
+
+SKILLS  
+- Curriculum design  
+- Classroom management  
+- Assessment  
+- Google Classroom
+
+EXPERIENCE
+
+Physics Teacher, St Thomas HSS — 2018 to present  
+- Taught grades 11 and 12, raising class average from 62% to 78%  
+- Designed a laboratory curriculum adopted across three schools  
+- Mentored four new teachers
+
+EDUCATION  
+M.Sc Physics, Kerala University, 2017  
+B.Ed, 2018
+
+**WHAT I CHANGED**  
+- Maintained original order and content, as none of the job requirements are present in your CV.
+- Reworded the summary for clarity and conciseness.
+- Kept skills and experience sections focused on your actual background.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years deploying ML in production  
+- PyTorch or TensorFlow  
+- Feature engineering  
+- MLOps (versioning, monitoring, retraining)  
+- NumPy, pandas, scikit-learn  
+- LLM fine-tuning  
+- Distributed training
+
+None of these requirements are supported by your CV.

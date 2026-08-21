@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 32/100
+
+**Hard requirements met:**  
+- None fully met.
+
+**Hard requirements missing:**  
+- **3+ years customer-facing SaaS:** No evidence. Your CV is data analytics in retail, not SaaS, and not customer-facing.
+- **Owning retention and escalations:** No mention of retention, escalations, or customer ownership.
+- **CRM tools such as Zendesk or Intercom:** No CRM tools listed; only analytics tools (SQL, Excel, Power BI, Python).
+- **Writing customer documentation:** No mention of documentation or writing for customers.
+- **Leading a small team:** No mention of team leadership or management.
+
+**Nice-to-haves met:**  
+- **Basic SQL:** "SQL" is listed in your skills and experience.
+- **Designing an onboarding programme:** No evidence.
+
+**Worth applying?**  
+Probably not — you lack all core requirements (customer-facing SaaS, retention/escalations, CRM, documentation, team leadership), and your experience is in analytics, not customer success.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Nisha Verma | nisha@email.com | Gurgaon
+
+SUMMARY  
+Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Power BI dashboards, and A/B testing to drive business insights. Skilled in data-driven reporting and supporting operational decision-making for large retail networks.
+
+SKILLS  
+- SQL  
+- Power BI  
+- Excel  
+- Python (pandas)  
+- A/B testing  
+- Dashboards
+
+EXPERIENCE
+
+Data Analyst, RetailIQ — 2023 to present  
+- Built and maintained Power BI dashboards used by 30 store managers to monitor sales and performance.  
+- Developed SQL queries for weekly sales reporting across 120 stores, supporting business decisions.  
+- Conducted A/B tests on pricing strategies, resulting in a 4 percent increase in margin.
+
+EDUCATION  
+B.Sc Statistics, Delhi University, 2022
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize business support and operational impact, aligning with customer success outcomes where possible.
+- Ordered skills to highlight SQL and reporting, as these are the only partial matches to the job’s requirements.
+- Expanded experience bullets to clarify the scale of reporting and dashboard use, showing indirect support for business users.
+- Compressed education and removed unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Customer-facing SaaS experience  
+- Owning retention and escalations  
+- CRM tools such as Zendesk or Intercom  
+- Writing customer documentation  
+- Leading a small team  
+- Designing an onboarding programme
+
+If you want to move into customer success, consider gaining direct customer-facing experience and familiarity with SaaS tools and CRM platforms.

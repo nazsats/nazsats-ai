@@ -1,0 +1,64 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None. There is no evidence in your CV of Python, web development, Django/Flask, REST APIs, Git, or automated tests.
+- The only partial overlap is "Excel (advanced)" and "reconciliation", which are not relevant to backend development.
+
+**Hard requirements missing**  
+- 2+ years Python web development — No mention of Python or web development.
+- Django or Flask — No mention.
+- Strong SQL and relational design — Only "Tally" and "Excel (advanced)" are listed; no SQL or relational database experience.
+- REST APIs — No mention.
+- Git — No mention.
+- Automated tests — No mention.
+
+**Nice-to-haves met**  
+- None. No mention of cloud platforms or Docker.
+
+**Worth applying?**  
+Probably not — your CV is entirely in accounting, with no evidence of software development or the required technical skills.
+
+Scoring guide: 0-29 = different field or level entirely.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Sneha Kulkarni | sneha@email.com | Nashik
+
+SUMMARY  
+Experienced accountant specializing in SME bookkeeping, compliance, and advanced Excel-based process automation.
+
+SKILLS  
+- Bookkeeping and compliance (Tally, GST filing, TDS)  
+- Advanced Excel modeling  
+- Payroll management  
+- Account reconciliation  
+
+EXPERIENCE  
+
+Senior Accountant, Deshmukh and Co — 2021 to present  
+- Managed books for 22 SME clients, ensuring accuracy and compliance  
+- Filed GST and TDS returns with zero late filings in four years  
+- Built advanced Excel models, reducing monthly close from 6 days to 2  
+- Oversaw payroll and account reconciliation for multiple clients  
+
+EDUCATION  
+M.Com, Pune University, 2020
+
+**WHAT I CHANGED**  
+- Reordered and expanded the experience section to emphasize process automation and advanced Excel skills, as these are the closest adjacent skills to backend work.
+- Used more technical language ("process automation", "advanced Excel modeling") to align with a technical job description, within the limits of your actual experience.
+- Placed skills in order of technical relevance, with Excel and process automation first.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Python, web development, Django, Flask, REST APIs, Git, automated tests, SQL, relational database design, cloud platforms, Docker — none are present in your CV, so none are claimed.
+
+---
+
+**Summary:**  
+You do not meet any of the hard or nice-to-have requirements for this backend developer role. Your background is entirely in accounting, with no evidence of programming or software development.

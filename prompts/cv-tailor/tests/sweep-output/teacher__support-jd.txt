@@ -1,0 +1,76 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 32/100
+
+**Hard requirements met**  
+- Leading a small team  
+  - "Mentored 4 new teachers" (shows some leadership, though not in a SaaS or customer context)
+
+**Hard requirements missing**  
+- 3+ years customer-facing SaaS  
+  - No evidence of SaaS experience or customer-facing roles in a SaaS environment.
+- Owning retention and escalations  
+  - No mention of retention, escalations, or similar responsibilities.
+- CRM tools such as Zendesk or Intercom  
+  - Only "Google Classroom" is listed; not a CRM or customer support tool.
+- Writing customer documentation  
+  - No evidence of writing documentation for customers or users.
+
+**Nice-to-haves met**  
+- None directly.  
+  - "Designed a lab curriculum" is adjacent to "designing an onboarding programme" but not the same context or audience.
+
+**Nice-to-haves missing**  
+- Basic SQL  
+  - No mention of SQL or database skills.
+- Designing an onboarding programme  
+  - No direct evidence; curriculum design is adjacent but not onboarding for SaaS customers.
+
+**Worth applying?**  
+Probably not — you lack all core SaaS and customer success experience, as well as required tools and documentation skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Meera Nair | meera@email.com | Kochi
+
+SUMMARY  
+Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and mentoring. Proven ability to lead small teams and drive measurable improvements in student outcomes.
+
+SKILLS  
+- Team leadership and mentoring  
+- Curriculum design  
+- Assessment and progress tracking  
+- Classroom management  
+- Google Classroom
+
+EXPERIENCE
+
+Physics Teacher, St Thomas HSS — 2018 to present  
+- Led and mentored 4 new teachers, supporting their professional development and integration into the school community.  
+- Designed a physics lab curriculum that was adopted across three schools, demonstrating strong programme development skills.  
+- Taught grades 11 and 12, raising class average from 62% to 78% through targeted instruction and assessment strategies.  
+- Managed classroom environments and student progress using Google Classroom.
+
+EDUCATION  
+M.Sc Physics, Kerala University, 2017  
+B.Ed, 2018
+
+**WHAT I CHANGED**  
+- Reordered and expanded leadership and mentoring experience to align with the job's team leadership requirement.  
+- Highlighted curriculum design as programme development, to echo the onboarding programme nice-to-have.  
+- Used the job's vocabulary where possible (e.g., "mentoring," "programme development").  
+- Compressed unrelated details and surfaced all evidence of leadership and programme design.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 3+ years customer-facing SaaS experience  
+- Owning retention and escalations  
+- CRM tools such as Zendesk or Intercom  
+- Writing customer documentation  
+- Basic SQL  
+- Designing an onboarding programme (no direct evidence; curriculum design is adjacent but not the same)
+
+If you gain experience in SaaS, CRM tools, or customer-facing roles, you will be a stronger match for this type of position.

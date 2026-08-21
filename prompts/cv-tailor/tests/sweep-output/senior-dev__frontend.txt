@@ -1,0 +1,63 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None.  
+  - Your CV does not mention any frontend experience, JavaScript, React, CSS, responsive design, Figma, or cross-browser compatibility.
+
+**Hard requirements missing**  
+- 3+ years frontend experience — No evidence of any frontend work in your CV.
+- React and modern JavaScript — No mention of React or JavaScript.
+- Strong CSS and responsive design — No mention of CSS or frontend design.
+- Working from Figma designs — No mention of Figma or design tools.
+- Cross-browser compatibility — No mention of frontend/browser work.
+
+**Nice-to-haves met**  
+- None.  
+  - No mention of TypeScript or a design background.
+
+**Worth applying?** — Probably not; your CV is entirely backend-focused with no evidence of frontend skills or experience.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Vikram Iyer | vikram@email.com | Bengaluru
+
+SUMMARY  
+Backend engineer with 9 years of experience in distributed systems, specializing in Go, Python, and large-scale infrastructure.
+
+SKILLS  
+Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC
+
+EXPERIENCE
+
+Staff Engineer, ScaleWorks — 2021 to present  
+- Owned a 60-node Kubernetes cluster serving 12M requests a day  
+- Led a team of 5; managed hiring and design reviews  
+- Reduced p99 latency from 340ms to 90ms by reworking Postgres indexes  
+
+Senior Engineer, DataCore — 2017 to 2021  
+- Built Kafka pipelines processing 2TB daily  
+
+EDUCATION  
+M.Tech CSE, IIT Madras, 2017
+
+**WHAT I CHANGED**
+- Maintained original order and content, as none of your experience matches the frontend requirements.
+- Kept summary and skills focused on backend and distributed systems, as per your background.
+- Did not attempt to reword or surface any frontend-related skills, since none exist in your CV.
+
+**WHAT I DELIBERATELY DID NOT ADD**
+- 3+ years frontend experience
+- React and modern JavaScript
+- CSS and responsive design
+- Figma or design tools
+- Cross-browser compatibility
+- TypeScript
+- Design background
+
+(If this list is empty, say so explicitly. In this case, it is not.)

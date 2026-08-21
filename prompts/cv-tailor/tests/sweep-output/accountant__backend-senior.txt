@@ -1,0 +1,75 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- 5+ years experience: "Accountant, 5 years" — but in accounting, not software.
+- Has led a team of at least 3: No evidence in CV.
+- Python (5+ years): Not mentioned.
+- Production Kubernetes: Not mentioned.
+- PostgreSQL at scale with query optimisation and replication: Not mentioned.
+- AWS (EKS, RDS, S3): Not mentioned.
+- Terraform: Not mentioned.
+
+**Hard requirements missing**  
+- 5+ years Python: No mention of Python or any programming language.
+- Production Kubernetes: No mention of Kubernetes or container orchestration.
+- PostgreSQL at scale (query optimisation, replication): No mention of PostgreSQL or any database technology except Excel and Tally (accounting software).
+- AWS (EKS, RDS, S3): No mention of AWS or any cloud platform.
+- Terraform: Not mentioned.
+- Has led a team of at least 3: No evidence of team leadership or management.
+
+**Nice-to-haves met**  
+- None.  
+  - Go: Not mentioned.
+  - Kafka: Not mentioned.
+
+**Worth applying?**  
+Probably not — your experience is entirely in accounting, with no evidence of software engineering, Python, or any of the required technologies.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Sneha Kulkarni | sneha@email.com | Nashik
+
+SUMMARY  
+Experienced accountant with 5 years managing SME bookkeeping, compliance, and financial process optimisation. Skilled in Tally, GST filing, TDS, and advanced Excel modelling.
+
+SKILLS  
+- Bookkeeping and compliance for SMEs  
+- Tally  
+- GST and TDS filing  
+- Advanced Excel (including financial modelling and reconciliation)  
+- Payroll management  
+
+EXPERIENCE  
+
+Senior Accountant, Deshmukh and Co — 2021 to present  
+- Manage books for 22 SME clients, ensuring accurate and timely financial records  
+- File GST and TDS returns with zero late filings in four years  
+- Built Excel models that reduced monthly close from 6 days to 2  
+- Handle payroll and reconciliation for multiple clients  
+
+EDUCATION  
+M.Com, Pune University, 2020
+
+**WHAT I CHANGED**  
+- Reordered and expanded bullets to emphasise process optimisation and client management, as these are the most transferable skills.
+- Used more formal language to match the seniority of the target role.
+- Highlighted advanced Excel modelling and process improvements.
+- Compressed education and unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Python (any experience or projects)
+- Kubernetes (any experience)
+- PostgreSQL (any experience)
+- AWS (any experience)
+- Terraform (any experience)
+- Go (any experience)
+- Kafka (any experience)
+- Team leadership (no evidence in CV)
+
+If you wish to move into backend engineering, consider upskilling and gaining relevant experience before applying to such roles.

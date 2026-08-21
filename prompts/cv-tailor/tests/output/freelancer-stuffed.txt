@@ -1,0 +1,72 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 22/100
+
+**Hard requirements met:**  
+- **Client relationship management** — "Managed client relationships and project timelines end to end"  
+- **Excellent communication skills** — Implied by freelance work and client management, but not explicitly stated  
+- **Problem-solving mindset** — Implied by freelance work and project delivery, but not directly evidenced  
+
+**Hard requirements missing:**  
+- **Full stack development** — No evidence of full stack experience; only basic HTML/CSS and landing pages  
+- **Agile/Scrum methodology** — No mention of Agile, Scrum, or similar methodologies  
+- **Cross-functional collaboration** — No evidence of working with cross-functional teams; freelance and junior designer roles only  
+- **Data-driven decision making** — No mention of data analysis or data-driven approaches  
+- **Stakeholder management** — "Managed client relationships" is adjacent, but stakeholder management (especially in larger orgs) is not evidenced  
+- **Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD** — None of these technologies are mentioned in your CV. Only basic HTML/CSS is listed.  
+
+**Nice-to-haves met:**  
+- None explicitly listed or evidenced beyond the above.
+
+**Worth applying?** — Probably not. You lack nearly all of the technical requirements and methodologies for this full stack developer role; your experience is in design, not software engineering.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai  
+anjali@email.com | +91 99887 76655 | Remote  
+
+SUMMARY  
+Creative freelance designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in managing client relationships, project timelines, and producing engaging visual content from concept to execution.
+
+SKILLS  
+- Client relationship management  
+- Brand identity design  
+- Social media graphics  
+- Figma, Adobe Illustrator, Photoshop, Canva  
+- Basic HTML/CSS  
+- Project management  
+- Communication  
+
+EXPERIENCE  
+
+Freelance Designer — 2022 to present  
+- Managed client relationships and project timelines end to end for 14 small businesses  
+- Designed brand identities tailored to client needs  
+- Produced social media graphics, including a campaign that raised engagement by 40%  
+- Built two landing pages using HTML and CSS based on original designs  
+
+Junior Designer, PixelCraft Studio, Ahmedabad — 2021 to 2022  
+- Produced marketing collateral under art director supervision  
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021  
+
+**WHAT I CHANGED**  
+- Reordered and emphasized client relationship management and communication skills, as these are most relevant to the job description.  
+- Expanded on project management and outcomes (e.g., engagement increase) to highlight problem-solving and delivery.  
+- Placed basic HTML/CSS and digital work more prominently to align with the technical aspect, though limited.  
+- Compressed unrelated design experience and education to keep focus on transferable skills.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Full stack development  
+- Agile/Scrum methodology  
+- Cross-functional collaboration  
+- Data-driven decision making  
+- Stakeholder management (beyond small business clients)  
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD  
+
+If you want to pursue developer roles, consider upskilling in the required technologies and methodologies.

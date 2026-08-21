@@ -1,0 +1,68 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None.
+
+**Hard requirements missing**  
+- **5+ years teaching or curriculum work** — No teaching or curriculum experience is mentioned; "Final-year student seeking a first role."
+- **Designing assessments** — No evidence of assessment design.
+- **Subject expertise in physics or chemistry** — No mention of physics or chemistry; only Information Technology and programming skills listed.
+- **Training other educators** — No evidence of training others.
+- **Familiarity with digital learning tools** — No mention of digital learning tools; only programming languages and Git.
+
+**Nice-to-haves met**  
+- None.
+- **EdTech experience** — No EdTech experience shown.
+- **Published material** — No published material mentioned.
+
+**Worth applying?**  
+Probably not — you do not meet any of the hard requirements, and your background is in IT, not science education or curriculum design.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Karan Patel | karan@email.com | Ahmedabad
+
+SUMMARY  
+Final-year Information Technology student with hands-on experience in Java, MySQL, and software development projects. Seeking to apply technical and analytical skills in a professional environment.
+
+SKILLS  
+- Java  
+- C++  
+- MySQL  
+- Python (basic)  
+- Data Structures & Algorithms (DSA)  
+- Git
+
+EXPERIENCE
+
+College Project: Library Management System  
+- Developed a library management system using Java and MySQL, demonstrating skills in software design and database management.
+
+Hackathon: Bus-Tracking Android Prototype  
+- Collaborated in a team to build a bus-tracking Android prototype; achieved 2nd place out of 40 teams, showcasing problem-solving and teamwork.
+
+EDUCATION  
+B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+
+**WHAT I CHANGED**  
+- Reworded the summary to focus on technical and analytical skills, as curriculum design experience is not present.
+- Ordered skills to highlight programming and database knowledge.
+- Expanded experience bullets to clarify project outcomes and teamwork.
+- Compressed education for clarity.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 5+ years teaching or curriculum work  
+- Designing assessments  
+- Subject expertise in physics or chemistry  
+- Training other educators  
+- Familiarity with digital learning tools  
+- EdTech experience  
+- Published material
+
+(If this list is empty, say so explicitly. In this case, all requirements are missing.)

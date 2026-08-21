@@ -1,0 +1,69 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None.
+
+**Hard requirements missing**  
+- 3+ years paid acquisition — No evidence of any paid acquisition or marketing experience.
+- Google Ads and Meta Ads at scale — No mention of Google Ads, Meta Ads, or any digital advertising platforms.
+- Google Analytics — Not mentioned anywhere in the CV.
+- Owning CAC and ROAS targets — No mention of customer acquisition cost, return on ad spend, or any performance marketing metrics.
+- Managing budgets above Rs 3 lakh a month — No mention of budget management or financial responsibility.
+
+**Nice-to-haves met**  
+- None. No mention of SEO or marketing automation.
+
+**Worth applying?**  
+Probably not — your CV is entirely software development with no marketing or advertising experience, and you do not meet any of the hard requirements.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Priya Sharma | priya@email.com | Pune
+
+SUMMARY  
+Software developer with 2 years of experience building web applications using Python, Django, and MySQL. Skilled in backend development, REST APIs, and improving software quality through testing.
+
+SKILLS  
+- Python  
+- Django  
+- MySQL  
+- HTML, CSS, JavaScript  
+- REST APIs  
+- Git
+
+EXPERIENCE
+
+Software Developer, Infobyte Solutions, Pune — June 2024 to present  
+- Built internal tools in Python and Django used by 40 staff  
+- Designed MySQL schemas and wrote reporting queries  
+- Handled customer complaints escalated from support  
+- Wrote unit tests, raised coverage 30% to 65%
+
+Intern, Infobyte Solutions — Jan 2024 to May 2024  
+- Fixed bugs in a Django app; wrote REST API documentation
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**  
+- Kept the summary focused on software development, as there is no marketing experience to highlight.
+- Ordered skills and experience to emphasize backend and web application development.
+- Used the job description's vocabulary where possible (e.g., "reporting queries" for analytics-adjacent work).
+- Compressed unrelated details to keep the CV concise and relevant.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Paid acquisition experience  
+- Google Ads or Meta Ads  
+- Google Analytics  
+- CAC or ROAS targets  
+- Budget management  
+- SEO  
+- Marketing automation
+
+Your CV does not support any of the requirements for this role.

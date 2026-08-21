@@ -1,0 +1,1614 @@
+[
+  {
+    "cv": "junior-dev",
+    "jd": "backend-mid",
+    "score": 70,
+    "at_risk": [
+      "flask"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1327,
+      933
+    ]
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "backend-senior",
+    "score": 22,
+    "at_risk": [
+      "kubernetes",
+      "terraform",
+      "postgresql",
+      "eks",
+      "kafka"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1344,
+      806
+    ]
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "ml-engineer",
+    "score": 15,
+    "at_risk": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "mlops",
+      "numpy"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1345,
+      687
+    ]
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "frontend",
+    "score": 32,
+    "at_risk": [
+      "react",
+      "typescript"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1326,
+      822
+    ]
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "rockstar",
+    "score": 41,
+    "at_risk": [
+      "react",
+      "node.js",
+      "mongodb",
+      "docker",
+      "ci/cd"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1354,
+      1023
+    ]
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "data-analyst-jd",
+    "score": 37,
+    "at_risk": [
+      "power bi",
+      "tableau"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1327,
+      685
+    ]
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "accountant-jd",
+    "score": 5,
+    "at_risk": [
+      "tally",
+      "gst",
+      "tds"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1324,
+      656
+    ]
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "marketing-jd",
+    "score": 10,
+    "at_risk": [
+      "google ads",
+      "meta ads",
+      "roas"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1333,
+      564
+    ]
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "support-jd",
+    "score": 33,
+    "at_risk": [
+      "zendesk",
+      "intercom"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1334,
+      896
+    ]
+  },
+  {
+    "cv": "junior-dev",
+    "jd": "teacher-jd",
+    "score": 10,
+    "at_risk": [
+      "curriculum design",
+      "assessment design"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1332,
+      611
+    ]
+  },
+  {
+    "cv": "nurse",
+    "jd": "backend-mid",
+    "score": 5,
+    "at_risk": [
+      "django",
+      "flask",
+      "rest api",
+      "git"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1272,
+      508
+    ]
+  },
+  {
+    "cv": "nurse",
+    "jd": "backend-senior",
+    "score": 0,
+    "at_risk": [
+      "kubernetes",
+      "terraform",
+      "postgresql",
+      "eks",
+      "kafka"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1289,
+      553
+    ]
+  },
+  {
+    "cv": "nurse",
+    "jd": "ml-engineer",
+    "score": 0,
+    "at_risk": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "mlops",
+      "numpy"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1290,
+      521
+    ]
+  },
+  {
+    "cv": "nurse",
+    "jd": "frontend",
+    "score": 0,
+    "at_risk": [
+      "react",
+      "typescript"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1271,
+      517
+    ]
+  },
+  {
+    "cv": "nurse",
+    "jd": "rockstar",
+    "score": 5,
+    "at_risk": [
+      "react",
+      "node.js",
+      "mongodb",
+      "docker",
+      "ci/cd"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1299,
+      733
+    ]
+  },
+  {
+    "cv": "nurse",
+    "jd": "data-analyst-jd",
+    "score": 10,
+    "at_risk": [
+      "power bi",
+      "tableau"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1272,
+      525
+    ]
+  },
+  {
+    "cv": "nurse",
+    "jd": "accountant-jd",
+    "score": 5,
+    "at_risk": [
+      "tally",
+      "gst",
+      "tds"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1269,
+      547
+    ]
+  },
+  {
+    "cv": "nurse",
+    "jd": "marketing-jd",
+    "score": 5,
+    "at_risk": [
+      "google ads",
+      "meta ads",
+      "roas"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1278,
+      531
+    ]
+  },
+  {
+    "cv": "nurse",
+    "jd": "support-jd",
+    "score": 18,
+    "at_risk": [
+      "zendesk",
+      "intercom"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1279,
+      623
+    ]
+  },
+  {
+    "cv": "nurse",
+    "jd": "teacher-jd",
+    "score": 32,
+    "at_risk": [
+      "curriculum design",
+      "assessment design"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1277,
+      693
+    ]
+  },
+  {
+    "cv": "designer",
+    "jd": "backend-mid",
+    "score": 10,
+    "at_risk": [
+      "django",
+      "flask",
+      "rest api",
+      "git"
+    ],
+    "fabricated": [
+      "git"
+    ],
+    "has_gaps": true,
+    "tokens": [
+      1282,
+      576
+    ]
+  },
+  {
+    "cv": "designer",
+    "jd": "backend-senior",
+    "score": 5,
+    "at_risk": [
+      "kubernetes",
+      "terraform",
+      "postgresql",
+      "eks",
+      "kafka"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1299,
+      540
+    ]
+  },
+  {
+    "cv": "designer",
+    "jd": "ml-engineer",
+    "score": 0,
+    "at_risk": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "mlops",
+      "numpy"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1300,
+      642
+    ]
+  },
+  {
+    "cv": "designer",
+    "jd": "frontend",
+    "score": 38,
+    "at_risk": [
+      "react",
+      "typescript"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1281,
+      803
+    ]
+  },
+  {
+    "cv": "designer",
+    "jd": "rockstar",
+    "score": 12,
+    "at_risk": [
+      "react",
+      "node.js",
+      "mongodb",
+      "docker",
+      "ci/cd"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1309,
+      667
+    ]
+  },
+  {
+    "cv": "designer",
+    "jd": "data-analyst-jd",
+    "score": 12,
+    "at_risk": [
+      "power bi",
+      "tableau"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1282,
+      641
+    ]
+  },
+  {
+    "cv": "designer",
+    "jd": "accountant-jd",
+    "score": 7,
+    "at_risk": [
+      "tally",
+      "gst",
+      "tds"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1279,
+      604
+    ]
+  },
+  {
+    "cv": "designer",
+    "jd": "marketing-jd",
+    "score": 20,
+    "at_risk": [
+      "google ads",
+      "meta ads",
+      "roas"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1288,
+      703
+    ]
+  },
+  {
+    "cv": "designer",
+    "jd": "support-jd",
+    "score": 18,
+    "at_risk": [
+      "zendesk",
+      "intercom"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1289,
+      580
+    ]
+  },
+  {
+    "cv": "designer",
+    "jd": "teacher-jd",
+    "score": 18,
+    "at_risk": [
+      "curriculum design",
+      "assessment design"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1287,
+      667
+    ]
+  },
+  {
+    "cv": "fresher",
+    "jd": "backend-mid",
+    "score": 23,
+    "at_risk": [
+      "django",
+      "flask",
+      "rest api"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1261,
+      677
+    ]
+  },
+  {
+    "cv": "fresher",
+    "jd": "backend-senior",
+    "score": 10,
+    "at_risk": [
+      "kubernetes",
+      "terraform",
+      "postgresql",
+      "eks",
+      "kafka"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1278,
+      662
+    ]
+  },
+  {
+    "cv": "fresher",
+    "jd": "ml-engineer",
+    "score": 10,
+    "at_risk": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "mlops",
+      "numpy"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1279,
+      623
+    ]
+  },
+  {
+    "cv": "fresher",
+    "jd": "frontend",
+    "score": 12,
+    "at_risk": [
+      "react",
+      "typescript"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1260,
+      590
+    ]
+  },
+  {
+    "cv": "fresher",
+    "jd": "rockstar",
+    "score": 22,
+    "at_risk": [
+      "react",
+      "node.js",
+      "mongodb",
+      "docker",
+      "ci/cd"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1288,
+      648
+    ]
+  },
+  {
+    "cv": "fresher",
+    "jd": "data-analyst-jd",
+    "score": 18,
+    "at_risk": [
+      "power bi",
+      "tableau"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1261,
+      629
+    ]
+  },
+  {
+    "cv": "fresher",
+    "jd": "accountant-jd",
+    "score": 5,
+    "at_risk": [
+      "tally",
+      "gst",
+      "tds"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1258,
+      524
+    ]
+  },
+  {
+    "cv": "fresher",
+    "jd": "marketing-jd",
+    "score": 5,
+    "at_risk": [
+      "google ads",
+      "meta ads",
+      "roas"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1267,
+      559
+    ]
+  },
+  {
+    "cv": "fresher",
+    "jd": "support-jd",
+    "score": 10,
+    "at_risk": [
+      "zendesk",
+      "intercom"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1268,
+      652
+    ]
+  },
+  {
+    "cv": "fresher",
+    "jd": "teacher-jd",
+    "score": 10,
+    "at_risk": [
+      "curriculum design",
+      "assessment design"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1266,
+      568
+    ]
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "backend-mid",
+    "score": 61,
+    "at_risk": [
+      "django",
+      "flask",
+      "rest api",
+      "git"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1318,
+      879
+    ]
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "backend-senior",
+    "score": 95,
+    "at_risk": [
+      "eks"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1335,
+      851
+    ]
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "ml-engineer",
+    "score": 32,
+    "at_risk": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "mlops",
+      "numpy"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1336,
+      810
+    ]
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "frontend",
+    "score": 10,
+    "at_risk": [
+      "react",
+      "typescript"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1317,
+      537
+    ]
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "rockstar",
+    "score": 38,
+    "at_risk": [
+      "react",
+      "node.js",
+      "mongodb",
+      "docker",
+      "ci/cd"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1345,
+      840
+    ]
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "data-analyst-jd",
+    "score": 32,
+    "at_risk": [
+      "power bi",
+      "tableau"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1318,
+      764
+    ]
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "accountant-jd",
+    "score": 0,
+    "at_risk": [
+      "tally",
+      "gst",
+      "tds"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1315,
+      625
+    ]
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "marketing-jd",
+    "score": 10,
+    "at_risk": [
+      "google ads",
+      "meta ads",
+      "roas"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1324,
+      547
+    ]
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "support-jd",
+    "score": 32,
+    "at_risk": [
+      "zendesk",
+      "intercom"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1325,
+      666
+    ]
+  },
+  {
+    "cv": "senior-dev",
+    "jd": "teacher-jd",
+    "score": 10,
+    "at_risk": [
+      "curriculum design",
+      "assessment design"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1323,
+      622
+    ]
+  },
+  {
+    "cv": "accountant",
+    "jd": "backend-mid",
+    "score": 10,
+    "at_risk": [
+      "django",
+      "flask",
+      "rest api",
+      "git"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1284,
+      598
+    ]
+  },
+  {
+    "cv": "accountant",
+    "jd": "backend-senior",
+    "score": 5,
+    "at_risk": [
+      "kubernetes",
+      "terraform",
+      "postgresql",
+      "eks",
+      "kafka"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1301,
+      661
+    ]
+  },
+  {
+    "cv": "accountant",
+    "jd": "ml-engineer",
+    "score": 5,
+    "at_risk": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "mlops",
+      "numpy"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1302,
+      564
+    ]
+  },
+  {
+    "cv": "accountant",
+    "jd": "frontend",
+    "score": 7,
+    "at_risk": [
+      "react",
+      "typescript"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1283,
+      547
+    ]
+  },
+  {
+    "cv": "accountant",
+    "jd": "rockstar",
+    "score": 5,
+    "at_risk": [
+      "react",
+      "node.js",
+      "mongodb",
+      "docker",
+      "ci/cd"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1311,
+      672
+    ]
+  },
+  {
+    "cv": "accountant",
+    "jd": "data-analyst-jd",
+    "score": 32,
+    "at_risk": [
+      "power bi",
+      "tableau"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1284,
+      698
+    ]
+  },
+  {
+    "cv": "accountant",
+    "jd": "accountant-jd",
+    "score": 90,
+    "at_risk": [],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1281,
+      650
+    ]
+  },
+  {
+    "cv": "accountant",
+    "jd": "marketing-jd",
+    "score": 10,
+    "at_risk": [
+      "google ads",
+      "meta ads",
+      "roas"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1290,
+      562
+    ]
+  },
+  {
+    "cv": "accountant",
+    "jd": "support-jd",
+    "score": 18,
+    "at_risk": [
+      "zendesk",
+      "intercom"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1291,
+      645
+    ]
+  },
+  {
+    "cv": "accountant",
+    "jd": "teacher-jd",
+    "score": 12,
+    "at_risk": [
+      "curriculum design",
+      "assessment design"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1289,
+      515
+    ]
+  },
+  {
+    "cv": "marketer",
+    "jd": "backend-mid",
+    "score": 10,
+    "at_risk": [
+      "django",
+      "flask",
+      "rest api"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1280,
+      507
+    ]
+  },
+  {
+    "cv": "marketer",
+    "jd": "backend-senior",
+    "score": 0,
+    "at_risk": [
+      "kubernetes",
+      "terraform",
+      "postgresql",
+      "eks",
+      "kafka"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1297,
+      546
+    ]
+  },
+  {
+    "cv": "marketer",
+    "jd": "ml-engineer",
+    "score": 5,
+    "at_risk": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "mlops",
+      "numpy"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1298,
+      563
+    ]
+  },
+  {
+    "cv": "marketer",
+    "jd": "frontend",
+    "score": 10,
+    "at_risk": [
+      "react",
+      "typescript"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1279,
+      538
+    ]
+  },
+  {
+    "cv": "marketer",
+    "jd": "rockstar",
+    "score": 6,
+    "at_risk": [
+      "react",
+      "node.js",
+      "mongodb",
+      "docker",
+      "ci/cd"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1307,
+      645
+    ]
+  },
+  {
+    "cv": "marketer",
+    "jd": "data-analyst-jd",
+    "score": 25,
+    "at_risk": [
+      "power bi",
+      "tableau"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1280,
+      691
+    ]
+  },
+  {
+    "cv": "marketer",
+    "jd": "accountant-jd",
+    "score": 10,
+    "at_risk": [
+      "tally",
+      "gst",
+      "tds"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1277,
+      522
+    ]
+  },
+  {
+    "cv": "marketer",
+    "jd": "marketing-jd",
+    "score": 68,
+    "at_risk": [
+      "roas"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1286,
+      753
+    ]
+  },
+  {
+    "cv": "marketer",
+    "jd": "support-jd",
+    "score": 28,
+    "at_risk": [
+      "zendesk",
+      "intercom"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1287,
+      638
+    ]
+  },
+  {
+    "cv": "marketer",
+    "jd": "teacher-jd",
+    "score": 10,
+    "at_risk": [
+      "curriculum design",
+      "assessment design"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1285,
+      566
+    ]
+  },
+  {
+    "cv": "teacher",
+    "jd": "backend-mid",
+    "score": 5,
+    "at_risk": [
+      "django",
+      "flask",
+      "rest api",
+      "git"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1281,
+      488
+    ]
+  },
+  {
+    "cv": "teacher",
+    "jd": "backend-senior",
+    "score": 10,
+    "at_risk": [
+      "kubernetes",
+      "terraform",
+      "postgresql",
+      "eks",
+      "kafka"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1298,
+      635
+    ]
+  },
+  {
+    "cv": "teacher",
+    "jd": "ml-engineer",
+    "score": 5,
+    "at_risk": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "mlops",
+      "numpy"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1299,
+      554
+    ]
+  },
+  {
+    "cv": "teacher",
+    "jd": "frontend",
+    "score": 10,
+    "at_risk": [
+      "react",
+      "typescript"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1280,
+      528
+    ]
+  },
+  {
+    "cv": "teacher",
+    "jd": "rockstar",
+    "score": 5,
+    "at_risk": [
+      "react",
+      "node.js",
+      "mongodb",
+      "docker",
+      "ci/cd"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1308,
+      749
+    ]
+  },
+  {
+    "cv": "teacher",
+    "jd": "data-analyst-jd",
+    "score": 12,
+    "at_risk": [
+      "power bi",
+      "tableau"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1281,
+      606
+    ]
+  },
+  {
+    "cv": "teacher",
+    "jd": "accountant-jd",
+    "score": 10,
+    "at_risk": [
+      "tally",
+      "gst",
+      "tds"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1278,
+      567
+    ]
+  },
+  {
+    "cv": "teacher",
+    "jd": "marketing-jd",
+    "score": 10,
+    "at_risk": [
+      "google ads",
+      "meta ads",
+      "roas"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1287,
+      550
+    ]
+  },
+  {
+    "cv": "teacher",
+    "jd": "support-jd",
+    "score": 32,
+    "at_risk": [
+      "zendesk",
+      "intercom"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1288,
+      698
+    ]
+  },
+  {
+    "cv": "teacher",
+    "jd": "teacher-jd",
+    "score": 83,
+    "at_risk": [
+      "assessment design"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1286,
+      666
+    ]
+  },
+  {
+    "cv": "support",
+    "jd": "backend-mid",
+    "score": 12,
+    "at_risk": [
+      "django",
+      "flask",
+      "rest api",
+      "git"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1286,
+      543
+    ]
+  },
+  {
+    "cv": "support",
+    "jd": "backend-senior",
+    "score": 18,
+    "at_risk": [
+      "kubernetes",
+      "terraform",
+      "postgresql",
+      "eks",
+      "kafka"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1303,
+      631
+    ]
+  },
+  {
+    "cv": "support",
+    "jd": "ml-engineer",
+    "score": 10,
+    "at_risk": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "mlops",
+      "numpy"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1304,
+      571
+    ]
+  },
+  {
+    "cv": "support",
+    "jd": "frontend",
+    "score": 10,
+    "at_risk": [
+      "react",
+      "typescript"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1285,
+      506
+    ]
+  },
+  {
+    "cv": "support",
+    "jd": "rockstar",
+    "score": 15,
+    "at_risk": [
+      "react",
+      "node.js",
+      "mongodb",
+      "docker",
+      "ci/cd"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1313,
+      678
+    ]
+  },
+  {
+    "cv": "support",
+    "jd": "data-analyst-jd",
+    "score": 32,
+    "at_risk": [
+      "power bi",
+      "tableau"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1286,
+      719
+    ]
+  },
+  {
+    "cv": "support",
+    "jd": "accountant-jd",
+    "score": 10,
+    "at_risk": [
+      "tally",
+      "gst",
+      "tds"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1283,
+      571
+    ]
+  },
+  {
+    "cv": "support",
+    "jd": "marketing-jd",
+    "score": 10,
+    "at_risk": [
+      "google ads",
+      "meta ads",
+      "roas"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1292,
+      554
+    ]
+  },
+  {
+    "cv": "support",
+    "jd": "support-jd",
+    "score": 82,
+    "at_risk": [],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1293,
+      700
+    ]
+  },
+  {
+    "cv": "support",
+    "jd": "teacher-jd",
+    "score": 13,
+    "at_risk": [
+      "curriculum design",
+      "assessment design"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1291,
+      699
+    ]
+  },
+  {
+    "cv": "data-analyst",
+    "jd": "backend-mid",
+    "score": 34,
+    "at_risk": [
+      "django",
+      "flask",
+      "rest api",
+      "git"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1281,
+      661
+    ]
+  },
+  {
+    "cv": "data-analyst",
+    "jd": "backend-senior",
+    "score": 18,
+    "at_risk": [
+      "kubernetes",
+      "terraform",
+      "postgresql",
+      "eks",
+      "kafka"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1298,
+      662
+    ]
+  },
+  {
+    "cv": "data-analyst",
+    "jd": "ml-engineer",
+    "score": 22,
+    "at_risk": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "mlops",
+      "numpy"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1299,
+      741
+    ]
+  },
+  {
+    "cv": "data-analyst",
+    "jd": "frontend",
+    "score": 12,
+    "at_risk": [
+      "react",
+      "typescript"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1280,
+      501
+    ]
+  },
+  {
+    "cv": "data-analyst",
+    "jd": "rockstar",
+    "score": 18,
+    "at_risk": [
+      "react",
+      "node.js",
+      "mongodb",
+      "docker",
+      "ci/cd"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1308,
+      731
+    ]
+  },
+  {
+    "cv": "data-analyst",
+    "jd": "data-analyst-jd",
+    "score": 92,
+    "at_risk": [
+      "tableau"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1281,
+      711
+    ]
+  },
+  {
+    "cv": "data-analyst",
+    "jd": "accountant-jd",
+    "score": 12,
+    "at_risk": [
+      "tally",
+      "gst",
+      "tds"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1278,
+      640
+    ]
+  },
+  {
+    "cv": "data-analyst",
+    "jd": "marketing-jd",
+    "score": 30,
+    "at_risk": [
+      "google ads",
+      "meta ads",
+      "roas"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1287,
+      570
+    ]
+  },
+  {
+    "cv": "data-analyst",
+    "jd": "support-jd",
+    "score": 32,
+    "at_risk": [
+      "zendesk",
+      "intercom"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1288,
+      611
+    ]
+  },
+  {
+    "cv": "data-analyst",
+    "jd": "teacher-jd",
+    "score": 12,
+    "at_risk": [
+      "curriculum design",
+      "assessment design"
+    ],
+    "fabricated": [],
+    "has_gaps": true,
+    "tokens": [
+      1286,
+      642
+    ]
+  }
+]

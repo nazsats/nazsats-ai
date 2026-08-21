@@ -1,0 +1,78 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 12/100
+
+**Hard requirements met**  
+- Advanced Excel  
+  - CV: "SKILLS: ... Excel ..."  
+  - Evidence: Lists Excel as a skill, but does not specify "advanced" or accounting-specific use.
+
+**Hard requirements missing**  
+- 4+ years accounting  
+  - Nothing in CV supports accounting experience. CV is for data analytics in retail, not accounting.  
+- GST and TDS filing  
+  - No mention of GST, TDS, or any tax filing experience.  
+- Tally  
+  - No mention of Tally or any accounting software.  
+- Month-end close  
+  - No mention of month-end close or any accounting cycle activities.  
+- Managing multiple clients  
+  - No mention of client management or handling multiple clients.
+
+**Nice-to-haves met**  
+- None.
+
+**Nice-to-haves missing**  
+- ERP migration  
+  - No mention of ERP or migration projects.  
+- Supervising a team  
+  - No mention of team leadership or supervision.
+
+**Worth applying?**  
+Probably not — your CV is in data analytics, not accounting, and you lack all core requirements for this role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Nisha Verma | nisha@email.com | Gurgaon
+
+SUMMARY  
+Detail-oriented data analyst with 3 years of experience in retail analytics, specializing in SQL, Excel, Power BI, and A/B testing to drive business insights and reporting.
+
+SKILLS  
+- Excel  
+- SQL  
+- Power BI  
+- Python (pandas)  
+- A/B testing  
+- Dashboards
+
+EXPERIENCE  
+
+Data Analyst, RetailIQ — 2023 to present  
+- Developed and maintained Power BI dashboards for 30 store managers, enabling data-driven decision making.  
+- Designed and executed SQL queries for weekly sales reporting across 120 retail locations.  
+- Conducted A/B tests on pricing strategies, resulting in a 4% increase in profit margin.
+
+EDUCATION  
+B.Sc Statistics, Delhi University, 2022
+
+**WHAT I CHANGED**  
+- Reordered and expanded the Excel skill to highlight it first, as it is the only partial match to the job requirements.  
+- Used the job's vocabulary where possible (e.g., "reporting", "maintained dashboards") to align with accounting/reporting focus.  
+- Compressed unrelated details and kept the summary focused on analytics and reporting.  
+- Highlighted outcomes (e.g., 4% margin increase) as per best practice, though not directly relevant to accounting.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years accounting  
+- GST and TDS filing  
+- Tally  
+- Month-end close  
+- Managing multiple clients  
+- ERP migration  
+- Supervising a team
+
+Your CV does not support any of these requirements, so they are not included.

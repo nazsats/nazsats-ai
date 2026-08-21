@@ -1,0 +1,82 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 22/100
+
+**Hard requirements met**  
+- Python: "basic Python" (CV says "basic", not production-level)
+- Java: "Java" (CV)
+- MySQL: "MySQL" (CV)
+
+**Hard requirements missing**  
+- Full stack development: No evidence of end-to-end or front-end + back-end work; only a college project and hackathon prototype, no mention of full stack or production experience.
+- Client relationship management: No evidence.
+- Agile and Scrum: No mention.
+- Cross-functional collaboration: No mention.
+- Data-driven decisions: No mention.
+- Stakeholder management: No mention.
+- JavaScript: Not listed.
+- React: Not listed.
+- Node.js: Not listed.
+- MongoDB: Not listed.
+- AWS: Not listed.
+- Docker: Not listed.
+- CI/CD: Not listed.
+
+**Nice-to-haves met**  
+- Demonstrated initiative: "Hackathon - Bus-tracking Android prototype, 2nd of 40 teams" shows some initiative and competition experience.
+
+**Worth applying?**  
+Probably not — you are missing nearly all core requirements, especially in full stack, frameworks, and production tools.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Karan Patel | karan@email.com | Ahmedabad
+
+SUMMARY  
+Final-year B.Tech Information Technology student with hands-on experience in Java and MySQL, seeking an entry-level opportunity to apply software development skills. Demonstrated initiative through academic projects and hackathons.
+
+SKILLS  
+- Java  
+- C++  
+- MySQL  
+- Basic Python  
+- Data Structures and Algorithms (DSA)  
+- Git
+
+EXPERIENCE
+
+College Project: Library Management System  
+- Developed a library management system using Java and MySQL, implementing core features for book tracking and user management.
+
+Hackathon: Bus-Tracking Android Prototype  
+- Designed and built a prototype Android application for real-time bus tracking; achieved 2nd place out of 40 teams in a college hackathon.
+
+EDUCATION  
+B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+
+**WHAT I CHANGED**  
+- Reordered skills to highlight Java and MySQL, as these are the closest matches to the job requirements.
+- Expanded on the college project and hackathon experience to clarify your technical contributions.
+- Used language like "developed" and "designed and built" to align with software development terminology.
+- Compressed education and non-relevant information.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Full stack development  
+- Client relationship management  
+- Agile and Scrum  
+- Cross-functional collaboration  
+- Data-driven decisions  
+- Stakeholder management  
+- JavaScript  
+- React  
+- Node.js  
+- MongoDB  
+- AWS  
+- Docker  
+- CI/CD
+
+These requirements are not supported by your CV and are therefore not included.

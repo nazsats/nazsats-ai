@@ -1,0 +1,69 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None.
+
+**Hard requirements missing**  
+- 5+ years Python: No mention of Python anywhere in your CV.
+- Production Kubernetes: No mention of Kubernetes or any container orchestration.
+- PostgreSQL at scale with query optimisation and replication: No mention of PostgreSQL or any relational database experience beyond "basic HTML/CSS".
+- AWS (EKS, RDS, S3): No mention of AWS or any cloud platform.
+- Terraform: Not mentioned.
+- Has led a team of at least 3: No evidence of team leadership or management.
+
+**Nice-to-haves met**  
+- None. No mention of Go or Kafka.
+
+**Worth applying?**  
+Probably not — your experience is in design, not backend engineering, and you do not meet any of the hard requirements.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai | anjali@email.com | Remote
+
+SUMMARY  
+Creative freelance designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in Figma, Illustrator, Photoshop, and basic HTML/CSS.
+
+SKILLS  
+- Figma  
+- Illustrator  
+- Photoshop  
+- Brand identity  
+- Basic HTML/CSS  
+- Canva
+
+EXPERIENCE
+
+Freelance Designer | 2022 to present  
+- Developed brand identities for 14 small businesses, enhancing their visual presence.  
+- Designed and executed a social campaign that raised engagement by 40%.  
+- Built two landing pages using HTML and CSS.
+
+Junior Designer, PixelCraft Studio | 2021 to 2022  
+- Supported senior designers in creating digital and print assets for client projects.
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021
+
+**WHAT I CHANGED**  
+- Maintained your original order and content, as none of your experience matches the backend engineering role.
+- Used more formal language in the summary and experience sections.
+- Grouped and clarified skills for readability.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Python (no evidence in CV)
+- Kubernetes (no evidence)
+- PostgreSQL (no evidence)
+- AWS (no evidence)
+- Terraform (no evidence)
+- Team leadership (no evidence)
+- Go (no evidence)
+- Kafka (no evidence)
+
+If you wish to pursue backend engineering roles, consider gaining experience and certifications in relevant technologies first.

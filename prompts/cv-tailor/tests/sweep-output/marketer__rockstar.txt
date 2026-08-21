@@ -1,0 +1,75 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 6/100
+
+**Hard requirements met**  
+- Data-driven decisions  
+  - CV evidence: "Cut cost per acquisition 38% over two quarters"  
+- (None of the other hard requirements are evidenced.)
+
+**Hard requirements missing**  
+- Full stack development  
+  - No evidence of any software development experience, front-end or back-end.
+- Client relationship management  
+  - No evidence of direct client interaction or relationship management.
+- Agile and Scrum  
+  - No mention of Agile, Scrum, or any software development methodology.
+- Cross-functional collaboration  
+  - No mention of working with other teams or functions.
+- Stakeholder management  
+  - No evidence of managing stakeholders.
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD  
+  - No mention of any programming languages, frameworks, cloud platforms, containerization, or CI/CD tools.
+
+**Nice-to-haves met**  
+- Data-driven decisions (as above)
+- Experience in fast-paced environments (implied by "monthly budget Rs 4 lakh" and "cut cost per acquisition", but not explicit)
+
+**Worth applying?**  
+Probably not — you lack all core technical and process requirements for this role, and your experience is in digital marketing, not software development.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Aditya Rao | aditya@email.com | Hyderabad
+
+SUMMARY  
+Results-driven digital marketer with 3 years’ experience in B2C ecommerce, specializing in data-driven campaign management and performance optimization.
+
+SKILLS  
+- Data-driven decision making  
+- Google Ads  
+- Meta Ads  
+- SEO  
+- Google Analytics  
+- Email marketing  
+- Canva
+
+EXPERIENCE
+
+Marketing Executive, ShopKart — 2023 to present  
+- Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh, optimizing for performance and ROI.  
+- Reduced cost per acquisition by 38% over two quarters through data-driven analysis and campaign adjustments.  
+- Developed and scheduled weekly email marketing campaigns to a subscriber base of 60,000, driving customer engagement and retention.
+
+EDUCATION  
+BBA Marketing, Osmania University, 2022
+
+**WHAT I CHANGED**  
+- Reworded summary and bullets to emphasize data-driven decision making and campaign management, the only partial overlap with the job description.  
+- Placed data-driven skills and outcomes at the top of the skills list.  
+- Used the job’s vocabulary where possible (e.g., “data-driven analysis”, “performance optimization”).  
+- Compressed unrelated details and focused on measurable outcomes.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Full stack development  
+- Client relationship management  
+- Agile and Scrum  
+- Cross-functional collaboration  
+- Stakeholder management  
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD
+
+These requirements are not supported by your CV.

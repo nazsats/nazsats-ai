@@ -1,0 +1,66 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 18/100
+
+**Hard requirements met:**  
+- None.
+
+**Hard requirements missing:**  
+- 3+ years customer-facing SaaS: No SaaS or customer-facing experience is mentioned.  
+- Owning retention and escalations: No evidence of retention responsibility or handling escalations.  
+- CRM tools such as Zendesk or Intercom: No CRM tools listed; only design tools (Figma, Illustrator, etc.).  
+- Writing customer documentation: No mention of documentation writing.  
+- Leading a small team: No leadership or team management experience shown.
+
+**Nice-to-haves met:**  
+- Basic SQL: Not mentioned.  
+- Designing an onboarding programme: Not mentioned.
+
+**Worth applying?**  
+Probably not — your experience is in freelance and junior design, with no evidence of SaaS, customer success, CRM tools, or team leadership.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai | anjali@email.com | Remote
+
+SUMMARY  
+Freelance designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in Figma, Illustrator, and Photoshop, with additional experience in basic HTML/CSS and Canva.
+
+SKILLS  
+- Brand identity design  
+- Figma, Illustrator, Photoshop, Canva  
+- Basic HTML/CSS
+
+EXPERIENCE
+
+Freelance Designer | 2022 – present  
+- Developed brand identities for 14 small businesses, supporting their digital presence and marketing efforts  
+- Designed and executed a social media campaign that raised engagement by 40%  
+- Built two landing pages using HTML and CSS
+
+Junior Designer, PixelCraft Studio | 2021 – 2022  
+- Supported design projects for clients, collaborating with senior designers
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021
+
+**WHAT I CHANGED**  
+- Reordered and expanded freelance experience to highlight client-facing aspects, as relevant as possible  
+- Used language such as “delivering” and “supporting” to align with customer-focused terminology  
+- Compressed unrelated details and focused on digital and design skills  
+- Placed skills in the order most relevant to the job description
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Customer-facing SaaS experience  
+- Owning retention and escalations  
+- CRM tools (Zendesk, Intercom, etc.)  
+- Writing customer documentation  
+- Leading a small team  
+- Basic SQL  
+- Designing an onboarding programme
+
+If you gain experience in customer success, SaaS, or CRM tools, you will be able to better target roles like this in the future.

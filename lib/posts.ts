@@ -72,7 +72,12 @@ export function getAllPosts(): Post[] {
 export async function getPost(slug: string): Promise<FullPost | null> {
     try {
         const { data, content } = readFile(slug);
-        const processed = await remark().use(html).process(content);
+        // sanitize:false lets inline SVG through. remark-html strips raw HTML
+        // by default, which is the right default when the markdown could come
+        // from a reader — but these files are written by hand and live in this
+        // repo, so the only author is whoever can already deploy the site. The
+        // moment anything here accepts submissions, this has to be reversed.
+        const processed = await remark().use(html, { sanitize: false }).process(content);
         return { ...toPost(slug, data, content), contentHtml: processed.toString() };
     } catch {
         return null;

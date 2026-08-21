@@ -1,0 +1,86 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 70/100
+
+**Hard requirements met**  
+- **Python web development (2+ years):**  
+  - "Software developer, 2 years, web applications."  
+  - "Built internal tools in Python and Django used by 40 staff"  
+  - "Intern, Infobyte Solutions - Jan 2024 to May 2024" (dates suggest 2 years is not fully evidenced; see below)
+- **Django or Flask:**  
+  - "Built internal tools in Python and Django used by 40 staff"  
+  - "Fixed bugs in a Django app"
+- **Strong SQL and relational design:**  
+  - "Designed MySQL schemas and wrote reporting queries"
+- **REST APIs:**  
+  - "Wrote REST API documentation"
+- **Git:**  
+  - "SKILLS: ... Git ..."
+- **Automated tests:**  
+  - "Wrote unit tests, raised coverage 30% to 65%"
+
+**Hard requirements missing**  
+- **2+ years Python web development:**  
+  - Your CV states "Software developer, 2 years, web applications" and lists experience from Jan 2024 to present. This does not evidence 2+ years at the time of application unless the current date is mid-2026 or later. If today is 2024 or early 2025, you do not meet the 2+ years requirement.
+- **Flask:**  
+  - No mention of Flask; only Django is listed.
+
+**Nice-to-haves met**  
+- None.  
+  - No mention of cloud platforms or Docker.
+
+**Worth applying?**  
+Yes-with-caveats — You meet all technical requirements except possibly the 2+ years experience (depending on today's date), and lack nice-to-haves; if you are close to 2 years, you may be considered, but be prepared to address this gap.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Priya Sharma  
+priya@email.com | Pune
+
+SUMMARY  
+Backend developer with experience building and maintaining Python/Django web applications, strong SQL (MySQL) relational design, REST API documentation, and automated testing. Proven ability to deliver internal tools and improve code quality in a collaborative environment.
+
+SKILLS  
+- Python (web development)  
+- Django  
+- MySQL (relational database design, reporting queries)  
+- REST APIs (documentation)  
+- Automated testing (unit tests, coverage improvement)  
+- Git  
+- HTML, CSS, JavaScript
+
+EXPERIENCE
+
+Software Developer, Infobyte Solutions, Pune  
+June 2024 – present  
+- Developed and maintained internal tools using Python and Django for 40+ staff, focusing on backend logic and data management  
+- Designed MySQL schemas and implemented complex reporting queries for business analytics  
+- Improved automated test coverage from 30% to 65% by writing and maintaining unit tests  
+- Collaborated with support teams to resolve customer complaints and enhance application reliability
+
+Intern, Infobyte Solutions, Pune  
+Jan 2024 – May 2024  
+- Fixed bugs and contributed to feature development in a Django-based web application  
+- Authored and maintained REST API documentation for internal and external developer use
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**
+- Rewrote the summary to emphasize backend, Python/Django, SQL, REST APIs, and automated testing per the job description.
+- Reordered and expanded experience bullets to foreground backend development, relational design, and testing.
+- Used the job’s vocabulary (e.g., “backend logic,” “relational design,” “automated testing”).
+- Grouped skills to match the priority order in the job description.
+- Compressed less relevant skills (HTML, CSS, JavaScript) to the end of the skills list.
+
+**WHAT I DELIBERATELY DID NOT ADD**
+- Flask (not mentioned in your CV)
+- Cloud platforms (not mentioned in your CV)
+- Docker (not mentioned in your CV)
+- 2+ years Python web development (your CV does not evidence this duration; dates suggest less than 2 years unless today is mid-2026 or later)
+
+If you have more experience than your CV currently shows, update your dates or add missing roles to strengthen your application.

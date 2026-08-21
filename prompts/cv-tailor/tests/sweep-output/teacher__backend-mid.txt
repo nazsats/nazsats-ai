@@ -1,0 +1,66 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None. There is no evidence in your CV of any backend development, Python, Django/Flask, SQL, REST APIs, Git, or automated testing.
+
+**Hard requirements missing**  
+- 2+ years Python web development — No mention of Python or web development.
+- Django or Flask — Not mentioned.
+- Strong SQL and relational design — Not mentioned.
+- REST APIs — Not mentioned.
+- Git — Not mentioned.
+- Automated tests — Not mentioned.
+
+**Nice-to-haves met**  
+- None. No mention of cloud platforms or Docker.
+
+**Worth applying?**  
+Probably not — your CV is in a completely different field (secondary school physics teaching) and does not evidence any of the required technical skills or experience.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Meera Nair | meera@email.com | Kochi
+
+SUMMARY  
+Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and assessment. Proven track record of improving student outcomes and mentoring new educators.
+
+SKILLS  
+- Curriculum design  
+- Classroom management  
+- Assessment  
+- Google Classroom
+
+EXPERIENCE
+
+Physics Teacher, St Thomas HSS — 2018 to present  
+- Taught grades 11 and 12, raising class average from 62% to 78%  
+- Designed a laboratory curriculum adopted across three schools  
+- Mentored four new teachers in instructional methods and classroom management
+
+EDUCATION  
+M.Sc Physics, Kerala University, 2017  
+B.Ed, 2018
+
+**WHAT I CHANGED**  
+- Maintained your original summary but clarified your experience and outcomes.
+- Ordered skills and experience to highlight your strengths as an educator.
+- Used more outcome-focused language in your experience section.
+- Compressed education and skills for clarity.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Python web development  
+- Django or Flask  
+- SQL or relational database design  
+- REST APIs  
+- Git  
+- Automated tests  
+- Cloud platforms  
+- Docker
+
+Your CV does not support any of the technical requirements for the Backend Developer role.

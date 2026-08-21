@@ -1,0 +1,78 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 20/100
+
+**Hard requirements met**  
+- None.  
+  - Your CV does not mention paid acquisition, Google Ads, Meta Ads, Google Analytics, CAC/ROAS, or budget management.
+
+**Hard requirements missing**  
+- 3+ years paid acquisition  
+  - No mention of paid acquisition or any paid marketing campaigns.
+- Google Ads and Meta Ads at scale  
+  - No mention of Google Ads or Meta Ads experience.
+- Google Analytics  
+  - No mention of Google Analytics.
+- Owning CAC and ROAS targets  
+  - No mention of customer acquisition cost (CAC) or return on ad spend (ROAS), or any performance marketing metrics.
+- Managing budgets above Rs 3 lakh a month  
+  - No mention of budget management or any financial responsibility.
+
+**Nice-to-haves met**  
+- Basic HTML/CSS  
+  - "Built two landing pages in HTML and CSS" (adjacent to digital marketing, but not SEO or automation).
+- Brand identity, social campaign  
+  - "Brand identities for 14 small businesses" and "Social campaign raised engagement 40%" (related to marketing, but not performance marketing or automation).
+
+**Worth applying?**  
+Probably not — you lack all core requirements for performance marketing, including paid ads, analytics, and budget management.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai | anjali@email.com | Remote
+
+SUMMARY  
+Creative designer with 4 years’ experience delivering brand identity and digital campaigns for small businesses. Skilled in visual design and digital content creation, with hands-on experience building landing pages and driving engagement through social media.
+
+SKILLS  
+- Brand identity  
+- Digital campaign design  
+- Figma  
+- Illustrator  
+- Photoshop  
+- Canva  
+- Basic HTML/CSS
+
+EXPERIENCE
+
+Freelance Designer | 2022 – present  
+- Developed brand identities for 14 small businesses, supporting their digital presence and marketing efforts.  
+- Designed and executed a social media campaign that raised engagement by 40%.  
+- Built two landing pages using HTML and CSS to support client marketing initiatives.
+
+Junior Designer, PixelCraft Studio | 2021 – 2022  
+- Supported senior designers in delivering visual assets for client projects.  
+- Assisted in the creation of digital and print materials for marketing campaigns.
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize digital campaign and marketing-related work.
+- Reordered and expanded bullets to highlight experience with digital campaigns and landing pages.
+- Placed skills relevant to digital marketing and design at the top.
+- Compressed unrelated experience and education.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Paid acquisition experience (no evidence in CV).
+- Google Ads or Meta Ads (not mentioned in CV).
+- Google Analytics (not mentioned in CV).
+- CAC or ROAS targets (not mentioned in CV).
+- Managing budgets above Rs 3 lakh a month (not mentioned in CV).
+- SEO and marketing automation (not mentioned in CV).
+
+If you gain experience in paid ads or analytics, update your CV to reflect it before applying to roles like this.

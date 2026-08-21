@@ -1,0 +1,75 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 32/100
+
+**Hard requirements met:**  
+- 2+ years analytics  
+  - Partial: "Accountant, 5 years, SME bookkeeping and compliance." (Bookkeeping involves some data analysis, but not analytics as defined in the job description.)
+- Excel  
+  - "Excel (advanced)", "Built Excel models cutting monthly close from 6 days to 2"
+- Communicating findings to non-technical stakeholders  
+  - Partial: "Manage books for 22 SME clients" (implies some client communication, but not explicitly about data findings)
+
+**Hard requirements missing:**  
+- Strong SQL  
+  - Nowhere in your CV is SQL mentioned.
+- Dashboarding in Power BI or Tableau  
+  - No mention of Power BI, Tableau, or any dashboarding tool.
+- 2+ years analytics (as defined by the job, not general data work)  
+  - Your experience is in accounting/bookkeeping, not analytics roles. No explicit analytics projects or titles.
+
+**Nice-to-haves met:**  
+- None.
+
+**Nice-to-haves missing:**  
+- Python  
+  - Not mentioned.
+- A/B testing  
+  - Not mentioned.
+
+**Worth applying?**  
+Probably not — you lack core requirements (SQL, dashboarding, analytics experience), and your background is accounting, not data analytics.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Sneha Kulkarni | sneha@email.com | Nashik
+
+SUMMARY  
+Accountant with 5 years’ experience supporting SME clients, specializing in advanced Excel modeling, reconciliation, and compliance. Skilled in managing large volumes of financial data and communicating results to clients.
+
+SKILLS  
+- Advanced Excel (modeling, reconciliation, reporting)  
+- GST and TDS filing  
+- Bookkeeping and compliance  
+- Payroll  
+- Client relationship management  
+- Tally
+
+EXPERIENCE
+
+Senior Accountant, Deshmukh and Co — 2021 to present  
+- Managed books and financial data for 22 SME clients, ensuring accuracy and compliance  
+- Filed GST and TDS returns with zero late filings in four years  
+- Built advanced Excel models, reducing monthly close process from 6 days to 2  
+- Communicated financial results and compliance updates to clients  
+- Performed reconciliation and payroll processing
+
+EDUCATION  
+M.Com, Pune University, 2020
+
+**WHAT I CHANGED**  
+- Reworded and expanded bullets to emphasize data handling, Excel modeling, and client communication, aligning with analytics and reporting language.  
+- Moved advanced Excel and client communication to the top of the skills list, as these are most relevant to the job.  
+- Used "communicating results to clients" and "managing large volumes of financial data" to echo the job’s focus on stakeholder communication and data.  
+- Compressed compliance and payroll details, as they are less relevant.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- SQL (not mentioned in your CV)  
+- Dashboarding in Power BI or Tableau (not mentioned)  
+- Python (not mentioned)  
+- A/B testing (not mentioned)  
+- Explicit analytics projects or roles (not present in your CV)

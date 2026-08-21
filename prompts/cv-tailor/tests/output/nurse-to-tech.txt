@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 0/100
+
+**Hard requirements met**  
+_None._  
+Your CV does not evidence any of the following: Python, web application development, Django/Flask, SQL, REST APIs, Git, or automated testing.
+
+**Hard requirements missing**  
+- 2+ years building web applications in Python — No mention of Python or web development.
+- Experience with Django or Flask — Not present.
+- Strong SQL and relational database design — Not present.
+- REST API development — Not present.
+- Version control with Git — Not present.
+- Writing automated tests — Not present.
+
+**Nice-to-haves met**  
+_None._  
+- Experience with cloud platforms — Not present.
+- Familiarity with Docker — Not present.
+
+**Worth applying?** — probably not.  
+This is a completely different field; your CV shows no evidence of software development experience or relevant technical skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Rahul Mehta  
+rahul.mehta@email.com | +91 91234 56789 | Mumbai
+
+SUMMARY  
+Registered nurse with 6 years of experience in critical care, specializing in patient assessment, team coordination, and electronic health record management.
+
+SKILLS  
+Patient assessment, IV therapy, electronic health records (Epic), triage, team coordination, medical documentation
+
+EXPERIENCE  
+Staff Nurse, Lilavati Hospital, Mumbai — 2019 to present  
+- Managed care for up to 12 ICU patients per shift  
+- Trained 8 junior nurses on documentation standards  
+- Coordinated between doctors, pharmacy and families  
+- Maintained records in Epic EHR
+
+EDUCATION  
+B.Sc. Nursing, Maharashtra University of Health Sciences, 2019
+
+**WHAT I CHANGED**  
+- Kept the CV structure and content unchanged, as none of your experience or skills are relevant to backend development.
+- Maintained your original summary and reordered nothing, as there is no relevant experience to surface or expand.
+- Did not add or reword any skills or experience to match the backend developer job, per the rules.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 2+ years building web applications in Python  
+- Experience with Django or Flask  
+- Strong SQL and relational database design  
+- REST API development  
+- Version control with Git  
+- Writing automated tests  
+- Experience with cloud platforms  
+- Familiarity with Docker  
+
+Your CV does not support any of these requirements, so they are not included.

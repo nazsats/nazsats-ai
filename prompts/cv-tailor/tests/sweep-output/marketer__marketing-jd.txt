@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 68/100
+
+**Hard requirements met**  
+- **Google Ads and Meta Ads at scale** — "Ran Google and Meta campaigns, monthly budget Rs 4 lakh"
+- **Google Analytics** — "SKILLS: Google Analytics"
+- **Managing budgets above Rs 3 lakh a month** — "monthly budget Rs 4 lakh"
+- **Paid acquisition experience** — "Ran Google and Meta campaigns"
+- **3+ years paid acquisition** — depends on today's date — your CV shows "2023 to present" and "3 years" in summary, but only one role with dates; unclear if all 3 years are paid acquisition.
+
+**Hard requirements missing**  
+- **Owning CAC and ROAS targets** — No explicit mention of owning or being responsible for CAC (Customer Acquisition Cost) or ROAS (Return on Ad Spend) targets. Cutting CPA is adjacent, but not the same as owning targets.
+- **3+ years paid acquisition** — Your summary says "3 years", but only one dated role (2023 to present) is listed. If all 3 years are paid acquisition, your CV does not clearly evidence it with roles/dates.
+
+**Nice-to-haves met**  
+- **SEO** — "SKILLS: SEO"
+- **Marketing automation** — No mention.
+
+**Worth applying?**  
+Yes-with-caveats — You meet most technical requirements and have relevant scale, but your CV does not clearly show 3+ years of paid acquisition or ownership of CAC/ROAS targets; clarify these in your application or cover letter.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Aditya Rao  
+aditya@email.com | Hyderabad
+
+SUMMARY  
+Performance-focused digital marketer with experience running large-scale Google and Meta ad campaigns for B2C ecommerce. Proven track record in optimizing acquisition costs and managing budgets above Rs 3 lakh per month.
+
+SKILLS  
+- Paid acquisition: Google Ads, Meta Ads  
+- Google Analytics  
+- Budget management (Rs 4 lakh/month)  
+- SEO  
+- Email marketing  
+- Canva
+
+EXPERIENCE
+
+Marketing Executive, ShopKart — 2023 to present  
+- Managed Google Ads and Meta Ads campaigns with a monthly budget of Rs 4 lakh, focused on B2C ecommerce growth  
+- Reduced cost per acquisition by 38% over two quarters through campaign optimization  
+- Utilized Google Analytics to monitor campaign performance and inform strategy  
+- Wrote and scheduled weekly email marketing campaigns to a subscriber base of 60,000  
+- Supported SEO initiatives to drive organic traffic
+
+EDUCATION  
+BBA Marketing, Osmania University, 2022
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize performance marketing, budget size, and campaign scale  
+- Reordered and grouped skills to match job requirements, putting paid acquisition and analytics first  
+- Expanded experience bullets to use the job’s vocabulary (e.g., "managed campaigns", "campaign optimization", "budget management")  
+- Surfaced evidence of budget management and campaign scale  
+- Compressed less relevant details (e.g., Canva, email marketing) to focus on core requirements
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Ownership of CAC and ROAS targets (no evidence of owning or being responsible for these metrics)  
+- 3+ years of paid acquisition experience (dates/roles do not clearly evidence this duration)  
+- Marketing automation (not mentioned in CV)

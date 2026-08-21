@@ -1,0 +1,67 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None. Your CV does not evidence any backend development, Python, Django/Flask, SQL, REST APIs, Git, or automated testing experience.
+
+**Hard requirements missing**  
+- 2+ years Python web development — No mention of Python or web development in your CV.
+- Django or Flask — No mention of either framework.
+- Strong SQL and relational design — No mention of SQL or database design.
+- REST APIs — No mention of APIs.
+- Git — No mention of version control or Git.
+- Automated tests — No mention of testing or test automation.
+
+**Nice-to-haves met**  
+- None. No mention of cloud platforms or Docker.
+
+**Worth applying?**  
+Probably not — your experience is in digital marketing, not backend development, and you do not meet any of the core requirements.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Aditya Rao | aditya@email.com | Hyderabad
+
+SUMMARY  
+Digital marketer with 3 years’ experience in B2C ecommerce, specializing in paid campaigns, email marketing, and analytics.
+
+SKILLS  
+- Google Ads  
+- Meta Ads  
+- SEO  
+- Google Analytics  
+- Email marketing  
+- Canva
+
+EXPERIENCE  
+
+Marketing Executive, ShopKart — 2023 to present  
+- Managed Google and Meta ad campaigns with a monthly budget of Rs 4 lakh  
+- Reduced cost per acquisition by 38% over two quarters  
+- Wrote and scheduled weekly email campaigns to 60,000 subscribers
+
+EDUCATION  
+BBA Marketing, Osmania University, 2022
+
+**WHAT I CHANGED**  
+- Kept the CV structure but clarified and formatted skills and experience for readability.
+- Used the job’s vocabulary where possible (e.g., “campaigns” instead of “ads”).
+- Highlighted outcomes (cost per acquisition reduction).
+- Kept all content strictly within your original CV.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Python web development  
+- Django or Flask  
+- SQL or relational database design  
+- REST APIs  
+- Git  
+- Automated tests  
+- Cloud platforms  
+- Docker
+
+You do not meet any of the technical requirements for this backend developer role.

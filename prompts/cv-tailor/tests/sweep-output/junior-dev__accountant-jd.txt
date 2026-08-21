@@ -1,0 +1,77 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None. No accounting experience or skills are evidenced in your CV.
+
+**Hard requirements missing**  
+- 4+ years accounting: No accounting experience shown; your CV is for software development, 2 years.
+- GST and TDS filing: No mention of tax, GST, TDS, or related activities.
+- Tally: No mention of Tally or any accounting software.
+- Advanced Excel: No mention of Excel at all.
+- Month-end close: No mention of accounting cycles or closing activities.
+- Managing multiple clients: No evidence of client management in an accounting context.
+
+**Nice-to-haves met**  
+- None.  
+  - ERP migration: Not mentioned.
+  - Supervising a team: No mention of team leadership or supervision.
+
+**Worth applying?**  
+Probably not — your experience is entirely in software development, with no accounting background or relevant skills for this role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Priya Sharma | priya@email.com | Pune
+
+SUMMARY  
+Software developer with 2 years of experience building web applications using Python, Django, and MySQL. Skilled in designing internal tools, writing REST APIs, and improving code quality through testing.
+
+SKILLS  
+- Python  
+- Django  
+- MySQL (relational databases)  
+- HTML, CSS, JavaScript  
+- REST APIs  
+- Git  
+- Unit testing
+
+EXPERIENCE
+
+Software Developer, Infobyte Solutions, Pune  
+June 2024 – present  
+- Built internal tools in Python and Django used by 40 staff, improving operational efficiency.  
+- Designed MySQL schemas and wrote reporting queries for internal applications.  
+- Handled customer complaints escalated from support, ensuring timely resolution and client satisfaction.  
+- Wrote unit tests, raising code coverage from 30% to 65% to improve software reliability.
+
+Intern, Infobyte Solutions, Pune  
+Jan 2024 – May 2024  
+- Fixed bugs in a Django application, contributing to product stability.  
+- Wrote REST API documentation to support developer onboarding and integration.
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**  
+- Reworded and reordered bullets to emphasize client interaction and reporting, as these are the closest (though not relevant) to the job requirements.
+- Placed MySQL as "relational databases" to align with typical accounting software stack language.
+- Highlighted internal tool development and reporting as the most transferable skills, though not directly relevant.
+- Kept the summary focused on software development, as no accounting experience is present.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years accounting experience  
+- GST and TDS filing  
+- Tally  
+- Advanced Excel  
+- Month-end close  
+- Managing multiple clients  
+- ERP migration  
+- Supervising a team
+
+These requirements are not supported anywhere in your CV.

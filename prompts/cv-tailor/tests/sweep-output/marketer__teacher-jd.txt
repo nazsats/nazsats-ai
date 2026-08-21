@@ -1,0 +1,66 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- Familiarity with digital learning tools  
+  - No direct evidence, but some adjacent digital tools: "Google Analytics, Canva" (not education-specific, but digital tools).
+
+**Hard requirements missing**  
+- 5+ years teaching or curriculum work  
+  - No evidence. Your CV shows only 3 years in digital marketing, none in education or curriculum.
+- Designing assessments  
+  - No evidence.
+- Subject expertise in physics or chemistry  
+  - No evidence. Your degree is in Marketing.
+- Training other educators  
+  - No evidence.
+  
+**Nice-to-haves met**  
+- None. No EdTech experience or published material listed.
+
+**Worth applying?**  
+Probably not — you lack all core requirements (education experience, subject expertise, assessment design), and your background is unrelated.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Aditya Rao | aditya@email.com | Hyderabad
+
+SUMMARY  
+Digital marketer with 3 years’ experience in B2C ecommerce, specializing in online campaign management, email marketing, and analytics. Skilled in leveraging digital tools to drive customer engagement and optimize marketing performance.
+
+SKILLS  
+- Digital marketing (Google Ads, Meta Ads)  
+- Email marketing  
+- SEO  
+- Google Analytics  
+- Canva
+
+EXPERIENCE
+
+Marketing Executive, ShopKart — 2023 to present  
+- Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh  
+- Reduced cost per acquisition by 38% over two quarters through data-driven optimization  
+- Developed and scheduled weekly email campaigns to a subscriber base of 60,000  
+- Utilized digital tools such as Google Analytics and Canva to monitor performance and create marketing assets
+
+EDUCATION  
+BBA Marketing, Osmania University, 2022
+
+**WHAT I CHANGED**  
+- Reworded the summary and bullets to emphasize digital tool usage, as this is the only remotely relevant aspect for the job.  
+- Ordered skills to put digital tools first.  
+- Expanded on digital tools in the experience section to surface any adjacency to "familiarity with digital learning tools."  
+- Compressed unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 5+ years teaching or curriculum work (not present in CV)  
+- Designing assessments (not present)  
+- Subject expertise in physics or chemistry (not present)  
+- Training other educators (not present)  
+- EdTech experience (not present)  
+- Published material (not present)

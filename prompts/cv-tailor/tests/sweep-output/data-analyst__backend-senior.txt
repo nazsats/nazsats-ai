@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 18/100
+
+**Hard requirements met**  
+- Python: "Python (pandas)" — You have Python experience, but only in the context of data analysis, not backend engineering.
+- SQL: "SQL" — You have SQL experience, but no mention of PostgreSQL specifically or at scale.
+
+**Hard requirements missing**  
+- 5+ years Python: Your CV shows "Data analyst, 3 years" and "2023 to present" for your current role. This is less than 5 years, and your Python use is for analytics, not backend engineering.
+- Production Kubernetes: No mention of Kubernetes or any container orchestration.
+- PostgreSQL at scale with query optimisation and replication: No mention of PostgreSQL, query optimisation, or replication. Only "SQL" is listed.
+- AWS (EKS, RDS, S3): No mention of AWS or any cloud experience.
+- Terraform: Not mentioned.
+- Has led a team of at least 3: No evidence of any leadership or management experience.
+
+**Nice-to-haves met**  
+- None. No mention of Go or Kafka.
+
+**Worth applying?**  
+Probably not — you are missing nearly all hard requirements, especially in backend engineering, cloud, and leadership.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Nisha Verma | nisha@email.com | Gurgaon
+
+SUMMARY  
+Data analyst with 3 years of experience in retail analytics, specialising in SQL, Python (pandas), and Power BI. Skilled in building dashboards, conducting A/B testing, and delivering actionable insights for business growth.
+
+SKILLS  
+- Python (pandas)  
+- SQL  
+- Power BI  
+- Excel  
+- A/B testing  
+- Dashboards
+
+EXPERIENCE
+
+Data Analyst, RetailIQ — 2023 to present  
+- Built Power BI dashboards used by 30 store managers to monitor sales and performance  
+- Wrote SQL queries for weekly sales reporting across 120 stores  
+- Conducted A/B tests on pricing strategies, resulting in a 4% margin increase
+
+EDUCATION  
+B.Sc Statistics, Delhi University, 2022
+
+**WHAT I CHANGED**
+- Reworded the summary to emphasise Python and SQL skills, as these are most relevant to the job.
+- Ordered skills to put Python and SQL first, matching the job’s focus.
+- Expanded experience bullets to use more of the job’s vocabulary (e.g., “monitor sales and performance”, “pricing strategies”).
+- Compressed education and removed unrelated details, as the job is senior and technical.
+
+**WHAT I DELIBERATELY DID NOT ADD**
+- 5+ years Python (your CV only supports 3 years, and only for analytics)
+- Production Kubernetes (not mentioned)
+- PostgreSQL at scale, query optimisation, replication (not mentioned)
+- AWS (EKS, RDS, S3) (not mentioned)
+- Terraform (not mentioned)
+- Team leadership (not mentioned)
+- Go, Kafka (not mentioned)

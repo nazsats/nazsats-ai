@@ -1,0 +1,73 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 32/100
+
+**Hard requirements met**  
+- 2+ years analytics  
+  - Partial: "Customer support lead, 4 years SaaS." and "Lead a team of 6; own the first-response SLA" — shows some operational analytics, but not dedicated analytics roles.
+- Strong SQL  
+  - Partial: "Query the product database with basic SQL to diagnose issues" — only basic SQL, not strong.
+- Dashboarding in Power BI or Tableau  
+  - Not met. No mention of Power BI, Tableau, or any dashboarding.
+- Excel  
+  - Not met. No mention of Excel.
+- Communicating findings to non-technical stakeholders  
+  - Partial: "Wrote 80 help-centre articles" — suggests some communication, but not specifically of analytical findings.
+
+**Hard requirements missing**  
+- Dashboarding in Power BI or Tableau — nothing in CV supports this.
+- Excel — nothing in CV supports this.
+- Strong SQL — only basic SQL is claimed.
+- 2+ years analytics — experience is in support, not analytics; no explicit analytics role.
+
+**Nice-to-haves met**  
+- None. No mention of Python or A/B testing.
+
+**Worth applying?**  
+Probably not — you lack dashboarding, Excel, and strong analytics experience; your background is customer support, not data analysis.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Faisal Khan | faisal@email.com | Delhi
+
+SUMMARY  
+Customer support lead with 4 years’ experience in SaaS environments, skilled in escalation management, team leadership, and process documentation. Experienced in using basic SQL to investigate product issues and communicating solutions through help-centre content.
+
+SKILLS  
+- Escalation management  
+- Team leadership  
+- Documentation and knowledge base creation  
+- Zendesk  
+- Intercom  
+- SQL (basic)  
+
+EXPERIENCE  
+
+Support Lead, CloudDesk — 2022 to present  
+- Led a team of 6, ensuring adherence to first-response SLAs and improving operational efficiency.  
+- Reduced average resolution time from 14 hours to 5 hours by analyzing support workflows and implementing process improvements.  
+- Authored 80 help-centre articles to communicate solutions and best practices to non-technical users.  
+- Queried the product database with basic SQL to diagnose and resolve customer issues.
+
+EDUCATION  
+BA English, Delhi University, 2021
+
+**WHAT I CHANGED**  
+- Reworded and expanded bullets to emphasize analytics-adjacent activities (process improvement, workflow analysis, communication of findings).
+- Placed SQL and communication skills higher in the skills section to align with job requirements.
+- Used job description vocabulary (e.g., "communicating solutions to non-technical users").
+- Compressed unrelated details to focus on relevant experience.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Dashboarding in Power BI or Tableau (not in CV)
+- Excel (not in CV)
+- Strong SQL (only basic SQL in CV)
+- Python (not in CV)
+- A/B testing (not in CV)
+- Dedicated analytics experience (CV is customer support, not analytics)
+
+If you gain experience in analytics, dashboarding, or Excel, update your CV to reflect that before applying to data analyst roles.

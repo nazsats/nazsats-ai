@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None. There is no evidence in your CV of experience with paid acquisition, Google Ads, Meta Ads, Google Analytics, CAC/ROAS targets, or managing large marketing budgets.
+
+**Hard requirements missing**  
+- 3+ years paid acquisition: No mention of paid acquisition or any marketing campaign management.
+- Google Ads and Meta Ads at scale: No mention of Google Ads, Meta Ads, or any digital advertising platforms.
+- Google Analytics: Not listed in skills or experience.
+- Owning CAC and ROAS targets: No mention of customer acquisition cost (CAC), return on ad spend (ROAS), or any performance marketing metrics.
+- Managing budgets above Rs 3 lakh a month: No mention of budget management or any financial responsibility.
+
+**Nice-to-haves met**  
+- None. No mention of SEO or marketing automation.
+
+**Worth applying?**  
+Probably not — your experience is in SaaS customer support, not performance marketing, and you do not meet any of the hard requirements.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Faisal Khan | faisal@email.com | Delhi
+
+SUMMARY  
+Customer support lead with 4 years’ experience in SaaS, specializing in escalation management, team leadership, and process documentation.
+
+SKILLS  
+- Escalation management  
+- Team leadership  
+- Zendesk  
+- Intercom  
+- Documentation  
+- SQL (basic)
+
+EXPERIENCE
+
+Support Lead, CloudDesk — 2022 to present  
+- Lead a team of 6, owning first-response SLA for SaaS customer support  
+- Reduced average resolution time from 14 hours to 5  
+- Authored 80+ help-centre articles to improve customer self-service  
+- Queried product database using basic SQL to diagnose and resolve customer issues
+
+EDUCATION  
+BA English, Delhi University, 2021
+
+**WHAT I CHANGED**  
+- Reordered and clarified skills to highlight leadership and process ownership, as these are the most transferable to a marketing manager context.
+- Used more formal, results-oriented language in experience bullets.
+- Emphasized outcomes (resolution time reduction, article authorship) up front.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Paid acquisition experience  
+- Google Ads or Meta Ads experience  
+- Google Analytics  
+- CAC/ROAS targets  
+- Budget management  
+- SEO  
+- Marketing automation
+
+These requirements are not supported anywhere in your CV.

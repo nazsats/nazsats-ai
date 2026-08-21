@@ -1,0 +1,72 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 18/100
+
+**Hard requirements met**  
+- None.  
+  - Your CV does not mention SaaS, customer-facing roles, retention/escalation ownership, CRM tools, customer documentation, or team leadership.
+
+**Hard requirements missing**  
+- 3+ years customer-facing SaaS experience  
+  - No mention of SaaS or customer-facing roles. All experience is in accounting for SME clients.
+- Owning retention and escalations  
+  - No evidence of retention or escalation management.
+- CRM tools such as Zendesk or Intercom  
+  - No mention of any CRM tools; only Tally and Excel are listed.
+- Writing customer documentation  
+  - No evidence of documentation writing.
+- Leading a small team  
+  - No mention of team leadership.
+
+**Nice-to-haves met**  
+- None.
+  - Basic SQL: Not mentioned.
+  - Designing onboarding programme: Not mentioned.
+
+**Worth applying?**  
+Probably not — your experience is entirely in accounting, with no evidence of SaaS, customer success, CRM tools, or team leadership.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Sneha Kulkarni | sneha@email.com | Nashik
+
+SUMMARY  
+Experienced accountant specializing in SME bookkeeping, compliance, and process improvement. Skilled in managing multiple client accounts, ensuring timely filings, and optimizing workflows.
+
+SKILLS  
+- Bookkeeping and compliance (Tally, GST filing, TDS)  
+- Advanced Excel (process automation, reconciliation)  
+- Payroll management  
+- Client account management
+
+EXPERIENCE
+
+Senior Accountant, Deshmukh and Co — 2021 to present  
+- Managed books and compliance for 22 SME clients, ensuring zero late GST and TDS filings over four years  
+- Built and implemented advanced Excel models, reducing monthly close process from 6 days to 2  
+- Responsible for payroll and reconciliation for multiple clients  
+- Maintained strong client relationships through consistent, accurate service
+
+EDUCATION  
+M.Com, Pune University, 2020
+
+**WHAT I CHANGED**  
+- Reworded and reordered bullets to emphasize client account management and process improvement, which are the closest adjacent experiences to customer success.  
+- Used the job’s vocabulary where possible (e.g., “client account management” instead of “manage books for clients”).  
+- Placed skills in the order most relevant to the job description, with client-facing and process skills first.  
+- Compressed education and unrelated skills.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 3+ years customer-facing SaaS experience  
+- Owning retention and escalations  
+- CRM tools such as Zendesk or Intercom  
+- Writing customer documentation  
+- Leading a small team  
+- Basic SQL  
+- Designing an onboarding programme
+
+If you want to move into customer success, consider gaining experience with SaaS tools, CRM platforms, and customer-facing roles, and update your CV accordingly.

@@ -1,0 +1,93 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 18/100
+
+**Hard requirements met**  
+- Data-driven decisions  
+  - "Ran A/B tests on pricing; one raised margin 4 percent"  
+- Python  
+  - "Python (pandas)"  
+
+**Hard requirements missing**  
+- Full stack development  
+  - No evidence of full stack or any web development in your CV.
+- Client relationship management  
+  - No mention of client or stakeholder interaction.
+- Agile and Scrum  
+  - No mention of Agile, Scrum, or any software development methodology.
+- Cross-functional collaboration  
+  - No evidence of working with cross-functional teams.
+- Stakeholder management  
+  - No mention of stakeholder engagement or management.
+- JavaScript, React, Node.js  
+  - No mention of JavaScript, React, or Node.js.
+- MongoDB  
+  - No mention of MongoDB or any NoSQL database.
+- AWS  
+  - No mention of AWS or any cloud platform.
+- Docker  
+  - No mention of Docker or containerization.
+- CI/CD  
+  - No mention of CI/CD or deployment pipelines.
+
+**Nice-to-haves met**  
+- SQL  
+  - "SQL"  
+- Dashboards  
+  - "Built Power BI dashboards used by 30 store managers"  
+
+**Worth applying?**  
+Probably not — you lack almost all core requirements for this full stack developer role, including web development, cloud, and DevOps skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Nisha Verma | nisha@email.com | Gurgaon
+
+SUMMARY  
+Data analyst with 3 years’ experience in retail analytics, specializing in data-driven decision making, A/B testing, and dashboard development using Power BI, SQL, and Python.
+
+SKILLS  
+- Data-driven decision making  
+- SQL  
+- Power BI dashboards  
+- Python (pandas)  
+- A/B testing  
+- Excel  
+
+EXPERIENCE
+
+Data Analyst, RetailIQ — 2023 to present  
+- Built Power BI dashboards used by 30 store managers to monitor sales and performance metrics  
+- Wrote SQL queries for weekly sales reporting across 120 retail stores  
+- Conducted A/B tests on pricing strategies, resulting in a 4% increase in margin  
+- Utilized Python (pandas) for data analysis and reporting  
+- Developed Excel-based reports for business stakeholders  
+
+EDUCATION  
+B.Sc Statistics, Delhi University, 2022
+
+---
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize data-driven decision making and analytics, as those are the only partial matches to the job requirements.
+- Ordered skills to highlight data-driven decision making, SQL, and dashboarding, which are the closest matches to the job’s focus.
+- Expanded experience bullets to use the job’s vocabulary where possible (e.g., “business stakeholders”).
+- Compressed unrelated details and omitted any mention of full stack or web development, as not present in your CV.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Full stack development  
+- Client relationship management  
+- Agile and Scrum  
+- Cross-functional collaboration  
+- Stakeholder management  
+- JavaScript, React, Node.js  
+- MongoDB  
+- AWS  
+- Docker  
+- CI/CD  
+
+If you wish to pursue full stack roles, consider gaining experience or training in web development, cloud, and DevOps technologies.

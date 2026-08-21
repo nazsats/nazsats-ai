@@ -1,0 +1,98 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 38/100
+
+**Hard requirements met**  
+- Python  
+  - "SKILLS: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC"  
+- AWS  
+  - "SKILLS: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC"  
+- Data-driven decisions  
+  - "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes" (shows use of metrics to drive engineering decisions)  
+- Cross-functional collaboration  
+  - "Led a team of 5; ran hiring and design reviews" (implies some collaboration, though not explicitly cross-functional)  
+
+**Hard requirements missing**  
+- Full stack development  
+  - No evidence of front-end or full stack work; all experience is backend (Go, Python, Kubernetes, etc.)  
+- JavaScript  
+  - Not mentioned anywhere in CV  
+- React  
+  - Not mentioned anywhere in CV  
+- Node.js  
+  - Not mentioned anywhere in CV  
+- MongoDB  
+  - Not mentioned anywhere in CV  
+- Docker  
+  - Not mentioned anywhere in CV  
+- CI/CD  
+  - Not mentioned anywhere in CV  
+- Client relationship management  
+  - No mention of client-facing work; all experience is technical/engineering  
+- Agile and Scrum  
+  - No mention of Agile, Scrum, or similar methodologies  
+- Stakeholder management  
+  - No explicit mention; "ran hiring and design reviews" is internal, not stakeholder-facing  
+
+**Nice-to-haves met**  
+- Experience in fast-paced environments  
+  - Implied by scale ("12M requests a day", "2TB daily"), but not explicitly stated  
+- Leadership  
+  - "Led a team of 5; ran hiring and design reviews"  
+
+**Worth applying?**  
+Probably not — you lack all front-end and full stack experience, and several core technologies (JavaScript, React, Node.js, MongoDB, Docker, CI/CD) are missing from your CV.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Vikram Iyer | vikram@email.com | Bengaluru
+
+SUMMARY  
+Backend engineer with 9 years' experience building distributed systems at scale. Proven track record in Python, AWS, and data-driven backend optimization. Experienced technical leader in high-traffic environments.
+
+SKILLS  
+- Python  
+- Go  
+- AWS  
+- Kubernetes  
+- PostgreSQL  
+- Kafka  
+- Terraform  
+- gRPC  
+
+EXPERIENCE
+
+Staff Engineer, ScaleWorks — 2021 to present  
+- Led a team of 5 engineers, running hiring and design reviews  
+- Owned a 60-node Kubernetes cluster serving 12M requests per day  
+- Improved system performance by reducing p99 latency from 340ms to 90ms through data-driven optimization of Postgres indexes  
+
+Senior Engineer, DataCore — 2017 to 2021  
+- Built and maintained Kafka pipelines processing 2TB of data daily  
+
+EDUCATION  
+M.Tech Computer Science & Engineering, IIT Madras, 2017
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize Python, AWS, and data-driven backend work, as those are most relevant to the job  
+- Ordered skills to put Python and AWS first, matching job priorities  
+- Expanded on data-driven decision-making and leadership in the experience section, using job description language where possible  
+- Compressed unrelated details and focused on scale/impact to align with "fast-paced" and "many hats" language  
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Full stack development  
+- JavaScript  
+- React  
+- Node.js  
+- MongoDB  
+- Docker  
+- CI/CD  
+- Client relationship management  
+- Agile and Scrum  
+- Stakeholder management  
+
+These requirements are not supported by your CV and are therefore not claimed.

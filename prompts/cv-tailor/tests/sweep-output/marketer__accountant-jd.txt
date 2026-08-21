@@ -1,0 +1,68 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None. Your CV does not evidence any accounting experience or skills.
+
+**Hard requirements missing**  
+- 4+ years accounting: No accounting experience shown; your CV is for digital marketing, 3 years.
+- GST and TDS filing: No mention of GST, TDS, or any tax compliance.
+- Tally: No mention of Tally or any accounting software.
+- Advanced Excel: No mention of Excel at all.
+- Month-end close: No mention of any accounting or financial close activities.
+- Managing multiple clients: No evidence of client management, only B2C ecommerce marketing.
+
+**Nice-to-haves met**  
+- None.  
+  - ERP migration: Not mentioned.
+  - Supervising a team: Not mentioned.
+
+**Worth applying?** — probably not; your experience is entirely in digital marketing, with no accounting skills or experience shown.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Aditya Rao | aditya@email.com | Hyderabad
+
+SUMMARY  
+Digital marketer with 3 years’ experience in B2C ecommerce, specializing in online advertising, email marketing, and campaign analytics.
+
+SKILLS  
+- Google Ads  
+- Meta Ads  
+- SEO  
+- Google Analytics  
+- Email marketing  
+- Canva
+
+EXPERIENCE
+
+Marketing Executive, ShopKart — 2023 to present  
+- Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh  
+- Reduced cost per acquisition by 38% over two quarters  
+- Wrote and scheduled weekly email campaigns to 60,000 subscribers
+
+EDUCATION  
+BBA Marketing, Osmania University, 2022
+
+**WHAT I CHANGED**  
+- Kept all content as in your original CV, as none of your experience matches the job description.
+- Reordered and formatted for clarity and readability.
+- Used consistent bullet formatting and expanded on your achievements for clarity.
+- Kept the summary focused on your actual experience.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years accounting experience  
+- GST and TDS filing  
+- Tally  
+- Advanced Excel  
+- Month-end close  
+- Managing multiple clients  
+- ERP migration  
+- Supervising a team
+
+Your CV does not support any of the requirements for this accounting role.

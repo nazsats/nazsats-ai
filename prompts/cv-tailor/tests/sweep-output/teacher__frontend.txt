@@ -1,0 +1,63 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None. No evidence in your CV of any frontend development experience, JavaScript, React, CSS, Figma, or related technical skills.
+
+**Hard requirements missing**  
+- 3+ years frontend: No mention of any frontend or software development experience.
+- React and modern JavaScript: No mention of React, JavaScript, or any programming language.
+- Strong CSS and responsive design: No mention of CSS, HTML, or web design.
+- Working from Figma designs: No mention of Figma or any design tool.
+- Cross-browser compatibility: No mention of web development or browser testing.
+
+**Nice-to-haves met**  
+- None. No evidence of TypeScript, design background, or related skills.
+
+**Worth applying?**  
+Probably not — your CV is entirely in secondary education with no evidence of software development or relevant technical skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Meera Nair | meera@email.com | Kochi
+
+SUMMARY  
+Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and educational assessment. Proven ability to mentor peers and improve student outcomes.
+
+SKILLS  
+- Curriculum design  
+- Classroom management  
+- Assessment  
+- Google Classroom  
+
+EXPERIENCE  
+
+Physics Teacher, St Thomas HSS — 2018 to present  
+- Taught grades 11 and 12, improving class average from 62% to 78%  
+- Designed a laboratory curriculum adopted across three schools  
+- Mentored four new teachers in instructional methods and classroom management  
+
+EDUCATION  
+M.Sc Physics, Kerala University, 2017  
+B.Ed, 2018  
+
+**WHAT I CHANGED**  
+- Retained your original CV structure, as none of your experience matches the job description for a Frontend Developer.
+- Highlighted your curriculum design and mentoring experience, as these are your strongest skills.
+- Used concise language and clear formatting for readability.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 3+ years frontend development experience  
+- React and modern JavaScript  
+- CSS and responsive design  
+- Experience working from Figma designs  
+- Cross-browser compatibility  
+- TypeScript  
+- Design background  
+
+If you are interested in transitioning to frontend development, consider gaining relevant skills and experience before applying to such roles.

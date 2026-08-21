@@ -1,0 +1,57 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 12/100
+
+**Hard requirements met**  
+- None.
+
+**Hard requirements missing**  
+- 3+ years frontend experience — No evidence of any frontend development in your CV.
+- React and modern JavaScript — No mention of React, JavaScript, or any frontend framework or language.
+- Strong CSS and responsive design — No mention of CSS, HTML, or responsive design.
+- Working from Figma designs — No mention of Figma or design tools.
+- Cross-browser compatibility — No mention of browser testing or compatibility work.
+
+**Nice-to-haves met**  
+- None.  
+  - TypeScript — Not mentioned.
+  - Design background — Not mentioned.
+
+**Worth applying?** — Probably not; your CV is entirely in data analytics with no evidence of frontend or web development, so you would not pass screening for this role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Nisha Verma | nisha@email.com | Gurgaon
+
+SUMMARY  
+Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Power BI dashboards, and A/B testing to drive business insights.
+
+SKILLS  
+- SQL  
+- Power BI  
+- Excel  
+- Python (pandas)  
+- A/B testing  
+- Dashboards
+
+EXPERIENCE
+
+Data Analyst, RetailIQ — 2023 to present  
+- Built Power BI dashboards used by 30 store managers to visualize sales and performance metrics  
+- Wrote SQL queries for weekly sales reporting across 120 stores  
+- Conducted A/B tests on pricing strategies, resulting in a 4% increase in margin
+
+EDUCATION  
+B.Sc Statistics, Delhi University, 2022
+
+**WHAT I CHANGED**  
+- Kept the summary and skills focused on analytics, as there is no frontend experience to highlight.
+- Reordered and expanded bullets to emphasize dashboard building and data visualization, the closest adjacent experience to UI work.
+- Compressed education and unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Any mention of frontend development, React, JavaScript, CSS, responsive design, Figma, cross-browser compatibility, TypeScript, or design background, as your CV contains no evidence of these skills or experiences.

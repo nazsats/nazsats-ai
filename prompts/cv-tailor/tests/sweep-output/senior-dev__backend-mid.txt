@@ -1,0 +1,86 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 61/100
+
+**Hard requirements met**  
+- 2+ years Python web development  
+  - Your CV: "SKILLS: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC" and "Backend engineer, 9 years, distributed systems."  
+  - Evidence of Python, but no explicit mention of web development or frameworks.  
+- Strong SQL and relational design  
+  - Your CV: "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes" and "PostgreSQL"  
+- REST APIs  
+  - Your CV: "gRPC" (adjacent, but not REST), no explicit mention of REST APIs.  
+- Git  
+  - Your CV: No mention of Git.  
+- Automated tests  
+  - Your CV: No mention of automated tests.  
+
+**Hard requirements missing**  
+- Django or Flask  
+  - Your CV: No mention of Django or Flask, or any Python web framework.  
+- Explicit evidence of Python web development  
+  - Your CV: Python is listed, but no evidence of web development (e.g., web frameworks, REST endpoints, etc.).  
+- Git  
+  - Your CV: No mention of Git.  
+- Automated tests  
+  - Your CV: No mention of automated testing, test frameworks, or related work.  
+
+**Nice-to-haves met**  
+- Cloud platforms  
+  - Your CV: "AWS"  
+- Docker  
+  - Your CV: "Own a 60-node Kubernetes cluster" (adjacent, but Docker not explicitly mentioned; Kubernetes often implies Docker, but not guaranteed)  
+
+**Worth applying?**  
+Probably not — you have strong backend and distributed systems experience, but lack explicit evidence of Python web development, Django/Flask, Git, and automated tests, which are all must-haves for this role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Vikram Iyer | vikram@email.com | Bengaluru
+
+SUMMARY  
+Backend engineer with 9 years of experience building distributed systems using Python, Go, and PostgreSQL. Proven track record in optimizing relational databases and leading engineering teams to deliver scalable backend solutions.
+
+SKILLS  
+- Python  
+- Go  
+- Relational databases (PostgreSQL)  
+- Distributed systems  
+- Kubernetes  
+- AWS  
+- Kafka  
+- Terraform  
+- gRPC
+
+EXPERIENCE
+
+Staff Engineer, ScaleWorks — 2021 to present  
+- Led a team of 5 engineers to deliver backend services at scale.  
+- Owned and operated a 60-node Kubernetes cluster serving 12 million requests per day.  
+- Improved relational database performance by reworking PostgreSQL indexes, reducing p99 latency from 340ms to 90ms.  
+- Conducted design reviews and participated in hiring processes.
+
+Senior Engineer, DataCore — 2017 to 2021  
+- Built and maintained Kafka pipelines processing 2TB of data daily.  
+- Developed backend data processing systems using Python and Go.
+
+EDUCATION  
+M.Tech, Computer Science & Engineering, IIT Madras, 2017
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize Python, relational databases, and backend experience.  
+- Reordered and reworded skills to put Python, relational databases, and distributed systems first, as per the job requirements.  
+- Expanded on database and backend achievements to align with the job’s focus on SQL and backend development.  
+- Used the job’s vocabulary where possible (e.g., "relational databases", "backend services").  
+- Compressed less relevant details (e.g., Terraform, gRPC) to the skills section.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Django or Flask (no evidence in your CV)  
+- Explicit Python web development (no mention of web frameworks or REST APIs)  
+- Git (not mentioned in your CV)  
+- Automated tests (not mentioned in your CV)  
+- Docker (not mentioned in your CV; Kubernetes is adjacent but not the same)

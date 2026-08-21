@@ -1,0 +1,74 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None.  
+  - There is no evidence of Python, Django/Flask, SQL, REST APIs, Git, or automated tests in your CV.
+
+**Hard requirements missing**  
+- 2+ years Python web development — No mention of Python anywhere in your CV.
+- Django or Flask — Not mentioned.
+- Strong SQL and relational design — Not mentioned; only "basic HTML/CSS" is listed.
+- REST APIs — Not mentioned.
+- Git — Not mentioned.
+- Automated tests — Not mentioned.
+
+**Nice-to-haves met**  
+- None.  
+  - No mention of cloud platforms or Docker.
+
+**Worth applying?** — Probably not. You have no evidence of backend development, Python, or any of the required technologies; your experience is entirely in design.
+
+Scoring guide:  
+- You are in a different field and level than this job requires.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai | anjali@email.com | Remote
+
+SUMMARY  
+Creative freelance designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in visual design, branding, and basic web page creation.
+
+SKILLS  
+- Brand identity  
+- Figma  
+- Illustrator  
+- Photoshop  
+- Canva  
+- Basic HTML/CSS
+
+EXPERIENCE
+
+Freelance Designer | 2022 – present  
+- Developed brand identities for 14 small businesses, delivering cohesive visual systems.  
+- Designed and executed a social media campaign that increased engagement by 40%.  
+- Built two landing pages using HTML and CSS to support client marketing efforts.
+
+Junior Designer, PixelCraft Studio | 2021 – 2022  
+- Supported senior designers in creating digital and print assets for client projects.
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021
+
+**WHAT I CHANGED**  
+- Reworded and reordered bullets to emphasize digital and web-related work, as much as possible within your actual experience.
+- Placed basic HTML/CSS more prominently in skills and experience.
+- Used language such as “delivering” and “executed” to align with technical job descriptions, while staying within your actual design work.
+- Compressed unrelated details to keep focus on digital/web aspects.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Python web development  
+- Django or Flask  
+- SQL or relational database design  
+- REST APIs  
+- Git  
+- Automated tests  
+- Cloud platforms  
+- Docker
+
+These are not present in your CV and therefore not included.

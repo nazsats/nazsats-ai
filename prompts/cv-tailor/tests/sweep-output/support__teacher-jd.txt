@@ -1,0 +1,70 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 13/100
+
+**Hard requirements met:**  
+- Familiarity with digital learning tools  
+  - "Zendesk, Intercom" (adjacent, but these are customer support tools, not learning tools; still, some digital tool familiarity is shown)
+
+**Hard requirements missing:**  
+- 5+ years teaching or curriculum work  
+  - No evidence of teaching or curriculum design; your CV is entirely customer support/SaaS.
+- Designing assessments  
+  - No mention of assessment design or related activities.
+- Subject expertise in physics or chemistry  
+  - No mention of science background; BA in English.
+- Training other educators  
+  - No evidence of educator training; only team leadership in support context.
+
+**Nice-to-haves met:**  
+- EdTech experience  
+  - "CloudDesk" is a SaaS company, but no indication it is EdTech or education-related.
+- Published material  
+  - "Wrote 80 help-centre articles" (adjacent, but not educational or curriculum material).
+
+**Worth applying?**  
+Probably not — you lack all core requirements (teaching, curriculum, science expertise), and your experience is in customer support, not education.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Faisal Khan | faisal@email.com | Delhi
+
+SUMMARY  
+Experienced SaaS support lead with a background in team leadership, digital tool usage, and documentation. Skilled in managing support operations and producing clear written materials for user guidance.
+
+SKILLS  
+- Digital tools: Zendesk, Intercom  
+- Team leadership and escalation management  
+- Documentation and help-centre content creation  
+- Basic SQL for data queries
+
+EXPERIENCE
+
+Support Lead, CloudDesk — 2022 to present  
+- Led a team of 6, managing first-response SLAs and escalation processes  
+- Reduced average resolution time from 14 hours to 5 by optimizing workflows  
+- Authored 80 help-centre articles to improve user self-service and product understanding  
+- Queried product database with basic SQL to diagnose and resolve customer issues
+
+EDUCATION  
+BA English, Delhi University, 2021
+
+**WHAT I CHANGED**  
+- Reworded summary and skills to emphasize digital tool usage, documentation, and leadership, which are most adjacent to the job requirements.  
+- Highlighted documentation and help-centre article writing as published material, though not curriculum-related.  
+- Placed digital tool familiarity and team leadership at the top of the skills section, as these are closest to the job's needs.  
+- Compressed unrelated details and omitted customer support-specific jargon not relevant to curriculum design.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 5+ years teaching or curriculum work (no evidence in CV)  
+- Designing assessments (no evidence in CV)  
+- Subject expertise in physics or chemistry (no evidence in CV)  
+- Training other educators (no evidence in CV)  
+- EdTech experience (CloudDesk is not stated as EdTech)  
+- Published educational or curriculum material (help-centre articles are not curriculum)
+
+If you have any experience in education, curriculum, or science not listed in your CV, consider adding it before applying.

@@ -1,0 +1,68 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None. Your CV does not evidence any accounting experience or skills.
+
+**Hard requirements missing**  
+- 4+ years accounting: No accounting experience shown; all experience is in nursing.
+- GST and TDS filing: Not mentioned anywhere.
+- Tally: Not mentioned.
+- Advanced Excel: Not mentioned.
+- Month-end close: Not mentioned.
+- Managing multiple clients: Not mentioned.
+
+**Nice-to-haves met**  
+- None.  
+  - ERP migration: Not mentioned.
+  - Supervising a team: Closest is "Trained 8 junior nurses," but this is not accounting supervision.
+
+**Worth applying?**  
+Probably not — your background is in nursing, with no accounting experience or relevant skills shown.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Rahul Mehta | rahul@email.com | Mumbai
+
+SUMMARY  
+Registered nurse with 6 years of critical care experience, skilled in patient assessment, team coordination, and documentation. Proven ability to manage complex situations and train junior staff in high-pressure environments.
+
+SKILLS  
+- Patient assessment  
+- IV therapy  
+- Epic EHR  
+- Triage  
+- Team coordination
+
+EXPERIENCE  
+
+Staff Nurse, Lilavati Hospital — 2019 to present  
+- Managed up to 12 ICU patients per shift, ensuring accurate documentation and effective care coordination  
+- Trained 8 junior nurses on documentation standards and compliance  
+- Coordinated between doctors, pharmacy, and families to deliver patient-centered care
+
+EDUCATION  
+B.Sc. Nursing, MUHS, 2019
+
+**WHAT I CHANGED**  
+- Reworded and expanded bullets to emphasize team coordination and training, as these are the closest adjacent skills to supervising a team.
+- Used the employer’s vocabulary where possible (e.g., "documentation standards" and "coordination").
+- Kept all nursing and healthcare-related content, as there is no accounting experience to surface.
+- Compressed education and skills to focus on what is present in your CV.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years accounting experience  
+- GST and TDS filing  
+- Tally  
+- Advanced Excel  
+- Month-end close  
+- Managing multiple clients  
+- ERP migration  
+- Supervising a team (in an accounting context)
+
+If you wish to move into accounting, consider gaining relevant experience or certifications before applying to such roles.

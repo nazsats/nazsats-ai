@@ -1,0 +1,68 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 15/100
+
+**Hard requirements met**  
+- Client relationship management — "handled customer complaints" (rewritten as "client relationship management" if allowed, but your CV says "escalation management" and "lead a team of 6"; this is adjacent, not direct evidence)
+- Data-driven decisions — "Query the product database with basic SQL to diagnose issues" (very basic, not at developer level)
+- Cross-functional collaboration — No direct evidence, but leading a team may imply some collaboration
+
+**Hard requirements missing**  
+- Full stack development — No evidence of any software development experience
+- Agile and Scrum — Not mentioned anywhere
+- Stakeholder management — Not mentioned
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD — None of these technologies appear anywhere in your CV
+
+**Nice-to-haves met**  
+- SaaS experience — "Customer support lead, 4 years SaaS"
+- Team leadership — "Lead a team of 6"
+
+**Worth applying?**  
+Probably not — you have no software development experience or evidence of required technical skills; this is a different field.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Faisal Khan | faisal@email.com | Delhi
+
+SUMMARY  
+Customer support lead with 4 years’ experience in SaaS environments, specializing in escalation management, team leadership, and process improvement. Skilled in documentation, first-response SLA ownership, and basic SQL for issue diagnosis.
+
+SKILLS  
+- Escalation management  
+- Team leadership  
+- Client relationship management  
+- Documentation (help centre articles)  
+- Zendesk, Intercom  
+- SQL (basic)  
+- SaaS customer support
+
+EXPERIENCE
+
+Support Lead, CloudDesk — 2022 to present  
+- Lead a team of 6, owning the first-response SLA for customer support  
+- Reduced average resolution time from 14 hours to 5 through process improvements  
+- Authored 80 help-centre articles to improve customer self-service and documentation  
+- Used basic SQL to query the product database and diagnose customer issues  
+- Managed escalations and ensured high customer satisfaction in a SaaS environment
+
+EDUCATION  
+BA English, Delhi University, 2021
+
+**WHAT I CHANGED**  
+- Reordered and expanded skills and experience to emphasize client relationship management, team leadership, and data-driven support activities, as these are the closest matches to the job description.
+- Used job description vocabulary (e.g., "client relationship management," "process improvement") where activities align.
+- Compressed unrelated details and surfaced SaaS and leadership experience.
+- Highlighted documentation and basic SQL use as data-driven decision-making.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Full stack development  
+- Agile and Scrum  
+- Stakeholder management  
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD  
+- Cross-functional collaboration (no direct evidence)
+
+If you want to move into development, consider training or projects to build relevant experience before applying to roles like this.

@@ -1,0 +1,77 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 0/100
+
+**Hard requirements met**  
+- None. Your CV does not evidence any accounting experience or skills.
+
+**Hard requirements missing**  
+- 4+ years accounting: No accounting experience shown; all experience is in backend engineering.
+- GST and TDS filing: No mention of tax, GST, TDS, or any accounting/finance work.
+- Tally: No mention of Tally or any accounting software.
+- Advanced Excel: No mention of Excel or spreadsheet skills.
+- Month-end close: No mention of any accounting processes.
+- Managing multiple clients: No client management experience shown; all roles are internal engineering.
+
+**Nice-to-haves met**  
+- Supervising a team: "Led a team of 5; ran hiring and design reviews." (Relevant for team supervision, but not in an accounting context.)
+- ERP migration: No mention of ERP systems or migrations.
+
+**Worth applying?**  
+Probably not — your CV is entirely in backend engineering with no accounting experience or relevant skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Vikram Iyer | vikram@email.com | Bengaluru
+
+SUMMARY  
+Backend engineer with 9 years of experience in distributed systems, team leadership, and large-scale infrastructure. Proven expertise in Go, Python, Kubernetes, and cloud technologies.
+
+SKILLS  
+- Distributed systems (Go, Python)
+- Kubernetes (60-node cluster management)
+- AWS
+- PostgreSQL
+- Kafka
+- Terraform
+- gRPC
+- Team leadership and hiring
+
+EXPERIENCE
+
+Staff Engineer, ScaleWorks — 2021 to present  
+- Owned a 60-node Kubernetes cluster serving 12M requests daily  
+- Led a team of 5; responsible for hiring and design reviews  
+- Improved system performance by reducing p99 latency from 340ms to 90ms through Postgres index optimization  
+
+Senior Engineer, DataCore — 2017 to 2021  
+- Built Kafka pipelines processing 2TB of data daily  
+
+EDUCATION  
+M.Tech CSE, IIT Madras, 2017
+
+---
+
+**WHAT I CHANGED**
+- Reordered and clarified skills to highlight leadership and technical expertise.
+- Used more specific language from the job description where possible (e.g., "team leadership").
+- Kept experience focused on leadership and process improvements, as these are the only remotely relevant aspects.
+- Compressed unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**
+- Accounting experience (none in CV)
+- GST and TDS filing
+- Tally or any accounting software
+- Advanced Excel
+- Month-end close
+- Managing multiple clients
+- ERP migration
+
+---
+
+**Summary:**  
+Your background is entirely in backend engineering and distributed systems, with no evidence of accounting, finance, or related tools/processes. This role is not a match.

@@ -1,0 +1,85 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 18/100
+
+**Hard requirements met**  
+- Professional Python experience  
+  - "Software developer with 2 years of experience building web applications."  
+  - "Built internal tools in Python and Django used by 40 staff"  
+- Some relational database experience (MySQL)  
+  - "Designed MySQL schemas and wrote queries for reporting"  
+- REST APIs  
+  - "Wrote documentation for the REST API"  
+
+**Hard requirements missing**  
+- 5+ years professional Python  
+  - Your CV shows June 2024 onwards as Software Developer, and Jan 2024–May 2024 as Intern. This is less than 1 year, and your summary says "2 years of experience".  
+- Production Kubernetes experience  
+  - Nowhere in your CV is Kubernetes mentioned.  
+- PostgreSQL at scale, including query optimisation and replication  
+  - Only MySQL is mentioned, not PostgreSQL, and no mention of scale, optimisation, or replication.  
+- AWS (EKS, RDS, S3)  
+  - No mention of AWS or any cloud platform.  
+- Terraform or infrastructure as code  
+  - Not present anywhere in your CV.  
+- Experience leading a team of at least 3 engineers  
+  - No mention of team leadership or management.  
+
+**Nice-to-haves met**  
+- None. (Go and Kafka are not mentioned in your CV.)
+
+**Worth applying?**  
+Probably not — you are missing nearly every hard requirement, including years of experience, Kubernetes, PostgreSQL, AWS, Terraform, and leadership.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Priya Sharma  
+priya.sharma@email.com | +91 98765 43210 | Pune
+
+SUMMARY  
+Software developer with 2 years of experience building web applications using Python, Django, and MySQL. Skilled in designing and implementing REST APIs and internal tools for business operations.
+
+SKILLS  
+- Python  
+- Django  
+- MySQL (relational databases)  
+- REST APIs  
+- HTML, CSS, JavaScript  
+- Git  
+
+EXPERIENCE  
+
+Software Developer, Infobyte Solutions, Pune — June 2024 to present  
+- Built internal tools in Python and Django used by 40 staff, improving business workflows  
+- Designed MySQL schemas and wrote queries for reporting and analytics  
+- Handled customer complaints escalated from the support team, ensuring timely resolution  
+- Wrote unit tests, raising coverage from 30% to 65% for critical applications  
+
+Intern, Infobyte Solutions — Jan 2024 to May 2024  
+- Fixed bugs in an internal Django application, contributing to improved stability  
+- Wrote documentation for REST APIs to support developer onboarding and integration  
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**  
+- Reordered and expanded the Python, Django, and MySQL experience to highlight backend development.  
+- Used the employer’s vocabulary (e.g., "REST APIs", "internal tools", "reporting and analytics").  
+- Surfaced REST API documentation and MySQL schema design as relevant backend skills.  
+- Compressed unrelated skills (HTML, CSS, JavaScript) and kept them in the skills section.  
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Kubernetes (not present in your CV)  
+- PostgreSQL (only MySQL experience is shown)  
+- AWS (EKS, RDS, S3)  
+- Terraform or infrastructure as code  
+- Go  
+- Kafka  
+- Team leadership or management experience  
+- 5+ years of professional Python experience (your CV states 2 years)  
+
+If you have experience in any of the above areas, be sure to add it to your CV before applying to similar roles.

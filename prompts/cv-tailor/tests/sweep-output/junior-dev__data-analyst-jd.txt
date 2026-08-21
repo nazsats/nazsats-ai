@@ -1,0 +1,74 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 37/100
+
+**Hard requirements met**  
+- **Strong SQL:**  
+  - "Designed MySQL schemas and wrote reporting queries"  
+- **Python:**  
+  - "Built internal tools in Python and Django used by 40 staff" (Python is a nice-to-have, but included here for completeness)
+
+**Hard requirements missing**  
+- **2+ years analytics:**  
+  - No evidence of analytics-specific work. Your experience is in software development, not analytics.  
+- **Dashboarding in Power BI or Tableau:**  
+  - No mention of Power BI, Tableau, or any dashboarding tool.  
+- **Excel:**  
+  - No mention of Excel or spreadsheet work.  
+- **Communicating findings to non-technical stakeholders:**  
+  - Closest is "Handled customer complaints escalated from support," but this is not the same as communicating data insights or analytics findings.
+
+**Nice-to-haves met**  
+- **Python:**  
+  - "Built internal tools in Python and Django used by 40 staff"  
+- **A/B testing:**  
+  - No mention.
+
+**Worth applying?**  
+Probably not — you lack analytics experience, dashboarding, and Excel, which are all core to the role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Priya Sharma | priya@email.com | Pune
+
+SUMMARY  
+Software developer with experience in Python, MySQL, and web applications. Skilled in designing relational databases and building internal tools for business operations.
+
+SKILLS  
+- SQL (MySQL: schema design, reporting queries)  
+- Python  
+- Django  
+- REST APIs  
+- HTML, CSS, JavaScript  
+- Git
+
+EXPERIENCE
+
+Software Developer, Infobyte Solutions, Pune — June 2024 to present  
+- Designed MySQL schemas and wrote reporting queries to support internal business processes  
+- Built internal tools in Python and Django used by 40 staff  
+- Wrote unit tests, raising coverage from 30% to 65%  
+- Handled customer complaints escalated from support
+
+Intern, Infobyte Solutions — Jan 2024 to May 2024  
+- Fixed bugs in a Django app and wrote REST API documentation
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**  
+- Reordered and expanded SQL/MySQL and Python experience to the top of skills and bullets, as these are most relevant to the job.  
+- Used the job’s vocabulary where possible (e.g., "reporting queries", "internal business processes").  
+- Compressed less relevant web development skills (HTML, CSS, JavaScript) to the end of the skills list.  
+- Summarized experience to focus on data-related tasks.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Dashboarding in Power BI or Tableau (not in your CV)  
+- Excel (not in your CV)  
+- Analytics experience (not in your CV)  
+- Communicating findings to non-technical stakeholders (not in your CV)  
+- A/B testing (not in your CV)

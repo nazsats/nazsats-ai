@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 0/100
+
+**Hard requirements met:**  
+_None._
+
+**Hard requirements missing:**  
+- **5+ years professional Python** — No evidence of Python experience in CV.
+- **Production Kubernetes experience — you will own our cluster** — No mention of Kubernetes or any container orchestration.
+- **PostgreSQL at scale, including query optimisation and replication** — No mention of PostgreSQL or any database experience.
+- **AWS (EKS, RDS, S3)** — No mention of AWS or any cloud experience.
+- **Terraform or equivalent infrastructure as code** — No mention of Terraform or any infrastructure as code tools.
+- **Experience leading a team of at least 3 engineers** — No mention of team leadership or managing engineers.
+
+**Nice-to-haves met:**  
+_None._
+
+**Worth applying?** — Probably not. This is a completely different field and level; your CV shows no backend engineering or related experience.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai  
+anjali@email.com | +91 99887 76655 | Remote
+
+SUMMARY  
+Freelance designer with 4 years of experience delivering brand identities, social media graphics, and web design for small businesses. Skilled in client relationship management and end-to-end project delivery.
+
+SKILLS  
+Figma, Adobe Illustrator, Photoshop, brand identity, social media graphics, basic HTML/CSS, Canva
+
+EXPERIENCE
+
+Freelance Designer — 2022 to present  
+- Designed brand identities for 14 small businesses  
+- Produced social media graphics; one campaign raised engagement 40%  
+- Built two landing pages in HTML and CSS from my own designs  
+- Managed client relationships and project timelines end to end  
+
+Junior Designer, PixelCraft Studio, Ahmedabad — 2021 to 2022  
+- Produced marketing collateral under art director supervision  
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021
+
+**WHAT I CHANGED**  
+- Kept the CV structure and content unchanged, as none of your experience matches the backend engineering role.
+- Maintained focus on design and client management, as these are your demonstrated strengths.
+- Did not attempt to reword or reorder for backend engineering, as this would be misleading and against the rules.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 5+ years professional Python  
+- Production Kubernetes experience  
+- PostgreSQL at scale  
+- AWS (EKS, RDS, S3)  
+- Terraform or infrastructure as code  
+- Experience leading a team of engineers  
+- Go  
+- Kafka  
+
+**None of these are supported by your CV.**

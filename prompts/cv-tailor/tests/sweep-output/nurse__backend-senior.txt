@@ -1,0 +1,64 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 0/100
+
+**Hard requirements met**  
+_None._
+
+**Hard requirements missing**  
+- **5+ years Python:** No mention of Python or any programming language in your CV.
+- **Production Kubernetes:** No mention of Kubernetes or any container orchestration.
+- **PostgreSQL at scale with query optimisation and replication:** No mention of PostgreSQL, databases, or related technologies.
+- **AWS (EKS, RDS, S3):** No mention of AWS or any cloud platform.
+- **Terraform:** No mention of Terraform or infrastructure as code.
+- **Led a team of at least 3:** While you trained 8 junior nurses, this is not technical team leadership in software engineering.
+
+**Nice-to-haves met**  
+_None. No mention of Go or Kafka, or any related technologies._
+
+**Worth applying?**  
+Probably not — your background is in nursing, with no evidence of software engineering or any of the required technical skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Rahul Mehta | rahul@email.com | Mumbai
+
+SUMMARY  
+Registered nurse with 6 years of critical care experience, skilled in patient assessment, IV therapy, and team coordination within high-pressure environments.
+
+SKILLS  
+- Patient assessment  
+- IV therapy  
+- Epic EHR  
+- Triage  
+- Team coordination  
+
+EXPERIENCE  
+
+Staff Nurse, Lilavati Hospital — 2019 to present  
+- Managed up to 12 ICU patients per shift, ensuring high standards of care and safety  
+- Trained 8 junior nurses on documentation standards and best practices  
+- Coordinated between doctors, pharmacy, and families to facilitate effective patient care  
+
+EDUCATION  
+B.Sc. Nursing, MUHS, 2019
+
+**WHAT I CHANGED**  
+- Maintained your original CV structure, as none of your experience or skills match the requirements for a Senior Backend Engineer role.
+- Reworded the summary and bullets for clarity and conciseness, but did not add any technical or software engineering terms.
+- Kept all content strictly within your nursing experience, as per the rules.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Python (or any programming language)
+- Kubernetes
+- PostgreSQL (or any database experience)
+- AWS (EKS, RDS, S3)
+- Terraform
+- Technical team leadership
+- Go, Kafka
+
+**This list is complete — your CV does not support any of the job requirements.**

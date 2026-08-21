@@ -1,0 +1,67 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 28/100
+
+**Hard requirements met:**  
+- None.
+
+**Hard requirements missing:**  
+- **3+ years customer-facing SaaS:** No SaaS experience is mentioned. Your CV is focused on B2C ecommerce marketing, not SaaS or customer success.  
+- **Owning retention and escalations:** No evidence of direct responsibility for customer retention or handling escalations.  
+- **CRM tools such as Zendesk or Intercom:** No mention of any CRM tools; only marketing tools (Google Ads, Meta Ads, Google Analytics, email marketing).  
+- **Writing customer documentation:** No evidence of writing customer-facing documentation; only marketing emails.  
+- **Leading a small team:** No mention of team leadership or management experience.
+
+**Nice-to-haves met:**  
+- None.  
+  - **Basic SQL:** Not mentioned.  
+  - **Designing an onboarding programme:** Not mentioned.
+
+**Worth applying?**  
+Probably not — you do not meet any of the hard requirements, and your experience is in digital marketing, not customer success or SaaS.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Aditya Rao | aditya@email.com | Hyderabad
+
+SUMMARY  
+Digital marketer with 3 years’ experience in B2C ecommerce, specializing in paid campaigns, email marketing, and analytics. Proven track record in optimizing acquisition costs and managing large-scale communications.
+
+SKILLS  
+- Google Ads  
+- Meta Ads  
+- SEO  
+- Google Analytics  
+- Email marketing  
+- Canva
+
+EXPERIENCE
+
+Marketing Executive, ShopKart — 2023 to present  
+- Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh, optimizing for customer acquisition.  
+- Reduced cost per acquisition by 38% over two quarters through data-driven campaign management.  
+- Wrote and scheduled weekly marketing emails to a subscriber base of 60,000, supporting customer engagement and retention initiatives.
+
+EDUCATION  
+BBA Marketing, Osmania University, 2022
+
+**WHAT I CHANGED**  
+- Reworded and reordered bullets to emphasize customer engagement and retention, as relevant to customer success.  
+- Used phrases like “customer acquisition” and “customer engagement” to align with the job’s vocabulary.  
+- Highlighted communication with a large subscriber base to show scale and responsibility.  
+- Compressed unrelated details to keep focus on transferable skills.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 3+ years customer-facing SaaS experience  
+- Owning retention and escalations in a SaaS context  
+- CRM tools such as Zendesk or Intercom  
+- Writing customer documentation (beyond marketing emails)  
+- Leading a small team  
+- Basic SQL  
+- Designing an onboarding programme
+
+If you gain experience in SaaS, customer success, CRM tools, or team leadership, you’ll be a stronger match for this kind of role.

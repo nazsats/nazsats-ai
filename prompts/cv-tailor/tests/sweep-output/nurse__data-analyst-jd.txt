@@ -1,0 +1,63 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- None. There is no evidence in your CV of analytics experience, SQL, dashboarding, Excel, or communicating data findings.
+
+**Hard requirements missing**  
+- 2+ years analytics: No analytics experience mentioned.
+- Strong SQL: No mention of SQL or any database querying.
+- Dashboarding in Power BI or Tableau: No mention of either tool or dashboarding.
+- Excel: Not listed as a skill or in experience.
+- Communicating findings to non-technical stakeholders: While you coordinated between doctors, pharmacy, and families, this is not the same as communicating data findings.
+
+**Nice-to-haves met**  
+- None. No mention of Python or A/B testing.
+
+**Worth applying?**  
+Probably not — your CV is in a different field (nursing), with no evidence of analytics, technical, or data skills required for this job.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Rahul Mehta | rahul@email.com | Mumbai
+
+SUMMARY  
+Registered nurse with 6 years of critical care experience, skilled in patient assessment, team coordination, and clinical documentation. Proven ability to manage complex situations and collaborate with multidisciplinary teams.
+
+SKILLS  
+- Patient assessment  
+- IV therapy  
+- Epic EHR  
+- Triage  
+- Team coordination
+
+EXPERIENCE
+
+Staff Nurse, Lilavati Hospital — 2019 to present  
+- Managed up to 12 ICU patients per shift, ensuring high standards of care and patient safety  
+- Trained 8 junior nurses on documentation standards, improving accuracy and compliance  
+- Coordinated between doctors, pharmacy, and families to facilitate effective patient care
+
+EDUCATION  
+B.Sc. Nursing, MUHS, 2019
+
+**WHAT I CHANGED**  
+- Reworded and reordered the summary to emphasize coordination and communication, the closest adjacent skills to the job requirements.
+- Highlighted team coordination and documentation training as the most relevant experience.
+- Compressed unrelated details to focus on transferable skills.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 2+ years analytics experience  
+- Strong SQL  
+- Dashboarding in Power BI or Tableau  
+- Excel  
+- Communicating data findings to non-technical stakeholders  
+- Python  
+- A/B testing
+
+These requirements are not supported by your CV.

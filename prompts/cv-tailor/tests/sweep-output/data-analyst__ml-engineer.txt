@@ -1,0 +1,83 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 22/100
+
+**Hard requirements met:**  
+- **Strong statistics:**  
+  - "B.Sc Statistics, Delhi University, 2022"  
+- **pandas:**  
+  - "Python (pandas)" in SKILLS  
+
+**Hard requirements missing:**  
+- **4+ years deploying ML in production:**  
+  - Nothing in your CV supports ML deployment or 4+ years' experience. Your CV shows "2023 to present" at RetailIQ and graduation in 2022.
+- **PyTorch or TensorFlow:**  
+  - No mention of either framework.
+- **Feature engineering:**  
+  - No mention of feature engineering.
+- **MLOps - versioning, monitoring, retraining:**  
+  - No mention of MLOps, versioning, monitoring, or retraining.
+- **NumPy, scikit-learn:**  
+  - No mention of either library.
+- **Deploying ML in production:**  
+  - No evidence of any ML deployment.
+
+**Nice-to-haves met:**  
+- None.
+
+**Nice-to-haves missing:**  
+- **LLM fine-tuning:**  
+  - No mention.
+- **Distributed training:**  
+  - No mention.
+
+**Worth applying?**  
+Probably not — you lack all core ML engineering experience and tools required, with no evidence of ML deployment, frameworks, or MLOps.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Nisha Verma | nisha@email.com | Gurgaon
+
+SUMMARY  
+Data analyst with 3 years’ experience in retail analytics, specializing in SQL, Power BI, and statistical analysis. Strong foundation in statistics and hands-on experience with Python (pandas) for data analysis and A/B testing.
+
+SKILLS  
+- Statistics (B.Sc Statistics)
+- SQL
+- Python (pandas)
+- Power BI dashboards
+- Excel
+- A/B testing
+- Data visualization
+
+EXPERIENCE
+
+Data Analyst, RetailIQ — 2023 to present  
+- Developed and maintained Power BI dashboards for 30 store managers, enabling data-driven decision making.  
+- Wrote SQL queries for weekly sales reporting across 120 stores, ensuring accurate and timely insights.  
+- Conducted A/B tests on pricing strategies, resulting in a 4% increase in profit margin.  
+- Utilized Python (pandas) for data cleaning and analysis to support business initiatives.
+
+EDUCATION  
+B.Sc Statistics, Delhi University, 2022
+
+**WHAT I CHANGED**  
+- Reworded the summary to emphasize statistics and Python (pandas), which are relevant to the job’s requirements.
+- Reordered and expanded skills to highlight statistics, Python (pandas), and SQL at the top, as these are most relevant.
+- Rewrote experience bullets to use the employer’s vocabulary (e.g., “data-driven decision making,” “data cleaning and analysis”).
+- Surfaced statistical and Python experience in both the summary and experience sections.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years deploying ML in production  
+- PyTorch or TensorFlow  
+- Feature engineering  
+- MLOps (versioning, monitoring, retraining)  
+- NumPy, scikit-learn  
+- LLM fine-tuning  
+- Distributed training
+
+If you gain experience in ML frameworks, deployment, or MLOps, update your CV accordingly.

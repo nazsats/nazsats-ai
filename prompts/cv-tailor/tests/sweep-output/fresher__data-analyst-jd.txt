@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 18/100
+
+**Hard requirements met**  
+- None fully met.
+
+**Hard requirements missing**  
+- **2+ years analytics experience:** No professional analytics experience is listed; only student projects and hackathons.
+- **Strong SQL:** Only "MySQL" is listed under skills, with a college project as evidence. No indication of "strong" SQL or professional use.
+- **Dashboarding in Power BI or Tableau:** No mention of Power BI, Tableau, or any dashboarding tools.
+- **Excel:** No mention of Excel.
+- **Communicating findings to non-technical stakeholders:** No evidence of this skill or activity.
+
+**Nice-to-haves met**  
+- **Python:** "basic Python" is listed under skills.
+- **A/B testing:** No mention.
+
+**Worth applying?**  
+Probably not — you do not meet any of the hard requirements, and your CV shows only student-level experience with no analytics, dashboarding, or Excel background.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Karan Patel | karan@email.com | Ahmedabad
+
+SUMMARY  
+Final-year B.Tech Information Technology student with hands-on experience in Java, MySQL, and data structures. Demonstrated ability to deliver technical projects and collaborate in team settings. Seeking an entry-level opportunity to apply analytical and programming skills.
+
+SKILLS  
+- MySQL  
+- Java  
+- C++  
+- Data Structures and Algorithms (DSA)  
+- Basic Python  
+- Git
+
+EXPERIENCE
+
+College Project: Library Management System  
+- Developed a library management system using Java and MySQL, implementing core database operations and user interface logic.
+
+Hackathon: Bus-Tracking Android Prototype  
+- Collaborated in a team to design and prototype a real-time bus-tracking Android application; achieved 2nd place out of 40 teams.
+
+EDUCATION  
+B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+
+**WHAT I CHANGED**  
+- Rewrote the summary to focus on analytical and programming skills relevant to a data analyst role.
+- Reordered and reworded skills to put MySQL and programming languages first, as these are closest to the requirements.
+- Expanded the college project and hackathon experience to highlight teamwork, technical delivery, and database use.
+- Compressed education and removed unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 2+ years analytics experience (not present in CV)
+- Dashboarding in Power BI or Tableau (not present in CV)
+- Excel (not present in CV)
+- Communicating findings to non-technical stakeholders (not present in CV)
+- A/B testing (not present in CV)
+
+If you gain experience with analytics, dashboarding, or Excel, or complete relevant internships, your match score will improve significantly.

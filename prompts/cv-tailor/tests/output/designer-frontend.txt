@@ -1,0 +1,85 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 35/100
+
+**Hard requirements met**  
+- **Working with design tools (Figma) and translating designs to code**  
+  - "Figma" (SKILLS), "Built two landing pages in HTML and CSS from my own designs"  
+- **Strong CSS, responsive design**  
+  - "Built two landing pages in HTML and CSS from my own designs" (responsive design is implied but not explicitly stated)  
+- **Cross-browser compatibility**  
+  - No explicit evidence in CV  
+- **3+ years frontend development**  
+  - "basic HTML/CSS" (SKILLS), "Built two landing pages in HTML and CSS from my own designs" (EXPERIENCE) — but only two landing pages, and no evidence of 3+ years or sustained frontend work  
+- **React and modern JavaScript**  
+  - No evidence in CV  
+
+**Hard requirements missing**  
+- **3+ years frontend development**  
+  - Your CV shows freelance design (2022–present) and junior design (2021–2022), but only two landing pages built, and no indication of sustained frontend development or 3+ years.  
+- **React and modern JavaScript**  
+  - No mention of React, JavaScript, or any JavaScript framework.  
+- **Cross-browser compatibility**  
+  - No mention of testing or ensuring cross-browser compatibility.  
+
+**Nice-to-haves met**  
+- **Design background**  
+  - "Freelance designer, 4 years, working with small businesses."  
+- **TypeScript**  
+  - No evidence in CV.  
+
+**Worth applying?**  
+Probably not — you lack React, JavaScript, and sustained frontend experience, which are core requirements for this role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai  
+anjali@email.com | +91 99887 76655 | Remote
+
+SUMMARY  
+Designer with 4 years’ experience creating brand identities and digital assets for small businesses. Skilled in Figma, Adobe Creative Suite, and building landing pages with HTML and CSS. Experienced in translating design concepts into functional web pages.
+
+SKILLS  
+- Figma  
+- Adobe Illustrator  
+- Photoshop  
+- HTML/CSS (basic)  
+- Brand identity  
+- Social media graphics  
+- Canva  
+- Client relationship management  
+- Project management
+
+EXPERIENCE
+
+Freelance Designer — 2022 to present  
+- Designed brand identities for 14 small businesses, delivering cohesive visual systems  
+- Produced social media graphics, including a campaign that raised engagement by 40%  
+- Built two landing pages in HTML and CSS based on original Figma designs  
+- Managed client relationships and project timelines from initial brief to delivery
+
+Junior Designer, PixelCraft Studio, Ahmedabad — 2021 to 2022  
+- Produced marketing collateral under art director supervision  
+- Supported design team in preparing assets for digital and print campaigns
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021
+
+**WHAT I CHANGED**  
+- Reordered and expanded the summary to emphasize web and frontend-related skills  
+- Placed Figma, HTML/CSS, and design-to-code skills at the top of the skills list  
+- Reworded experience bullets to use phrases like "translating design concepts into functional web pages" and "based on original Figma designs"  
+- Highlighted client/project management as "client relationship management"  
+- Compressed less relevant experience and education
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- React and modern JavaScript (no evidence in CV)  
+- TypeScript (no evidence in CV)  
+- Cross-browser compatibility (no evidence in CV)  
+- 3+ years of sustained frontend development (only two landing pages built, not sustained or at scale)  
+
+If you gain experience with React, JavaScript, and more substantial frontend projects, you’ll be a much stronger match for roles like this.

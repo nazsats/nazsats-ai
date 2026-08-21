@@ -1,0 +1,78 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 32/100
+
+**Hard requirements met**  
+- 2+ years analytics  
+  - Nothing in your CV directly evidences analytics work. Your experience is in backend engineering and distributed systems, not analytics.
+- Strong SQL  
+  - "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes" (shows some SQL/database experience, but not analytics-focused SQL).
+- Dashboarding in Power BI or Tableau  
+  - No mention of Power BI or Tableau anywhere in your CV.
+- Excel  
+  - No mention of Excel.
+- Communicating findings to non-technical stakeholders  
+  - "Led a team of 5; ran hiring and design reviews" (shows some communication, but not specifically about analytics findings to non-technical stakeholders).
+
+**Hard requirements missing**  
+- 2+ years analytics: No analytics experience is described; all experience is backend/distributed systems engineering.
+- Dashboarding in Power BI or Tableau: No evidence of either tool.
+- Excel: No evidence of Excel.
+- Communicating findings to non-technical stakeholders: No direct evidence of analytics findings or communication to non-technical audiences.
+
+**Nice-to-haves met**  
+- Python: "SKILLS: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC" (Python listed).
+- A/B testing: Not mentioned.
+
+**Worth applying?**  
+Probably not — you lack direct analytics experience and the core dashboarding/Excel skills this job requires.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Vikram Iyer | vikram@email.com | Bengaluru
+
+SUMMARY  
+Backend engineer with 9 years of experience in distributed systems, specializing in large-scale data infrastructure, SQL optimization, and team leadership.
+
+SKILLS  
+- SQL (PostgreSQL)
+- Python
+- Distributed systems
+- Go
+- Kubernetes
+- AWS
+- Kafka
+- Terraform
+- gRPC
+
+EXPERIENCE
+
+Staff Engineer, ScaleWorks — 2021 to present  
+- Owned a 60-node Kubernetes cluster serving 12M requests daily, ensuring high reliability and performance of backend data systems.  
+- Led a team of 5 engineers, conducting hiring and design reviews to drive project success.  
+- Improved SQL query performance by reworking Postgres indexes, reducing p99 latency from 340ms to 90ms.
+
+Senior Engineer, DataCore — 2017 to 2021  
+- Built and maintained Kafka pipelines processing 2TB of data daily, supporting robust data flows for backend services.
+
+EDUCATION  
+M.Tech Computer Science & Engineering, IIT Madras, 2017
+
+**WHAT I CHANGED**  
+- Reordered and expanded SQL/PostgreSQL experience to highlight relevance to analytics roles.
+- Placed Python and SQL at the top of the skills section, as these are most relevant to the job.
+- Used the job's vocabulary where possible (e.g., "SQL query performance").
+- Compressed unrelated backend/distributed systems details.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Analytics experience (2+ years): Not supported by your CV.
+- Dashboarding in Power BI or Tableau: Not supported by your CV.
+- Excel: Not supported by your CV.
+- Communicating analytics findings to non-technical stakeholders: Not supported by your CV.
+- A/B testing: Not supported by your CV.
+
+If you gain experience in analytics, dashboarding, or Excel, update your CV to reflect that before applying to roles like this.

@@ -1,0 +1,66 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 0/100
+
+**Hard requirements met**  
+_None._
+
+**Hard requirements missing**  
+- **5+ years Python:** No mention of Python anywhere in your CV.
+- **Production Kubernetes:** No mention of Kubernetes or any container orchestration.
+- **PostgreSQL at scale with query optimisation and replication:** No mention of PostgreSQL or any database experience.
+- **AWS (EKS, RDS, S3):** No mention of AWS or any cloud platform.
+- **Terraform:** No mention of Terraform or infrastructure as code.
+- **Has led a team of at least 3:** No mention of team leadership or management.
+
+**Nice-to-haves met**  
+_None. No mention of Go or Kafka, or anything adjacent._
+
+**Worth applying?**  
+Probably not — your experience is entirely in digital marketing, not backend engineering, and you do not meet any of the hard requirements.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Aditya Rao | aditya@email.com | Hyderabad
+
+SUMMARY  
+Digital marketer with 3 years’ experience in B2C ecommerce, specialising in paid campaigns, email marketing, and analytics.
+
+SKILLS  
+- Google Ads  
+- Meta Ads  
+- SEO  
+- Google Analytics  
+- Email marketing  
+- Canva  
+
+EXPERIENCE  
+
+Marketing Executive, ShopKart — 2023 to present  
+- Managed Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh  
+- Reduced cost per acquisition by 38% over two quarters  
+- Wrote and scheduled weekly marketing emails to a subscriber base of 60,000  
+
+EDUCATION  
+BBA Marketing, Osmania University, 2022
+
+**WHAT I CHANGED**  
+- Kept the CV structure but reordered and clarified skills and outcomes for readability.
+- Used more formal phrasing for experience bullets to match standard CV language.
+- Kept all content focused on marketing, as there is no relevant backend engineering experience to surface or reword.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Python (no mention in CV)
+- Kubernetes (no mention in CV)
+- PostgreSQL (no mention in CV)
+- AWS (no mention in CV)
+- Terraform (no mention in CV)
+- Team leadership (no mention in CV)
+- Go (no mention in CV)
+- Kafka (no mention in CV)
+
+**This list is complete — your CV does not support any of the job’s requirements.**

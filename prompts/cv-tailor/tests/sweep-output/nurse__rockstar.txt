@@ -1,0 +1,66 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None. There is no evidence in your CV of any software development, programming languages, or related technical skills.
+
+**Hard requirements missing**  
+- Full stack development — No mention of any software development experience.
+- Client relationship management (in a tech context) — No evidence; "Coordinated between doctors, pharmacy and families" is not client management in a software context.
+- Agile and Scrum — No mention of Agile, Scrum, or any software development methodologies.
+- Cross-functional collaboration (in a tech context) — No evidence; healthcare team coordination is not the same as cross-functional tech teams.
+- Data-driven decisions (in a tech context) — No evidence of data analysis or decision-making using data in a software environment.
+- Stakeholder management (in a tech context) — No evidence; healthcare coordination is not the same as tech stakeholder management.
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD — None of these technical skills or tools are mentioned anywhere in your CV.
+- "10x engineer", "self-starter", "ninja", "wears many hats" — No evidence of any engineering or software roles.
+
+**Nice-to-haves met**  
+- Team coordination — "Coordinated between doctors, pharmacy and families" and "Trained 8 junior nurses on documentation standards" show some team coordination, though not in a tech context.
+
+**Worth applying?**  
+Probably not — Your background is entirely in nursing and healthcare, with no evidence of software development or related technical skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Rahul Mehta | rahul@email.com | Mumbai
+
+SUMMARY  
+Registered nurse with 6 years of critical care experience, skilled in patient assessment, documentation, and team coordination in high-pressure environments.
+
+SKILLS  
+- Patient assessment  
+- IV therapy  
+- Epic EHR  
+- Triage  
+- Team coordination
+
+EXPERIENCE  
+
+Staff Nurse, Lilavati Hospital — 2019 to present  
+- Managed up to 12 ICU patients per shift, ensuring high standards of care and safety in a fast-paced environment  
+- Trained 8 junior nurses on documentation standards and best practices  
+- Coordinated between doctors, pharmacy, and families to support patient care and communication
+
+EDUCATION  
+B.Sc. Nursing, MUHS, 2019
+
+**WHAT I CHANGED**  
+- Reworded bullets to emphasize high-pressure environments and team coordination, as these are the only remotely relevant overlaps with the job description.
+- Used phrases like "fast-paced environment" and "team coordination" to match the job's vocabulary where possible.
+- Kept all healthcare-specific skills and experience, as there is no evidence of software or tech skills to promote.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Full stack development  
+- Any programming languages or frameworks (Python, JavaScript, React, Node.js, MongoDB)  
+- AWS, Docker, CI/CD  
+- Agile, Scrum, or any software development methodologies  
+- Client relationship management (in a tech context)  
+- Stakeholder management (in a tech context)  
+- Data-driven decision making (in a tech context)  
+
+This list is complete; your CV does not support any of the technical or software development requirements for this role.

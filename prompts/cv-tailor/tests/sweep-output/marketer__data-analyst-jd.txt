@@ -1,0 +1,67 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 25/100
+
+**Hard requirements met**  
+- "2+ years analytics" — PARTIAL. Your CV shows: "Cut cost per acquisition 38% over two quarters" and "Ran Google and Meta campaigns, monthly budget Rs 4 lakh." This shows some data-driven marketing, but not dedicated analytics roles or responsibilities.
+- "Communicating findings to non-technical stakeholders" — PARTIAL. Your CV shows: "Wrote and scheduled weekly emails to 60k subscribers." This is communication, but not specifically about analytics findings.
+
+**Hard requirements missing**  
+- "Strong SQL" — Nowhere in your CV.
+- "Dashboarding in Power BI or Tableau" — Nowhere in your CV.
+- "Excel" — Nowhere in your CV.
+- "2+ years analytics" — Your CV is for digital marketing, not analytics. No explicit analytics role or title.
+- "Gurgaon location" — Your CV says Hyderabad.
+
+**Nice-to-haves met**  
+- None.  
+  - "Python" — Not in your CV.
+  - "A/B testing" — Not in your CV.
+
+**Worth applying?**  
+Probably not — you lack all the core technical requirements (SQL, dashboarding, Excel) and your experience is in digital marketing, not analytics.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Aditya Rao | aditya@email.com | Hyderabad
+
+SUMMARY  
+Digital marketer with 3 years of experience in B2C ecommerce, specializing in performance marketing campaigns, cost optimization, and large-scale email communications.
+
+SKILLS  
+- Google Ads  
+- Meta Ads  
+- SEO  
+- Google Analytics  
+- Email marketing  
+- Canva  
+
+EXPERIENCE  
+
+Marketing Executive, ShopKart — 2023 to present  
+- Ran Google and Meta advertising campaigns with a monthly budget of Rs 4 lakh, using data-driven strategies to optimize performance.  
+- Reduced cost per acquisition by 38% over two quarters through continuous analysis and campaign adjustments.  
+- Wrote and scheduled weekly email campaigns to a subscriber base of 60,000, communicating marketing messages and campaign results to a broad audience.
+
+EDUCATION  
+BBA Marketing, Osmania University, 2022
+
+**WHAT I CHANGED**  
+- Reworded bullets to emphasize data-driven decision making and communication of results, aligning with analytics and stakeholder communication requirements.
+- Placed emphasis on campaign optimization and performance analysis.
+- Used language such as "data-driven strategies" and "continuous analysis" to surface analytical aspects of your marketing work.
+- Kept skills and experience order focused on what is most relevant to analytics.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- SQL (no mention in your CV)
+- Dashboarding in Power BI or Tableau (no mention in your CV)
+- Excel (no mention in your CV)
+- Python (no mention in your CV)
+- A/B testing (no mention in your CV)
+- Gurgaon location (your CV says Hyderabad)
+
+If you want to move into analytics, consider upskilling in SQL, Excel, and dashboarding tools, and update your CV once you have relevant experience.

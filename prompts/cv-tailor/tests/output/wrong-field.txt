@@ -1,0 +1,64 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 0/100
+
+**Hard requirements met**  
+_None._
+
+**Hard requirements missing**  
+- 4+ years building and deploying ML models in production — No evidence of any ML experience in your CV.
+- Deep learning with PyTorch or TensorFlow — No mention of deep learning or these frameworks.
+- Feature engineering on large datasets — No data science or data engineering experience.
+- MLOps: model versioning, monitoring, retraining pipelines — No MLOps or related engineering experience.
+- Strong statistics and linear algebra — No evidence of advanced mathematics or statistics.
+- Python, NumPy, pandas, scikit-learn — No programming or Python libraries mentioned.
+
+**Nice-to-haves met**  
+_None._
+
+**Worth applying?**  
+Probably not — your experience is entirely in nursing, with no overlap with machine learning or software engineering.
+
+Scoring guide: 0-29 = different field or level entirely.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Rahul Mehta  
+rahul.mehta@email.com | +91 91234 56789 | Mumbai
+
+SUMMARY  
+Registered nurse with 6 years of experience in critical care, specializing in patient assessment, team coordination, and medical documentation.
+
+SKILLS  
+Patient assessment, IV therapy, electronic health records (Epic), triage, team coordination, medical documentation
+
+EXPERIENCE  
+Staff Nurse, Lilavati Hospital, Mumbai — 2019 to present  
+- Managed care for up to 12 ICU patients per shift  
+- Trained 8 junior nurses on documentation standards  
+- Coordinated between doctors, pharmacy and families  
+- Maintained records in Epic EHR  
+
+EDUCATION  
+B.Sc. Nursing, Maharashtra University of Health Sciences, 2019
+
+**WHAT I CHANGED**  
+- Maintained original order and content, as nothing in the CV is relevant to the job description.
+- Reworded the summary slightly to match standard CV language.
+- Ensured all skills and experience remain nursing-focused, as per your background.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years building and deploying ML models in production  
+- Deep learning with PyTorch or TensorFlow  
+- Feature engineering on large datasets  
+- MLOps: model versioning, monitoring, retraining pipelines  
+- Strong statistics and linear algebra  
+- Python, NumPy, pandas, scikit-learn  
+- LLM fine-tuning  
+- Distributed training  
+
+**None of these requirements are supported by your CV.**

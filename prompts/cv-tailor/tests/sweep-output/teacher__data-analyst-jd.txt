@@ -1,0 +1,75 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 12/100
+
+**Hard requirements met**  
+- Communicating findings to non-technical stakeholders  
+  - "Mentored 4 new teachers" (some evidence of communication, but not in analytics context)
+  - "Teach grades 11 and 12; class average rose from 62 to 78 percent" (implies some communication of results, but not analytics findings)
+
+**Hard requirements missing**  
+- 2+ years analytics  
+  - No analytics experience stated in CV.
+- Strong SQL  
+  - No mention of SQL or any database skills.
+- Dashboarding in Power BI or Tableau  
+  - No mention of Power BI, Tableau, or any dashboarding tools.
+- Excel  
+  - No mention of Excel or spreadsheet skills.
+
+**Nice-to-haves met**  
+- None.
+
+**Nice-to-haves missing**  
+- Python  
+  - No mention of Python.
+- A/B testing  
+  - No mention of A/B testing.
+
+**Worth applying?**  
+Probably not — you do not meet any of the core technical requirements, and your experience is in a different field.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Meera Nair | meera@email.com | Kochi
+
+SUMMARY  
+Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and assessment. Proven ability to communicate complex concepts to diverse audiences and mentor peers. Seeking to leverage educational experience in a new analytical or data-driven environment.
+
+SKILLS  
+- Curriculum design  
+- Classroom management  
+- Assessment  
+- Google Classroom  
+
+EXPERIENCE
+
+Physics Teacher, St Thomas HSS — 2018 to present  
+- Taught grades 11 and 12, improving class average from 62% to 78%  
+- Designed a laboratory curriculum adopted across three schools  
+- Mentored 4 new teachers, supporting their professional development  
+- Developed and implemented assessment strategies to measure student progress  
+
+EDUCATION  
+M.Sc Physics, Kerala University, 2017  
+B.Ed, 2018  
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize communication, mentoring, and analytical thinking as relevant to data roles.  
+- Reordered and expanded bullets to highlight measurable outcomes and communication skills.  
+- Used phrases like "assessment strategies" and "communicate complex concepts" to align with the job's focus on communicating findings.  
+- Kept skills and experience focused on what is present in the CV.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 2+ years analytics experience  
+- SQL  
+- Dashboarding in Power BI or Tableau  
+- Excel  
+- Python  
+- A/B testing
+
+These requirements are not supported by your CV and are therefore not included.

@@ -1,0 +1,68 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 18/100
+
+**Hard requirements met**  
+- Familiarity with digital learning tools  
+  - "SKILLS: Figma, Illustrator, Photoshop, ... basic HTML/CSS, Canva" (shows comfort with digital tools, though not specifically educational ones)
+
+**Hard requirements missing**  
+- 5+ years teaching or curriculum work  
+  - No evidence of teaching or curriculum design; "Freelance designer, 4 years" and "Junior Designer" are unrelated fields.
+- Designing assessments  
+  - No mention of assessment design or related experience.
+- Subject expertise in physics or chemistry  
+  - No evidence of science background; education is in Applied Arts.
+- Training other educators  
+  - No mention of training or mentoring others.
+  
+**Nice-to-haves met**  
+- None. No EdTech experience or published material is mentioned.
+
+**Worth applying?**  
+Probably not — you lack all core requirements (teaching/curriculum experience, science expertise, assessment design, educator training), and your background is in design, not education or science.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai | anjali@email.com | Remote
+
+SUMMARY  
+Creative designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in digital design tools and visual communication, seeking to apply design expertise in new contexts.
+
+SKILLS  
+- Digital design: Figma, Illustrator, Photoshop, Canva  
+- Basic HTML/CSS  
+- Brand identity development  
+- Visual communication
+
+EXPERIENCE
+
+Freelance Designer | 2022 – present  
+- Developed brand identities for 14 small businesses, collaborating closely with clients to understand their needs and deliver tailored visual solutions  
+- Designed and executed a social media campaign that increased engagement by 40%  
+- Built two landing pages using HTML and CSS, ensuring responsive and visually appealing layouts
+
+Junior Designer, PixelCraft Studio | 2021 – 2022  
+- Supported senior designers in creating digital and print assets for client projects  
+- Assisted in the development of marketing materials and visual content
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021
+
+**WHAT I CHANGED**  
+- Reworded and reordered the summary to highlight digital skills and adaptability, as relevant as possible to curriculum design.  
+- Placed digital design tools and visual communication at the top of the skills section, as these are the closest match to the job’s digital learning tools requirement.  
+- Expanded freelance experience bullets to emphasize collaboration and tailored solutions, echoing curriculum customization.  
+- Compressed unrelated details and kept the focus on digital and design skills.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 5+ years teaching or curriculum work (no evidence in CV)  
+- Designing assessments (no evidence in CV)  
+- Subject expertise in physics or chemistry (no evidence in CV)  
+- Training other educators (no evidence in CV)  
+- EdTech experience (no evidence in CV)  
+- Published material (no evidence in CV)

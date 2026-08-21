@@ -1,0 +1,106 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 41/100
+
+**Hard requirements met**  
+- Full stack development  
+  - Partial: "Software developer with 2 years of experience building web applications." (CV evidences backend and some frontend, but not full stack as per their stack.)
+- Client relationship management  
+  - Partial: "Handled customer complaints escalated from the support team." (Some client interaction, but not full relationship management.)
+- Excellent communication skills  
+  - Partial: Implied by handling complaints and writing documentation, but not directly stated.
+- Problem-solving mindset  
+  - Implied: "Fixed bugs in an internal Django app." and "Wrote unit tests, raised coverage from 30% to 65%."
+- Python  
+  - Met: "Python" (in skills and experience)
+- JavaScript  
+  - Met: "JavaScript" (in skills)
+- REST APIs  
+  - Met: "REST APIs" (in skills, and "Wrote documentation for the REST API")
+
+**Hard requirements missing**  
+- React  
+  - Missing: No mention of React anywhere in CV.
+- Node.js  
+  - Missing: No mention of Node.js.
+- MongoDB  
+  - Missing: No mention of MongoDB.
+- AWS  
+  - Missing: No mention of AWS.
+- Docker  
+  - Missing: No mention of Docker.
+- CI/CD  
+  - Missing: No mention of CI/CD.
+- Agile/Scrum methodology  
+  - Missing: No mention of Agile, Scrum, or any methodology.
+- Cross-functional collaboration  
+  - Missing: No explicit mention of working with other teams or functions.
+- Data-driven decision making  
+  - Missing: No mention of data-driven approaches.
+- Stakeholder management  
+  - Missing: No mention of stakeholder management.
+
+**Nice-to-haves met**  
+- Git  
+  - Met: "Git" (in skills)
+- MySQL  
+  - Adjacent: "MySQL" (in skills and experience; not MongoDB, but a relational DB)
+
+**Worth applying?**  
+Probably not — you are missing several core hard requirements (React, Node.js, MongoDB, AWS, Docker, CI/CD, Agile/Scrum, stakeholder management), and your experience is not full stack as defined by their stack.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Priya Sharma  
+priya.sharma@email.com | +91 98765 43210 | Pune
+
+SUMMARY  
+Software developer with experience building web applications using Python, Django, JavaScript, and MySQL. Skilled in backend and frontend development, REST APIs, and improving code quality through testing and documentation.
+
+SKILLS  
+- Python  
+- Django  
+- JavaScript  
+- HTML, CSS  
+- MySQL  
+- REST APIs  
+- Git
+
+EXPERIENCE  
+
+Software Developer, Infobyte Solutions, Pune — June 2024 to present  
+- Developed and maintained web applications using Python and Django for internal tools used by 40 staff.  
+- Designed and implemented MySQL schemas and wrote queries for reporting and analytics.  
+- Collaborated with the support team to address and resolve customer complaints, demonstrating client interaction and communication skills.  
+- Increased unit test coverage from 30% to 65% to improve code reliability and maintainability.  
+
+Intern, Infobyte Solutions — Jan 2024 to May 2024  
+- Fixed bugs and improved functionality in an internal Django application.  
+- Authored documentation for REST APIs to support internal users and developers.
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**
+- Reworded bullets to emphasize full stack and client interaction, using job description vocabulary where possible.
+- Placed Python, Django, JavaScript, and REST APIs at the top of the skills section to match job priorities.
+- Expanded on communication and collaboration aspects from your experience.
+- Compressed less relevant details and surfaced evidence of problem-solving and documentation.
+
+**WHAT I DELIBERATELY DID NOT ADD**
+- React (not in CV)
+- Node.js (not in CV)
+- MongoDB (not in CV)
+- AWS (not in CV)
+- Docker (not in CV)
+- CI/CD (not in CV)
+- Agile/Scrum methodology (not in CV)
+- Cross-functional collaboration (not in CV)
+- Data-driven decision making (not in CV)
+- Stakeholder management (not in CV)
+
+If you gain experience or training in any of these areas, update your CV accordingly.

@@ -1,0 +1,84 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 18/100
+
+**Hard requirements met**  
+- Python  
+  - "Python" listed in SKILLS and used in both roles: "Built internal tools in Python and Django"
+- Some experience building applications  
+  - "Software developer with 2 years of experience building web applications."
+- MySQL (adjacent to data work, but not ML-specific)  
+  - "Designed MySQL schemas and wrote queries for reporting"
+
+**Hard requirements missing**  
+- 4+ years building and deploying ML models in production  
+  - Your CV shows June 2024 onwards as Software Developer, and Jan 2024–May 2024 as Intern. No mention of ML models, production deployment, or 4+ years.
+- Deep learning with PyTorch or TensorFlow  
+  - No mention of PyTorch, TensorFlow, or deep learning.
+- Feature engineering on large datasets  
+  - No mention of feature engineering or large datasets.
+- MLOps: model versioning, monitoring, retraining pipelines  
+  - No mention of MLOps, model versioning, monitoring, or retraining.
+- Strong statistics and linear algebra  
+  - No mention of statistics or linear algebra.
+- NumPy, pandas, scikit-learn  
+  - No mention of NumPy, pandas, or scikit-learn.
+
+**Nice-to-haves met**  
+- None.
+
+**Nice-to-haves missing**  
+- LLM fine-tuning  
+  - No mention of LLMs or fine-tuning.
+- Distributed training  
+  - No mention of distributed training.
+
+**Worth applying?**  
+Probably not — you lack all core ML experience, required years, and relevant tools; this is a different field and level.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Priya Sharma  
+priya.sharma@email.com | +91 98765 43210 | Pune
+
+SUMMARY  
+Software developer experienced in building web applications using Python and Django, with a focus on backend development, database design, and REST APIs.
+
+SKILLS  
+Python, Django, MySQL, HTML, CSS, JavaScript, Git, REST APIs
+
+EXPERIENCE
+
+Software Developer, Infobyte Solutions, Pune — June 2024 to present  
+- Built internal tools in Python and Django used by 40 staff, focusing on backend logic and data management  
+- Designed MySQL schemas and wrote queries for reporting and analytics  
+- Handled customer complaints escalated from the support team, ensuring timely resolution and client satisfaction  
+- Wrote unit tests, raising code coverage from 30% to 65% to improve code reliability
+
+Intern, Infobyte Solutions — Jan 2024 to May 2024  
+- Fixed bugs in an internal Django app to improve stability  
+- Wrote documentation for the REST API to support developer onboarding
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**
+- Reworded bullets to emphasize backend development, data management, and analytics, as these are the closest adjacent skills to ML/data work.
+- Used the job's vocabulary where possible (e.g., "data management", "analytics", "backend logic").
+- Placed Python and Django skills at the top of the skills section.
+- Expanded on reporting and analytics in the MySQL bullet to align with data-centric requirements.
+- Compressed less relevant details (e.g., front-end skills, customer support).
+
+**WHAT I DELIBERATELY DID NOT ADD**
+- 4+ years building and deploying ML models in production (no evidence)
+- Deep learning with PyTorch or TensorFlow (no evidence)
+- Feature engineering on large datasets (no evidence)
+- MLOps: model versioning, monitoring, retraining pipelines (no evidence)
+- Strong statistics and linear algebra (no evidence)
+- NumPy, pandas, scikit-learn (no evidence)
+- LLM fine-tuning (no evidence)
+- Distributed training (no evidence)

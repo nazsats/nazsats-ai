@@ -1,0 +1,87 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 12/100
+
+**Hard requirements met**  
+- None.  
+  - Your CV does not evidence any of the following must-haves from the job description.
+
+**Hard requirements missing**  
+- Full stack development — No mention of full stack or backend development; only basic HTML/CSS and front-end design.
+- Client relationship management — No explicit mention; "Brand identities for 14 small businesses" suggests client interaction, but not management.
+- Agile and Scrum — No mention.
+- Cross-functional collaboration — No mention.
+- Data-driven decisions — No mention.
+- Stakeholder management — No mention.
+- Python — Not listed.
+- JavaScript — Not listed.
+- React — Not listed.
+- Node.js — Not listed.
+- MongoDB — Not listed.
+- AWS — Not listed.
+- Docker — Not listed.
+- CI/CD — Not listed.
+
+**Nice-to-haves met**  
+- Remote work — "Remote" in contact info.
+- Some web skills — "Built two landing pages in HTML and CSS" (but not full stack).
+
+**Worth applying?**  
+Probably not — you lack all core technical requirements and the role is a poor fit for your current skills and experience.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai | anjali@email.com | Remote
+
+SUMMARY  
+Creative freelance designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in visual design and basic web development, with a focus on client needs and engagement.
+
+SKILLS  
+- Brand identity  
+- Figma  
+- Illustrator  
+- Photoshop  
+- Canva  
+- Basic HTML/CSS
+
+EXPERIENCE
+
+Freelance Designer | 2022 – present  
+- Delivered brand identities for 14 small businesses, adapting to diverse client needs.  
+- Designed and executed a social media campaign that raised engagement by 40%.  
+- Built two landing pages using HTML and CSS to support client marketing initiatives.
+
+Junior Designer, PixelCraft Studio | 2021 – 2022  
+- Supported senior designers in creating digital and print assets for client projects.
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021
+
+---
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize client focus and digital work, aligning with the job’s emphasis on client needs and digital products.
+- Reordered and expanded the freelance experience to highlight client-facing work and web development, as much as your CV allows.
+- Listed web skills (HTML/CSS) more prominently, since they are the closest match to technical requirements.
+- Compressed unrelated details and kept the focus on design and client delivery.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Full stack development  
+- Python  
+- JavaScript  
+- React  
+- Node.js  
+- MongoDB  
+- AWS  
+- Docker  
+- CI/CD  
+- Agile and Scrum  
+- Cross-functional collaboration  
+- Data-driven decisions  
+- Stakeholder management  
+
+Your CV does not support any of these requirements, so they are not included.

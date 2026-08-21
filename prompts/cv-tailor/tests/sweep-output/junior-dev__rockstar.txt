@@ -1,0 +1,106 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════
+
+MATCH: 41/100
+
+**Hard requirements met**  
+- **Full stack development** — Partial. Your CV shows:  
+  - "Software developer, 2 years, web applications."  
+  - "Built internal tools in Python and Django used by 40 staff"  
+  - "Designed MySQL schemas and wrote reporting queries"  
+  - "SKILLS: Python, Django, MySQL, HTML, CSS, JavaScript, Git, REST APIs"  
+  (You have backend and some frontend skills, but no evidence of React or Node.js.)
+- **Client relationship management** — Partial/adjacent.  
+  - "Handled customer complaints escalated from support"  
+  (This is customer support, not direct client relationship management.)
+- **Python** — Met.  
+  - "SKILLS: Python"  
+  - "Built internal tools in Python and Django"
+- **JavaScript** — Met.  
+  - "SKILLS: JavaScript"
+- **REST APIs** — Met.  
+  - "Wrote REST API documentation"
+- **MySQL** — Met.  
+  - "SKILLS: MySQL"  
+  - "Designed MySQL schemas and wrote reporting queries"
+- **Web applications** — Met.  
+  - "Software developer, 2 years, web applications."
+- **Git** — Met.  
+  - "SKILLS: Git"
+
+**Hard requirements missing**  
+- **React** — Not mentioned anywhere.
+- **Node.js** — Not mentioned anywhere.
+- **MongoDB** — Not mentioned anywhere.
+- **AWS** — Not mentioned anywhere.
+- **Docker** — Not mentioned anywhere.
+- **CI/CD** — Not mentioned anywhere.
+- **Agile and Scrum** — Not mentioned anywhere.
+- **Cross-functional collaboration** — Not mentioned anywhere.
+- **Data-driven decisions** — Not mentioned anywhere.
+- **Stakeholder management** — Not mentioned anywhere.
+- **"10x engineer", "self-starter", "ninja", "wears many hats"** — These are buzzwords, but your CV does not evidence the breadth or initiative they imply.
+
+**Nice-to-haves met**  
+- **Unit testing** — Met.  
+  - "Wrote unit tests, raised coverage 30% to 65%"
+
+**Worth applying?**  
+Probably not — you lack several core stack requirements (React, Node.js, MongoDB, AWS, Docker, CI/CD) and no evidence of Agile/Scrum or stakeholder management.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════
+
+Priya Sharma | priya@email.com | Pune
+
+SUMMARY  
+Software developer with experience building web applications using Python, Django, MySQL, JavaScript, HTML, and CSS. Skilled in backend and frontend development, REST APIs, and improving code quality through unit testing.
+
+SKILLS  
+- Python  
+- Django  
+- JavaScript  
+- HTML, CSS  
+- MySQL (relational databases)  
+- REST APIs  
+- Git  
+- Unit testing
+
+EXPERIENCE
+
+Software Developer, Infobyte Solutions, Pune — June 2024 to present  
+- Developed internal web tools using Python and Django, supporting 40 staff members  
+- Designed and implemented MySQL database schemas and reporting queries  
+- Improved code quality by writing unit tests, increasing test coverage from 30% to 65%  
+- Addressed customer complaints escalated from support, ensuring user satisfaction
+
+Intern, Infobyte Solutions, Pune — Jan 2024 to May 2024  
+- Fixed bugs and maintained a Django-based web application  
+- Authored REST API documentation to support developer onboarding
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**  
+- Reordered and expanded skills to match the job's stack, emphasizing Python, Django, JavaScript, and REST APIs.
+- Rewrote experience bullets to use the job's vocabulary (e.g., "developed internal web tools", "designed and implemented MySQL database schemas").
+- Highlighted unit testing and code quality improvements as a relevant nice-to-have.
+- Brought customer complaint handling up as adjacent to client relationship management.
+- Compressed unrelated details and focused on web application development.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- React  
+- Node.js  
+- MongoDB  
+- AWS  
+- Docker  
+- CI/CD  
+- Agile and Scrum  
+- Cross-functional collaboration  
+- Data-driven decisions  
+- Stakeholder management  
+- Any claim to "10x engineer", "self-starter", "ninja", or "wears many hats" beyond what your CV evidences
+
+If you gain experience or training in any of the missing stack elements or methodologies, update your CV accordingly.

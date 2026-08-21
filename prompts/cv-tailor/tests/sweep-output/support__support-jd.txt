@@ -1,0 +1,73 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 82/100
+
+**Hard requirements met:**  
+- **3+ years customer-facing SaaS:**  
+  - "Customer support lead, 4 years SaaS."
+- **Owning retention and escalations:**  
+  - "escalation management" (escalations clearly covered; retention not directly mentioned)
+- **CRM tools such as Zendesk or Intercom:**  
+  - "Zendesk, Intercom"
+- **Writing customer documentation:**  
+  - "Wrote 80 help-centre articles"
+- **Leading a small team:**  
+  - "Lead a team of 6"
+
+**Hard requirements missing:**  
+- **Owning retention:**  
+  - Nowhere in your CV do you mention responsibility for customer retention, renewals, or churn reduction. You mention SLAs and resolution time, but not retention.
+  
+**Nice-to-haves met:**  
+- **Basic SQL:**  
+  - "SQL (basic)", "Query the product database with basic SQL to diagnose issues"
+
+**Nice-to-haves missing:**  
+- **Designing an onboarding programme:**  
+  - No mention of onboarding programme design or similar.
+
+**Worth applying?**  
+**Yes-with-caveats:** You meet all but one hard requirement (retention ownership), and have most nice-to-haves. If you can speak to retention in your cover letter or interview, you are a strong candidate.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Faisal Khan | faisal@email.com | Delhi
+
+SUMMARY  
+Customer support lead with 4 years’ experience in SaaS environments, leading teams, managing escalations, and driving improvements in customer support processes. Skilled in Zendesk, Intercom, and customer documentation.
+
+SKILLS  
+- Customer relationship management (Zendesk, Intercom)  
+- Escalation management  
+- Team leadership  
+- Customer documentation  
+- SQL (basic)  
+- SLA management
+
+EXPERIENCE
+
+Support Lead, CloudDesk — 2022 to present  
+- Lead a team of 6 support agents, managing daily operations and ensuring first-response SLA targets are met  
+- Managed escalations to resolution, maintaining high customer satisfaction  
+- Reduced average resolution time from 14 hours to 5 hours through process improvements  
+- Authored 80 help-centre articles to improve customer self-service and reduce ticket volume  
+- Queried the product database with basic SQL to diagnose and resolve customer issues
+
+EDUCATION  
+BA English, Delhi University, 2021
+
+**WHAT I CHANGED**  
+- Reworded and reordered skills and bullets to match the job’s vocabulary (e.g., “customer relationship management” for CRM tools, “team leadership” up front).
+- Expanded on escalation and documentation experience to align with requirements.
+- Surfaced SQL and SLA management as supporting skills.
+- Compressed education and omitted unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Owning retention: Your CV does not mention responsibility for customer retention, renewals, or churn reduction.
+- Designing an onboarding programme: No evidence in your CV.
+
+If you have experience with retention or onboarding that is not in your CV, consider adding it for future applications.

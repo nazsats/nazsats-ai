@@ -1,0 +1,79 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 34/100
+
+**Hard requirements met:**  
+- **2+ years Python web development:**  
+  - *Not met.* Your CV states: "Python (pandas)" but no web development or frameworks.
+- **Django or Flask:**  
+  - *Not met.* No mention of Django or Flask.
+- **Strong SQL and relational design:**  
+  - *Met.* "Wrote SQL for weekly sales reporting across 120 stores"
+- **REST APIs:**  
+  - *Not met.* No mention of REST APIs.
+- **Git:**  
+  - *Not met.* No mention of Git.
+- **Automated tests:**  
+  - *Not met.* No mention of automated testing.
+
+**Hard requirements missing:**  
+- Python web development (your Python is for analytics, not web)  
+- Django or Flask (no evidence)  
+- REST APIs (no evidence)  
+- Git (no evidence)  
+- Automated tests (no evidence)
+
+**Nice-to-haves met:**  
+- None.  
+  - *Cloud platforms:* Not mentioned.  
+  - *Docker:* Not mentioned.
+
+**Worth applying?**  
+Probably not — you have strong SQL and some Python, but lack all web/backend experience and every framework/tool they require.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Nisha Verma | nisha@email.com | Gurgaon
+
+SUMMARY  
+Data analyst with 3 years’ experience in SQL, Python (pandas), and dashboard development for retail analytics. Skilled in building data solutions and running A/B tests to drive business outcomes.
+
+SKILLS  
+- SQL (relational databases, reporting)  
+- Python (pandas, data analysis)  
+- Power BI (dashboard development)  
+- Excel  
+- A/B testing  
+- Data visualization
+
+EXPERIENCE
+
+Data Analyst, RetailIQ — 2023 to present  
+- Built Power BI dashboards used by 30 store managers to monitor sales and performance  
+- Wrote SQL queries for weekly sales reporting across 120 stores, ensuring accurate and timely data delivery  
+- Conducted A/B testing on pricing strategies, resulting in a 4% margin increase  
+- Analyzed large datasets using Python (pandas) to identify trends and support business decisions
+
+EDUCATION  
+B.Sc Statistics, Delhi University, 2022
+
+**WHAT I CHANGED**  
+- Reordered and expanded SQL and Python skills to highlight relevance to backend data work  
+- Used job description vocabulary where possible (e.g., "relational databases," "reporting")  
+- Expanded on dashboard and A/B testing experience to show business impact  
+- Compressed unrelated details to focus on data and analytics skills
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Python web development  
+- Django or Flask  
+- REST APIs  
+- Git  
+- Automated tests  
+- Cloud platforms  
+- Docker
+
+If you gain experience in Python web frameworks, REST APIs, or Git, you’ll be a much stronger match for backend developer roles.

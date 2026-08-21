@@ -1,0 +1,74 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- Familiarity with digital learning tools  
+  - No direct evidence, but as a software developer, you may have some exposure; however, your CV does not mention any digital learning tools specifically.
+
+**Hard requirements missing**  
+- 5+ years teaching or curriculum work  
+  - No teaching or curriculum design experience is listed.  
+- Designing assessments  
+  - No mention of assessment design or related activities.  
+- Subject expertise in physics or chemistry  
+  - No evidence of subject expertise in physics or chemistry; your degree is in Computer Engineering.  
+- Training other educators  
+  - No mention of training or mentoring educators or colleagues.  
+
+**Nice-to-haves met**  
+- None explicitly.  
+  - EdTech experience: Not mentioned.  
+  - Published material: Not mentioned.
+
+**Worth applying?**  
+Probably not — you lack all core requirements (teaching/curriculum experience, subject expertise, assessment design), and your background is in software development, not science education.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Priya Sharma | priya@email.com | Pune
+
+SUMMARY  
+Software developer with experience building web applications and internal tools using Python, Django, and MySQL. Strong background in software development, unit testing, and customer support for technology solutions.
+
+SKILLS  
+- Python  
+- Django  
+- MySQL  
+- HTML, CSS, JavaScript  
+- REST APIs  
+- Git
+
+EXPERIENCE
+
+Software Developer, Infobyte Solutions, Pune — June 2024 to present  
+- Built internal tools in Python and Django used by 40 staff  
+- Designed MySQL schemas and wrote reporting queries  
+- Handled customer complaints escalated from support  
+- Wrote unit tests, raised coverage 30% to 65%
+
+Intern, Infobyte Solutions — Jan 2024 to May 2024  
+- Fixed bugs in a Django app; wrote REST API documentation
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**  
+- Kept the summary focused on software development, as there is no evidence of curriculum or science teaching experience.  
+- Ordered skills and experience to highlight technical abilities, as these are your strengths.  
+- Used the most relevant vocabulary from your CV, as nothing matches the job's requirements directly.  
+- Compressed education and unrelated experience.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 5+ years teaching or curriculum work  
+- Designing assessments  
+- Subject expertise in physics or chemistry  
+- Training other educators  
+- EdTech experience  
+- Published material
+
+If you gain experience in education, curriculum design, or science teaching, revisit this role in the future.

@@ -1,0 +1,72 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- Python: "basic Python" (but not 5+ years, not production)
+- MySQL: "MySQL" (but not PostgreSQL, not at scale)
+- Git: "Git" (not a requirement, but adjacent to modern dev workflows)
+
+**Hard requirements missing**  
+- 5+ years Python: Your CV shows only "basic Python" and no professional experience.
+- Production Kubernetes: No mention of Kubernetes or any container orchestration.
+- PostgreSQL at scale, query optimisation, replication: Only MySQL, and only in a college project.
+- AWS (EKS, RDS, S3): No mention of AWS or any cloud experience.
+- Terraform: Not mentioned.
+- Led a team of at least 3: No leadership or team experience shown.
+
+**Nice-to-haves met**  
+- None. (Go, Kafka not mentioned.)
+
+**Worth applying?**  
+Probably not — you are a final-year student with no professional experience and do not meet any of the core requirements for this senior role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Karan Patel | karan@email.com | Ahmedabad
+
+SUMMARY  
+Final-year B.Tech Information Technology student with hands-on experience in Java, MySQL, C++, and basic Python, seeking opportunities to apply backend development skills in a professional setting.
+
+SKILLS  
+- Java  
+- MySQL  
+- C++  
+- Basic Python  
+- Data Structures and Algorithms (DSA)  
+- Git
+
+EXPERIENCE
+
+Library Management System — College Project  
+- Developed a library management system using Java and MySQL, implementing core backend features such as user management, book inventory, and transaction processing.  
+- Applied data structures and algorithms to optimize system performance.
+
+Bus-Tracking Android Prototype — Hackathon (2nd of 40 teams)  
+- Built a prototype Android application for real-time bus tracking, collaborating with a small team to design backend logic and integrate with front-end features.
+
+EDUCATION  
+B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026  
+CGPA: 8.1
+
+**WHAT I CHANGED**  
+- Reordered skills to highlight backend and database experience first, as relevant to the job.  
+- Expanded project descriptions to use backend engineering vocabulary (e.g., "core backend features", "transaction processing").  
+- Emphasized teamwork and collaboration in the hackathon project, as the job values leadership/team experience.  
+- Compressed education and removed unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 5+ years Python experience  
+- Production Kubernetes  
+- PostgreSQL (at scale, query optimisation, replication)  
+- AWS (EKS, RDS, S3)  
+- Terraform  
+- Go  
+- Kafka  
+- Led a team of at least 3
+
+If you have any experience or skills in these areas not listed in your CV, consider adding them for future applications.

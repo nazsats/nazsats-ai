@@ -1,0 +1,80 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 0/100
+
+**Hard requirements met:**  
+_None._  
+- 4+ years deploying ML in production — No evidence in CV.  
+- PyTorch or TensorFlow — Not mentioned.  
+- Feature engineering — Not mentioned.  
+- MLOps (versioning, monitoring, retraining) — Not mentioned.  
+- Strong statistics — Not mentioned.  
+- NumPy, pandas, scikit-learn — Not mentioned.
+
+**Hard requirements missing:**  
+- 4+ years deploying ML in production — No ML experience shown; only design work.
+- PyTorch or TensorFlow — No mention of these or any ML frameworks.
+- Feature engineering — No mention.
+- MLOps (versioning, monitoring, retraining) — No mention.
+- Strong statistics — No mention.
+- NumPy, pandas, scikit-learn — No mention.
+
+**Nice-to-haves met:**  
+_None._  
+- LLM fine-tuning — Not mentioned.  
+- Distributed training — Not mentioned.
+
+**Worth applying?**  
+Probably not — your CV is in design, not machine learning, and does not meet any requirements for this role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai | anjali@email.com | Remote
+
+SUMMARY  
+Creative freelance designer with 4 years’ experience delivering brand identities and digital assets for small businesses. Skilled in Figma, Illustrator, Photoshop, and basic web design.
+
+SKILLS  
+- Brand identity design  
+- Figma  
+- Illustrator  
+- Photoshop  
+- Canva  
+- Basic HTML/CSS
+
+EXPERIENCE
+
+Freelance Designer | 2022 – present  
+- Developed brand identities for 14 small businesses, enhancing visual presence and consistency.  
+- Designed and executed a social media campaign that raised engagement by 40%.  
+- Built two landing pages using HTML and CSS to support client marketing efforts.
+
+Junior Designer, PixelCraft Studio | 2021 – 2022  
+- Supported senior designers in creating digital and print assets for client projects.
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021
+
+---
+
+**WHAT I CHANGED**  
+- Reordered and clarified skills to match the job’s format, but kept only design-related skills as per your CV.  
+- Expanded on outcomes and responsibilities in freelance work using more formal language.  
+- Compressed unrelated experience (PixelCraft Studio) to a single line.  
+- Kept summary focused on design, as no ML experience is present.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years deploying ML in production  
+- PyTorch or TensorFlow  
+- Feature engineering  
+- MLOps (versioning, monitoring, retraining)  
+- Strong statistics  
+- NumPy, pandas, scikit-learn  
+- LLM fine-tuning  
+- Distributed training
+
+Your CV does not support any of the requirements for this role.

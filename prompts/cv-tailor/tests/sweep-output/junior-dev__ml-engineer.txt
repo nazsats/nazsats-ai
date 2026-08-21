@@ -1,0 +1,73 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 15/100
+
+**Hard requirements met**  
+- None.  
+  - Your CV does not evidence any of the following: ML deployment, PyTorch/TensorFlow, feature engineering, MLOps, statistics, NumPy, pandas, scikit-learn.
+
+**Hard requirements missing**  
+- 4+ years deploying ML in production — your CV shows June 2024 onwards as a Software Developer, and Jan 2024 to May 2024 as an intern; no ML deployment experience is described.
+- PyTorch or TensorFlow — not mentioned anywhere in your CV.
+- Feature engineering — not mentioned.
+- MLOps (versioning, monitoring, retraining) — not mentioned.
+- Strong statistics — not mentioned.
+- NumPy, pandas, scikit-learn — not mentioned.
+
+**Nice-to-haves met**  
+- None.  
+  - LLM fine-tuning, distributed training — not mentioned.
+
+**Worth applying?**  
+Probably not — you lack all core requirements for this role, including ML experience, relevant tools, and years of experience.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Priya Sharma | priya@email.com | Pune
+
+SUMMARY  
+Software developer with experience building web applications using Python, Django, and MySQL. Skilled in designing database schemas, developing REST APIs, and improving code quality through unit testing.
+
+SKILLS  
+- Python  
+- Django  
+- MySQL  
+- REST APIs  
+- HTML, CSS, JavaScript  
+- Git
+
+EXPERIENCE
+
+Software Developer, Infobyte Solutions, Pune — June 2024 to present  
+- Built internal tools in Python and Django used by 40 staff  
+- Designed MySQL schemas and wrote reporting queries  
+- Handled customer complaints escalated from support  
+- Wrote unit tests, raised coverage 30% to 65%
+
+Intern, Infobyte Solutions — Jan 2024 to May 2024  
+- Fixed bugs in a Django app; wrote REST API documentation
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**  
+- Reworded the summary to focus on Python, Django, and web application development, as these are the closest adjacent skills.
+- Ordered skills to put Python and Django first, as they are most relevant to the job’s technical stack.
+- Rewrote experience bullets to use more technical language (e.g., "designed MySQL schemas", "developing REST APIs") to align with the job’s vocabulary.
+- Compressed unrelated skills and experience (HTML, CSS, JavaScript) to the end of the skills list.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years deploying ML in production  
+- PyTorch or TensorFlow  
+- Feature engineering  
+- MLOps (versioning, monitoring, retraining)  
+- Strong statistics  
+- NumPy, pandas, scikit-learn  
+- LLM fine-tuning  
+- Distributed training
+
+If you gain experience in ML, MLOps, or the required libraries, you can revisit this role in the future.

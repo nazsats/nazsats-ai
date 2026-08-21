@@ -1,0 +1,64 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None.
+
+**Hard requirements missing**  
+- 3+ years paid acquisition experience — No evidence of any paid acquisition or marketing experience.
+- Google Ads and Meta Ads at scale — No mention of Google Ads, Meta Ads, or any digital advertising platforms.
+- Google Analytics — Not mentioned.
+- Owning CAC and ROAS targets — No experience with customer acquisition cost (CAC) or return on ad spend (ROAS).
+- Managing budgets above Rs 3 lakh/month — No budget management or financial responsibility shown.
+
+**Nice-to-haves met**  
+- None. No mention of SEO or marketing automation.
+
+**Worth applying?**  
+Probably not — there is no overlap between your CV and the requirements for this role; it is a different field and level.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Karan Patel | karan@email.com | Ahmedabad
+
+SUMMARY  
+Final-year B.Tech Information Technology student with hands-on experience in software development projects and hackathons. Strong foundation in programming, data structures, and relational databases. Seeking an entry-level opportunity to apply technical skills and learn in a professional environment.
+
+SKILLS  
+- Programming: C++, Java, basic Python  
+- Data Structures and Algorithms (DSA)  
+- Relational databases (MySQL)  
+- Version control (Git)
+
+EXPERIENCE
+
+College Project: Library Management System  
+- Developed a library management system using Java and MySQL, implementing core features for book tracking and user management.
+
+Hackathon: Bus-Tracking Android Prototype  
+- Built an Android prototype for real-time bus tracking; achieved 2nd place out of 40 teams in a college hackathon.
+
+EDUCATION  
+B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026  
+CGPA: 8.1
+
+**WHAT I CHANGED**
+- Rewrote the summary to focus on technical skills and project experience, as there is no marketing background.
+- Ordered skills and experience to highlight programming and project work.
+- Used more formal, resume-style bullet points for projects.
+- Compressed education and removed unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**
+- 3+ years paid acquisition experience
+- Google Ads and Meta Ads experience
+- Google Analytics
+- Experience owning CAC and ROAS targets
+- Managing large marketing budgets
+- SEO or marketing automation
+
+There is no evidence in your CV to support any of the requirements for the Performance Marketing Manager role.

@@ -1,0 +1,64 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None.
+
+**Hard requirements missing**  
+- 4+ years accounting — No accounting experience shown; CV is for a final-year IT student.
+- GST and TDS filing — No mention of GST, TDS, or any tax/finance work.
+- Tally — No mention of Tally or any accounting software.
+- Advanced Excel — No mention of Excel skills.
+- Month-end close — No evidence of any accounting or finance process work.
+- Managing multiple clients — No client management experience shown.
+
+**Nice-to-haves met**  
+- None.
+
+**Worth applying?** — Probably not. This is a completely different field and level; your CV shows no accounting experience or relevant skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Karan Patel | karan@email.com | Ahmedabad
+
+SUMMARY  
+Final-year B.Tech Information Technology student with hands-on experience in Java, MySQL, and software development projects. Seeking to apply technical and analytical skills in a professional environment.
+
+SKILLS  
+- Programming: C++, Java, basic Python  
+- Data Structures & Algorithms (DSA)  
+- Relational databases (MySQL)  
+- Version control (Git)
+
+EXPERIENCE  
+College Project: Library Management System  
+- Developed a library management system using Java and MySQL, focusing on database design and user interface.
+
+Hackathon: Bus-Tracking Android Prototype  
+- Built a real-time bus-tracking Android application; achieved 2nd place out of 40 teams.
+
+EDUCATION  
+B.Tech Information Technology, Gujarat Technological University (GTU), expected 2026. CGPA: 8.1
+
+**WHAT I CHANGED**  
+- Reworded the summary and skills to emphasize technical and analytical abilities, as much as possible within the original content.
+- Reordered and expanded project experience to highlight relevant technical skills.
+- Used job description vocabulary where possible (e.g., "relational databases").
+- Compressed education and unrelated details.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years accounting experience  
+- GST and TDS filing  
+- Tally  
+- Advanced Excel  
+- Month-end close  
+- Managing multiple clients  
+- ERP migration  
+- Supervising a team
+
+These requirements are not supported by your CV.

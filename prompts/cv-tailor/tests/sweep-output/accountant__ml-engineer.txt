@@ -1,0 +1,68 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None. There is no evidence in your CV of machine learning, programming, statistics, or any of the required tools.
+
+**Hard requirements missing**  
+- 4+ years deploying ML in production — No mention of machine learning or deployment in your CV.
+- PyTorch or TensorFlow — Not present.
+- Feature engineering — Not present.
+- MLOps (versioning, monitoring, retraining) — Not present.
+- Strong statistics — Not present.
+- NumPy, pandas, scikit-learn — Not present.
+
+**Nice-to-haves met**  
+- None. No mention of LLMs, fine-tuning, or distributed training.
+
+**Worth applying?**  
+Probably not — your experience is entirely in accounting, with no overlap with machine learning or software engineering.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Sneha Kulkarni | sneha@email.com | Nashik
+
+SUMMARY  
+Experienced accountant specializing in SME bookkeeping, compliance, and process optimization. Proven track record in managing financial records, GST and TDS filings, and developing Excel-based solutions for efficiency.
+
+SKILLS  
+- Bookkeeping and compliance (SMEs)  
+- Tally  
+- GST filing  
+- TDS  
+- Advanced Excel (including model building for process improvement)  
+- Reconciliation  
+- Payroll
+
+EXPERIENCE
+
+Senior Accountant, Deshmukh and Co — 2021 to present  
+- Manage books for 22 SME clients, ensuring accuracy and compliance  
+- File GST and TDS returns with zero late filings in four years  
+- Built Excel models that reduced monthly close from 6 days to 2
+
+EDUCATION  
+M.Com, Pune University, 2020
+
+**WHAT I CHANGED**  
+- Rewrote the summary to emphasize process optimization and efficiency, as these are broadly valued in technical roles.
+- Ordered skills to highlight analytical and process improvement abilities.
+- Expanded the Excel achievement to clarify its impact.
+- Kept all content strictly within the accounting domain, as per your experience.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years deploying ML in production  
+- PyTorch or TensorFlow  
+- Feature engineering  
+- MLOps (versioning, monitoring, retraining)  
+- Strong statistics  
+- NumPy, pandas, scikit-learn  
+- LLM fine-tuning  
+- Distributed training
+
+Your CV does not support any of the machine learning or software engineering requirements from the job description.

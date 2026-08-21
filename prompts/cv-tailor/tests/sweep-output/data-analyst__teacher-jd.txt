@@ -1,0 +1,73 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 12/100
+
+**Hard requirements met**  
+- Familiarity with digital learning tools  
+  - Your CV: "Built Power BI dashboards used by 30 store managers" (Power BI is a digital tool, though not specifically for learning)  
+
+**Hard requirements missing**  
+- 5+ years teaching or curriculum work  
+  - Nothing in your CV supports teaching or curriculum design experience.  
+- Designing assessments  
+  - No evidence of assessment design (A/B testing is not the same as educational assessment).  
+- Subject expertise in physics or chemistry  
+  - Your degree is in Statistics; no mention of physics or chemistry.  
+- Training other educators  
+  - No evidence of training or mentoring educators.  
+
+**Nice-to-haves met**  
+- None directly met.  
+
+**Nice-to-haves missing**  
+- EdTech experience  
+  - No EdTech or education sector experience shown.  
+- Published material  
+  - No mention of published material.  
+
+**Worth applying?**  
+Probably not — you lack all core requirements (teaching/curriculum experience, subject expertise, assessment design, educator training), and your background is in data analytics for retail.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Nisha Verma | nisha@email.com | Gurgaon
+
+SUMMARY  
+Data analyst with 3 years’ experience in retail analytics, specializing in data-driven reporting, dashboard creation, and A/B testing. Skilled in leveraging digital tools to deliver actionable insights for business stakeholders.
+
+SKILLS  
+- Digital tools: Power BI, Excel  
+- Data analysis: SQL, Python (pandas)  
+- Reporting and dashboards  
+- A/B testing  
+- Retail analytics
+
+EXPERIENCE
+
+Data Analyst, RetailIQ — 2023 to present  
+- Developed Power BI dashboards to support decision-making for 30 store managers  
+- Designed and implemented SQL-based weekly sales reports across 120 retail locations  
+- Conducted A/B testing on pricing strategies, resulting in a 4% increase in margin
+
+EDUCATION  
+B.Sc Statistics, Delhi University, 2022
+
+**WHAT I CHANGED**  
+- Reworded and reordered the summary and skills to emphasize digital tools and analytics, as these are the closest match to the job’s requirements.  
+- Highlighted experience with Power BI and dashboard/reporting creation as evidence of digital tool proficiency.  
+- Used the job’s vocabulary where possible (e.g., “digital tools”, “designed and implemented”).  
+- Compressed unrelated details and focused on transferable skills.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 5+ years teaching or curriculum work  
+- Designing assessments (in the educational sense)  
+- Subject expertise in physics or chemistry  
+- Training other educators  
+- EdTech experience  
+- Published material
+
+If you have any experience in education, curriculum, or science subjects not listed here, consider adding it for future applications.

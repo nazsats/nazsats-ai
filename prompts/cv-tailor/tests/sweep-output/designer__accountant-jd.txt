@@ -1,0 +1,67 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 7/100
+
+**Hard requirements met**  
+- None. There is no evidence in your CV of accounting experience, GST/TDS filing, Tally, advanced Excel, month-end close, or managing multiple clients in an accounting context.
+
+**Hard requirements missing**  
+- 4+ years accounting — No accounting experience shown; your CV is entirely design-focused.
+- GST and TDS filing — No mention of tax or compliance work.
+- Tally — No mention of Tally or any accounting software.
+- Advanced Excel — Only "basic HTML/CSS" is listed; no Excel skills at all.
+- Month-end close — No mention of any accounting or financial close processes.
+- Managing multiple clients (in an accounting context) — While you have worked with multiple clients as a designer, there is no evidence of managing clients' accounts or finances.
+
+**Nice-to-haves met**  
+- None. No ERP migration or team supervision experience is mentioned.
+
+**Worth applying?**  
+Probably not — your background is in design, not accounting, and you do not meet any of the hard requirements for this role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Anjali Desai | anjali@email.com | Remote
+
+SUMMARY  
+Creative freelance designer with 4 years of experience delivering brand identities and digital assets for small businesses. Skilled in visual design, client collaboration, and digital tools.
+
+SKILLS  
+- Brand identity design  
+- Figma, Illustrator, Photoshop  
+- Canva  
+- Basic HTML/CSS
+
+EXPERIENCE
+
+Freelance Designer | 2022 to present  
+- Developed brand identities for 14 small business clients, managing end-to-end design projects.  
+- Led a social media campaign that increased engagement by 40%.  
+- Built two landing pages using HTML and CSS.
+
+Junior Designer, PixelCraft Studio | 2021 to 2022  
+- Supported senior designers in delivering creative assets for client projects.
+
+EDUCATION  
+BA Applied Arts, Gujarat University, 2021
+
+**WHAT I CHANGED**
+- Reworded and expanded client management and project delivery to highlight multi-client experience, as this is the only remotely relevant overlap.
+- Reordered and clarified skills to match the format and focus on what you offer.
+- Used the job's vocabulary where possible (e.g., "managing end-to-end design projects" for client management).
+- Compressed unrelated details to keep the CV focused and clear.
+
+**WHAT I DELIBERATELY DID NOT ADD**
+- 4+ years accounting experience
+- GST and TDS filing
+- Tally
+- Advanced Excel
+- Month-end close
+- ERP migration
+- Supervising a team
+
+None of these requirements are supported by your CV.

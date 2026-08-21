@@ -1,0 +1,89 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 33/100
+
+**Hard requirements met**  
+- Customer-facing SaaS:  
+  - "Handled customer complaints escalated from support" (shows some customer interaction, but not clear if SaaS or direct ownership)
+- Writing customer documentation:  
+  - "Wrote REST API documentation"
+- Basic SQL:  
+  - "Designed MySQL schemas and wrote reporting queries" (nice-to-have, not a hard requirement)
+
+**Hard requirements missing**  
+- 3+ years customer-facing SaaS:  
+  - "Software developer, 2 years, web applications." (Only 2 years total experience, and unclear if all is customer-facing or SaaS)
+  - "Intern, Infobyte Solutions - Jan 2024 to May 2024" (depends on today's date — your CV shows June 2024 onwards as full-time, Jan-May 2024 as intern)
+- Owning retention and escalations:  
+  - No evidence of owning retention metrics or processes; only "handled customer complaints escalated from support" (adjacent, but not ownership)
+- CRM tools such as Zendesk or Intercom:  
+  - No mention of any CRM tools in CV
+- Leading a small team:  
+  - No evidence of team leadership
+
+**Nice-to-haves met**  
+- Basic SQL:  
+  - "Designed MySQL schemas and wrote reporting queries"
+- Writing customer documentation:  
+  - "Wrote REST API documentation"
+
+**Nice-to-haves missing**  
+- Designing an onboarding programme:  
+  - No evidence
+
+**Worth applying?**  
+Probably not — you lack most hard requirements, especially years of customer-facing SaaS, CRM tools, and team leadership.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Priya Sharma | priya@email.com | Pune
+
+SUMMARY  
+Detail-oriented software developer with experience supporting web applications, handling customer escalations, and writing technical documentation. Skilled in Python, Django, and MySQL, with a focus on delivering solutions for internal and external users.
+
+SKILLS  
+- Customer support (escalations)
+- Technical documentation (REST APIs)
+- Python, Django
+- MySQL (schema design, reporting queries)
+- HTML, CSS, JavaScript
+- REST APIs
+- Git
+
+EXPERIENCE
+
+Software Developer, Infobyte Solutions, Pune  
+June 2024 – present  
+- Built internal tools in Python and Django used by 40 staff, improving workflow efficiency  
+- Handled customer complaints escalated from support, resolving technical issues and ensuring user satisfaction  
+- Designed MySQL schemas and wrote reporting queries for business analytics  
+- Wrote unit tests, increasing code coverage from 30% to 65%  
+- Authored REST API documentation for internal and external users
+
+Intern, Infobyte Solutions, Pune  
+Jan 2024 – May 2024  
+- Fixed bugs in a Django web application  
+- Wrote REST API documentation to support developer onboarding
+
+EDUCATION  
+B.E. Computer Engineering, Pune University, 2023
+
+**WHAT I CHANGED**  
+- Reordered and expanded customer-facing and documentation experience to the top of skills and bullets, using "customer support (escalations)" and "technical documentation" to match job vocabulary.
+- Highlighted MySQL and reporting queries as evidence of SQL skills.
+- Compressed unrelated technical skills and experience.
+- Used phrases like "ensuring user satisfaction" to align with customer success language, without overstating ownership or leadership.
+- Moved REST API documentation to skills and experience sections for visibility.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 3+ years customer-facing SaaS (your CV shows only 2 years, and not all clearly customer-facing or SaaS)
+- Owning retention and escalations (no evidence of ownership, only handling escalations)
+- CRM tools such as Zendesk or Intercom (not mentioned in your CV)
+- Leading a small team (no evidence)
+- Designing an onboarding programme (not mentioned)
+
+If you have experience with CRM tools, team leadership, or retention ownership not listed here, consider adding it to your CV for future applications.

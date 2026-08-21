@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 0/100
+
+**Hard requirements met**  
+_None._
+
+**Hard requirements missing**  
+- 4+ years deploying ML in production — No evidence of any machine learning or software engineering experience.
+- PyTorch or TensorFlow — No mention of either framework or any programming.
+- Feature engineering — No mention of data science, data analysis, or feature engineering.
+- MLOps (versioning, monitoring, retraining) — No mention of MLOps or related practices.
+- Strong statistics — No mention of statistics or quantitative skills.
+- NumPy, pandas, scikit-learn — No mention of Python, programming, or these libraries.
+
+**Nice-to-haves met**  
+_None._
+
+**Worth applying?**  
+Probably not — your background is in nursing with no evidence of machine learning, programming, or related skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Rahul Mehta | rahul@email.com | Mumbai
+
+SUMMARY  
+Registered nurse with 6 years of critical care experience, skilled in patient assessment, IV therapy, and team coordination in high-pressure environments.
+
+SKILLS  
+- Patient assessment  
+- IV therapy  
+- Epic EHR  
+- Triage  
+- Team coordination  
+
+EXPERIENCE  
+
+Staff Nurse, Lilavati Hospital — 2019 to present  
+- Managed up to 12 ICU patients per shift, ensuring high standards of care and safety.  
+- Trained 8 junior nurses on documentation standards, improving compliance and accuracy.  
+- Coordinated between doctors, pharmacy, and families to facilitate patient care and communication.
+
+EDUCATION  
+B.Sc. Nursing, MUHS, 2019
+
+**WHAT I CHANGED**  
+- Maintained original order and content, as none of your experience or skills are relevant to the machine learning engineer role.
+- Clarified and slightly expanded bullet points for clarity and professionalism.
+- Kept the summary focused on your actual background.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years deploying ML in production  
+- PyTorch or TensorFlow  
+- Feature engineering  
+- MLOps (versioning, monitoring, retraining)  
+- Strong statistics  
+- NumPy, pandas, scikit-learn  
+- LLM fine-tuning  
+- Distributed training  
+
+None of these requirements are supported by your CV.

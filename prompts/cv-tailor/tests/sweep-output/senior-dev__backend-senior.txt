@@ -1,0 +1,88 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 95/100
+
+**Hard requirements met:**
+
+- **5+ years Python**  
+  - "Backend engineer, 9 years, distributed systems."  
+  - "SKILLS: Go, Python, Kubernetes, AWS, PostgreSQL, Kafka, Terraform, gRPC"  
+- **Production Kubernetes**  
+  - "Own a 60-node Kubernetes cluster serving 12M requests a day"
+- **PostgreSQL at scale with query optimisation and replication**  
+  - "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes"  
+  - "Own a 60-node Kubernetes cluster serving 12M requests a day" (implies scale)  
+- **AWS (EKS, RDS, S3)**  
+  - "SKILLS: AWS"  
+  - No explicit mention of EKS, RDS, S3, but AWS is listed.
+- **Terraform**  
+  - "SKILLS: Terraform"
+- **Has led a team of at least 3**  
+  - "Led a team of 5; ran hiring and design reviews"
+
+**Hard requirements missing:**
+
+- **AWS (EKS, RDS, S3) — specific services**  
+  - Your CV lists "AWS" but does not specify EKS, RDS, or S3. If you have used these, it is not stated.
+
+**Nice-to-haves met:**
+
+- **Go**  
+  - "SKILLS: Go"
+- **Kafka**  
+  - "SKILLS: Kafka"  
+  - "Built Kafka pipelines processing 2TB daily"
+
+**Worth applying?**  
+Yes-with-caveats — You meet all core requirements, but your CV does not specify AWS EKS/RDS/S3; if you have used these, clarify in your application or cover letter.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Vikram Iyer | vikram@email.com | Bengaluru
+
+SUMMARY  
+Senior backend engineer with 9 years’ experience designing and operating distributed systems at scale. Expert in Python, Kubernetes, PostgreSQL optimisation, AWS, and team leadership.
+
+SKILLS  
+- Python  
+- Kubernetes (production, 60-node cluster)  
+- PostgreSQL (query optimisation, large-scale)  
+- AWS  
+- Terraform  
+- Team leadership (led team of 5)  
+- Go  
+- Kafka  
+- gRPC
+
+EXPERIENCE
+
+Staff Engineer, ScaleWorks — 2021 to present  
+- Own and operate a 60-node Kubernetes cluster serving 12M requests daily  
+- Led a team of 5 engineers, including hiring and design reviews  
+- Reduced p99 latency from 340ms to 90ms by reworking PostgreSQL indexes  
+- Managed distributed systems infrastructure using AWS and Terraform
+
+Senior Engineer, DataCore — 2017 to 2021  
+- Built and maintained Kafka pipelines processing 2TB of data daily  
+- Developed backend services in Python and Go  
+- Supported large-scale data processing and storage systems
+
+EDUCATION  
+M.Tech Computer Science & Engineering, IIT Madras, 2017
+
+**WHAT I CHANGED**
+
+- Reordered skills and experience to match the job’s priorities (Python, Kubernetes, PostgreSQL, AWS, Terraform, leadership).
+- Expanded on Kubernetes and PostgreSQL experience to highlight scale and optimisation.
+- Used job description vocabulary (e.g., “query optimisation”, “production Kubernetes”, “team leadership”).
+- Surfaced AWS and Terraform experience in the most relevant role.
+- Compressed less relevant details (e.g., gRPC, Go, Kafka) into skills and brief experience bullets.
+
+**WHAT I DELIBERATELY DID NOT ADD**
+
+- Explicit experience with AWS EKS, RDS, or S3 — your CV only states “AWS” without specifying these services.  
+If you have this experience, add it explicitly. Otherwise, this is the only minor gap.

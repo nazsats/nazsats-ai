@@ -1,0 +1,80 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 32/100
+
+**Hard requirements met**  
+- 4+ years deploying ML in production  
+  - **Not evidenced.** No mention of ML deployment or production ML in your CV.
+- PyTorch or TensorFlow  
+  - **Not evidenced.** No mention of either framework.
+- Feature engineering  
+  - **Not evidenced.** No mention of feature engineering.
+- MLOps (versioning, monitoring, retraining)  
+  - **Partial/Adjacent:** "Own a 60-node Kubernetes cluster serving 12M requests a day" and "Cut p99 latency from 340ms to 90ms by reworking Postgres indexes" show strong production engineering and ops, but not specifically MLOps or ML model lifecycle.
+- Strong statistics  
+  - **Not evidenced.** No mention of statistics or statistical methods.
+- NumPy, pandas, scikit-learn  
+  - **Not evidenced.** No mention of these libraries.
+
+**Hard requirements missing**  
+- 4+ years deploying ML in production — nothing in your CV supports ML deployment experience.
+- PyTorch or TensorFlow — not mentioned.
+- Feature engineering — not mentioned.
+- Strong statistics — not mentioned.
+- NumPy, pandas, scikit-learn — not mentioned.
+
+**Nice-to-haves met**  
+- LLM fine-tuning — not mentioned.
+- Distributed training — not mentioned, though "distributed systems" is in your summary and experience, but not in an ML context.
+
+**Worth applying?**  
+Probably not — you have excellent distributed systems and backend experience, but your CV does not evidence any ML, MLOps, or data science skills required for this role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Vikram Iyer | vikram@email.com | Bengaluru
+
+SUMMARY  
+Experienced backend engineer with 9 years building and operating distributed systems at scale. Proven track record leading teams, optimizing system performance, and managing large-scale infrastructure.
+
+SKILLS  
+- Distributed systems (Go, Python)
+- Kubernetes (60-node production cluster)
+- AWS, Terraform
+- PostgreSQL (performance optimization)
+- Kafka (high-throughput pipelines)
+- gRPC
+
+EXPERIENCE
+
+Staff Engineer, ScaleWorks — 2021 to present  
+- Owned and operated a 60-node Kubernetes cluster serving 12M requests daily, ensuring high availability and reliability.  
+- Led a team of 5 engineers, overseeing hiring and technical design reviews.  
+- Improved system performance by reducing p99 latency from 340ms to 90ms through PostgreSQL index optimization.
+
+Senior Engineer, DataCore — 2017 to 2021  
+- Built and maintained Kafka pipelines processing 2TB of data daily, supporting large-scale data ingestion and processing.
+
+EDUCATION  
+M.Tech Computer Science & Engineering, IIT Madras, 2017
+
+**WHAT I CHANGED**  
+- Reordered and emphasized distributed systems, Kubernetes, and large-scale data pipeline experience to align with the infrastructure/ops aspects of MLOps.
+- Used the job’s vocabulary where possible (e.g., "operated a 60-node Kubernetes cluster", "high-throughput pipelines").
+- Compressed unrelated details and focused on technical leadership and system optimization.
+- Highlighted experience with production systems and team leadership, as these are relevant to robust ML engineering environments.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- 4+ years deploying ML in production  
+- PyTorch or TensorFlow  
+- Feature engineering  
+- Strong statistics  
+- NumPy, pandas, scikit-learn  
+- LLM fine-tuning  
+- Distributed training (in an ML context)
+
+If you gain ML experience or relevant projects, update your CV to reflect those directly.

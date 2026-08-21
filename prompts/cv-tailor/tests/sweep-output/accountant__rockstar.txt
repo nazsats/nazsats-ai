@@ -1,0 +1,65 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 5/100
+
+**Hard requirements met**  
+- None. There is no evidence in your CV of any software development, programming languages, or related technical skills.
+
+**Hard requirements missing**  
+- Full stack development — No mention of any software development experience.
+- Client relationship management — No direct evidence; "Manage books for 22 SME clients" is adjacent, but not in a technical or software context.
+- Agile and Scrum — Not mentioned.
+- Cross-functional collaboration — Not mentioned.
+- Data-driven decisions — No explicit mention; some Excel modeling, but not in a software/data science context.
+- Stakeholder management — Not mentioned.
+- Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD — None of these technologies or adjacent skills are present in your CV.
+
+**Nice-to-haves met**  
+- None. No evidence of any nice-to-haves related to software development or engineering.
+
+**Worth applying?**  
+Probably not — your background is in accounting, not software development, and you do not meet any of the core requirements for this role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Sneha Kulkarni | sneha@email.com | Nashik
+
+SUMMARY  
+Experienced accountant specializing in SME bookkeeping, compliance, and process optimization. Proven track record in managing financial operations and delivering accurate, timely reporting for multiple clients.
+
+SKILLS  
+- Bookkeeping and compliance (Tally, GST filing, TDS)  
+- Advanced Excel modeling and reconciliation  
+- Payroll processing  
+- Process improvement (reduced monthly close time)
+
+EXPERIENCE  
+
+Senior Accountant, Deshmukh and Co — 2021 to present  
+- Managed books and compliance for 22 SME clients, ensuring accurate financial records and timely filings  
+- Filed GST and TDS returns with zero late filings over four years  
+- Developed advanced Excel models, reducing monthly close process from 6 days to 2  
+- Oversaw payroll and reconciliation for multiple clients
+
+EDUCATION  
+M.Com, Pune University, 2020
+
+**WHAT I CHANGED**  
+- Reworded and reordered the summary and skills to emphasize process improvement and client management, which are the closest adjacent experiences to the job requirements.
+- Used phrases like "process optimization" and "delivering accurate, timely reporting" to align with the job's focus on outcomes and fast-paced environments.
+- Highlighted client management and process improvement in the experience section.
+- Compressed unrelated details and focused on transferable skills.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Full stack development  
+- Any programming languages or frameworks (Python, JavaScript, React, Node.js, MongoDB, AWS, Docker, CI/CD)  
+- Agile and Scrum  
+- Cross-functional collaboration  
+- Stakeholder management (beyond basic client management)  
+- Data-driven decision making (in a software/engineering context)
+
+If you would like to target accounting or finance roles, I can help tailor your CV for those positions. For this software developer role, your current experience is not a match.

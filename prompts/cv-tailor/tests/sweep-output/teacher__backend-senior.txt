@@ -1,0 +1,79 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 10/100
+
+**Hard requirements met**  
+- Has led a team of at least 3:  
+  - "Mentored 4 new teachers" (adjacent, but not technical team leadership)
+
+**Hard requirements missing**  
+- 5+ years Python:  
+  - No evidence of Python or any programming language in CV.
+- Production Kubernetes:  
+  - No mention of Kubernetes or any container orchestration.
+- PostgreSQL at scale with query optimisation and replication:  
+  - No mention of PostgreSQL, databases, or related experience.
+- AWS (EKS, RDS, S3):  
+  - No mention of AWS or any cloud platform.
+- Terraform:  
+  - No mention of Terraform or infrastructure as code.
+- Led a team of at least 3 (technical context):  
+  - "Mentored 4 new teachers" is adjacent but not technical team leadership.
+
+**Nice-to-haves met**  
+- None.
+
+**Nice-to-haves missing**  
+- Go:  
+  - No mention of Go or any programming language.
+- Kafka:  
+  - No mention of Kafka or any message queue/streaming technology.
+
+**Worth applying?**  
+Probably not — your CV is in a different field (secondary education) with no evidence of software engineering or relevant technical skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Meera Nair | meera@email.com | Kochi
+
+SUMMARY  
+Experienced secondary school physics teacher with a strong background in curriculum design, classroom management, and mentoring. Proven ability to improve student outcomes and support new educators.
+
+SKILLS  
+- Curriculum design  
+- Classroom management  
+- Assessment  
+- Google Classroom
+
+EXPERIENCE
+
+Physics Teacher, St Thomas HSS — 2018 to present  
+- Led instruction for grades 11 and 12, improving class average from 62% to 78%.  
+- Designed and implemented a laboratory curriculum adopted across three schools.  
+- Mentored 4 new teachers, supporting their onboarding and professional development.
+
+EDUCATION  
+M.Sc Physics, Kerala University, 2017  
+B.Ed, 2018
+
+**WHAT I CHANGED**  
+- Reordered and clarified bullets to emphasize leadership/mentoring, as this is the only partially relevant requirement.
+- Used the job's vocabulary where possible (e.g., "led instruction," "mentored").
+- Compressed unrelated details to keep focus on transferable skills.
+- Kept the summary focused on outcomes and leadership.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Python experience  
+- Kubernetes  
+- PostgreSQL  
+- AWS (EKS, RDS, S3)  
+- Terraform  
+- Go  
+- Kafka  
+- Technical team leadership (beyond mentoring teachers)
+
+If you wish to transition to software engineering, consider gaining experience and certifications in relevant technologies before applying to such roles.

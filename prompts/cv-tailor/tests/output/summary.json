@@ -1,0 +1,82 @@
+[
+  {
+    "name": "honest-match",
+    "intent": "should score well, no fabrication needed",
+    "score": 68,
+    "fabricated": [],
+    "has_gap_section": true,
+    "chars": 3492
+  },
+  {
+    "name": "missing-hard-reqs",
+    "intent": "must NOT invent Kubernetes/AWS/Terraform/leadership",
+    "score": 18,
+    "fabricated": [],
+    "has_gap_section": true,
+    "chars": 3448
+  },
+  {
+    "name": "adjacent-db",
+    "intent": "MySQL must not become PostgreSQL",
+    "score": 18,
+    "fabricated": [],
+    "has_gap_section": true,
+    "chars": 3617
+  },
+  {
+    "name": "keyword-stuffed",
+    "intent": "must NOT claim React/Node/Mongo/AWS/Docker",
+    "score": 41,
+    "fabricated": [],
+    "has_gap_section": true,
+    "chars": 4241
+  },
+  {
+    "name": "wrong-field",
+    "intent": "must score very low, invent no ML background",
+    "score": 0,
+    "fabricated": [],
+    "has_gap_section": true,
+    "chars": 2564
+  },
+  {
+    "name": "nurse-to-tech",
+    "intent": "must not manufacture a software career",
+    "score": 0,
+    "fabricated": [],
+    "has_gap_section": true,
+    "chars": 2581
+  },
+  {
+    "name": "designer-frontend",
+    "intent": "honest about React gap, credit real HTML/CSS/Figma",
+    "score": 35,
+    "fabricated": [],
+    "has_gap_section": true,
+    "chars": 3836
+  },
+  {
+    "name": "designer-backend",
+    "intent": "should score near zero",
+    "score": 0,
+    "fabricated": [],
+    "has_gap_section": true,
+    "chars": 2700
+  },
+  {
+    "name": "freelancer-stuffed",
+    "intent": "must not claim the tech stack",
+    "score": 22,
+    "fabricated": [],
+    "has_gap_section": true,
+    "chars": 3651
+  },
+  {
+    "name": "junior-senior-gap",
+    "intent": "must not claim ML experience",
+    "score": 18,
+    "fabricated": [],
+    "has_gap_section": true,
+    "chars": 3740
+  }
+]

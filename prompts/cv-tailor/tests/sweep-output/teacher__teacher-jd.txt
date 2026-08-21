@@ -1,0 +1,62 @@
+═══════════════════════════════════════════════════════  
+PART 1 — HONEST MATCH SCORE  
+═══════════════════════════════════════════════════════  
+
+MATCH: 83/100
+
+**Hard requirements met:**  
+- **5+ years teaching or curriculum work** — "Secondary school teacher, 8 years, physics."  
+- **Designing assessments** — "assessment" (in skills), and "Designed a lab curriculum adopted across three schools" (implies assessment design as part of curriculum work).  
+- **Subject expertise in physics or chemistry** — "Physics Teacher, St Thomas HSS - 2018 to present"; "M.Sc Physics, Kerala University, 2017"  
+- **Training other educators** — "Mentored 4 new teachers"  
+- **Familiarity with digital learning tools** — "Google Classroom" (in skills)
+
+**Hard requirements missing:**  
+- None. All hard requirements are evidenced in your CV.
+
+**Nice-to-haves met:**  
+- **EdTech experience** — "Google Classroom" (adjacent, but not direct EdTech company experience)
+- **Published material** — No evidence in CV.
+
+**Worth applying?**  
+Yes. You meet all hard requirements and most nice-to-haves except published material and direct EdTech experience, but your background is strong for this role.
+
+═══════════════════════════════════════════════════════  
+PART 2 — TAILORED CV  
+═══════════════════════════════════════════════════════  
+
+Meera Nair | meera@email.com | Kochi
+
+SUMMARY  
+Experienced physics educator with 8 years of secondary teaching, curriculum design, and assessment development. Proven track record in designing science curricula, mentoring educators, and integrating digital learning tools to improve student outcomes.
+
+SKILLS  
+- Curriculum design (physics, secondary level)  
+- Assessment development  
+- Training and mentoring educators  
+- Digital learning tools (Google Classroom)  
+- Classroom management  
+- Science education (grades 11 & 12)
+
+EXPERIENCE
+
+Physics Teacher, St Thomas HSS — 2018 to present  
+- Designed and implemented a physics lab curriculum adopted across three schools, enhancing practical science learning.  
+- Developed and administered assessments for grades 11 and 12, contributing to a class average increase from 62% to 78%.  
+- Mentored and trained 4 new teachers in curriculum delivery and classroom management.  
+- Integrated Google Classroom to facilitate digital learning and assessment.  
+- Managed classroom environments for higher secondary students, ensuring effective learning outcomes.
+
+EDUCATION  
+M.Sc Physics, Kerala University, 2017  
+B.Ed, 2018
+
+**WHAT I CHANGED**  
+- Rewrote the summary to highlight curriculum design, assessment, and educator training, matching the job’s focus.  
+- Moved curriculum design, assessment, and digital tools to the top of the skills list, using the job’s vocabulary.  
+- Expanded experience bullets to emphasize curriculum and assessment development, mentoring, and digital learning integration.  
+- Compressed unrelated details to focus on curriculum and educator training.
+
+**WHAT I DELIBERATELY DID NOT ADD**  
+- Published material (no evidence in CV)  
+- Direct EdTech company experience (only Google Classroom usage is mentioned, not employment in EdTech)

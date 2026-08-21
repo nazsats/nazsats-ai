@@ -44,3 +44,7 @@ next-env.d.ts
 # been posted where, and losing it means re-checking every channel by hand.
 !content/tracker.json
 !content/ideas.json
+
+# Python bytecode from the prompt test harness
+__pycache__/
+*.pyc
