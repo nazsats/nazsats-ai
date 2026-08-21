@@ -1,26 +1,53 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/* ── Design tokens ──────────────────────────────
+   Lifted from nazsats.com so the subdomain reads as the same publication
+   rather than a separate product that happens to share a name.
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+   Nothing here is pure #fff or #000: paper and ink both carry a little warmth,
+   which stops a monochrome page looking like a default browser render and
+   keeps the neutrals from going cold beside the orange. */
+@theme {
+  /* Paper. */
+  --color-paper:      #F8F7F5;   /* page */
+  --color-paper-card: #FDFCFB;   /* cards, raised above the page */
+  --color-paper-band: #F1EFEC;   /* banded sections */
+  --color-rule:       #E6E3DF;   /* hairlines */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  /* The cherry. Two steps, because the logo's own orange (#F7591F) measures
+     2.91:1 on this page — fine as a mark, unreadable as text. #E04000 clears
+     the 3:1 floor and carries large type; #C2410C (4.84:1) carries links,
+     buttons and anything small. */
+  --color-accent:       #C2410C;
+  --color-accent-loud:  #E04000;
+  --color-accent-deep:  #9A3412;
+
+  /* Ink, strongest to faintest. */
+  --color-ink:       #1A1815;  /* headings — 16.6:1 on the page */
+  --color-ink-body:  #57534E;  /* body — 6.3:1 */
+  --color-ink-muted: #7C7873;  /* muted — 3.6:1, large text only */
+  --color-ink-faint: #ADA8A2;  /* hairlines and decoration */
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-paper);
+  color: var(--color-ink-body);
+}
+
+/* The prose defaults are tuned for a cool grey palette and fight the warm one,
+   so the four things that actually show — headings, body, links, code — are
+   pinned to the tokens above. */
+.prose {
+  --tw-prose-body:     var(--color-ink-body);
+  --tw-prose-headings: var(--color-ink);
+  --tw-prose-bold:     var(--color-ink);
+  --tw-prose-links:    var(--color-accent);
+  --tw-prose-quotes:   var(--color-ink);
+  --tw-prose-code:     var(--color-accent-deep);
+  --tw-prose-counters: var(--color-ink-muted);
+  --tw-prose-bullets:  var(--color-ink-faint);
+  --tw-prose-hr:       var(--color-rule);
+  --tw-prose-th-borders: var(--color-rule);
+  --tw-prose-td-borders: var(--color-rule);
 }

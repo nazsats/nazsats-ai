@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Content tracker state. Committed deliberately — it is the record of what has
+# been posted where, and losing it means re-checking every channel by hand.
+!content/tracker.json
+!content/ideas.json

@@ -1,0 +1,234 @@
+[
+  {
+    "slug": "the-three-part-prompt",
+    "title": "The three-part prompt",
+    "note": "Who you are, who it's for, what good looks like. The reusable template.",
+    "topic": "Prompts",
+    "audience": "",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "ask-for-options-not-answers",
+    "title": "Ask for options, not answers",
+    "note": "'Give me 5 short versions' beats one reply you then have to argue with.",
+    "topic": "Prompts",
+    "audience": "",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "tell-it-what-you-don-t-want",
+    "title": "Tell it what you don't want",
+    "note": "Negative instructions are underused. 'No bullet points, no corporate tone.'",
+    "topic": "Prompts",
+    "audience": "",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "paste-your-own-writing-in",
+    "title": "Paste your own writing in",
+    "note": "Fastest way to stop sounding like a robot: give it three of your own messages.",
+    "topic": "Prompts",
+    "audience": "",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "when-it-s-wrong-don-t-start-over",
+    "title": "When it's wrong, don't start over",
+    "note": "Say what's wrong and ask for a fix. People restart instead of correcting.",
+    "topic": "Prompts",
+    "audience": "",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "explain-it-like-i-m-not-in-this-field",
+    "title": "Explain it like I'm not in this field",
+    "note": "The prompt that makes any jargon-heavy document readable.",
+    "topic": "Prompts",
+    "audience": "",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "your-cv-is-not-a-list-of-duties",
+    "title": "Your CV is not a list of duties",
+    "note": "Turning tasks into outcomes. Before/after on a real bullet point.",
+    "topic": "Career",
+    "audience": "students",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "tailoring-one-cv-to-ten-jobs-in-twenty-minutes",
+    "title": "Tailoring one CV to ten jobs in twenty minutes",
+    "note": "The workflow, not the theory.",
+    "topic": "Career",
+    "audience": "students",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "interview-practice-with-ai",
+    "title": "Interview practice with AI",
+    "note": "The prompt that makes it ask hard questions instead of flattering you.",
+    "topic": "Career",
+    "audience": "students",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "understanding-a-job-description",
+    "title": "Understanding a job description",
+    "note": "What they're really asking for underneath the buzzwords.",
+    "topic": "Career",
+    "audience": "students",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "a-cover-letter-that-isn-t-obviously-ai",
+    "title": "A cover letter that isn't obviously AI",
+    "note": "The tells recruiters spot, and how to avoid them.",
+    "topic": "Career",
+    "audience": "students",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "learning-a-topic-fast",
+    "title": "Learning a topic fast",
+    "note": "The Feynman method, with a machine that never gets bored.",
+    "topic": "Learning",
+    "audience": "students",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "checking-your-own-work",
+    "title": "Checking your own work",
+    "note": "Ask it to argue against you. Most people only ask for agreement.",
+    "topic": "Learning",
+    "audience": "students",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "customer-replies-in-your-own-voice",
+    "title": "Customer replies in your own voice",
+    "note": "Build one reusable prompt, use it for a year.",
+    "topic": "Business",
+    "audience": "business",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "product-descriptions-that-don-t-sound-copy-pasted",
+    "title": "Product descriptions that don't sound copy-pasted",
+    "note": "For listings on Amazon, Flipkart, Instagram.",
+    "topic": "Business",
+    "audience": "business",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "turning-one-photo-into-a-week-of-posts",
+    "title": "Turning one photo into a week of posts",
+    "note": "One product shot, seven captions, one sitting.",
+    "topic": "Business",
+    "audience": "business",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "handling-a-bad-review",
+    "title": "Handling a bad review",
+    "note": "Draft, cool down, then send. AI is the cooling-off step.",
+    "topic": "Business",
+    "audience": "business",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "summarising-your-whatsapp-order-chaos",
+    "title": "Summarising your WhatsApp order chaos",
+    "note": "Paste the day's messages, get the order list.",
+    "topic": "Business",
+    "audience": "business",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "writing-quotes-and-invoices-faster",
+    "title": "Writing quotes and invoices faster",
+    "note": "Templates that adapt instead of ones you retype.",
+    "topic": "Business",
+    "audience": "business",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "reading-a-contract-before-you-sign-it",
+    "title": "Reading a contract before you sign it",
+    "note": "With a loud warning: this is not legal advice.",
+    "topic": "Business",
+    "audience": "business",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "scoping-a-project-properly",
+    "title": "Scoping a project properly",
+    "note": "The questions to ask before quoting. Prevents every horror story.",
+    "topic": "Freelance",
+    "audience": "freelancers",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "saying-no-to-bad-clients-politely",
+    "title": "Saying no to bad clients, politely",
+    "note": "Scripts for the conversation everyone dreads.",
+    "topic": "Freelance",
+    "audience": "freelancers",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "turning-delivered-work-into-a-case-study",
+    "title": "Turning delivered work into a case study",
+    "note": "The thing that wins the next client.",
+    "topic": "Freelance",
+    "audience": "freelancers",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "doubling-your-output-without-hiring",
+    "title": "Doubling your output without hiring",
+    "note": "Where AI genuinely helps and where it costs you time.",
+    "topic": "Freelance",
+    "audience": "freelancers",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "pricing-conversations",
+    "title": "Pricing conversations",
+    "note": "Practising the awkward part before it's real money.",
+    "topic": "Freelance",
+    "audience": "freelancers",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "when-ai-is-confidently-wrong",
+    "title": "When AI is confidently wrong",
+    "note": "How to spot it. The most important lesson on the list.",
+    "topic": "Judgement",
+    "audience": "",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "what-you-should-never-paste-into-a-chatbot",
+    "title": "What you should never paste into a chatbot",
+    "note": "Bank details, Aadhaar, customer data, medical reports.",
+    "topic": "Judgement",
+    "audience": "",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "ai-cannot-do-your-thinking",
+    "title": "AI cannot do your thinking",
+    "note": "The tasks worth keeping for yourself, and why.",
+    "topic": "Judgement",
+    "audience": "",
+    "added": "2026-08-20"
+  },
+  {
+    "slug": "free-vs-paid",
+    "title": "Free vs paid",
+    "note": "An honest answer to the question everyone asks first.",
+    "topic": "Judgement",
+    "audience": "",
+    "added": "2026-08-20"
+  }
+]
