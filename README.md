@@ -52,6 +52,22 @@ NEXT_PUBLIC_WHATSAPP_URL=https://chat.whatsapp.com/...
 NEXT_PUBLIC_LINKEDIN_URL=https://linkedin.com/in/...
 ```
 
+## Analytics
+
+Vercel Web Analytics, same package and placement as nazsats.com so both sites
+report the same way. `<Analytics />` sits last in `<body>` in `app/layout.tsx`.
+
+**Installing the package is only half of it.** Nothing is recorded until Web
+Analytics is switched on for this project in the Vercel dashboard:
+
+> Vercel → the nazsats-ai project → **Analytics** → Enable
+
+Locally you will see `Failed to load script from /_vercel/insights/script.js` in
+the console. That is correct — the endpoint only exists on a Vercel deployment.
+
+It counts page views, referrers and countries. No cookies, no consent banner
+needed, and it does not follow anyone around the internet.
+
 ## Layout
 
 ```
