@@ -4,8 +4,37 @@ Ready to copy and send. Every link points at the one live lesson:
 
 `https://ai.nazsats.com/lessons/already-on-your-phone`
 
-Four messages, spread over about two weeks. That is the whole campaign for this
+Five messages, spread over about two weeks. That is the whole campaign for this
 post — do not send more than this off one lesson.
+
+---
+
+## Post this one now
+
+The launch message. It breaks the one-idea rule on purpose — this one announces
+that the lesson exists, so it leads with the two strongest items and lets the
+page do the rest. Every message after this goes back to a single idea.
+
+> Something most people do not know.
+>
+> The WhatsApp Business app has an AI in the Tools tab that answers your
+> customers on its own — price, stock, delivery, bookings. No charge on the free
+> app.
+>
+> And Google is giving Indian college students a free year of Gemini right now,
+> worth ₹4,000, until 31 December.
+>
+> I have written up five of these that are already on your phone. Every claim
+> links to the company's own page, so you do not have to take my word for it.
+>
+> https://ai.nazsats.com/lessons/already-on-your-phone
+
+**Even shorter**, if the group is quiet and you want low friction:
+
+> Five AI features already sitting on your phone — and three that everyone calls
+> free but are actually paid.
+>
+> https://ai.nazsats.com/lessons/already-on-your-phone
 
 ---
 
@@ -21,6 +50,11 @@ a person sharing something. Same link, completely different reception.
 
 **One idea per message.** Two makes both forgettable.
 
+**Every claim in the lesson links to the company's own page.** If someone in the
+group argues with a message, do not argue back — send them the lesson and let
+them read Meta's or Google's own wording. That is what the sources section at
+the bottom is for.
+
 **At most two a week.** The fastest way to kill a 75-person group is to post in
 it every day.
 
@@ -28,98 +62,86 @@ it every day.
 
 ---
 
-## Message 1 — the WhatsApp one
+## Message 2 — the WhatsApp one
 
-Your strongest message. It is about the app they are reading it in, and almost
-nobody knows about it. Send this first.
-
-> Agar aap WhatsApp Business use karte ho — ek cheez check karo.
->
-> Tools tab mein "Your Business AI" milega. Apna catalogue aur business ke
-> documents upload karo, aur woh customers ko khud reply karega — price, stock,
-> delivery, appointment booking. 24 ghante. Hindi, Marathi, sab languages mein.
->
-> Free hai. Koi coding nahi, koi alag app nahi.
->
-> Sabko abhi nahi dikh raha, rollout chal raha hai. Par check karne mein 10
-> second lagta hai.
->
-> Poora explanation yahan hai:
-> https://ai.nazsats.com/lessons/already-on-your-phone
-
-**English version**, if your group leans that way:
+Your strongest single idea. It is about the app they are reading it in, and
+almost nobody knows about it.
 
 > If you use WhatsApp Business, open the Tools tab and look for "Your Business
-> AI".
+> AI" — Meta has since renamed it "Meta Business Agent". Same thing.
 >
 > Upload your catalogue and your business documents, and it answers customers on
-> its own — price, stock, delivery, booking appointments. 24 hours a day, in
-> every Indian language.
+> its own: price, stock, delivery, booking appointments. 24 hours a day, in every
+> Indian language.
 >
-> Free. No coding, no separate app.
+> No charge on the free WhatsApp Business app. No coding, no separate service.
 >
-> Not everyone can see it yet, the rollout is staged. But checking takes ten
+> Not everyone can see it yet — the rollout is staged. But checking takes ten
 > seconds.
 >
-> Full walkthrough:
+> Full walkthrough, with Meta's own setup page linked:
 > https://ai.nazsats.com/lessons/already-on-your-phone
 
 ---
 
-## Message 2 — the deadline
+## Message 3 — the deadline
 
 Send two or three days later. Deadlines get acted on; everything else gets
 saved and forgotten.
 
-> College students — ye 31 December tak hai, uske baad nahi.
+> For college students — this one ends on 31 December.
 >
-> Google eligible Indian college students ko Google AI Plus ka ek saal free de
-> raha hai. Normally ₹4,000. Isme higher Gemini limits aur 400 GB storage hai.
+> Google is giving eligible Indian college students a free year of Google AI
+> Plus. It normally costs around ₹4,000, and includes higher Gemini limits and
+> 400 GB of storage.
 >
-> gemini.google.com/students — student verification lagega.
+> gemini.google.com/students — you will need student verification.
 >
-> Ghar mein koi student hai to aaj hi bhej do. Ye offers chup-chaap khatam ho
-> jaate hain, koi reminder nahi aata.
+> If there is a student in the house, send it to them today. These offers end
+> quietly and nobody sends a reminder.
 >
-> Baaki 4 cheezein jo phone mein pehle se hain:
+> The other four things already on your phone:
 > https://ai.nazsats.com/lessons/already-on-your-phone
 
 ---
 
-## Message 3 — Ask Photos
+## Message 4 — Ask Photos
 
 The widest appeal. Everybody has photos.
 
-> Ek chhoti cheez jo sabke kaam aayegi.
+> A small one that will save everybody time.
 >
-> Google Photos mein ab "Ask" tab hai. Scroll karne ki zaroorat nahi — bas
-> likho: "meri bike ke number plate ki photo", ya "electrician ka receipt".
-> Mil jayega.
+> Google Photos now has an "Ask" tab. Stop scrolling — just describe it. "The
+> photo of my bike's number plate." "The receipt from the electrician." It finds
+> it.
 >
-> Hindi, Marathi, Tamil, Bengali, Gujarati — apni bhasha mein pooch sakte ho.
+> It also understands Hindi, Marathi, Tamil, Bengali and Gujarati, so you can ask
+> in whichever language you think in.
 >
-> Ek cheez dhyan rakhna: ye sirf un photos pe kaam karta hai jo Google pe backup
-> hain. Matlab woh photos Google ke server pe hain. Holiday photos theek hai —
-> Aadhaar card aur passbook ki photo ke baare mein ek baar soch lena.
+> One thing to know: it only works on photos backed up to Google, which means
+> those photos sit on Google's servers. Fine for holiday pictures. Worth a
+> thought before you decide about your Aadhaar card and your passbook.
 >
 > https://ai.nazsats.com/lessons/already-on-your-phone
 
 ---
 
-## Message 4 — the money one
+## Message 5 — the money one
 
 This will get more replies than anything else here, because it saves people
 money instead of asking for their attention. Good message to end on.
 
-> Ek warning, kaam ki hai.
+> A warning worth passing on.
 >
-> Jinhone July 2025 mein Airtel se free Perplexity Pro liya tha (₹17,000 wala) —
-> woh free saal ab khatam ho raha hai. Auto-renewal on hai to paisa cut hoga.
+> If you claimed the free Perplexity Pro through Airtel back in July 2025 — the
+> one worth ₹17,000 — those free years have started expiring. If auto-renewal is
+> on, you will be charged.
 >
-> Abhi jaake renewal setting check kar lo.
+> Go and check your renewal setting now.
 >
-> Aise hi 3 aur features hain jo sab "free" bolte hain par actually paid hain —
-> Google Sheets ka AI formula, Google Meet ke auto notes. List yahan hai:
+> There are three more features everyone calls "free" that are actually paid —
+> the AI formula in Google Sheets, and Google Meet's automatic notes. The full
+> list, with Google's own pages linked:
 > https://ai.nazsats.com/lessons/already-on-your-phone
 
 ---
@@ -129,12 +151,12 @@ money instead of asking for their attention. Good message to end on.
 Set as the group description or pin it, so people arriving later have somewhere
 to go.
 
-> NazSats AI — AI seekhne ke liye, bina jargon ke.
+> NazSats AI — learning AI without the jargon.
 >
-> Har week ek cheez, jo aap sach mein use kar sakte ho. Kya free hai aur kya
-> nahi, dono likhta hoon.
+> One useful thing a week, that you can actually use. I write down what is free
+> and what is not, and link the official page for both.
 >
-> Saare lessons: https://ai.nazsats.com
+> All lessons: https://ai.nazsats.com
 
 ---
 

@@ -69,10 +69,17 @@ bottom.
 
 **This is the biggest one on the page, and almost nobody in India is using it.**
 
-In May 2026, Meta switched on **Business AI** inside the WhatsApp Business app
-for Indian small businesses. You give it your product catalogue and your
+In May 2026, Meta
+[switched this on for Indian small businesses](https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india/)
+inside the WhatsApp Business app. You give it your product catalogue and your
 business documents. It then answers customer questions on its own — prices,
 what is in stock, delivery, discounts — books appointments, and collects leads.
+
+**A note on the name, because it will confuse you when you go looking.** Meta's
+India announcement calls it **Business AI**. Meta's own product page and help
+centre now call it the
+[**Meta Business Agent**](https://whatsappbusiness.com/products/business-app-ai-agent/).
+Same thing, same place in the app.
 
 All day. All night. In every native Indian language.
 
@@ -91,7 +98,7 @@ have open sixteen hours a day.
 <svg viewBox="0 0 640 200" role="img" aria-label="A customer sends a WhatsApp message. Business AI reads your uploaded catalogue and documents, then answers. You can also step into any chat yourself at any time." style="max-width:100%;height:auto">
   <rect x="6" y="70" width="112" height="62" rx="8" fill="#FDFCFB" stroke="#DAD6D1" stroke-width="2"/>
   <text x="62" y="95" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1815">Customer</text>
-  <text x="62" y="114" text-anchor="middle" font-size="10" fill="#7C7873">"kitne ka hai?"</text>
+  <text x="62" y="114" text-anchor="middle" font-size="10" fill="#7C7873">"how much is this?"</text>
 
   <path d="M124 101 H166" stroke="#ADA8A2" stroke-width="2" fill="none" marker-end="url(#a2)"/>
 
@@ -129,15 +136,30 @@ Open the **WhatsApp Business** app — the one with the green shopfront icon, no
 normal WhatsApp. Then:
 
 1. Tap the **Tools** tab
-2. Tap **Your Business AI**
+2. Look for **Your Business AI** or **Meta Business Agent**
 3. Follow the setup — it asks you questions, you answer them
 4. Upload your catalogue and any documents about your business
 
-No coding. No third-party service. No separate subscription.
+Meta's own step-by-step is
+[here](https://faq.whatsapp.com/1153795669452207/?cms_platform=web).
+
+No coding. No third-party service.
 
 ### The catch
 
-The rollout is staged and there are eligibility criteria, so **not every
+**On the free WhatsApp Business app — the green one most shops use — Meta
+publishes no charge for the agent and no subscription.** That is the version
+this post is about, and it is the version you are almost certainly on.
+
+**It is different on the WhatsApp Business Platform**, the API version that
+larger companies run through a provider. Since **1 August 2026** agent replies
+there are billed by token consumption, and from **1 October 2026** service
+messages become chargeable again. If someone is selling you a "WhatsApp AI
+setup", that is the side they are on, and there is a per-message cost behind it.
+Meta's pricing page is
+[here](https://developers.facebook.com/documentation/business-messaging/whatsapp/pricing).
+
+The rollout is also staged and there are eligibility criteria, so **not every
 business will see the tab yet.** If it is not there, you have not done anything
 wrong — check again in a few weeks.
 
@@ -168,6 +190,8 @@ slider, you tell it what to change.
 ### Where to find it
 
 Google Photos app, then the **Ask** tab at the bottom. Type it or say it.
+Google's help page for it is
+[here](https://support.google.com/photos/answer/15318661).
 
 ### The catch — read this one
 
@@ -192,13 +216,19 @@ get an explanation without leaving the app you are in.
 A clause in a rental agreement. A part in a photo of a machine. A maths problem
 in a PDF. A medicine name on a strip.
 
-This is **Circle to Search**, and it is on most Android phones from Android 12
-onwards. Most people who have it have never used it once.
+This is **Circle to Search**. Google's own page lists it for
+[Pixel 6 and later](https://support.google.com/pixelphone/answer/14542478),
+plus other Android phones that support AI Mode — which covers a lot of recent
+Samsung, OnePlus and Xiaomi devices, but not every Android phone.
+
+**Do not go hunting through settings for it.** Just hold your home button. If a
+search bar and a coloured glow appear, you have it. If nothing happens, you do
+not.
 
 Google Lens also has a **Homework mode** that shows the *steps* rather than just
-the answer — algebra, geometry, calculus. And in August 2026 Google added
-**practice quizzes covering JEE and NEET** to Search's AI Mode, free and
-worldwide.
+the answer — algebra, geometry, calculus. And in August 2026 Google
+[added practice quizzes covering JEE and NEET](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/)
+to Search's AI Mode, free and worldwide.
 
 ### Why this is underrated
 
@@ -222,9 +252,13 @@ Google is giving **eligible Indian college students a free year of Google AI
 Plus** — normally around **₹4,000**. It includes higher usage limits on Gemini
 and 400 GB of storage.
 
-**Where:** gemini.google.com/students
+**Where:** [gemini.google.com/students](https://gemini.google.com/students)
 **You need:** student verification
 **Deadline: 31 December 2026**
+
+Google's announcement for India is
+[here](https://blog.google/intl/en-in/products/start-the-academic-year-with-one-year-of-gemini-on-us/),
+so you can check the terms yourself rather than taking my word for it.
 
 If you are studying, or there is a student in the house, do this one today
 rather than bookmarking this page. Offers like this end quietly and nobody sends
@@ -236,8 +270,8 @@ a reminder.
 
 The quiet one on the list, and probably the one that gets used most.
 
-**Gboard Writing Tools** proofreads and rewrites text inside the keyboard
-itself, in any app. Change the tone to formal, friendly or concise. Fix grammar
+[**Gboard Writing Tools**](https://blog.google/products-and-platforms/platforms/android/new-android-features-september-2025/)
+proofreads and rewrites text inside the keyboard itself, in any app. Change the tone to formal, friendly or concise. Fix grammar
 and spelling in one tap. It works in WhatsApp, in email, in a form — anywhere
 you can type.
 
@@ -268,8 +302,8 @@ use them. You cannot.
 
 | Feature | What people say | What is actually true |
 |---|---|---|
-| **The AI formula in Google Sheets** | "Write one formula, AI runs on every row" | Real, and genuinely powerful. **But it needs a paid Workspace plan or Google One AI Premium.** Not available on a free Gmail account. |
-| **Google Meet "Take notes for me"** | "Free automatic meeting notes" | **Paid only** — Workspace Business Standard and above, or Google AI Pro. Free Gmail does not have it. |
+| [**The AI formula in Google Sheets**](https://support.google.com/docs/answer/15877199) | "Write one formula, AI runs on every row" | Real, and genuinely powerful. **But it needs a paid Workspace plan or Google One AI Premium.** Not available on a free Gmail account. |
+| [**Google Meet "Take notes for me"**](https://support.google.com/meet/answer/14754931) | "Free automatic meeting notes" | **Paid only** — Workspace Business Standard and above, or Google AI Pro. Free Gmail does not have it. |
 | **Meta AI inside WhatsApp** | "Unlimited free AI in your chats" | Still free, but **Meta cut the limits in June 2026** — from 200 to 50 prompts a day for logged-in users, and 25 for logged-out. |
 
 I am including this because it is the part that always gets left out, and
@@ -283,7 +317,9 @@ January 2026 — which means **the earliest free years began expiring in the
 middle of 2026, rolling into paid auto-renewal unless the person switched it
 off.**
 
-If you claimed that offer, go and check your renewal setting now.
+If you claimed that offer, go and check your renewal setting now. Perplexity's
+own page on the Airtel promotion is
+[here](https://www.perplexity.ai/help-center/en/articles/11842322-perplexity-pro-airtel-promo).
 
 ---
 
@@ -299,6 +335,37 @@ Pick one. Not five.
 
 That last one takes about eleven seconds, and is usually the moment people
 realise the phone has been able to do this the whole time.
+
+---
+
+## Check all of this yourself
+
+I would rather you did not take my word for any of it. Every claim above comes
+from one of these, all official pages from the companies themselves:
+
+**WhatsApp / Meta**
+
+- [Business AI for Indian small businesses](https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india/) — the May 2026 announcement
+- [Meta Business Agent product page](https://whatsappbusiness.com/products/business-app-ai-agent/) — what it does, and the current name
+- [How to set it up](https://faq.whatsapp.com/1153795669452207/?cms_platform=web) — WhatsApp's own steps
+- [WhatsApp Business Platform pricing](https://developers.facebook.com/documentation/business-messaging/whatsapp/pricing) — the API side, where the charges are
+
+**Google**
+
+- [Ask Photos](https://support.google.com/photos/answer/15318661)
+- [Circle to Search](https://support.google.com/pixelphone/answer/14542478) — including which phones have it
+- [Study tools, JEE and NEET quizzes](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/)
+- [One free year of Gemini for Indian students](https://blog.google/intl/en-in/products/start-the-academic-year-with-one-year-of-gemini-on-us/) · [claim it here](https://gemini.google.com/students)
+- [Gboard writing tools](https://blog.google/products-and-platforms/platforms/android/new-android-features-september-2025/)
+- [The AI function in Sheets](https://support.google.com/docs/answer/15877199) — read the plan requirements
+- [Take notes for me in Meet](https://support.google.com/meet/answer/14754931) — same
+
+**Perplexity**
+
+- [The Airtel promotion](https://www.perplexity.ai/help-center/en/articles/11842322-perplexity-pro-airtel-promo)
+
+If one of these pages says something different from what I have written, believe
+the page and tell me — I will fix it here.
 
 ---
 
