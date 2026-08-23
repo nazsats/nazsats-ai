@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
+import gfm from 'remark-gfm';
 
 /**
  * Lessons, read from markdown files on disk.
@@ -29,6 +30,14 @@ export type Post = {
     audience: string[];
     /** Reading time in minutes, computed rather than guessed. */
     minutes: number;
+    /**
+     * How much setup this asks of the reader.
+     *   1 - AI already inside a tool they use, nothing to connect
+     *   2 - connecting their own documents or data
+     *   3 - agentic: the AI reads live state and acts
+     * Absent on plain prompt lessons.
+     */
+    tier: number | null;
 };
 
 export type FullPost = Post & { contentHtml: string };
@@ -38,7 +47,23 @@ function readFile(slug: string) {
     return matter(fs.readFileSync(full, 'utf8'));
 }
 
-function toPost(slug: string, data: any, content: string): Post {
+
+/**
+ * The frontmatter block, as gray-matter hands it back.
+ *
+ * Every field is optional because a half-written lesson should still render
+ * rather than crash the build — toPost fills the gaps. Typed rather than `any`
+ * so a renamed field shows up here instead of silently becoming undefined.
+ */
+type Frontmatter = Partial<{
+    title: string;
+    summary: string;
+    date: string;
+    topic: string;
+    audience: string[];
+    tier: number | string;
+}>;
+function toPost(slug: string, data: Frontmatter, content: string): Post {
     // 200 wpm is the usual reading speed for plain prose. Rounded up, so a
     // 40-second read never displays as "0 min".
     const words = content.trim().split(/\s+/).length;
@@ -50,6 +75,7 @@ function toPost(slug: string, data: any, content: string): Post {
         topic: data.topic ?? 'General',
         audience: Array.isArray(data.audience) ? data.audience : [],
         minutes: Math.max(1, Math.round(words / 200)),
+        tier: data.tier ? Number(data.tier) : null,
     };
 }
 
@@ -77,7 +103,7 @@ export async function getPost(slug: string): Promise<FullPost | null> {
         // from a reader — but these files are written by hand and live in this
         // repo, so the only author is whoever can already deploy the site. The
         // moment anything here accepts submissions, this has to be reversed.
-        const processed = await remark().use(html, { sanitize: false }).process(content);
+        const processed = await remark().use(gfm).use(html, { sanitize: false }).process(content);
         return { ...toPost(slug, data, content), contentHtml: processed.toString() };
     } catch {
         return null;

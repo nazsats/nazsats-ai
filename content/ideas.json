@@ -230,5 +230,53 @@
     "topic": "Judgement",
     "audience": "",
     "added": "2026-08-20"
+  },
+  {
+    "slug": "the-canva-features-you-are-paying-for-and-not-using",
+    "title": "The Canva features you are paying for and not using",
+    "note": "Tier 1. Background remove, resize for six platforms at once, magic write. Zero setup, widest reach, proves the video format works.",
+    "topic": "Tools",
+    "audience": "",
+    "added": "2026-08-23"
+  },
+  {
+    "slug": "stop-retyping-your-business-into-chatgpt",
+    "title": "Stop retyping your business into ChatGPT",
+    "note": "Tier 1. Custom instructions / Projects. Teach it your context once instead of re-explaining every session. Best effort-to-payoff ratio on the list.",
+    "topic": "Tools",
+    "audience": "business",
+    "added": "2026-08-23"
+  },
+  {
+    "slug": "give-the-ai-your-price-list",
+    "title": "Give the AI your price list",
+    "note": "Tier 2. First real connector. Directly fixes the 'it invented a price' problem the reply prompt could not solve.",
+    "topic": "Connectors",
+    "audience": "business",
+    "added": "2026-08-23"
+  },
+  {
+    "slug": "one-automation-that-answers-your-form-submissions",
+    "title": "One automation that answers your form submissions",
+    "note": "Tier 2. First time the AI acts without being asked. Form in, draft reply out.",
+    "topic": "Connectors",
+    "audience": "business",
+    "added": "2026-08-23"
+  },
+  {
+    "slug": "letting-ai-read-your-calendar-and-your-drive",
+    "title": "Letting AI read your calendar and your Drive",
+    "note": "Tier 3. MCP connectors explained without the word protocol. Our edge — we built one.",
+    "topic": "Agentic",
+    "audience": "freelancers",
+    "added": "2026-08-23"
+  },
+  {
+    "slug": "what-to-never-connect-an-ai-to",
+    "title": "What to never connect an AI to",
+    "note": "Tier 3 counterweight. Bank accounts, customer databases, anything that can send on your behalf. Trust-building, same job as the 'never paste this' lesson.",
+    "topic": "Judgement",
+    "audience": "",
+    "added": "2026-08-23"
   }
 ]

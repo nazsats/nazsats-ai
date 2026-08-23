@@ -32,8 +32,21 @@ Your lesson here.
 | `title` | Shown in the list and as the page title |
 | `summary` | Also the meta description and the WhatsApp link preview |
 | `date` | ISO format. Sorting is newest-first |
-| `topic` | Free text — `Prompts`, `Automation`, `Judgement` |
+| `topic` | Free text — `Prompts`, `Tools`, `Connectors`, `Agentic`, `Judgement` |
 | `audience` | Any of `students`, `business`, `freelancers`. Omit for everyone |
+| `tier` | `1` tool they already use · `2` connecting their own data · `3` agentic. Omit for prompt lessons |
+
+A tutorial is not a separate content type — same folder, same pipeline. It just
+carries a `tier`. Two content types would mean two lists, two filters, and two
+things to keep in step.
+
+Diagrams go in the markdown as inline SVG. `remark-html` runs with
+`sanitize: false`, which is safe only because every file here is hand-written by
+whoever can already deploy the site — the moment anything accepts submissions,
+that has to be reversed.
+
+Drafts live in `content/drafts/`. Nothing reads that folder, so a post sits
+there until you move it into `content/posts/`.
 
 Reading time is calculated from the word count, so it is never wrong.
 
@@ -84,6 +97,7 @@ nazsats-ai/
 │   └── site.ts          # name, links, audiences — change them here
 └── playbook/            # strategy, not code
     ├── content-plan.md  # 30 lessons, grouped, with the format that works
+    ├── beyond-prompting.md # the tools/connectors/agentic track, and why
     ├── consulting.md    # what to offer, what to learn, realistic pricing
     └── growth.md        # WhatsApp and LinkedIn, which need different things
 ```

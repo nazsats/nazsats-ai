@@ -51,3 +51,12 @@ body {
   --tw-prose-th-borders: var(--color-rule);
   --tw-prose-td-borders: var(--color-rule);
 }
+
+/* Tables in a lesson are almost always "what it costs you" comparisons, and on
+   a phone they are the one element that will not reflow. Let them scroll on
+   their own rather than the whole page. */
+.prose table {
+  display: block;
+  overflow-x: auto;
+  white-space: normal;
+}

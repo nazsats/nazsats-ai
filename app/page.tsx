@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
 import { SITE, AUDIENCES } from '@/lib/site';
 import PostList from '@/components/PostList';

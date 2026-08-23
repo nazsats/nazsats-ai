@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { remark } from 'remark';
 import html from 'remark-html';
+import gfm from 'remark-gfm';
 
 /**
  * The playbook, readable in the browser.
@@ -19,6 +20,8 @@ const DOCS = {
     'content-plan': { title: 'Content plan', blurb: '30 lessons, grouped, and the format that works' },
     consulting: { title: 'Consulting', blurb: 'What to offer, what to learn, realistic pricing' },
     growth: { title: 'Growth', blurb: 'WhatsApp and LinkedIn need different things' },
+    'beyond-prompting': { title: 'Beyond prompting', blurb: 'Tools, connectors and workflows — the next layer' },
+    'whatsapp-messages': { title: 'WhatsApp messages', blurb: 'Ready to send, driving to the phone-features lesson' },
 } as const;
 
 type Doc = keyof typeof DOCS;
@@ -44,7 +47,7 @@ export default async function PlaybookPage({ params }: { params: Promise<{ doc: 
         notFound();
     }
 
-    const contentHtml = (await remark().use(html).process(markdown)).toString();
+    const contentHtml = (await remark().use(gfm).use(html).process(markdown)).toString();
 
     return (
         <div className="mx-auto max-w-3xl px-5 py-12">

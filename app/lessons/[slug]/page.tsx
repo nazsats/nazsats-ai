@@ -68,6 +68,7 @@ export default async function LessonPage({
                 </p>
             ) : null}
 
+
             {/* The markdown is generated from files in this repo, not from user
                 input, so rendering it as HTML is safe here. That stops being
                 true the moment anything accepts submissions. */}
