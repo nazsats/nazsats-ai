@@ -1,0 +1,139 @@
+Thank you for the detailed instructions and context. Here’s how I would run you through a realistic practice interview for this job, given your CV and the job description.
+
+---
+
+═══════════════════════════════════════════════════════  
+**PART 1 — THE QUESTIONS THEY WILL ACTUALLY ASK**  
+═══════════════════════════════════════════════════════
+
+**Q1. Can you walk us through your most recent project as a freelance designer, focusing on how you managed client expectations and delivered results?**  
+- **Why this comes up:** "Managed client relationships and project timelines end to end"  
+- **What they are really testing:** Ownership, communication, stakeholder management  
+- **My risk here:** Low
+
+**Q2. Tell us about a time you had to learn a new tool or technology quickly to complete a project.**  
+- **Why this comes up:** "Built two landing pages in HTML and CSS from my own designs" (implies learning new skills)  
+- **What they are really testing:** Adaptability, self-learning, technical curiosity  
+- **My risk here:** Medium — you list only basic HTML/CSS, and the job is for a backend engineer with advanced skills.
+
+**Q3. You mention producing social media graphics that raised engagement by 40%. How did you measure that, and what actions did you take to achieve it?**  
+- **Why this comes up:** "one campaign raised engagement 40%"  
+- **What they are really testing:** Results orientation, data-driven thinking  
+- **My risk here:** Low
+
+**Q4. Describe your experience working in a team environment. How did you handle disagreements or feedback from others?**  
+- **Why this comes up:** "Produced marketing collateral under art director supervision"  
+- **What they are really testing:** Teamwork, feedback, collaboration  
+- **My risk here:** Low
+
+**Q5. Can you give an example of a time you had to balance multiple projects or deadlines? How did you prioritise?**  
+- **Why this comes up:** "Managed client relationships and project timelines end to end"  
+- **What they are really testing:** Time management, prioritisation  
+- **My risk here:** Low
+
+**Q6. You list Figma, Illustrator, and Photoshop as your main tools. Have you ever automated any part of your workflow, or used scripting to improve efficiency?**  
+- **Why this comes up:** The job requires Python and automation skills; your CV lists only design tools.  
+- **What they are really testing:** Technical depth, automation, programming experience  
+- **My risk here:** High — no evidence of Python or automation.
+
+**Q7. This role requires production experience with Kubernetes and AWS. Can you describe your experience deploying or managing applications in a cloud environment?**  
+- **Why this comes up:** "Production Kubernetes experience — you will own our cluster" and "AWS (EKS, RDS, S3)" in job description; no mention on your CV.  
+- **What they are really testing:** Technical fit, cloud, and infrastructure experience  
+- **My risk here:** High — no evidence of Kubernetes or AWS.
+
+**Q8. Have you ever worked with databases like PostgreSQL, especially at scale or with replication?**  
+- **Why this comes up:** "PostgreSQL at scale, including query optimisation and replication" in job description; not mentioned in your CV.  
+- **What they are really testing:** Database experience  
+- **My risk here:** High — no evidence of this on your CV.
+
+**Q9. Tell us about a time you led a team or mentored others. What was your approach?**  
+- **Why this comes up:** "Experience leading a team of at least 3 engineers" in job description; not mentioned in your CV.  
+- **What they are really testing:** Leadership, mentoring  
+- **My risk here:** High — no leadership experience listed.
+
+**Q10. Why are you applying for a Senior Backend Engineer role when your experience is in design?**  
+- **Why this comes up:** Your entire CV is design-focused; the job is backend engineering.  
+- **What they are really testing:** Motivation, self-awareness, career direction  
+- **My risk here:** High — major gap between your experience and the role.
+
+---
+
+═══════════════════════════════════════════════════════  
+**PART 2 — HOW TO ANSWER THE THREE HARDEST ONES**  
+═══════════════════════════════════════════════════════
+
+**(Q6) You list Figma, Illustrator, and Photoshop as your main tools. Have you ever automated any part of your workflow, or used scripting to improve efficiency?**
+
+**Situation:** As a freelance designer, my main tools have been Figma, Illustrator, and Photoshop.  
+**Task:** I was responsible for delivering design assets efficiently to multiple clients.  
+**Action:** I haven’t used scripting or automation in my workflow. My experience with code is limited to building two landing pages in HTML and CSS from my own designs. I haven’t used Python or automated tasks, but I’ve managed to pick up new tools quickly when needed, like learning basic HTML/CSS to deliver those landing pages.  
+**Result:** While I haven’t automated my design workflow, I’ve shown I can learn technical skills as needed, and I’m confident I could pick up scripting or automation with guidance and time, though I’d need support to get up to speed with Python specifically.
+
+---
+
+**(Q7) This role requires production experience with Kubernetes and AWS. Can you describe your experience deploying or managing applications in a cloud environment?**
+
+**Situation:** My background is in freelance design and producing web assets for small businesses.  
+**Task:** I was responsible for designing and building two landing pages, which I coded in HTML and CSS.  
+**Action:** I deployed these landing pages by uploading them to the client’s hosting provider, but I haven’t worked with Kubernetes, AWS, or managed production infrastructure.  
+**Result:** I don’t have experience with cloud environments or container orchestration. I’d need to learn these from the ground up, but I have experience picking up new tools quickly and managing projects independently, so I’m confident I could learn with the right support.
+
+---
+
+**(Q10) Why are you applying for a Senior Backend Engineer role when your experience is in design?**
+
+**Situation:** My experience so far has been as a freelance designer and junior designer at a studio.  
+**Task:** I’ve managed client projects end to end, including some basic web development for landing pages.  
+**Action:** I haven’t worked as a backend engineer or with the technologies listed in your job description. I’m interested in moving into more technical roles because I enjoyed the coding part of building landing pages, but I know my experience doesn’t match this senior engineering role.  
+**Result:** I’m applying because I want to transition into backend development, but I understand this role is well beyond my current experience. I’d be better suited to a junior or entry-level engineering position where I can learn and grow into the field.
+
+---
+
+═══════════════════════════════════════════════════════  
+**PART 3 — WHAT I SHOULD BE READY FOR**  
+═══════════════════════════════════════════════════════
+
+**The follow-up questions**
+
+- **Q6:** What steps would you take to start learning Python or automation if you joined us?
+- **Q7:** Given you haven’t worked with Kubernetes or AWS, how would you approach learning these technologies while meeting project deadlines?
+- **Q10:** If we were to offer you a more junior technical role, what skills would you bring from your design background that would help you succeed?
+
+---
+
+**What I cannot answer**
+
+Every requirement in the job description that nothing in your CV supports:
+
+- 5+ years professional Python
+- Production Kubernetes experience
+- PostgreSQL at scale (query optimisation, replication)
+- AWS (EKS, RDS, S3)
+- Terraform or infrastructure as code
+- Leading a team of engineers
+- Go, Kafka
+
+---
+
+**Two questions I should ask them**
+
+1. How do you support team members who are transitioning from other fields or roles into backend engineering?
+2. What does onboarding look like for someone who is new to your technology stack, and what resources are available for learning on the job?
+
+---
+
+═══════════════════════════════════════════════════════  
+**IF THE INTERVIEW IS CONDUCTED BY AI**  
+═══════════════════════════════════════════════════════
+
+- It is scored against a **rubric of job competencies**, not by counting keywords. Using lots of terms from the job ad without substance will count against you.
+- The AI cannot glance at your CV the way a person does. **Name the thing specifically** — for example, say “I built two landing pages in HTML and CSS for clients” rather than “I have some web experience.”
+- **Structure carries more weight than usual**: clearly say Situation, Task, Action, Result, in that order, out loud.
+- **Say the specific word when it is honestly yours.** If you have used a tool or system, name it. If not, do not mention it.
+- **Reading a scripted answer off a screen is obvious** and will count against you. Practise the shape and flow of your answers, not memorised sentences.
+- **If the software glitches** — audio drops, questions repeat, timer issues — email the recruiter afterwards and explain factually. Ask to retake. This is reasonable and often granted.
+
+---
+
+**Summary:**  
+You are not a fit for this role as described, and the interview will quickly reveal the gaps. Be honest, focus on your strengths, and if you want to move into backend engineering, look for junior roles or internships and build relevant experience first. If you do proceed, be ready for direct questions about your lack of technical experience, and answer with honesty and self-awareness.

@@ -1,0 +1,153 @@
+Absolutely — here’s how a real, structured interview for this job will go, based on your CV and the job description.
+
+═══════════════════════════════════════════════════════  
+PART 1 — THE QUESTIONS THEY WILL ACTUALLY ASK  
+═══════════════════════════════════════════════════════
+
+**Q1. Can you walk us through a recent project where you built a web application end-to-end?**  
+- **Why this comes up:** "Software developer with 2 years of experience building web applications."  
+- **What they are really testing:** Full stack development experience; ability to own a project.  
+- **My risk here:** Medium — your CV shows backend and some frontend, but not a full stack project start-to-finish.
+
+---
+
+**Q2. Tell us about a time you handled a customer complaint escalated from support. What did you do?**  
+- **Why this comes up:** "Handled customer complaints escalated from the support team."  
+- **What they are really testing:** Client relationship management; communication skills; problem-solving.  
+- **My risk here:** Low — you have this on your CV.
+
+---
+
+**Q3. Describe your experience working with JavaScript frameworks like React or Node.js.**  
+- **Why this comes up:** "Requirements: ... React, Node.js" and "SKILLS: JavaScript" (no React/Node.js listed).  
+- **What they are really testing:** Breadth of stack; ability to work with modern JS frameworks.  
+- **My risk here:** High — your CV lists JavaScript, but not React or Node.js.
+
+---
+
+**Q4. How have you contributed to cross-functional collaboration in your current or past roles?**  
+- **Why this comes up:** "Cross-functional collaboration" in requirements.  
+- **What they are really testing:** Teamwork; ability to work with non-developers or other teams.  
+- **My risk here:** Medium — your CV doesn’t mention working with other departments.
+
+---
+
+**Q5. Have you worked with Agile or Scrum methodologies? Can you describe your role in a sprint?**  
+- **Why this comes up:** "Agile/Scrum methodology" in requirements.  
+- **What they are really testing:** Familiarity with Agile/Scrum; team process.  
+- **My risk here:** High — your CV does not mention Agile or Scrum.
+
+---
+
+**Q6. Can you give an example of a data-driven decision you made in your development work?**  
+- **Why this comes up:** "Data-driven decision making" in requirements.  
+- **What they are really testing:** Analytical thinking; using data to guide actions.  
+- **My risk here:** Medium — your CV mentions reporting, but not decision-making based on data.
+
+---
+
+**Q7. Tell us about a time you had to manage stakeholders or balance competing priorities.**  
+- **Why this comes up:** "Stakeholder management" in requirements; "Handled customer complaints" in CV.  
+- **What they are really testing:** Stakeholder management; prioritization.  
+- **My risk here:** Medium — you have some exposure via customer complaints, but not formal stakeholder management.
+
+---
+
+**Q8. What experience do you have with AWS, Docker, or CI/CD pipelines?**  
+- **Why this comes up:** "Requirements: ... AWS, Docker, CI/CD" — not listed in your skills.  
+- **What they are really testing:** DevOps and deployment skills.  
+- **My risk here:** High — your CV does not mention any of these.
+
+---
+
+**Q9. How do you ensure code quality and maintainability in your projects?**  
+- **Why this comes up:** "Wrote unit tests, raised coverage from 30% to 65%."  
+- **What they are really testing:** Code quality practices; testing; maintainability.  
+- **My risk here:** Low — you have a good example.
+
+---
+
+**Q10. You’ve only been a full-time developer since June 2024. Can you explain your rapid transition from intern to developer, and how you’ve handled the learning curve?**  
+- **Why this comes up:** "Software Developer, Infobyte Solutions, Pune — June 2024 to present" and "Intern ... Jan 2024 to May 2024."  
+- **What they are really testing:** Adaptability; readiness for a fast-paced environment; addressing short tenure.  
+- **My risk here:** Medium — short experience, but could be a strength if explained well.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 2 — HOW TO ANSWER THE THREE HARDEST ONES  
+═══════════════════════════════════════════════════════
+
+**The three highest-risk questions:**  
+- Q3 (React/Node.js experience)  
+- Q5 (Agile/Scrum)  
+- Q8 (AWS, Docker, CI/CD)
+
+---
+
+**Q3. Describe your experience working with JavaScript frameworks like React or Node.js.**
+
+**SITUATION:** In my current role at Infobyte Solutions, I’ve mainly worked on internal tools using Python and Django, with some use of JavaScript for frontend interactions.  
+**TASK:** My main responsibility was to build and maintain web applications, focusing on backend and some frontend features.  
+**ACTION:** I used JavaScript for adding interactivity to HTML pages, such as form validation and dynamic content updates. However, I haven’t yet worked with React or Node.js in a professional setting.  
+**RESULT:** While I’m comfortable with core JavaScript and integrating it into Django templates, I haven’t had the opportunity to use React or Node.js yet. I’d need to learn those frameworks on the job, but I’m confident I can pick them up quickly, given my experience learning Django and building web apps from scratch.
+
+---
+
+**Q5. Have you worked with Agile or Scrum methodologies? Can you describe your role in a sprint?**
+
+**SITUATION:** At Infobyte Solutions, our team had regular meetings to discuss progress and assign tasks, but we didn’t formally follow Agile or Scrum.  
+**TASK:** My role was to deliver features and bug fixes according to the team’s priorities, and coordinate with my manager and other developers.  
+**ACTION:** We used task boards and had weekly check-ins to track progress. I made sure to update the team on my work and adjust priorities based on feedback.  
+**RESULT:** While I haven’t worked in a formal Agile or Scrum environment, I’m used to working in a team with regular updates and shifting priorities. I’d need to learn the specific ceremonies and tools, but I’m comfortable adapting to new processes.
+
+---
+
+**Q8. What experience do you have with AWS, Docker, or CI/CD pipelines?**
+
+**SITUATION:** In my current role, I’ve focused on developing and maintaining internal tools, mainly using Python, Django, and MySQL.  
+**TASK:** My responsibilities have been around coding, testing, and supporting these applications, but not deployment or infrastructure.  
+**ACTION:** I haven’t yet worked with AWS, Docker, or CI/CD pipelines directly.  
+**RESULT:** I’d need to learn those technologies on the job. I’m confident in my ability to pick up new tools quickly, as I did with Django and MySQL, but I haven’t had hands-on experience with cloud or DevOps tools yet.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I SHOULD BE READY FOR  
+═══════════════════════════════════════════════════════
+
+**The follow-up questions:**  
+- **Q3:** "How would you approach learning React or Node.js if you joined us?"  
+- **Q5:** "What do you think are the main differences between how you’ve worked and a formal Agile team?"  
+- **Q8:** "Can you give an example of how you’d go about deploying a Django app to production, even if you haven’t used AWS or Docker?"
+
+---
+
+**What I cannot answer:**  
+- Professional experience with React, Node.js, MongoDB, AWS, Docker, or CI/CD pipelines (not in your CV).
+- Formal Agile/Scrum ceremonies or tools (not in your CV).
+- Stakeholder management beyond handling customer complaints (no formal stakeholder management listed).
+- Data-driven decision making where you used analytics to guide development (reporting, but not decision-making).
+
+---
+
+**Two questions I should ask them:**  
+1. "How is your full stack team structured, and how do you support developers transitioning into new technologies like React or AWS?"  
+2. "What does stakeholder management look like here — are developers expected to interact directly with clients or product owners?"
+
+---
+
+═══════════════════════════════════════════════════════  
+IF THE INTERVIEW IS CONDUCTED BY AI  
+═══════════════════════════════════════════════════════
+
+- It is scored against a **rubric of job competencies**, not by counting keywords. Using lots of job ad terms without substance is detected and counts against you.
+- The AI cannot glance at your CV. **Name the specific thing you did** — say "at Infobyte Solutions I built internal tools in Django" rather than "as you can see from my experience."
+- **Structure matters more than usual**: Situation, Task, Action, Result, in that order, out loud.
+- **Say the specific word when it’s honestly yours.** If you used Django, say "Django." If you haven’t used React, don’t say you have.
+- **Don’t read answers word-for-word.** Practise the structure, not the script.
+- **If the software glitches, email the recruiter and say so, factually.** Ask to retake it. This is a normal and accepted thing to do.
+
+---
+
+Let me know if you want to rehearse your answers or get feedback on your delivery!

@@ -1,0 +1,146 @@
+Absolutely — here’s a full, realistic practice interview, tailored to your CV and the job description.
+
+═══════════════════════════════════════════════════════  
+PART 1 — THE QUESTIONS THEY WILL ACTUALLY ASK  
+═══════════════════════════════════════════════════════
+
+**Q1. Can you walk us through the internal tools you built at Infobyte Solutions, and your role in those projects?**
+- **Why this comes up:** “Built internal tools in Python and Django used by 40 staff”
+- **What they are really testing:** Depth of hands-on backend development, ownership, and impact.
+- **My risk here:** Low — this is your core experience.
+
+---
+
+**Q2. Tell us about a time you designed a MySQL schema. What trade-offs did you consider?**
+- **Why this comes up:** “Designed MySQL schemas and wrote queries for reporting”
+- **What they are really testing:** Database design skills, understanding of normalization, and real-world decision-making.
+- **My risk here:** Medium — you mention schema design, but not at what scale or complexity.
+
+---
+
+**Q3. Describe your experience with REST API development. What was the most challenging endpoint you implemented?**
+- **Why this comes up:** “Wrote documentation for the REST API” and “Built internal tools in Python and Django”
+- **What they are really testing:** Real experience building (not just using or documenting) APIs.
+- **My risk here:** Medium — your CV lists documentation and tools, but not explicit API development.
+
+---
+
+**Q4. How have you used Git in your projects? Can you describe your workflow for collaborating with others?**
+- **Why this comes up:** “Git” under skills
+- **What they are really testing:** Practical version control experience, teamwork.
+- **My risk here:** Low — you list Git, and collaboration is implied.
+
+---
+
+**Q5. Can you give an example of how you improved test coverage at Infobyte Solutions? What was your approach?**
+- **Why this comes up:** “Wrote unit tests, raised coverage from 30% to 65%”
+- **What they are really testing:** Automated testing skills, initiative, and process improvement.
+- **My risk here:** Low — you have a clear achievement here.
+
+---
+
+**Q6. Have you worked with cloud platforms or Docker? If not, how would you approach learning them?**
+- **Why this comes up:** “Nice to have: Experience with cloud platforms, Familiarity with Docker” (not mentioned in your CV)
+- **What they are really testing:** Willingness and ability to learn missing skills.
+- **My risk here:** High — no mention of these in your CV.
+
+---
+
+**Q7. You handled customer complaints escalated from the support team. Can you share a specific example and how you resolved it?**
+- **Why this comes up:** “Handled customer complaints escalated from the support team”
+- **What they are really testing:** Communication, problem-solving, and ownership.
+- **My risk here:** Low — you have this experience.
+
+---
+
+**Q8. Your experience is all at Infobyte Solutions, including your internship. What motivated you to look for a new role now?**
+- **Why this comes up:** All experience at one company, short tenure as a developer.
+- **What they are really testing:** Motivation, ambition, and readiness for change.
+- **My risk here:** Medium — short time in current role, could be seen as job-hopping.
+
+---
+
+**Q9. This role is for 2-4 years’ experience, but your developer role started in June 2024. Can you clarify your experience level?**
+- **Why this comes up:** “2+ years building web applications in Python” (job requirement) vs. “June 2024 to present” (your experience)
+- **What they are really testing:** Honesty about experience, fit for the role.
+- **My risk here:** High — you have less than 1 year post-graduation.
+
+---
+
+**Q10. What’s one area of backend development you want to improve, and how are you working on it?**
+- **Why this comes up:** No mention of cloud, Docker, or scaling experience.
+- **What they are really testing:** Self-awareness, growth mindset.
+- **My risk here:** Medium — you lack some “nice to have” skills.
+
+═══════════════════════════════════════════════════════  
+PART 2 — HOW TO ANSWER THE THREE HARDEST ONES  
+═══════════════════════════════════════════════════════
+
+**The three highest-risk questions: Q6, Q9, Q3**
+
+---
+
+**Q6. Have you worked with cloud platforms or Docker? If not, how would you approach learning them?**
+
+**SITUATION:** I haven’t worked with cloud platforms or Docker in my current role at Infobyte Solutions.  
+**TASK:** My focus has been on backend development using Python, Django, and MySQL for internal tools.  
+**ACTION:** While I haven’t used Docker or cloud services directly, I have worked on deploying Django apps to our internal servers and have experience troubleshooting deployment issues. If I were to learn Docker or a cloud platform, I’d start by understanding the basics through the official documentation and then apply it to a small project, ideally something similar to what I’ve built before.  
+**RESULT:** I’m confident I can pick up Docker and cloud platforms quickly because I’ve learned new frameworks and tools on the job before, like Django and MySQL, and successfully delivered working solutions.
+
+---
+
+**Q9. This role is for 2-4 years’ experience, but your developer role started in June 2024. Can you clarify your experience level?**
+
+**SITUATION:** I started as a software developer at Infobyte Solutions in June 2024, after completing a five-month internship at the same company from January to May 2024.  
+**TASK:** I understand you’re looking for someone with 2+ years of experience.  
+**ACTION:** While my official developer title is recent, I’ve been working full-time on backend projects since January, including building tools in Python and Django, designing MySQL schemas, and handling real production issues.  
+**RESULT:** My hands-on experience is about 10 months, but I’ve taken on responsibilities typically given to more experienced developers, like leading testing improvements and handling escalated customer complaints. I’m eager to grow into the role and can bring a lot of energy and fast learning.
+
+---
+
+**Q3. Describe your experience with REST API development. What was the most challenging endpoint you implemented?**
+
+**SITUATION:** At Infobyte Solutions, I worked on an internal Django app used by our staff.  
+**TASK:** My main responsibility was to maintain and improve the backend, including working with the REST API.  
+**ACTION:** I fixed bugs in the API and wrote documentation, but I haven’t built a complex endpoint from scratch yet. The most challenging part I handled was debugging and fixing an authentication issue that was causing some endpoints to fail for certain users. I traced the problem to a permissions check in the Django views and updated the logic to handle edge cases.  
+**RESULT:** After the fix, the affected endpoints worked reliably, and I documented the changes for the team. While I haven’t designed a new endpoint myself, I’m comfortable working with REST APIs and ready to take on more development responsibility.
+
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I SHOULD BE READY FOR  
+═══════════════════════════════════════════════════════
+
+**The follow-up questions:**
+
+- **Q6:** Can you give an example of a time you had to learn a new technology quickly on the job?  
+- **Q9:** What would you do in your first month here to get up to speed with our codebase and processes?  
+- **Q3:** If you were asked to design a new REST endpoint tomorrow, what steps would you take?
+
+---
+
+**What I cannot answer (requirements with no support in my CV):**
+
+- Experience with cloud platforms (AWS, Azure, GCP, etc.)
+- Familiarity with Docker or containerization
+- 2+ years of full-time, post-graduation professional experience
+
+---
+
+**Two questions I should ask them:**
+
+1. “How does your team currently handle deployments and infrastructure — are you using Docker or a particular cloud platform?”
+2. “What does success look like for someone in this backend developer role in their first six months?”
+
+═══════════════════════════════════════════════════════  
+IF THE INTERVIEW IS CONDUCTED BY AI  
+═══════════════════════════════════════════════════════
+
+- Your answers are scored against a **rubric of job competencies** (like backend development, database design, testing, learning ability), not by keyword matching. Don’t just repeat words from the job ad.
+- The AI cannot “see” your CV the way a person does. **Name your experience directly**: “At Infobyte Solutions, I built internal tools in Django,” not “as you can see from my experience.”
+- **STAR structure is critical**: Situation, Task, Action, Result, in that order, out loud.
+- **Say the specific word when it’s true**: If you used Django, say “Django.” If you haven’t used Docker, don’t mention it.
+- **Don’t read a script**: Practise the shape of your answer, not the exact words.
+- **If the software glitches** (audio drops, timer issues), email the recruiter factually and ask to retake. This is common and usually accepted.
+
+---
+
+Let me know if you want to practise answering any of these out loud, or want feedback on your delivery!

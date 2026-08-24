@@ -1,0 +1,150 @@
+Thank you for the detailed prompt. Here’s your structured practice interview, tailored to your CV and the job description.
+
+═══════════════════════════════════════════════════════  
+PART 1 — THE QUESTIONS THEY WILL ACTUALLY ASK  
+═══════════════════════════════════════════════════════
+
+**Q1. Can you walk us through your experience building web applications with Python and Django at Infobyte Solutions?**  
+- **Why this comes up:** “Software developer with 2 years of experience building web applications.”  
+- **What they are really testing:** Depth of backend development experience; ability to explain technical work.  
+- **My risk here:** Low.
+
+---
+
+**Q2. Tell us about a time you improved test coverage on a project. What approach did you take?**  
+- **Why this comes up:** “Wrote unit tests, raised coverage from 30% to 65%”  
+- **What they are really testing:** Testing strategy, code quality, and initiative.  
+- **My risk here:** Low.
+
+---
+
+**Q3. Describe your experience designing and optimising database schemas. Have you worked with PostgreSQL, and at what scale?**  
+- **Why this comes up:** “Designed MySQL schemas and wrote queries for reporting”; job asks for “PostgreSQL at scale, including query optimisation and replication”  
+- **What they are really testing:** Database design, query optimisation, and relevant technology match.  
+- **My risk here:** High — your CV mentions MySQL, not PostgreSQL, and no mention of scale.
+
+---
+
+**Q4. Have you managed or deployed applications on Kubernetes? If not, what’s your closest experience with containerisation or orchestration?**  
+- **Why this comes up:** “Production Kubernetes experience — you will own our cluster”; no mention of Kubernetes or containers on your CV.  
+- **What they are really testing:** Relevant platform experience, ability to learn new infrastructure.  
+- **My risk here:** High — no Kubernetes or container experience listed.
+
+---
+
+**Q5. Can you give an example of leading a team of engineers, including how you handled conflict or delegation?**  
+- **Why this comes up:** “Experience leading a team of at least 3 engineers”; your CV does not mention leadership.  
+- **What they are really testing:** Leadership, team management, conflict resolution.  
+- **My risk here:** High — no team leadership experience shown.
+
+---
+
+**Q6. What’s your experience with AWS services, especially EKS, RDS, and S3?**  
+- **Why this comes up:** “AWS (EKS, RDS, S3)” in job description; not mentioned on your CV.  
+- **What they are really testing:** Cloud infrastructure familiarity.  
+- **My risk here:** High — no AWS experience listed.
+
+---
+
+**Q7. Have you used infrastructure as code tools like Terraform? If not, how have you managed infrastructure or deployments?**  
+- **Why this comes up:** “Terraform or equivalent infrastructure as code”; not mentioned on your CV.  
+- **What they are really testing:** DevOps skills, automation, deployment practices.  
+- **My risk here:** High — no infrastructure as code experience shown.
+
+---
+
+**Q8. Tell us about a time you handled a customer complaint escalated from support. What was the issue and how did you resolve it?**  
+- **Why this comes up:** “Handled customer complaints escalated from the support team”  
+- **What they are really testing:** Communication, problem-solving, customer focus.  
+- **My risk here:** Medium — you mention it, but details may be thin.
+
+---
+
+**Q9. What’s your experience with REST APIs? Can you describe a challenging API you’ve designed or documented?**  
+- **Why this comes up:** “Wrote documentation for the REST API”; “REST APIs” in skills.  
+- **What they are really testing:** API design, documentation, and technical communication.  
+- **My risk here:** Medium — you mention documentation, but not design.
+
+---
+
+**Q10. You’ve been at Infobyte Solutions for less than a year. Can you explain your decision to apply for this senior role now, and how you see yourself bridging the experience gap?**  
+- **Why this comes up:** “June 2024 to present” (plus internship Jan–May 2024); job requires 5+ years and seniority.  
+- **What they are really testing:** Self-awareness, ambition, and readiness for a senior leap.  
+- **My risk here:** High — you have far less experience than required.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 2 — HOW TO ANSWER THE THREE HARDEST ONES  
+═══════════════════════════════════════════════════════
+
+**(Q3) Describe your experience designing and optimising database schemas. Have you worked with PostgreSQL, and at what scale?**
+
+**Situation:** At Infobyte Solutions, I was responsible for designing MySQL schemas for our internal tools.  
+**Task:** My main task was to create efficient database structures to support reporting and daily operations for about 40 staff.  
+**Action:** I worked closely with the product team to understand data requirements, normalised tables to reduce redundancy, and wrote queries for reporting. I also reviewed slow queries and added indexes where needed.  
+**Result:** This improved reporting performance and made it easier for staff to access the data they needed. I haven’t worked with PostgreSQL or managed databases at large scale yet, but I’m comfortable with SQL concepts and schema design, and I’m confident I can learn PostgreSQL specifics quickly.
+
+---
+
+**(Q4) Have you managed or deployed applications on Kubernetes? If not, what’s your closest experience with containerisation or orchestration?**
+
+**Situation:** I haven’t managed or deployed applications on Kubernetes yet.  
+**Task:** My closest experience is deploying Django applications on internal servers at Infobyte Solutions, where I handled basic setup and updates.  
+**Action:** I worked with the ops team to deploy code, set up environments, and troubleshoot issues, but we didn’t use containers or orchestration tools like Kubernetes.  
+**Result:** While I haven’t used Kubernetes, I understand the need for scalable deployment and I’m eager to learn. I’d need some ramp-up time to get hands-on with Kubernetes, but I’m confident I can pick it up, given my experience working closely with deployment processes.
+
+---
+
+**(Q5) Can you give an example of leading a team of engineers, including how you handled conflict or delegation?**
+
+**Situation:** I haven’t formally led a team of engineers yet.  
+**Task:** My roles so far have been as an individual contributor, but I’ve worked closely with other developers and the support team.  
+**Action:** For example, when handling customer complaints, I coordinated with support and development to identify and fix issues quickly, making sure everyone was on the same page.  
+**Result:** While I haven’t managed a team or handled formal delegation or conflict resolution, I have experience collaborating across teams. I know I’d need to develop leadership skills further, and I’m open to mentorship and training to step into that responsibility.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I SHOULD BE READY FOR  
+═══════════════════════════════════════════════════════
+
+**The follow-up questions:**  
+- **Q3:** What would you do to get up to speed with PostgreSQL and its differences from MySQL?  
+- **Q4:** If you were asked to deploy a Django app on Kubernetes next week, what would be your first steps?  
+- **Q5:** How would you approach your first leadership role, and what support would you need?
+
+---
+
+**What I cannot answer:**  
+Requirements in the job description that nothing in your CV supports:
+- 5+ years professional Python experience (you have 2 years, including internship)
+- Production Kubernetes experience (none listed)
+- PostgreSQL at scale, including query optimisation and replication (MySQL only, no scale)
+- AWS (EKS, RDS, S3) (not mentioned)
+- Terraform or equivalent infrastructure as code (not mentioned)
+- Experience leading a team of at least 3 engineers (not mentioned)
+- Go, Kafka (not mentioned)
+
+---
+
+**Two questions you should ask them:**  
+1. “How does your team support engineers who are stepping up into senior roles for the first time?”  
+2. “What are the biggest challenges you’re facing with your current Kubernetes setup, and what would you want your new hire to tackle first?”
+
+---
+
+═══════════════════════════════════════════════════════  
+IF THE INTERVIEW IS CONDUCTED BY AI  
+═══════════════════════════════════════════════════════
+
+- It is scored against a **rubric of job competencies**, not by counting keywords. Using lots of terms from the job ad without evidence is detected and counts against you.
+- The AI cannot glance at your CV like a person. **Name your experience directly** — say “at Infobyte Solutions I designed MySQL schemas” rather than “as you can see in my CV.”
+- **Structure matters more than usual**: Situation, Task, Action, Result, in that order, out loud.
+- **Say the specific word when it’s honestly yours.** If you used Django, say “Django.” If you haven’t used Kubernetes, don’t say you have.
+- **Don’t read a script.** Practise the shape of your answer, not the exact sentences.
+- **If the software glitches** — audio drops, questions repeat, timer fails — email the recruiter and say so, factually. Ask to retake. This is reasonable and often granted.
+
+---
+
+Let me know if you want to rehearse your answers out loud, or need help with follow-ups!

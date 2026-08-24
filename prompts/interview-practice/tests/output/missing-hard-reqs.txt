@@ -1,0 +1,177 @@
+Thank you for the detailed prompt and your CV/job description. Here’s a full, realistic practice interview, with honest marking and feedback, following your rules.
+
+═══════════════════════════════════════════════════════  
+PART 1 — THE QUESTIONS THEY WILL ACTUALLY ASK  
+═══════════════════════════════════════════════════════
+
+**Q1. Can you walk us through your experience building web applications with Python and Django at Infobyte Solutions?**  
+- **Why this comes up:** “Software developer with 2 years of experience building web applications.”  
+- **What they are really testing:** Depth of backend engineering experience, especially in Python.  
+- **My risk here:** Medium — you have experience, but not the 5+ years expected.
+
+---
+
+**Q2. Tell us about a time you designed a database schema and optimized queries. What challenges did you face and how did you address them?**  
+- **Why this comes up:** “Designed MySQL schemas and wrote queries for reporting”  
+- **What they are really testing:** Database design and query optimization, especially at scale.  
+- **My risk here:** High — you have MySQL, but they want PostgreSQL at scale, with replication.
+
+---
+
+**Q3. Have you worked with Kubernetes in a production environment? If not, what’s your closest experience with deployment or containerization?**  
+- **Why this comes up:** “Production Kubernetes experience — you will own our cluster” (Job description)  
+- **What they are really testing:** Kubernetes and infrastructure ownership.  
+- **My risk here:** High — no Kubernetes or containerization experience on your CV.
+
+---
+
+**Q4. Can you describe a time you handled a high-priority customer complaint or incident? What was your approach and the outcome?**  
+- **Why this comes up:** “Handled customer complaints escalated from the support team”  
+- **What they are really testing:** Incident response, communication, and problem-solving under pressure.  
+- **My risk here:** Low — you have direct experience.
+
+---
+
+**Q5. What’s your experience with AWS services like EKS, RDS, or S3?**  
+- **Why this comes up:** “AWS (EKS, RDS, S3)” (Job description)  
+- **What they are really testing:** Cloud infrastructure experience.  
+- **My risk here:** High — no AWS experience listed.
+
+---
+
+**Q6. Have you led a team of engineers? If not, tell us about your experience working within a team and how you contributed to team outcomes.**  
+- **Why this comes up:** “Experience leading a team of at least 3 engineers” (Job description)  
+- **What they are really testing:** Leadership and collaboration.  
+- **My risk here:** High — no team leadership on your CV.
+
+---
+
+**Q7. How have you used Git in your development workflow?**  
+- **Why this comes up:** “Git” (Skills)  
+- **What they are really testing:** Version control best practices.  
+- **My risk here:** Low — you list it.
+
+---
+
+**Q8. Tell us about your approach to writing unit tests and improving test coverage.**  
+- **Why this comes up:** “Wrote unit tests, raised coverage from 30% to 65%”  
+- **What they are really testing:** Testing discipline and code quality.  
+- **My risk here:** Low — you have a concrete achievement.
+
+---
+
+**Q9. Have you worked with PostgreSQL, and if not, how would you approach learning it, given your MySQL experience?**  
+- **Why this comes up:** “PostgreSQL at scale” (Job description), “MySQL” (Skills)  
+- **What they are really testing:** Ability to transfer skills and learn new technologies.  
+- **My risk here:** Medium — you have MySQL, but not PostgreSQL.
+
+---
+
+**Q10. What’s your experience with infrastructure as code tools like Terraform?**  
+- **Why this comes up:** “Terraform or equivalent infrastructure as code” (Job description)  
+- **What they are really testing:** DevOps and automation skills.  
+- **My risk here:** High — no mention of this on your CV.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 2 — HOW TO ANSWER THE THREE HARDEST ONES  
+═══════════════════════════════════════════════════════
+
+**Selected: Q2, Q3, Q5** (All high risk, and each is a core requirement.)
+
+---
+
+### Q2. Tell us about a time you designed a database schema and optimized queries. What challenges did you face and how did you address them?
+
+**Situation:**  
+At Infobyte Solutions, I was responsible for designing MySQL schemas for internal tools used by around 40 staff.
+
+**Task:**  
+My main task was to create a schema that would support reporting needs and ensure queries ran efficiently as the amount of data grew.
+
+**Action:**  
+I worked with the reporting team to understand what data they needed, then designed tables and relationships to minimize redundancy. I wrote indexes for frequently queried columns and analyzed slow queries using MySQL’s EXPLAIN tool. When I noticed some reports were taking too long, I rewrote those queries to use joins more efficiently and added missing indexes.
+
+**Result:**  
+After these changes, report generation times dropped by about 40%, and the team was able to get the data they needed much faster. While this was on MySQL and not PostgreSQL, I’m confident I can apply the same principles to PostgreSQL, though I’d need to get familiar with its specific features and tools.
+
+---
+
+### Q3. Have you worked with Kubernetes in a production environment? If not, what’s your closest experience with deployment or containerization?
+
+**Situation:**  
+I haven’t worked with Kubernetes or containerization in a production setting.
+
+**Task:**  
+My closest experience is deploying Django applications on internal servers at Infobyte Solutions, where I handled code updates and basic server configuration.
+
+**Action:**  
+I would SSH into the server, pull the latest code, restart the application, and make sure dependencies were up to date. I also handled some basic troubleshooting if the deployment failed.
+
+**Result:**  
+While I haven’t used Kubernetes or Docker, I understand the basics of deployment and server management. I’d need to learn containerization and orchestration tools, but I’m confident I can pick them up quickly, since I’ve already managed deployments and understand the underlying concepts.
+
+---
+
+### Q5. What’s your experience with AWS services like EKS, RDS, or S3?
+
+**Situation:**  
+I haven’t worked directly with AWS services like EKS, RDS, or S3.
+
+**Task:**  
+At Infobyte Solutions, our infrastructure was on-premises, so my exposure to cloud services has been limited.
+
+**Action:**  
+I focused on building and maintaining our internal tools, writing Python and Django code, and managing our MySQL databases locally.
+
+**Result:**  
+I haven’t used AWS in my work so far, but I’m familiar with the concepts behind managed databases and storage from my experience with MySQL and internal file storage. I’d need to learn the AWS interfaces and best practices, but I’m confident I can make that transition, since the core ideas are similar.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I SHOULD BE READY FOR  
+═══════════════════════════════════════════════════════
+
+**The follow-up questions:**
+
+- **Q2:** “What would you do differently if you were working with PostgreSQL instead of MySQL?”
+- **Q3:** “How would you go about learning Kubernetes quickly if you joined us?”
+- **Q5:** “How would you approach migrating an existing on-premises application to AWS?”
+
+---
+
+**What I cannot answer:**  
+(Requirements with no support in your CV)
+
+- Production Kubernetes experience (owning a cluster)
+- AWS (EKS, RDS, S3) hands-on experience
+- Terraform or infrastructure as code
+- Leading a team of engineers
+- PostgreSQL at scale, including replication
+- Go or Kafka
+
+---
+
+**Two questions I should ask them:**
+
+1. “What are the biggest challenges your team faces running Kubernetes in production right now?”
+2. “How do you support engineers who are ramping up on AWS and infrastructure as code tools like Terraform?”
+
+---
+
+═══════════════════════════════════════════════════════  
+IF THE INTERVIEW IS CONDUCTED BY AI  
+═══════════════════════════════════════════════════════
+
+- It is scored against a **rubric of job competencies**, not by counting keywords. Using lots of job ad terms without real experience is detected and counts against you.
+- The AI cannot glance at your CV the way a person does. **Name the thing specifically** — for example, “at Infobyte Solutions I designed MySQL schemas for our internal tools,” not “as you can see from my experience.”
+- **Structure matters more than usual.** Say Situation, Task, Action, Result, in that order, out loud.
+- **Use the specific word when it’s honestly yours.** If you’ve used Django, say Django. If you haven’t used Kubernetes, say so plainly.
+- **Reading a script is obvious and fails.** Practice the shape, not the sentences.
+- **If the software glitches, email the recruiter afterwards and say so, factually.** Ask to retake it — this is reasonable and often granted.
+
+---
+
+**Good luck — and be honest and direct. Your experience is solid for a junior role, but this is a stretch. If you want to discuss how to position yourself for a role like this in the future, just ask!**

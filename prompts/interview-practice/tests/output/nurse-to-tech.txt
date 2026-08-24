@@ -1,0 +1,154 @@
+Thank you for providing your CV and the job description. Below is a realistic, structured practice interview tailored to your background and the role you’re targeting.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 1 — THE QUESTIONS THEY WILL ACTUALLY ASK  
+═══════════════════════════════════════════════════════  
+
+**Q1. Can you walk me through your experience with backend development in Python, especially building web applications?**  
+- **Why this comes up:** “2+ years building web applications in Python” (Job description).  
+- **What they are really testing:** Direct experience and depth in Python backend development.  
+- **My risk here:** High — your CV does not mention Python or web development experience.
+
+---
+
+**Q2. Which frameworks have you used for backend development, such as Django or Flask? Can you give an example of a project where you used one?**  
+- **Why this comes up:** “Experience with Django or Flask” (Job description).  
+- **What they are really testing:** Practical experience with relevant frameworks.  
+- **My risk here:** High — your CV does not mention Django, Flask, or any web framework.
+
+---
+
+**Q3. Tell us about a time you designed or worked with a relational database and wrote SQL queries.**  
+- **Why this comes up:** “Strong SQL and relational database design” (Job description).  
+- **What they are really testing:** Database skills, data modeling, and query writing.  
+- **My risk here:** High — your CV does not mention any database or SQL experience.
+
+---
+
+**Q4. How have you developed or consumed REST APIs in your previous roles?**  
+- **Why this comes up:** “REST API development” (Job description).  
+- **What they are really testing:** Understanding of REST principles, hands-on API work.  
+- **My risk here:** High — your CV does not mention API development or consumption.
+
+---
+
+**Q5. Describe your experience with version control systems, particularly Git.**  
+- **Why this comes up:** “Version control with Git” (Job description).  
+- **What they are really testing:** Familiarity with modern development workflows.  
+- **My risk here:** High — your CV does not mention Git or any version control.
+
+---
+
+**Q6. Can you give an example of how you have written or maintained automated tests?**  
+- **Why this comes up:** “Writing automated tests” (Job description).  
+- **What they are really testing:** Testing mindset, quality assurance.  
+- **My risk here:** High — your CV does not mention testing or automation.
+
+---
+
+**Q7. Have you worked with cloud platforms or container technologies like Docker?**  
+- **Why this comes up:** “Nice to have: Experience with cloud platforms, Familiarity with Docker” (Job description).  
+- **What they are really testing:** Exposure to modern deployment and infrastructure tools.  
+- **My risk here:** High — your CV does not mention cloud or Docker.
+
+---
+
+**Q8. Can you describe a time you had to coordinate with a technical team to deliver a project?**  
+- **Why this comes up:** “Team coordination” (CV) and the collaborative nature of backend roles.  
+- **What they are really testing:** Teamwork, communication, and project delivery.  
+- **My risk here:** Medium — your coordination experience is in a clinical, not technical, context.
+
+---
+
+**Q9. How do you ensure accurate and thorough documentation in your work?**  
+- **Why this comes up:** “Medical documentation” and “Maintained records in Epic EHR” (CV); documentation is also important in software.  
+- **What they are really testing:** Attention to detail, documentation skills, process orientation.  
+- **My risk here:** Low — you have relevant documentation experience, though not in code.
+
+---
+
+**Q10. What motivated you to transition from nursing to backend development, and how are you preparing for this change?**  
+- **Why this comes up:** Your CV is entirely healthcare-focused; the job is in software.  
+- **What they are really testing:** Motivation, self-awareness, and readiness for a career switch.  
+- **My risk here:** High — this is a major career pivot, and you need to show a credible reason and plan.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 2 — HOW TO ANSWER THE THREE HARDEST ONES  
+═══════════════════════════════════════════════════════  
+
+**Selected: Q1, Q2, Q3** (all high risk, as you have no direct experience)
+
+---
+
+**Q1. Can you walk me through your experience with backend development in Python, especially building web applications?**
+
+**Situation:** In my current role as a staff nurse at Lilavati Hospital, my work has focused on critical care and patient management rather than software development.  
+**Task:** I haven’t had the opportunity to build web applications or work with Python in a professional setting.  
+**Action:** My experience has been centered on using electronic health records (Epic), coordinating teams, and maintaining accurate documentation.  
+**Result:** While I haven’t developed backend systems, I’ve worked in environments where technology is critical to operations, and I’m comfortable learning new systems quickly. I understand that I’ll need to build up my technical skills in Python and backend development, and I’m eager to do so because I’m genuinely interested in this field and ready for a new challenge.
+
+---
+
+**Q2. Which frameworks have you used for backend development, such as Django or Flask? Can you give an example of a project where you used one?**
+
+**Situation:** My professional background is in healthcare, not software development, so I haven’t worked with Django, Flask, or similar frameworks.  
+**Task:** I haven’t had a chance to use these frameworks in a work context.  
+**Action:** What I have done is use complex software systems like Epic EHR, which required me to learn new interfaces and workflows quickly, and to train others on best practices.  
+**Result:** I haven’t used Django or Flask yet, but I’m confident in my ability to pick up new technologies, as I’ve shown in my current role. I would need some ramp-up time to get hands-on with these frameworks, but I’m committed to making that transition.
+
+---
+
+**Q3. Tell us about a time you designed or worked with a relational database and wrote SQL queries.**
+
+**Situation:** In my role as a staff nurse, I interacted with electronic health records, which are backed by databases, but I didn’t work directly with the database or write SQL queries.  
+**Task:** My responsibility was to ensure accurate data entry and retrieval through the Epic system, not to design or query the underlying database.  
+**Action:** I became proficient in using the EHR system to find and record patient information, and I trained junior nurses on documentation standards.  
+**Result:** While I haven’t designed a database or written SQL, I understand the importance of data accuracy and structure. I would need to learn SQL and relational database design from the ground up, but I’m confident I can do so, given my experience learning complex systems in a high-stakes environment.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I SHOULD BE READY FOR  
+═══════════════════════════════════════════════════════  
+
+**The follow-up questions**
+
+- **Q1 follow-up:** What steps are you currently taking to learn backend development and Python?
+- **Q2 follow-up:** How would you approach learning Django or Flask, and what resources would you use?
+- **Q3 follow-up:** Can you describe how you would start learning SQL and database design if given the opportunity?
+
+---
+
+**What I cannot answer**
+
+- Any question about actual experience building web applications, using Python, Django, Flask, SQL, REST APIs, Git, automated testing, cloud platforms, or Docker — as none of these are present in your CV.
+- Any question about software projects, code you have written, or technical decisions you have made in a development context.
+
+---
+
+**Two questions I should ask them**
+
+1. What kind of onboarding or training do you provide for team members who are transitioning into backend development from other fields?
+2. How does your team support continuous learning and skill development, especially for those who are new to the technologies you use?
+
+---
+
+═══════════════════════════════════════════════════════  
+IF THE INTERVIEW IS CONDUCTED BY AI  
+═══════════════════════════════════════════════════════  
+
+- It is scored against a **rubric of job competencies**, not by counting keywords. Don’t just repeat words from the job ad; focus on giving clear, structured answers.
+- The AI cannot glance at your CV the way a person does. **Name the thing specifically** — for example, say “I used Epic EHR for patient records” rather than “I used hospital software.”
+- **Structure matters even more** — say Situation, Task, Action, Result, in that order, out loud.
+- **Say the specific word when it’s honestly yours.** If you have used Epic EHR, say “Epic EHR.” Don’t call it “an electronic system” if you can be specific.
+- **Don’t read answers off a screen.** Practise the shape and flow of your answers so you sound natural.
+- **If the software glitches** — audio drops, questions repeat, timer acts up — email the recruiter, explain what happened, and ask to retake. This is common and is not held against you when reported.
+
+---
+
+**Summary:**  
+You are at high risk for this interview, as your CV does not show any direct experience with the core requirements of the backend developer role. The best approach is to be honest, show your willingness to learn, and emphasize your ability to adapt and master complex systems — but you should expect to be screened out unless you can demonstrate relevant experience or training not reflected in your CV. If you are genuinely interested in this transition, consider building up your technical portfolio before applying to similar roles.

@@ -1,0 +1,153 @@
+Absolutely — here’s how a real interview would go, mapped to your CV and the job description.
+
+═══════════════════════════════════════════════════════  
+PART 1 — THE QUESTIONS THEY WILL ACTUALLY ASK  
+═══════════════════════════════════════════════════════
+
+**Q1. Can you walk us through your experience building web applications at Infobyte Solutions?**  
+- **Why this comes up:** “Software developer with 2 years of experience building web applications.”  
+- **What they are really testing:** Depth of software engineering experience, especially in Python.  
+- **My risk here:** Low — you have direct experience here.
+
+---
+
+**Q2. Tell us about a time you designed a MySQL schema for a project. What were the main challenges?**  
+- **Why this comes up:** “Designed MySQL schemas and wrote queries for reporting.”  
+- **What they are really testing:** Database design and problem-solving.  
+- **My risk here:** Low.
+
+---
+
+**Q3. Describe how you handled a customer complaint that was escalated to you.**  
+- **Why this comes up:** “Handled customer complaints escalated from the support team.”  
+- **What they are really testing:** Communication, problem-solving, and stakeholder management.  
+- **My risk here:** Low.
+
+---
+
+**Q4. Can you give an example of how you improved code quality or testing in your last role?**  
+- **Why this comes up:** “Wrote unit tests, raised coverage from 30% to 65%.”  
+- **What they are really testing:** Attention to quality, testing, and process improvement.  
+- **My risk here:** Low.
+
+---
+
+**Q5. What experience do you have with machine learning frameworks like PyTorch or TensorFlow?**  
+- **Why this comes up:** Job requirement: “Deep learning with PyTorch or TensorFlow.”  
+- **What they are really testing:** Direct ML framework experience.  
+- **My risk here:** High — your CV lists none.
+
+---
+
+**Q6. Have you ever built or deployed a machine learning model in production?**  
+- **Why this comes up:** Job requirement: “4+ years building and deploying ML models in production.”  
+- **What they are really testing:** End-to-end ML experience.  
+- **My risk here:** High — no ML deployment in your CV.
+
+---
+
+**Q7. What’s your experience with feature engineering and working with large datasets using pandas or NumPy?**  
+- **Why this comes up:** Job requirement: “Feature engineering on large datasets…Python, NumPy, pandas.”  
+- **What they are really testing:** Data wrangling and ML pipeline skills.  
+- **My risk here:** High — your CV lists Python but not pandas/NumPy or feature engineering.
+
+---
+
+**Q8. Can you explain a statistical or linear algebra concept you’ve used in your work?**  
+- **Why this comes up:** Job requirement: “Strong statistics and linear algebra.”  
+- **What they are really testing:** Mathematical foundation for ML.  
+- **My risk here:** Medium — not mentioned in your CV.
+
+---
+
+**Q9. Tell us about a time you had to quickly learn a new technology or tool on the job.**  
+- **Why this comes up:** “Fixed bugs in an internal Django app” (as an intern — implies learning curve).  
+- **What they are really testing:** Adaptability and learning ability.  
+- **My risk here:** Medium — you have some evidence, but not at the ML level.
+
+---
+
+**Q10. You’ve only been a full-time developer since June 2024. What makes you confident you’re ready for a Machine Learning Engineer role that asks for 4+ years’ experience?**  
+- **Why this comes up:** “Software Developer, Infobyte Solutions, Pune — June 2024 to present” and “Intern, Infobyte Solutions — Jan 2024 to May 2024.”  
+- **What they are really testing:** Self-awareness, honesty, and potential.  
+- **My risk here:** High — big gap between your experience and the requirement.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 2 — HOW TO ANSWER THE THREE HARDEST ONES  
+═══════════════════════════════════════════════════════
+
+**Q5. What experience do you have with machine learning frameworks like PyTorch or TensorFlow?**
+
+**Situation:** In my roles at Infobyte Solutions, my main focus has been on backend web development using Python and Django.  
+**Task:** I was responsible for building internal tools and improving our reporting systems, but I wasn’t tasked with implementing any machine learning models or using frameworks like PyTorch or TensorFlow.  
+**Action:** While I haven’t worked directly with those frameworks, I have built a strong foundation in Python and understand the basics of how ML frameworks are structured.  
+**Result:** I’d need to learn PyTorch or TensorFlow on the job, but I’m confident I can pick them up quickly, given my experience learning new technologies like Django and MySQL during my internship and full-time role.
+
+---
+
+**Q6. Have you ever built or deployed a machine learning model in production?**
+
+**Situation:** At Infobyte Solutions, my projects were focused on building web applications and internal tools, not machine learning systems.  
+**Task:** I haven’t had the chance to build or deploy a machine learning model in production yet.  
+**Action:** What I have done is design and implement backend systems, write APIs, and handle data storage and reporting, which are all relevant technical skills.  
+**Result:** I’d need support and training to bridge the gap to production ML, but my experience with Python, Django, and databases gives me a solid base to build on.
+
+---
+
+**Q10. You’ve only been a full-time developer since June 2024. What makes you confident you’re ready for a Machine Learning Engineer role that asks for 4+ years’ experience?**
+
+**Situation:** I started as an intern at Infobyte Solutions in January 2024 and became a full-time developer in June 2024, so I don’t have four years of experience yet.  
+**Task:** I know this role is looking for someone with much more experience, especially in machine learning.  
+**Action:** What I bring is a strong foundation in Python, experience building and maintaining production web applications, and a track record of learning quickly — for example, I raised our test coverage from 30% to 65% in my first few months.  
+**Result:** I’m looking for a role where I can grow into machine learning, and I’m ready to put in the work to bridge the experience gap. I know I’d need mentorship and training, but I’m eager to learn.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I SHOULD BE READY FOR  
+═══════════════════════════════════════════════════════
+
+**The follow-up questions:**
+
+- **Q5 follow-up:** What steps would you take to get up to speed with PyTorch or TensorFlow if you joined us?
+- **Q6 follow-up:** Can you describe how you’d approach building your first ML model, given your current experience?
+- **Q10 follow-up:** What do you see as the biggest challenge in moving from web development to machine learning engineering?
+
+---
+
+**What I cannot answer (requirements with no support in my CV):**
+
+- 4+ years building and deploying ML models in production
+- Deep learning with PyTorch or TensorFlow
+- Feature engineering on large datasets
+- MLOps: model versioning, monitoring, retraining pipelines
+- Strong statistics and linear algebra
+- pandas, NumPy, scikit-learn
+- LLM fine-tuning
+- Distributed training
+
+---
+
+**Two questions I should ask them:**
+
+1. How does your team support new hires who are transitioning into machine learning from a software engineering background?
+2. What kind of mentorship or training is available for engineers who want to build up their ML skills, especially in areas like MLOps or deep learning frameworks?
+
+---
+
+═══════════════════════════════════════════════════════  
+IF THE INTERVIEW IS CONDUCTED BY AI  
+═══════════════════════════════════════════════════════
+
+- Your answers are scored against a **rubric of job competencies** — not just keywords. Using lots of words from the job ad without substance is detected and can count against you.
+- The AI **does not “see” your CV** the way a person does. Always **name the thing**: say “at Infobyte Solutions I built internal tools in Python and Django,” not “as you can see from my CV.”
+- **Structure matters more than usual**. Say “Situation, Task, Action, Result” out loud, in order, so the rubric can score each part.
+- If you have used a specific tool or method, **say its name** — “Django,” “MySQL,” etc. That’s vocabulary, not keyword stuffing.
+- **Don’t read your answer word-for-word** — practice the shape, not the script.
+- If the AI system glitches, **email the recruiter** and say so, factually. Ask to retake it. This is a normal and accepted thing to do.
+
+---
+
+Let me know if you want to practice the answers or talk through the follow-ups!

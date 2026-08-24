@@ -1,0 +1,84 @@
+[
+  {
+    "name": "honest-match",
+    "questions": 13,
+    "has_answers": true,
+    "names_gaps": true,
+    "star": true,
+    "invented": []
+  },
+  {
+    "name": "missing-hard-reqs",
+    "questions": 10,
+    "has_answers": true,
+    "names_gaps": true,
+    "star": true,
+    "invented": []
+  },
+  {
+    "name": "adjacent-db",
+    "questions": 10,
+    "has_answers": true,
+    "names_gaps": true,
+    "star": true,
+    "invented": []
+  },
+  {
+    "name": "keyword-stuffed",
+    "questions": 13,
+    "has_answers": true,
+    "names_gaps": true,
+    "star": true,
+    "invented": []
+  },
+  {
+    "name": "wrong-field",
+    "questions": 13,
+    "has_answers": true,
+    "names_gaps": true,
+    "star": true,
+    "invented": []
+  },
+  {
+    "name": "nurse-to-tech",
+    "questions": 13,
+    "has_answers": true,
+    "names_gaps": true,
+    "star": true,
+    "invented": []
+  },
+  {
+    "name": "designer-frontend",
+    "questions": 13,
+    "has_answers": true,
+    "names_gaps": true,
+    "star": true,
+    "invented": []
+  },
+  {
+    "name": "designer-backend",
+    "questions": 10,
+    "has_answers": true,
+    "names_gaps": true,
+    "star": true,
+    "invented": []
+  },
+  {
+    "name": "freelancer-stuffed",
+    "questions": 10,
+    "has_answers": true,
+    "names_gaps": true,
+    "star": true,
+    "invented": [
+      "mongodb"
+    ]
+  },
+  {
+    "name": "junior-senior-gap",
+    "questions": 13,
+    "has_answers": true,
+    "names_gaps": true,
+    "star": true,
+    "invented": []
+  }
+]

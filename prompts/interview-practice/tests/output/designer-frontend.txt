@@ -1,0 +1,178 @@
+Thank you for the detailed instructions and context. Here’s a full, realistic practice interview tailored to your CV and the job description.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 1 — THE QUESTIONS THEY WILL ACTUALLY ASK  
+═══════════════════════════════════════════════════════
+
+**Q1. Can you walk me through a project where you translated your own designs into a live website?**  
+- **Why this comes up:** “Built two landing pages in HTML and CSS from my own designs” (CV) and “translating designs to code” (JD).  
+- **What they are really testing:** Ability to bridge design and development, and hands-on coding skill.  
+- **My risk here:** Medium — you mention HTML/CSS but not JavaScript or frameworks.
+
+---
+
+**Q2. Tell me about your experience working with Figma in a team setting.**  
+- **Why this comes up:** “Figma” (CV) and “Working with design tools (Figma)” (JD).  
+- **What they are really testing:** Collaboration using modern design tools.  
+- **My risk here:** Low — you list Figma and have design experience.
+
+---
+
+**Q3. Can you describe a time you had to ensure your design was responsive across devices?**  
+- **Why this comes up:** “Strong CSS, responsive design” (JD); your CV mentions HTML/CSS but not explicitly responsive work.  
+- **What they are really testing:** Understanding of responsive design and CSS skills.  
+- **My risk here:** Medium — you don’t explicitly mention responsive work.
+
+---
+
+**Q4. Have you worked with React or modern JavaScript frameworks? If not, what’s your exposure to JavaScript?**  
+- **Why this comes up:** “React and modern JavaScript” (JD); your CV lists only HTML/CSS.  
+- **What they are really testing:** Technical fit for the core requirement.  
+- **My risk here:** High — no React or JavaScript experience listed.
+
+---
+
+**Q5. Can you give an example of how you handled cross-browser compatibility issues?**  
+- **Why this comes up:** “Cross-browser compatibility” (JD); your CV doesn’t mention this.  
+- **What they are really testing:** Practical web development knowledge.  
+- **My risk here:** High — not mentioned in your CV.
+
+---
+
+**Q6. Tell me about a time you managed a project end-to-end. What challenges did you face?**  
+- **Why this comes up:** “Managed client relationships and project timelines end to end” (CV).  
+- **What they are really testing:** Project management, ownership, problem-solving.  
+- **My risk here:** Low — you claim this experience.
+
+---
+
+**Q7. You have a strong design background. How do you think this benefits your frontend development work?**  
+- **Why this comes up:** “Design background” (JD, nice to have); your whole CV.  
+- **What they are really testing:** Ability to connect design and development.  
+- **My risk here:** Low — this is your strength.
+
+---
+
+**Q8. Why did you move from a studio role to freelancing, and now want to join a company again?**  
+- **Why this comes up:** “Freelance Designer — 2022 to present” and “Junior Designer, PixelCraft Studio, Ahmedabad — 2021 to 2022” (CV).  
+- **What they are really testing:** Motivation, stability, fit for a team role.  
+- **My risk here:** Medium — short stint at the studio, then freelancing.
+
+---
+
+**Q9. Can you tell us about a time you had to learn a new tool or skill quickly for a client project?**  
+- **Why this comes up:** “Managed client relationships and project timelines end to end” (CV); “3+ years frontend development” (JD) — probing adaptability.  
+- **What they are really testing:** Learning agility, adaptability.  
+- **My risk here:** Low — likely to have examples.
+
+---
+
+**Q10. You list only basic HTML/CSS. How would you approach building a complex frontend application in this role?**  
+- **Why this comes up:** “basic HTML/CSS” (CV) vs. “3+ years frontend development”, “React and modern JavaScript” (JD).  
+- **What they are really testing:** Self-awareness of skill gaps, learning mindset, realism.  
+- **My risk here:** High — clear gap between your experience and the role.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 2 — HOW TO ANSWER THE THREE HARDEST ONES  
+═══════════════════════════════════════════════════════
+
+**Selected: Q4, Q5, Q10 (all high risk)**
+
+---
+
+**Q4. Have you worked with React or modern JavaScript frameworks? If not, what’s your exposure to JavaScript?**
+
+**SITUATION:**  
+In my freelance work, I’ve focused mainly on design and building static landing pages for clients.
+
+**TASK:**  
+For two client projects, I was responsible for taking my Figma designs and turning them into live web pages.
+
+**ACTION:**  
+I used HTML and CSS to build out the landing pages, and I handled some very basic interactivity with inline JavaScript, like simple form validation. I haven’t worked with React or any modern JavaScript frameworks yet. My experience is limited to basic JavaScript for things like toggling menus or validating forms.
+
+**RESULT:**  
+The sites met the clients’ needs, but I know that building more complex, interactive applications would require learning React and deeper JavaScript skills. I haven’t done that yet, but I’m confident I can pick it up, since I’ve already bridged the gap from design to code and learned new tools quickly for client needs.
+
+---
+
+**Q5. Can you give an example of how you handled cross-browser compatibility issues?**
+
+**SITUATION:**  
+When I built landing pages for two small business clients, I was responsible for making sure the sites looked good for all their users.
+
+**TASK:**  
+I needed to check that the pages displayed correctly on different browsers, since the clients’ customers used a mix of Chrome, Firefox, and sometimes Safari.
+
+**ACTION:**  
+I tested the pages in Chrome and Firefox myself, and I asked the clients to check on their devices. I found some small issues with font rendering and spacing in Firefox, which I fixed by adjusting my CSS. I haven’t worked with more advanced cross-browser testing tools or handled complex compatibility issues yet.
+
+**RESULT:**  
+The final sites looked consistent on the browsers we checked, and the clients were happy. But I know there’s more to learn about thorough cross-browser compatibility, especially for larger projects.
+
+---
+
+**Q10. You list only basic HTML/CSS. How would you approach building a complex frontend application in this role?**
+
+**SITUATION:**  
+My experience so far is building static landing pages using HTML and CSS, based on my own designs.
+
+**TASK:**  
+If I were asked to build a complex frontend application, like the ones you develop here, I’d need to go beyond my current skills.
+
+**ACTION:**  
+I haven’t worked with JavaScript frameworks like React, or built large-scale applications. What I’d do is start by breaking down the requirements, and then learn the necessary technologies step by step, just as I did when I taught myself HTML and CSS for client projects. I’d also ask for guidance from the team and use resources you recommend.
+
+**RESULT:**  
+While I haven’t done this yet, I’m confident in my ability to learn quickly and apply my design skills to frontend development. I’d need support and time to ramp up, but I’m motivated to make that transition.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I SHOULD BE READY FOR  
+═══════════════════════════════════════════════════════
+
+**The follow-up questions.**
+
+- **Q4 follow-up:** What steps would you take to get up to speed with React if you joined us?
+- **Q5 follow-up:** How would you approach testing for compatibility across more browsers and devices, if you had to do it for a bigger client?
+- **Q10 follow-up:** Can you give an example of a time you had to learn a technical skill quickly, and how you managed that process?
+
+---
+
+**What I cannot answer.**  
+Every requirement in the job description that nothing in my CV supports:
+
+- **React and modern JavaScript:** No experience listed.
+- **3+ years frontend development:** You have 2 years at most, and only basic HTML/CSS.
+- **TypeScript:** Not mentioned.
+- **Building complex frontend applications:** No evidence.
+- **Cross-browser compatibility (advanced):** Only basic, informal testing.
+
+---
+
+**Two questions I should ask them.**
+
+1. How do you support new team members who are transitioning from a design background into more technical frontend roles?
+2. What does your onboarding process look like for someone who needs to ramp up on React and your codebase?
+
+---
+
+═══════════════════════════════════════════════════════  
+IF THE INTERVIEW IS CONDUCTED BY AI  
+═══════════════════════════════════════════════════════
+
+- It is scored against a **rubric of job competencies**, not by counting keywords. Don’t just repeat words from the job ad — focus on describing what you actually did, and how.
+- The AI cannot skim your CV the way a person does. **Name the thing directly**: say “when I built two landing pages in HTML and CSS for clients” rather than “as you can see in my experience.”
+- **Structure matters more than usual**: say Situation, Task, Action, Result, in that order, out loud.
+- **Say the specific word when it’s honestly yours.** If you’ve used Figma, say “Figma.” If you haven’t used React, don’t claim it.
+- **Don’t read a script word for word** — practice the shape and flow, not memorized sentences.
+- **If the software glitches** (audio drops, repeated questions, timer issues), email the recruiter after and explain. Ask to retake if needed — this is common and reasonable.
+
+---
+
+**Good luck!** If you want to rehearse any answer or follow-up, let me know.

@@ -1,0 +1,159 @@
+Thank you for the detailed prompt and for sharing your CV and the job description. Below is a realistic, structured practice interview, tailored to your situation.
+
+═══════════════════════════════════════════════════════  
+PART 1 — THE QUESTIONS THEY WILL ACTUALLY ASK  
+═══════════════════════════════════════════════════════  
+
+**Q1. Can you walk me through your experience building and deploying machine learning models in production?**  
+- **Why this comes up:** "4+ years building and deploying ML models in production" (Job Description)  
+- **What they are really testing:** Direct, relevant experience in end-to-end ML pipelines.  
+- **My risk here:** High — Your CV does not mention any machine learning experience.
+
+---
+
+**Q2. Which deep learning frameworks have you used, and for what kinds of projects?**  
+- **Why this comes up:** "Deep learning with PyTorch or TensorFlow" (Job Description)  
+- **What they are really testing:** Hands-on experience with industry-standard tools.  
+- **My risk here:** High — No mention of PyTorch, TensorFlow, or deep learning on your CV.
+
+---
+
+**Q3. Tell me about a time you did feature engineering on a large dataset. What challenges did you face, and how did you address them?**  
+- **Why this comes up:** "Feature engineering on large datasets" (Job Description)  
+- **What they are really testing:** Data wrangling, creativity, and problem-solving with real data.  
+- **My risk here:** High — No evidence of feature engineering or large datasets in your CV.
+
+---
+
+**Q4. How have you implemented model versioning, monitoring, or retraining pipelines in your past roles?**  
+- **Why this comes up:** "MLOps: model versioning, monitoring, retraining pipelines" (Job Description)  
+- **What they are really testing:** Familiarity with production ML workflows and MLOps practices.  
+- **My risk here:** High — No MLOps or related experience on your CV.
+
+---
+
+**Q5. Give an example of how you have applied statistics or linear algebra in your work.**  
+- **Why this comes up:** "Strong statistics and linear algebra" (Job Description)  
+- **What they are really testing:** Mathematical foundation for ML.  
+- **My risk here:** Medium — As a nurse, you may have used statistics in a clinical context, but not at the level expected for ML.
+
+---
+
+**Q6. What experience do you have programming in Python, and using libraries like NumPy, pandas, or scikit-learn?**  
+- **Why this comes up:** "Python, NumPy, pandas, scikit-learn" (Job Description)  
+- **What they are really testing:** Practical coding skills for ML.  
+- **My risk here:** High — No programming or Python experience listed.
+
+---
+
+**Q7. Have you worked on fine-tuning large language models or distributed training?**  
+- **Why this comes up:** "Nice to have: LLM fine-tuning, Distributed training" (Job Description)  
+- **What they are really testing:** Advanced ML/AI skills.  
+- **My risk here:** High — No mention of this on your CV.
+
+---
+
+**Q8. Your CV shows strong experience in critical care nursing. Can you explain why you are applying for a Machine Learning Engineer role, and how your background prepares you for this transition?**  
+- **Why this comes up:** Your entire CV is in nursing, but the job is in ML engineering.  
+- **What they are really testing:** Motivation, self-awareness, and transferable skills.  
+- **My risk here:** High — There is a large gap between your experience and the requirements.
+
+---
+
+**Q9. What steps have you taken to build the technical skills required for this role, such as machine learning, programming, or data analysis?**  
+- **Why this comes up:** No technical or ML experience on your CV.  
+- **What they are really testing:** Initiative, learning ability, and readiness.  
+- **My risk here:** High — No evidence of technical upskilling.
+
+---
+
+**Q10. Can you describe a project where you worked with a cross-functional technical team?**  
+- **Why this comes up:** "Team coordination" (Your CV) and the collaborative nature of ML engineering.  
+- **What they are really testing:** Teamwork and communication in a technical context.  
+- **My risk here:** Medium — You have team coordination experience, but not in a technical/engineering setting.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 2 — HOW TO ANSWER THE THREE HARDEST ONES  
+═══════════════════════════════════════════════════════  
+
+**The three highest-risk questions are Q1, Q2, and Q8.**
+
+---
+
+**Q1. Can you walk me through your experience building and deploying machine learning models in production?**
+
+**Situation:** I haven't had the opportunity to build or deploy machine learning models in production in my career so far.  
+**Task:** My main responsibilities have been in critical care nursing, managing patient care and coordinating with medical teams.  
+**Action:** While I haven't worked on machine learning projects, I have developed strong analytical and documentation skills, especially with electronic health records like Epic.  
+**Result:** I understand that this is a significant gap, and I would need to learn both the technical and practical aspects of ML model development and deployment. I'm confident that my ability to learn quickly and work under pressure would help me adapt, but I would need structured training and mentorship to bridge this gap.
+
+---
+
+**Q2. Which deep learning frameworks have you used, and for what kinds of projects?**
+
+**Situation:** I have not used deep learning frameworks like PyTorch or TensorFlow in my professional experience.  
+**Task:** My work has focused on patient care, documentation, and team coordination in a hospital setting.  
+**Action:** I haven't had the chance to work on any deep learning or AI projects, so I don't have hands-on experience with these tools.  
+**Result:** I would need to start from the basics with these frameworks. My experience with learning new hospital systems like Epic shows that I can pick up new technologies, but I would need time and support to become proficient in deep learning.
+
+---
+
+**Q8. Your CV shows strong experience in critical care nursing. Can you explain why you are applying for a Machine Learning Engineer role, and how your background prepares you for this transition?**
+
+**Situation:** My background is entirely in critical care nursing, where I've spent six years in high-pressure environments.  
+**Task:** I have been responsible for patient assessment, documentation, and coordinating care teams.  
+**Action:** While I haven't worked in machine learning, I am interested in how technology can improve healthcare outcomes. My experience with electronic health records and training junior nurses shows I can adapt to new systems and teach others.  
+**Result:** I know there's a big gap between my current skills and this role, but I'm motivated to learn and believe my healthcare experience could offer a unique perspective if given the chance to train in ML.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I SHOULD BE READY FOR  
+═══════════════════════════════════════════════════════  
+
+**The follow-up questions**
+
+- **Q1 follow-up:** What steps have you taken so far to start learning about machine learning or software engineering?
+- **Q2 follow-up:** Can you give an example of a time you learned a new technical system quickly? How did you approach it?
+- **Q8 follow-up:** Why not pursue a role that leverages your clinical experience more directly, such as clinical informatics or healthcare data analysis?
+
+---
+
+**What I cannot answer**  
+Every requirement in the job description that nothing in your CV supports:
+
+- Building and deploying ML models in production
+- Deep learning with PyTorch or TensorFlow
+- Feature engineering on large datasets
+- MLOps: model versioning, monitoring, retraining pipelines
+- Strong statistics and linear algebra (beyond basic clinical stats)
+- Python, NumPy, pandas, scikit-learn
+- LLM fine-tuning
+- Distributed training
+
+---
+
+**Two questions I should ask them**
+
+1. Given my background in healthcare, are there opportunities within your team to work on projects related to medical data or healthcare applications of machine learning?
+2. What kind of onboarding or mentorship do you offer to help new hires ramp up on your specific ML engineering workflows and tools?
+
+---
+
+═══════════════════════════════════════════════════════  
+IF THE INTERVIEW IS CONDUCTED BY AI  
+═══════════════════════════════════════════════════════  
+
+- It is scored against a **rubric of job competencies**, not by counting keywords. Using lots of terms from the job ad without evidence of experience is detected and counts against you.
+- The AI cannot glance at your CV the way a person does. **Name the thing rather than gesturing at it** — for example, say "at Lilavati Hospital I managed patient documentation in Epic," not "as you can see from my experience."
+- **Structure carries more weight than usual** — Situation, Task, Action, Result, in that order, out loud.
+- **Say the specific word when it is honestly yours.** If you have used Epic, say "Epic." If you have not used Python, do not say "Python."
+- **Reading a scripted answer off a screen is obvious** and will count against you. Practise the shape and flow of your answer, not the exact sentences.
+- **If the software glitches** — audio drops, a question repeats, or the timer malfunctions — email the recruiter afterwards and explain what happened. Ask to retake the interview. This is reasonable and often granted, and reporting a real fault is evidence of professionalism.
+
+---
+
+**Summary:**  
+You are at very high risk for this interview, as your CV does not match any of the core requirements for the Machine Learning Engineer role. If you proceed, be honest about your experience, focus on your transferable skills, and ask about roles or training that could help bridge the gap. Consider whether a more gradual transition — such as a healthcare data analyst or informatics role — might be a better next step.

@@ -1,0 +1,149 @@
+Thank you for providing your CV and the job description. Here’s a realistic, structured practice interview tailored to your background and the role.
+
+═══════════════════════════════════════════════════════  
+PART 1 — THE QUESTIONS THEY WILL ACTUALLY ASK  
+═══════════════════════════════════════════════════════  
+
+**Q1. Can you walk us through a project where you managed client relationships end-to-end?**  
+- **Why this comes up:** “Managed client relationships and project timelines end to end” (CV); “Client relationship management” (JD)  
+- **What they are really testing:** Stakeholder management, communication, ownership  
+- **My risk here:** Low — you have clear experience here.
+
+---
+
+**Q2. Tell us about a time you had to deliver a project under a tight deadline. How did you handle it?**  
+- **Why this comes up:** “Produced social media graphics; one campaign raised engagement 40%” (CV); “thrives in fast-paced environments” (JD)  
+- **What they are really testing:** Time management, working under pressure, prioritization  
+- **My risk here:** Low — you have relevant freelance experience.
+
+---
+
+**Q3. Describe your experience working as part of a cross-functional team.**  
+- **Why this comes up:** “Produced marketing collateral under art director supervision” (CV); “Cross-functional collaboration” (JD)  
+- **What they are really testing:** Teamwork, communication, adaptability  
+- **My risk here:** Medium — your freelance work is solo; only your junior role involved a team.
+
+---
+
+**Q4. What is your experience with Agile or Scrum methodologies?**  
+- **Why this comes up:** “Agile/Scrum methodology” (JD)  
+- **What they are really testing:** Familiarity with modern development processes  
+- **My risk here:** High — your CV does not mention Agile/Scrum.
+
+---
+
+**Q5. Can you give an example of a data-driven decision you made in your design work?**  
+- **Why this comes up:** “Data-driven decision making” (JD); “one campaign raised engagement 40%” (CV)  
+- **What they are really testing:** Analytical thinking, using data to guide work  
+- **My risk here:** Medium — you mention engagement, but not how you used data.
+
+---
+
+**Q6. Tell us about your experience with full stack development, particularly using Python, JavaScript, React, Node.js, or MongoDB.**  
+- **Why this comes up:** “Full stack development” and specific technologies (JD); “Built two landing pages in HTML and CSS” (CV)  
+- **What they are really testing:** Technical fit, hands-on coding ability  
+- **My risk here:** High — your CV only lists basic HTML/CSS, no full stack or these technologies.
+
+---
+
+**Q7. Have you used AWS, Docker, or CI/CD pipelines in your projects?**  
+- **Why this comes up:** “AWS, Docker, CI/CD” (JD)  
+- **What they are really testing:** Experience with modern deployment and cloud tools  
+- **My risk here:** High — your CV does not mention any of these tools.
+
+---
+
+**Q8. What’s the largest or most complex project you’ve led or contributed to?**  
+- **Why this comes up:** “Designed brand identities for 14 small businesses” (CV); “wears many hats” (JD)  
+- **What they are really testing:** Scope, leadership, versatility  
+- **My risk here:** Medium — your projects seem small-scale.
+
+---
+
+**Q9. Why did you leave PixelCraft Studio after only one year?**  
+- **Why this comes up:** “PixelCraft Studio, Ahmedabad — 2021 to 2022” (CV)  
+- **What they are really testing:** Stability, career motivation, red flags  
+- **My risk here:** Medium — short tenure.
+
+---
+
+**Q10. What motivates you to move from design to a full stack developer role?**  
+- **Why this comes up:** Your CV is design-focused; the JD is for a developer.  
+- **What they are really testing:** Career motivation, self-awareness, fit  
+- **My risk here:** High — major gap between your experience and the role.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 2 — HOW TO ANSWER THE THREE HARDEST ONES  
+═══════════════════════════════════════════════════════  
+
+**(Q4) What is your experience with Agile or Scrum methodologies?**
+
+**Situation:** In my freelance work, I’ve managed my own projects and timelines, but I haven’t worked in a formal Agile or Scrum environment.  
+**Task:** My task has been to deliver client projects efficiently and adapt to changing requirements.  
+**Action:** I set up regular check-ins with clients, broke projects into phases, and adjusted based on feedback. While I haven’t used Scrum ceremonies or sprints, I’ve practiced some similar habits like iterative delivery and prioritizing tasks.  
+**Result:** This approach helped me deliver 14 branding projects and two web landing pages on time, with high client satisfaction. I know I’d need to learn the formal Agile/Scrum process, but I’m confident I can pick it up quickly because I already work in an iterative, feedback-driven way.
+
+---
+
+**(Q6) Tell us about your experience with full stack development, particularly using Python, JavaScript, React, Node.js, or MongoDB.**
+
+**Situation:** My technical experience so far has been focused on front-end work, mainly building two landing pages for clients using HTML and CSS.  
+**Task:** I was responsible for designing and coding these pages from scratch, ensuring they matched the brand identity and worked smoothly.  
+**Action:** I handled the layout, styling, and basic interactivity myself, but I haven’t worked with back-end technologies like Python, JavaScript frameworks, Node.js, or databases like MongoDB yet.  
+**Result:** The landing pages were well received by clients and met their needs, but I haven’t done full stack development. I’d need to learn these technologies, and I’m confident I can because I’ve picked up new tools quickly in my freelance work.
+
+---
+
+**(Q7) Have you used AWS, Docker, or CI/CD pipelines in your projects?**
+
+**Situation:** In my freelance and junior designer roles, my work has focused on design and front-end development.  
+**Task:** I was responsible for delivering design assets and simple web pages, but I haven’t managed deployment or infrastructure.  
+**Action:** I haven’t used AWS, Docker, or CI/CD pipelines yet. My closest experience is building and handing off static HTML/CSS pages to clients.  
+**Result:** I know these are important for full stack roles, so I’d need to learn them. I’m confident I can, because I’ve adapted to new tools like Figma and Illustrator quickly, and I’m comfortable with technical learning curves.
+
+---
+
+═══════════════════════════════════════════════════════  
+PART 3 — WHAT I SHOULD BE READY FOR  
+═══════════════════════════════════════════════════════  
+
+**The follow-up questions:**  
+- **Q4 (Agile/Scrum):** Can you give an example of how you handled changing requirements mid-project?  
+- **Q6 (Full stack):** How would you approach learning a new technology stack quickly?  
+- **Q7 (AWS/Docker/CI/CD):** What steps would you take to ensure your work is production-ready if you were responsible for deployment?
+
+---
+
+**What I cannot answer:**  
+- Direct experience with:  
+    - Full stack development (beyond HTML/CSS)  
+    - Python, JavaScript, React, Node.js, MongoDB  
+    - AWS, Docker, CI/CD pipelines  
+    - Formal Agile/Scrum methodology  
+    - Large-scale or complex, multi-person projects  
+- If the interview focuses on deep technical questions in these areas, you will need to honestly state you have not done them and pivot to your willingness and ability to learn.
+
+---
+
+**Two questions I should ask them:**  
+1. “How does your team support new hires who are transitioning from a design background into full stack development?”  
+2. “What does success look like for someone in this role in their first six months, especially if they’re coming from a non-traditional background?”
+
+---
+
+═══════════════════════════════════════════════════════  
+IF THE INTERVIEW IS CONDUCTED BY AI  
+═══════════════════════════════════════════════════════  
+
+- It is scored against a **rubric of job competencies**, not by counting keywords. Overusing terms from the job ad without substance can count against you.
+- The AI cannot glance at your CV the way a person does. **Name the thing rather than gesturing at it** — say “at PixelCraft Studio I worked under an art director” rather than “as you can see in my CV”.
+- **Structure carries more weight than usual** — say Situation, Task, Action, Result, in that order, out loud.
+- **Say the specific word when it is honestly yours.** If you have used Figma, say “Figma”; if you have not used AWS, do not mention it.
+- **Reading a scripted answer off a screen is obvious** and will lower your score. Practise the shape of your answer, not the exact sentences.
+- **If the software glitches** — audio drops, questions repeat, timer fails — email the recruiter afterwards and say so, factually. Ask to sit it again. This is reasonable and often successful.
+
+---
+
+**Good luck!** If you want to practise answering any of these questions, just say so.

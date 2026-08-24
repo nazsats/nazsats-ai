@@ -128,8 +128,10 @@ Prompt lessons position you as someone who is good at prompting. There are a lot
 of those.
 
 Connector and workflow lessons position you as someone who **builds the plumbing
-underneath AI products** — which is what you actually do, and what the merged
-LangChain and Qdrant fixes prove independently.
+underneath AI products** — which is what you actually do, and what three merged
+upstream fixes demonstrate independently: qdrant-client #1293 and #1333, and
+LangChain #39668. More are open across Chroma, litellm, Outlines and
+LlamaIndex.
 
 Same audience, same free content, materially different signal to anyone
 deciding whether to hire you or pay for a workshop.

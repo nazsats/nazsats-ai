@@ -22,6 +22,14 @@ const PROMPTS = {
         tested:
             'Tested on 10 cases built to tempt it into inventing skills. It added nothing false in any of them.',
     },
+    'interview-practice': {
+        title: 'Interview practice prompt',
+        blurb:
+            'Ten questions traced to your CV and the job description, answers for the three hardest, and a plain list of what you cannot answer.',
+        lesson: '/lessons/the-interview-is-being-run-by-ai',
+        tested:
+            'Tested on 10 candidates paired with jobs asking for things they do not have. It claimed nothing false in any of them.',
+    },
 } as const;
 
 type Slug = keyof typeof PROMPTS;
