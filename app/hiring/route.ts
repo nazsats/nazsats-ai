@@ -1,15 +1,18 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
-import { getServiceClient } from "@/lib/supabase/service";
+import { getServiceClient, HIRING_BUCKET } from "@/lib/supabase/service";
 
 /**
  * Serve the hiring panel.
  *
- * The HTML template in content/hiring/ carries no candidate data — it ships a
- * `/*DATA*\/` placeholder that this handler fills at request time from
- * Supabase. So the repo never contains anyone's phone number or address, and
- * the rows are only reachable through the service role, behind the Basic Auth
- * that proxy.ts puts in front of everything under /hiring.
+ * Candidate data lives in the private hiring-cvs bucket as two JSON objects
+ * rather than in a Postgres table: index.json (names, assessment, extracted
+ * fields) and decisions.json (status, rating, notes). Storage needs no DDL,
+ * which keeps the whole thing setup-free, and the bucket is already private.
+ *
+ * The HTML template in content/hiring/ carries a `/*DATA*\/` placeholder that
+ * this handler fills at request time, so the repo — which is public — never
+ * contains anyone's phone number or address.
  */
 
 export const dynamic = "force-dynamic";
@@ -24,23 +27,34 @@ const STATUSES = [
 
 const TIER_ORDER: Record<string, number> = { A: 0, B: 1, C: 2, D: 3, X: 4 };
 
-type Row = {
-  id: string; name: string; location: string | null; education: string | null;
-  tier: string | null; rating: number; status: string; notes: string;
-  verdict: string | null; strengths: unknown; concerns: unknown;
-  email: string | null; phone: string | null; signals: string | null;
-  studying: boolean; flag: string | null;
-  cv_object: string | null; text_object: string | null; text_label: string | null;
+type Person = {
+  id: string; name: string; location?: string; education?: string;
+  tier?: string; rating_seed?: number; verdict?: string;
+  strengths?: string[]; concerns?: string[];
+  email?: string; phone?: string; signals?: string;
+  studying?: boolean; flag?: string;
+  cv_object?: string | null; text_object?: string | null; text_label?: string;
+  status?: string; rating?: number;
 };
+
+type Decision = { status?: string; rating?: number; notes?: string };
 
 function plain(text: string, status: number) {
   return new Response(text, {
     status,
-    headers: {
-      "content-type": "text/plain; charset=utf-8",
-      "cache-control": "no-store",
-    },
+    headers: { "content-type": "text/plain; charset=utf-8", "cache-control": "no-store" },
   });
+}
+
+async function readJson<T>(object: string): Promise<T | null> {
+  const supabase = getServiceClient();
+  const { data, error } = await supabase.storage.from(HIRING_BUCKET).download(object);
+  if (error || !data) return null;
+  try {
+    return JSON.parse(await data.text()) as T;
+  } catch {
+    return null;
+  }
 }
 
 export async function GET() {
@@ -56,76 +70,51 @@ export async function GET() {
     );
   }
 
-  let rows: Row[];
-  try {
-    const supabase = getServiceClient();
-    const { data, error } = await supabase
-      .from("hiring_candidates")
-      .select("*")
-      .eq("role", ROLE);
-    if (error) throw error;
-    rows = (data ?? []) as Row[];
-  } catch (err) {
-    // Supabase errors are plain objects, not Error instances, so String()
-    // on them yields a useless "[object Object]".
-    const detail =
-      err instanceof Error
-        ? err.message
-        : typeof err === "object" && err !== null
-          ? [
-              (err as { message?: string }).message,
-              (err as { hint?: string }).hint,
-              (err as { details?: string }).details,
-            ]
-              .filter(Boolean)
-              .join(" — ") || JSON.stringify(err)
-          : String(err);
-
+  const index = await readJson<{ people: Person[] }>(`${ROLE}/index.json`);
+  if (!index?.people?.length) {
     return plain(
-      "Could not read candidates from Supabase.\n\n" +
-        detail +
-        "\n\nHave you run supabase/hiring.sql, then upload_supabase.py?",
-      500,
-    );
-  }
-
-  if (rows.length === 0) {
-    return plain(
-      "No candidates yet. Run: python hiring/upload_supabase.py marketing-intern",
+      "No candidates found in storage.\n\nRun: python hiring/upload_supabase.py " +
+        ROLE +
+        " --files-only",
       200,
     );
   }
 
-  rows.sort(
+  const decisions = (await readJson<Record<string, Decision>>(`${ROLE}/decisions.json`)) ?? {};
+
+  const people = index.people.map((p) => {
+    const d = decisions[p.id] ?? {};
+    return {
+      id: p.id,
+      name: p.name,
+      location: p.location ?? "",
+      education: p.education ?? "",
+      tier: p.tier ?? "D",
+      rating: typeof d.rating === "number" ? d.rating : (p.rating ?? p.rating_seed ?? 0),
+      status: d.status ?? p.status ?? "New",
+      notes: d.notes ?? "",
+      verdict: p.verdict ?? "",
+      strengths: Array.isArray(p.strengths) ? p.strengths : [],
+      concerns: Array.isArray(p.concerns) ? p.concerns : [],
+      email: p.email ?? "",
+      phone: p.phone ?? "",
+      signals: p.signals ?? "",
+      studying: Boolean(p.studying),
+      flag: p.flag ?? "",
+      // Files stream through /hiring/file, behind the same Basic Auth. The
+      // bucket is private, so they are never fetchable by direct URL.
+      cvPath: p.cv_object ? "/hiring/file/" + p.cv_object : "",
+      textPath: p.text_object ? "/hiring/file/" + p.text_object : "",
+      textLabel: p.text_label ?? "",
+    };
+  });
+
+  people.sort(
     (a, b) =>
-      (TIER_ORDER[a.tier ?? "D"] ?? 9) - (TIER_ORDER[b.tier ?? "D"] ?? 9) ||
+      (TIER_ORDER[a.tier] ?? 9) - (TIER_ORDER[b.tier] ?? 9) ||
       b.rating - a.rating ||
       a.name.localeCompare(b.name),
   );
-
-  const people = rows.map((r) => ({
-    id: r.id,
-    name: r.name,
-    location: r.location ?? "",
-    education: r.education ?? "",
-    tier: r.tier ?? "D",
-    rating: r.rating,
-    status: r.status,
-    notes: r.notes ?? "",
-    verdict: r.verdict ?? "",
-    strengths: Array.isArray(r.strengths) ? r.strengths : [],
-    concerns: Array.isArray(r.concerns) ? r.concerns : [],
-    email: r.email ?? "",
-    phone: r.phone ?? "",
-    signals: r.signals ?? "",
-    studying: Boolean(r.studying),
-    flag: r.flag ?? "",
-    // Files stream through /hiring/file, which is behind the same Basic Auth.
-    // The bucket is private, so these are never fetchable by direct URL.
-    cvPath: r.cv_object ? "/hiring/file/" + r.cv_object : "",
-    textPath: r.text_object ? "/hiring/file/" + r.text_object : "",
-    textLabel: r.text_label ?? "",
-  }));
 
   const payload = JSON.stringify({ role: "Marketing Intern", statuses: STATUSES, people });
 
