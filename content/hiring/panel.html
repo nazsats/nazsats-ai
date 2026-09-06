@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hiring Panel</title>
+<style>
+:root{
+  --bg:#F8F7F5; --card:#FDFCFB; --band:#F1EFEC; --line:#DAD6D1;
+  --ink:#1A1815; --body:#57534E; --mute:#7C7873;
+  --accent:#C2410C; --accent-soft:#FFF3EC;
+  --a:#166534; --b:#1D4ED8; --c:#92400E; --d:#7C7873;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#171614; --card:#201E1B; --band:#282521; --line:#3A3630;
+    --ink:#F5F3F0; --body:#C9C4BD; --mute:#8F8880;
+    --accent:#F97316; --accent-soft:#2A1B12;
+    --a:#4ADE80; --b:#93C5FD; --c:#FCD34D; --d:#9CA3AF;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#171614; --card:#201E1B; --band:#282521; --line:#3A3630;
+  --ink:#F5F3F0; --body:#C9C4BD; --mute:#8F8880;
+  --accent:#F97316; --accent-soft:#2A1B12;
+  --a:#4ADE80; --b:#93C5FD; --c:#FCD34D; --d:#9CA3AF;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.55 ui-sans-serif,system-ui,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 20px 80px}
+header{display:flex;flex-wrap:wrap;gap:14px;align-items:baseline;justify-content:space-between;margin-bottom:6px}
+h1{font-size:23px;margin:0;letter-spacing:-.01em}
+.sub{color:var(--mute);font-size:13px}
+.stats{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 14px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:9px;padding:9px 13px;min-width:92px}
+.stat b{display:block;font-size:20px;line-height:1.2}
+.stat span{font-size:11px;color:var(--mute);text-transform:uppercase;letter-spacing:.06em}
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;align-items:center}
+input[type=search],select{background:var(--card);color:var(--ink);border:1px solid var(--line);
+  border-radius:8px;padding:8px 10px;font:inherit;font-size:13px}
+input[type=search]{flex:1;min-width:200px}
+button{background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:8px;
+  padding:8px 13px;font:inherit;font-size:13px;cursor:pointer}
+button:hover{border-color:var(--accent);color:var(--accent)}
+button.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+button.primary:hover{opacity:.9;color:#fff}
+.card{background:var(--card);border:1px solid var(--line);border-radius:11px;margin-bottom:9px;overflow:hidden}
+.row{display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;padding:13px 15px;cursor:pointer}
+.row:hover{background:var(--band)}
+.tier{width:29px;height:29px;border-radius:7px;display:grid;place-items:center;font-weight:700;font-size:13px;flex:none}
+.tier.A{background:color-mix(in oklab,var(--a) 16%,transparent);color:var(--a)}
+.tier.B{background:color-mix(in oklab,var(--b) 16%,transparent);color:var(--b)}
+.tier.C{background:color-mix(in oklab,var(--c) 16%,transparent);color:var(--c)}
+.tier.D,.tier.X{background:var(--band);color:var(--d)}
+.who{min-width:0}
+.who b{font-size:15px;font-weight:650}
+.who .meta{font-size:12.5px;color:var(--mute);margin-top:2px;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.right{display:flex;gap:10px;align-items:center;flex:none}
+.stars{font-size:15px;letter-spacing:1px;color:var(--accent);white-space:nowrap}
+.stars i{cursor:pointer;font-style:normal;opacity:.28}
+.stars i.on{opacity:1}
+.pill{font-size:11.5px;padding:3px 9px;border-radius:99px;background:var(--band);
+  color:var(--body);border:1px solid var(--line);white-space:nowrap}
+.pill.live{background:var(--accent-soft);color:var(--accent);border-color:var(--accent)}
+.detail{display:none;padding:2px 15px 17px;border-top:1px solid var(--line)}
+.card.open .detail{display:block}
+.verdict{font-size:14.5px;margin:13px 0;padding-left:11px;border-left:3px solid var(--accent)}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media(max-width:720px){.cols{grid-template-columns:1fr}.row{grid-template-columns:auto 1fr}.right{grid-column:1/-1;justify-content:flex-start}}
+.cols h4{margin:0 0 6px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--mute)}
+.cols ul{margin:0;padding-left:17px;font-size:13.5px;color:var(--body)}
+.cols li{margin-bottom:5px}
+.fields{display:flex;flex-wrap:wrap;gap:9px;align-items:center;margin-top:15px;
+  padding-top:14px;border-top:1px dashed var(--line)}
+textarea{width:100%;margin-top:9px;background:var(--bg);color:var(--ink);border:1px solid var(--line);
+  border-radius:8px;padding:9px;font:inherit;font-size:13.5px;min-height:56px;resize:vertical}
+a.cv{color:var(--accent);text-decoration:none;font-size:13px;border:1px solid var(--line);
+  padding:7px 11px;border-radius:8px}
+a.cv:hover{border-color:var(--accent)}
+.contact{font-size:13px;color:var(--body);margin-top:10px}
+.contact a{color:var(--accent)}
+.flag{font-size:12.5px;color:var(--accent);margin-top:8px}
+.empty{text-align:center;padding:50px;color:var(--mute)}
+footer{margin-top:26px;font-size:12px;color:var(--mute);text-align:center;line-height:1.7}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1 id="title">Hiring Panel</h1>
+      <div class="sub"><span id="subtitle"></span> <span id="saveState" style="color:var(--accent)"></span></div>
+    </div>
+    <div style="display:flex;gap:8px">
+      <button onclick="toggleTheme()">Theme</button>
+      <button onclick="exportCsv()">Export CSV</button>
+      <button onclick="resetAll()">Reset</button>
+    </div>
+  </header>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search name, location, education, skills..." oninput="render()">
+    <select id="fTier" onchange="render()"><option value="">All tiers</option></select>
+    <select id="fStatus" onchange="render()"><option value="">All statuses</option></select>
+    <select id="sort" onchange="render()">
+      <option value="tier">Sort: tier, then rating</option>
+      <option value="rating">Sort: rating</option>
+      <option value="name">Sort: name</option>
+      <option value="status">Sort: status</option>
+    </select>
+  </div>
+
+  <div id="list"></div>
+
+  <footer>
+    Ratings, statuses and notes are saved in this browser only.<br>
+    This page holds candidates' phone numbers and addresses &mdash; keep it local.
+  </footer>
+</div>
+
+<script>
+const DATA = /*DATA*/;
+const SAVE_URL = "/hiring/api";
+const KEY = "nazsats-hiring-" + DATA.role.replace(/\s+/g,"-").toLowerCase();
+
+function load(){ try{ return JSON.parse(localStorage.getItem(KEY)||"{}"); }catch(e){ return {}; } }
+function save(s){ try{ localStorage.setItem(KEY, JSON.stringify(s)); }catch(e){} }
+// With a server, its rows are the truth. localStorage is only the fallback
+// for the local file, and the crash-net if a save request fails.
+let state = SAVE_URL ? {} : load();
+DATA.people.forEach(p=>{
+  if(SAVE_URL || !state[p.id]) state[p.id] = {status:p.status, rating:p.rating, notes:p.notes||""};
+});
+if(!SAVE_URL) save(state);
+
+let saveTimer = null, pending = {};
+function persist(id){
+  if(!SAVE_URL){ save(state); return; }
+  pending[id] = true;
+  clearTimeout(saveTimer);
+  // Debounced: notes fire on every keystroke, and one PATCH per character
+  // would be silly.
+  saveTimer = setTimeout(()=>{
+    const ids = Object.keys(pending); pending = {};
+    ids.forEach(i=>{
+      const s = state[i];
+      fetch(SAVE_URL, {
+        method:"POST",
+        headers:{"content-type":"application/json"},
+        body: JSON.stringify({id:i, status:s.status, rating:s.rating, notes:s.notes}),
+      }).then(r=>{ if(!r.ok) throw new Error(r.status); flash(""); })
+        .catch(()=>{ save(state); flash("Not saved — kept locally"); });
+    });
+  }, 400);
+}
+function flash(msg){
+  const el = document.getElementById("saveState");
+  if(el) el.textContent = msg;
+}
+
+function esc(s){ return String(s==null?"":s).replace(/[&<>"']/g,c=>({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c])); }
+
+function init(){
+  document.getElementById("title").textContent = DATA.role + " — hiring panel";
+  document.getElementById("subtitle").textContent = DATA.people.length + " candidates";
+  const t = document.getElementById("fTier");
+  [...new Set(DATA.people.map(p=>p.tier))].sort().forEach(v=>{
+    t.insertAdjacentHTML("beforeend",`<option value="${esc(v)}">Tier ${esc(v)}</option>`);
+  });
+  const s = document.getElementById("fStatus");
+  DATA.statuses.forEach(v=> s.insertAdjacentHTML("beforeend",`<option value="${esc(v)}">${esc(v)}</option>`));
+  render();
+}
+
+function stats(list){
+  const by = {};
+  list.forEach(p=>{ const st = state[p.id].status; by[st]=(by[st]||0)+1; });
+  const cells = [["Showing", list.length]].concat(
+    Object.entries(by).sort((a,b)=>b[1]-a[1]).slice(0,6));
+  document.getElementById("stats").innerHTML = cells.map(([k,v])=>
+    `<div class="stat"><b>${v}</b><span>${esc(k)}</span></div>`).join("");
+}
+
+function render(){
+  const q = document.getElementById("q").value.toLowerCase().trim();
+  const ft = document.getElementById("fTier").value;
+  const fs = document.getElementById("fStatus").value;
+  const sort = document.getElementById("sort").value;
+
+  let list = DATA.people.filter(p=>{
+    if(ft && p.tier!==ft) return false;
+    if(fs && state[p.id].status!==fs) return false;
+    if(!q) return true;
+    return (p.name+" "+p.location+" "+p.education+" "+p.signals+" "+p.verdict).toLowerCase().includes(q);
+  });
+
+  const ord = {A:0,B:1,C:2,D:3,X:4};
+  const cmp = {
+    tier:(a,b)=> (ord[a.tier]-ord[b.tier]) || (state[b.id].rating-state[a.id].rating) || a.name.localeCompare(b.name),
+    rating:(a,b)=> (state[b.id].rating-state[a.id].rating) || a.name.localeCompare(b.name),
+    name:(a,b)=> a.name.localeCompare(b.name),
+    status:(a,b)=> state[a.id].status.localeCompare(state[b.id].status) || a.name.localeCompare(b.name),
+  }[sort];
+  list.sort(cmp);
+  stats(list);
+
+  const el = document.getElementById("list");
+  if(!list.length){ el.innerHTML = '<div class="empty">Nothing matches those filters.</div>'; return; }
+
+  el.innerHTML = list.map(p=>{
+    const s = state[p.id];
+    const live = ["Shortlisted","Interview scheduled","Interviewed","Offered","Hired"].includes(s.status);
+    return `
+<div class="card" id="c-${esc(p.id)}">
+  <div class="row" onclick="toggle(this)">
+    <div class="tier ${esc(p.tier)}">${esc(p.tier)}</div>
+    <div class="who">
+      <b>${esc(p.name)}</b>
+      <div class="meta">${esc(p.location||"location not stated")}${p.education? " · "+esc(p.education):""}</div>
+    </div>
+    <div class="right">
+      <span class="stars" onclick="event.stopPropagation()">${
+        [1,2,3,4,5].map(n=>`<i class="${n<=s.rating?"on":""}" onclick="setRating('${esc(p.id)}',${n})">&#9733;</i>`).join("")
+      }</span>
+      <span class="pill ${live?"live":""}">${esc(s.status)}</span>
+    </div>
+  </div>
+  <div class="detail">
+    ${p.verdict? `<div class="verdict">${esc(p.verdict)}</div>`:""}
+    <div class="cols">
+      <div><h4>Strengths</h4><ul>${p.strengths.map(x=>`<li>${esc(x)}</li>`).join("")||"<li>&mdash;</li>"}</ul></div>
+      <div><h4>Concerns</h4><ul>${p.concerns.map(x=>`<li>${esc(x)}</li>`).join("")||"<li>&mdash;</li>"}</ul></div>
+    </div>
+    ${p.flag? `<div class="flag">${esc(p.flag)}</div>`:""}
+    <div class="contact">
+      ${p.email? `<a href="mailto:${esc(p.email)}">${esc(p.email)}</a>`:""}
+      ${p.phone? " &nbsp;·&nbsp; "+esc(p.phone):""}
+      ${p.studying? " &nbsp;·&nbsp; currently studying":""}
+    </div>
+    <div class="fields">
+      ${p.cvPath? `<a class="cv" href="${encodeURI(p.cvPath)}" target="_blank">Open CV</a>`:""}
+      ${p.textPath? `<a class="cv" href="${encodeURI(p.textPath)}" target="_blank">${esc(p.textLabel)}</a>`:""}
+      <select onchange="setStatus('${esc(p.id)}',this.value)">
+        ${DATA.statuses.map(v=>`<option ${v===s.status?"selected":""}>${esc(v)}</option>`).join("")}
+      </select>
+    </div>
+    <textarea placeholder="Your notes — interview answers, salary expectation, follow-up date..."
+      oninput="setNotes('${esc(p.id)}',this.value)">${esc(s.notes)}</textarea>
+  </div>
+</div>`;}).join("");
+}
+
+function toggle(row){ row.parentElement.classList.toggle("open"); }
+function setRating(id,n){ state[id].rating = (state[id].rating===n?0:n); persist(id); render(); }
+function setStatus(id,v){ state[id].status = v; persist(id); render(); }
+function setNotes(id,v){ state[id].notes = v; persist(id); }
+
+function exportCsv(){
+  const head = ["Name","Location","Education","Tier","Rating","Status","Email","Phone","Notes","Verdict"];
+  const rows = DATA.people.map(p=>{
+    const s = state[p.id];
+    return [p.name,p.location,p.education,p.tier,s.rating,s.status,p.email,p.phone,s.notes,p.verdict];
+  });
+  const csv = [head].concat(rows).map(r=>r.map(c=>{
+    const v = String(c==null?"":c);
+    return /[",\n]/.test(v) ? '"'+v.replace(/"/g,'""')+'"' : v;
+  }).join(",")).join("\n");
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob(["﻿"+csv],{type:"text/csv;charset=utf-8"}));
+  a.download = DATA.role.replace(/\s+/g,"-").toLowerCase()+"-decisions.csv";
+  document.body.appendChild(a); a.click(); a.remove();
+}
+
+function resetAll(){
+  if(!confirm("Clear every rating, status and note back to the suggested defaults?")) return;
+  state = {};
+  DATA.people.forEach(p=>{ state[p.id] = {status:p.status, rating:p.rating, notes:""}; });
+  if(SAVE_URL) DATA.people.forEach(p=> persist(p.id)); else save(state);
+  render();
+}
+
+function toggleTheme(){
+  const cur = document.documentElement.getAttribute("data-theme");
+  const next = cur==="dark" ? "light" : cur==="light" ? "" : "dark";
+  if(next) document.documentElement.setAttribute("data-theme",next);
+  else document.documentElement.removeAttribute("data-theme");
+}
+
+init();
+</script>
+</body>
+</html>
